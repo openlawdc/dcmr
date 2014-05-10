@@ -1,0 +1,137 @@
+                                  DC REGULATIONS
+
+DETERMINATION OF MAXIMUM RESALE PRICE (§ 14-2218)
+
+The Maximum Resale Price (“MRP”) for a subsequent sale of a For Sale
+Inclusionary Unit shall be determined through use of the formula MRP = (P  x
+( F) + V (“Formula”), where:
+
+
+
+(a)	P = the price the Owner paid for the Inclusionary Unit;
+
+
+
+(b)	V = the sum of the value of the Eligible Capital Improvements and Eligible
+Replacement and Repair Costs, as determined by the Department of Housing and
+Community Development pursuant to this section; and
+
+
+
+(c)	F = the sum of the Ten Year Compound Annual Growth Rates of the Area Median
+Income (“AMI”) from the year of the Owner’s purchase of the Inclusionary
+Unit to the year of the sale of the Inclusionary Unit by the Owner.  This sum
+may be expressed:
+
+
+
+(1)	As the result of the formula F = (1 + [((AMI Year m /AMI Year m-10) ^ (1/10)
+-1) +…((AMI Year k /AMI year k-10) ^ (1/10) -1) / n]) ^ n, where m = the year
+in which the Inclusionary Unit was purchased by the Owner, k = the year in which
+the Inclusionary Unit is sold by the Owner, and n = the number of years the
+Inclusionary Unit is owned by the Owner; or
+
+
+
+(2)	As published by the Department of Housing and Community Development.
+
+
+
+
+
+
+
+
+
+For the purposes of determining the value of “V” in the Formula, the
+following improvements made to an Inclusionary Unit after the date of purchase
+may be included at the percentage of cost indicated, to the extent they are
+permanent in nature and add to the market value of the property:
+
+
+
+(a)	Eligible Capital Improvements, which will be valued at 100% of reasonable
+cost, as determined by the Department of Housing and Community Development; and
+
+
+
+(b)	Eligible Replacement and Repair Costs, which shall be valued at 50% of
+reasonable cost, as determined by the Department of Housing and Community
+Development.
+
+
+
+
+
+
+
+Ineligible costs shall not be included in the determining the value of “V”
+in the Formula.
+
+
+
+
+
+
+
+The value of improvements may be determined by the Department of Housing and
+Community Development based upon documentation provided by the Inclusionary Unit
+Owner or, if not provided, upon a standard value established by the Department
+of Housing and Community Development.
+
+
+
+
+
+
+
+The Department of Housing and Community Development may disallow an Eligible
+Capital Improvement or Eligible Replacement and Repair Cost if the Department of
+Housing and Community Development finds that the improvement diminished or did
+not increase the fair market value of the Inclusionary Unit.
+
+
+
+
+
+
+
+The Department of Housing and Community Development may reduce the value of a
+capital improvement if there is evidence of abnormal physical deterioration of,
+or abnormal wear and tear to, the capital improvement.
+
+
+
+
+
+
+
+The Owner shall permit a representative of the Department of Housing and
+Community Development to inspect the Inclusionary Unit upon request to verify
+the existence and value of any capital improvements that are claimed by the
+Owner.
+
+
+
+
+
+
+
+No allowance shall be made in the Maximum Resale Price for the payment of real
+estate brokerage fees associated with the sale of the Inclusionary Unit.
+
+
+
+
+
+
+
+The value of personal property transferred to a purchaser in connection with the
+resale of a For Sale Inclusionary Unit shall not be considered part of the sales
+price of the For Sale Inclusionary Unit for the purposes of determining whether
+the sales price of the For Sale Inclusionary Unit exceeds the MRP.
+
+
+
+	SOURCE: Notice of Final Rulemaking published at 56 DCR 3907 (May 15, 2009); as
+amended by Final Rulemaking published at 56 DCR 9295, 9316 (December 11, 2009).

@@ -1,0 +1,56 @@
+                                  DC REGULATIONS
+
+DATA AND REPORTS (§ 20-2906)
+
+2906.1. The operator shall be required to fill out all pertinent information
+   on the noise data form for field measurements.
+
+   2906.2. For each set of readings, the following information shall be required:
+   
+   
+   
+   (a)	Date, time, location, operator&#8217;s name;
+   
+   
+   
+   (b)	Wind speed and direction;
+   
+   
+   
+   (c)	All instrumentation models and identifying numbers;
+   
+   
+   
+   (d)	A sketch of the site, including measurements points, noise sources,
+   buildings, etc.;
+   
+   
+   
+   (e)	Measurement of noise peaks and steady levels to the nearest decibel, and
+   durations;
+   
+   
+   
+   (f)	A description of special techniques employed;
+   
+   
+   
+   (g)	A description of the noise, noting especially if there is an apparent pure
+   tone or impulsive content;
+   
+   
+   
+   (h)	The meter damping used (fast or slow); and
+   
+   
+   
+   (i)	Measurement of ambient and description of ambient if obvious (highway,
+   dogs, etc.).
+
+   2906.3. If the ambient level is four to ten (4-10) dB(A) below the level found
+   with the source operating, corrections shall be made to obtain the source
+   noise level. The corrections shall be shown.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 26 DCR 1499, 1504 (September 28, 1979).

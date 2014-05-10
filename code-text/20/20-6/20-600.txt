@@ -1,0 +1,82 @@
+                                  DC REGULATIONS
+
+FUEL-BURNING PARTICULATE EMISSION (§ 20-600)
+
+600.1. The emission of particulate matter from any fuel burning equipment
+   shall not be in excess of the rate determined by the following formula:
+   
+   
+   
+   E = 0.17455 H-0.23522
+   
+   Where:
+   
+   E = Allowable emissions in pounds per million British Thermal Units (BTUs) of
+   heat input, and
+   
+   H = Heat input to the fuel-burning equipment in millions of BTUs per hour;
+   
+   Provided, that:
+   
+   
+   
+   (a)	Nothing in § 600.1 shall be construed to allow the emission of
+   particulate matter from any fuel-burning equipment in excess of the rate of
+   thirteen hundredths pound (0.13 lb) per million BTU of heat input; and
+   
+   
+   
+   (b)	Nothing herein shall be construed to require the emission of particulate
+   matter from any fuel-burning equipment to be lower than the rate of two
+   hundredths pound (0.02 lb) per million BTU of heat input.
+
+   600.2. Compliance with or violation of § 600.1 shall be determined by
+   performance tests conducted when the fuel-burning equipment (from now on
+   referred to as &#8220;equipment&#8221;) is operating under conditions
+   encountered in normal operation that create the worst emissions in relation to
+   allowable emissions. Tests shall be conducted at the maximum continuous
+   operating capacity of the equipment unless the Mayor has reason to believe
+   that the worst emissions in relation to allowable emissions occur under other
+   conditions.
+
+   600.3. For equipment equipped for the blowing of soot, the frequency of soot
+   blowing during performance tests shall be proportioned to the frequency of
+   soot blowing during the conditions at which the equipment is tested.
+
+   600.4. Equipment shall not be specially tuned or optimized immediately before
+   performance testing unless the owner or operator of the equipment represents
+   in writing to the Mayor that the equipment will be maintained in an optimized
+   condition subsequent to performance testing.
+
+   600.5. The conditions for testing may be modified by the Mayor to suit
+   specified sampling conditions or needs based on good practice, judgment and
+   experience; Provided, that no such modification shall have the effect of
+   increasing the stringency of the standard.
+
+   600.6. When determining compliance with or violation of § 600.1 by
+   performance tests, the test results shall be calculated using the method
+   described in § 60.45(f)(5) of Title 40 CFR, revised as of July 1, 1982.
+
+   600.7. The blowing of soot from any fuel-burning equipment fired by solid
+   fuels shall be prohibited except during the hours of 10 a.m to 4 p.m.;
+   Provided, that the Mayor may allow the blowing of soot during other periods
+   upon a finding that the blowing of soot is desirable for the efficient
+   operation of the fuel-burning equipment or for the safety of personnel or
+   equipment.
+   
+   
+   
+   	AUTHORITY: Unless otherwise noted, the authority for this chapter is § 412
+   of the District of Columbia Self-Government and Governmental Reorganization
+   Act, as amended, 87 Stat. 790, Pub. L. No. 93-198, D.C. Code § 1-227(a); and
+   § 3 of the District of Columbia Air Pollution Control Act of 1984, D.C. Law
+   5-165, D.C. Code § 6-906 (1995 Repl. Vol.), Mayor&#8217;s Order 93-12 dated
+   February 16, 1993.
+   
+   
+   
+   	SOURCE: Section 3 of the District of Columbia Air Pollution Control Act of
+   1984, D.C. Law 5-165, § 600, 32 DCR 565, 607 (February 1, 1985); as amended
+   by Final Rulemaking published at 51 DCR 3877 (April 16, 2004) [incorporating
+   by reference the text of Proposed Rulemaking published at 51 DCR 1437
+   (February 6, 2004)].

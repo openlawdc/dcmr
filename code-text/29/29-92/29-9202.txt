@@ -1,0 +1,64 @@
+                                  DC REGULATIONS
+
+OTHER PROVIDER PREVENTABLE CONDITIONS (§ 29-9202)
+
+9202.1. Other Provider Preventable Conditions (OPPCs) shall include erroneous
+   medical procedures as identified by Medicare under three (3) national coverage
+   determinations (NCDs) that deny coverage when a practitioner performs the
+   wrong procedure in any health care setting including outpatient or inpatient
+   hospitals, ambulatory surgical centers, and practitioner settings.
+
+   9202.2. DHCF shall deny payment for claims associated with the following
+   OPPCs:
+   
+   (a)	Wrong surgical procedure;
+   
+   (b)	Correct procedure performed on the wrong patient; and
+   
+   (c)	Correct procedure performed on the wrong body part.
+   
+   
+   
+    9202.3	The following provider types shall be denied compensation for claims
+   associated with OPPCs:
+   
+   
+   
+   
+   
+   
+   
+   Hospitals paid on a diagnosis-related group (DRG) basis;
+   
+   
+   
+   
+   
+   Hospitals paid on a  non-DRG basis; and
+   
+   
+   
+   
+   
+   Other providers, regardless of whether they are paid on a fee-for-service or
+   capitated basis.
+
+   9202.4. For all claims submitted on or after July 1, 2012, providers shall
+   report OPPCs by using modifiers and E-codes on paper and electronic claim
+   forms that refer to the prohibited procedures described in § 9202.2.
+   
+   
+   
+   9202.5 	The OPPC modifier and E-code requirement shall be implemented pursuant
+   to additional guidance issued by DHCF.
+
+   9202.6. DHCF or its agent may request additional information, including
+   medical records for admissions and/or outpatient procedures, in order to
+   verify the occurrence or absence of an OPPC.  Providers must collect and
+   maintain information regarding the OPPC associated with each claim submitted
+   on or after July 1, 2012, including reference to the associated prohibited
+   procedure described in § 9202.2.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 59 DCR 14960 (December 21, 2012).

@@ -1,0 +1,32 @@
+                                  DC REGULATIONS
+
+BRAKING SYSTEM WARNING DEVICES (§ 18-723)
+
+723.1. Each bus, truck or truck tractor using compressed air for the operation
+   of its own brakes or the brakes on any towed vehicle shall be provided with a
+   warning signal, other than a pressure gauge, readily audible or visible to the
+   driver, which will operate at any time the air reservoir pressure of the
+   vehicle is below fifty percent (50%) of the air compressor governor cut-out
+   pressure. In addition, each such vehicle shall be equipped with a pressure
+   gauge visible to the driver, which indicates, in pounds per square inch
+   (lbs/in2), the pressure available for braking.
+
+   723.2. Each truck tractor and truck used for towing a vehicle equipped with
+   vacuum operated brakes and every truck with three or more axles using vacuum
+   in the operation of its brakes, except those in driveway or towaway
+   operations, shall be equipped with a warning signal, other than a gauge
+   indicating vacuum, readily audible or visible to the driver, which will
+   operate at any time the vacuum in the vehicle’s supply reservoir or reserve
+   capacity is less than eight inches (8 in.) of mercury.
+
+   723.3. When a vehicle required to be equipped with a warning device is
+   equipped with both air and vacuum power for the operation of its own brakes or
+   the brakes on a towed vehicle, the warning devices may be, but are not
+   required to be, combined into a single device which will serve both purposes.
+   A gauge or gauges indicating pressure or vacuum shall not be deemed to be an
+   adequate means of satisfying this requirement.
+   
+   
+   
+   	SOURCE: Regulation No. 72-13 effective June 30, 1972, 32 DCRR § 6.301(j),
+   Special Edition.

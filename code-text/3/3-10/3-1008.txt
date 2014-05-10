@@ -1,0 +1,115 @@
+                                  DC REGULATIONS
+
+CONDUCT OF THE RANDOM SAMPLE AND VERIFICATION OF SIGNATURES &#8211; ACCEPTANCE
+OR REJECTION OF THE PETITION (§ 3-1008)
+
+1008.1. The Board shall verify the signatures appearing on an initiative or
+   referendum petition by performing a bona fide random, statistical sampling
+   under the guidance of the Data Management Division of the Office of Planning.
+
+   1008.2. The Board shall supply the Data Management Division with the actual
+   number of apparent signatures of verified registrants submitted District-wide
+   and for each ward, established in § 1007.2 as the random sample universe.
+
+   1008.3. After the Board has supplied the Data Management Division with the
+   actual number of apparent signatures of verified registrants received for each
+   ward, the Data Management Division shall draw and identify for the Board a
+   sample of one hundred (100) signatures from each ward to be verified, except
+   where:
+   
+   
+   
+   (a)	The Data Management Division determines that sampling the signatures of a
+   given ward would not be necessary for the Board to make a determination to
+   accept or reject the petition; or
+   
+   
+   
+   (b)	The Data Management Division determines that a sample larger than one
+   hundred (100) must be drawn in order for the Board to make a determination to
+   accept or reject the petition.
+
+   1008.4. In making the determination as to the validity of a signature, the
+   Board shall disqualify a signature if:
+   
+   
+   
+   (a)	The signature appearing on the petition does not match the signature on
+   file in the Board’s records;
+   
+   
+   
+   (b)	The signer was not a registered voter at the time the petition was signed,
+   or was designated as &#8220;inactive&#8221; on the voter roll at the time the
+   petition was signed; or
+   
+   
+   
+   (c)	The signer was not registered to vote at the address listed on the
+   petition at the time the petition was signed.
+
+   1008.5. The Board shall report the number of valid signatures in each ward
+   sample to the Data Management Division.  Using these numbers as input, the
+   Data Management Division shall employ formulas from the fields of probability
+   and statistics to determine the following:
+   
+   
+   
+   (a)	Whether a ward should be accepted with ninety-five percent (95%)
+   confidence as having at least the required number of valid signatures;
+   
+   
+   
+   (b)	Whether a ward should be rejected with ninety-five percent (95%)
+   confidence as having less than the required number of valid signatures; or
+   
+   
+   
+   (c)	Whether a larger sample should be drawn since no decision could be made
+   with ninety-five percent (95%) confidence from the sample used.
+
+   1008.6. The Board shall accept a ward if the total number of valid signatures
+   equals or exceeds the required number with ninety-five percent (95%)
+   confidence.
+
+   1008.7. The Board shall reject a ward if the total number of valid signatures
+   from that ward is less than the required number with ninety-five percent (95%)
+   confidence.
+
+   1008.8. If it is determined that at least five (5) of the eight (8) election
+   wards have the required number of valid signatures, then the figures from all
+   wards which were sampled shall be combined by use of stratified random
+   sampling formulas to test whether the entire number of valid signatures
+   appearing on the petition is equal in number to five percent (5%) of the
+   registered electors in the District of Columbia.
+
+   1008.9. The Data Management Division shall determine the following:
+   
+   
+   
+   (a)	Whether the entire District should be accepted with ninety-five percent
+   (95%) confidence as having at least the required number of valid signatures;
+   
+   
+   
+   (b)	Whether the entire District should be rejected with ninety-five percent
+   (95%) confidence as having less than the required number of valid signatures;
+   or
+   
+   
+   
+   (c)	Whether a larger sample should be drawn since no decision could be made
+   with ninety-five percent (95%) confidence based upon the sample used.
+
+   1008.10. The Board shall accept the entire District if the total number of
+   valid signatures equals or exceeds the required number with ninety-five
+   percent (95%) confidence.
+
+   1008.11. The Board shall reject the entire District if the total number of
+   valid signatures is less than the required number with ninety-five percent
+   (95%) confidence.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 43 D.C. Reg. 103, 113 (January 12,
+   1996).

@@ -1,0 +1,72 @@
+                                  DC REGULATIONS
+
+PROHIBITIONS (§ 31-409)
+
+409.1. No PSP shall participate in a transaction involving taxicab service in
+   the District where the fare, rates, charges, or payment does not comply with
+   the applicable provisions of this title, including this chapter, and §§ 603
+   and 801.
+
+   409.2. No PSP shall allow its associated operators to limit service or refuse
+   to provide service based on a person’s choice of payment method.
+
+   409.3. No PSP shall allow its associated operators to access a passenger’s
+   payment card information after the payment has been processed.
+
+   409.4. No PSP shall allow its MTS to be used by an operator or vehicle not on
+   its inventory at the time the trip is booked by dispatch or by street hail.
+
+   409.5. No PSP shall allow its MTS to be used by any person for a taxicab trip
+   unless the taxicab passenger surcharge is collected from the passenger and
+   paid to the District for such trip.
+
+   409.6. No person shall operate as a PSP, process an in-vehicle payment for a
+   taxicab trip, or sell, lease, lend, or otherwise provide an MTS unit to any
+   person in the District, unless such person is a PSP with current approval of
+   its MTS under this chapter.
+
+   409.7. No PSP may alter or attempt to alter its legal obligations under this
+   title or to impose an obligation on any person that is contrary to public
+   policy or that threatens passenger or operator safety, or consumer protection.
+
+   409.8. A PSP shall not associate with a taxicab operator who provides service
+   with a vehicle that displays on its exterior the name, logo, insignia, or
+   other unique branding of a taxicab fleet or association, if such fleet or
+   association does not agree to the operator’s association with the PSP, and:
+   
+   
+   
+   		(a)		For thirty (30) days following the effective date of this rulemaking,
+   such fleet or association is providing credit card processing services to its
+   associated operators; or
+   
+   
+   
+   		(b)		After thirty (30) days following the effective date of this rulemaking,
+   such fleet or association has filed an application for approval as a PSP under
+   this chapter or has been approved as a PSP under this chapter.
+
+   409.9. A PSP shall not allow its associated taxicab companies, independent
+   owners, or taxicab operators to associate with a dispatch service that is not
+   in full compliance with this title or other applicable law.
+
+   409.10. No PSP or DDS shall participate in processing a payment or otherwise
+   providing service to a passenger who chooses to pay by digital payment, except
+   in the manner required by all applicable provisions of this chapter.
+
+   409.11. No PSP or DDS shall fail or refuse to participate in processing a
+   digital payment in the manner required by all applicable provisions of this
+   chapter, including, without limitation, a failure to maintain integration as
+   required by § 408.16.
+
+   409.12. No PSP or DDS shall associate with or integrate with a PSP or DDS that
+   does not have the operating authority required by a provision of this title,
+   or that is operated in violation of this title.
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 6993 (May 17, 2013); as amended
+   by Final Rulemaking published at 60 DCR 10975 (July 26, 2013); as amended by
+   Final Rulemaking published at 60 DCR 15560 (November 8, 2013).

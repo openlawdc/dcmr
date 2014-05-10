@@ -1,0 +1,767 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 21-1599)
+
+1599.1 	When used in this chapter, the following words and phrases shall have
+the meanings ascribed:
+
+
+
+Act &#8211; The District of Columbia Wastewater System Regulation Act of 1985
+(D.C. Law 6-95; D.C. Official Code §§ 8-105.01, et seq. (2008 Repl. &#038;
+2011 Supp)), as amended.
+
+
+
+Analytical Testing &#8211; all methods of sample collection, preservation, and
+analysis as prescribed in 40 C.F.R. § 136, &#8220;Guidelines Establishing Tests
+Procedures for the Analysis of Pollutants under the Clean Water Act.&#8221;
+
+
+
+Best Management Practices (BMPs) &#8211; schedules of activities, prohibitions
+of practices, maintenance procedures, and other management practices to
+implement the prohibitions listed in 40 C.F.R. § 403.5(a)(1) and (b), and local
+pretreatment requirements.  BMPs also include treatment requirements, operating
+procedures, and practices to control plant site runoff, spillage or leaks,
+sludge or waste disposal, or drainage from raw materials storage.
+
+
+
+Biochemical Oxygen Demand (BOD) &#8211; oxygen utilized in the biochemical
+oxidation of organic matter in five (5) days at twenty degrees Centigrade
+(20oC), expressed in milligrams per liter (mg/l) as determined by the methods of
+Analytical Testing.
+
+
+
+Biosolids &#8211; wastewater sludge and residue that has been processed through
+a wastewater treatment system to meet the pathogen reduction and vector
+attraction reduction requirements of 40 C.F.R. § 503.15 for land application as
+fertilizer and soil amendment.
+
+
+
+Blue Plains &#8211; The District of Columbia&#8217;s Wastewater Treatment Plant
+at Blue Plains, a POTW.
+
+
+
+Categorical Pretreatment Standards or Categorical Standards or National
+Categorical Pretreatment Standards &#8211; any regulation promulgated by the
+Environmental Protection Agency (EPA) in accordance with Sections 307(b) and (c)
+of the Clean Water Act which specifies quantities or concentrations of
+pollutants or pollutant properties which may be discharged to a POTW by existing
+or new Industrial Users in specific industrial categories provided in 40 C.F.R.
+Chapter I, Subchapter N, Parts 405-471.
+
+
+
+Categorical Wastewater – wastewater subject to National Categorical
+Pretreatment Standards.
+
+
+
+Chemical Oxygen Demand (COD) &#8211; the oxygen equivalent of that portion of
+the organic matter that is susceptible to oxidation by a strong chemical
+oxidant. The values shall be as determined by the methods of Analytical Testing.
+
+
+
+Clean Water Act &#8211; the Federal Water Pollution Control Act approved October
+18, 1972 (86 Stat. 816; 33 U.S.C. §§ 1251, et seq).
+
+
+
+C.F.R. – the Code of Federal Regulations.
+
+
+
+Combined Sewer &#8211; a sewer which is intended by the District to serve as
+both a storm sewer and sanitary sewer.
+
+
+
+Compatible Pollutants &#8211; biochemical oxygen demand, total suspended solids,
+pH, and fecal coliform bacteria, plus additional pollutants identified by WASA
+if the wastewater treatment plant in fact removes such additional pollutants to
+a substantial degree. The term &#8220;substantial degree&#8221; is not subject
+to precise definition, but generally contemplates removals in the order of
+eighty percent (80%) or greater. Minor incidentals removals in the order of ten
+to thirty percent (10% to 30%) are not considered substantial. Examples of the
+additional pollutants which may be considered compatible include the following:
+
+
+
+(a) 	Chemical oxygen demand;
+
+
+
+(b) 	Total organic carbon;
+
+
+
+(c) 	Phosphorous and phosphorous compounds; and
+
+
+
+(d) 	Nitrogen and nitrogen compounds.
+
+
+
+Contributing Jurisdiction – a jurisdiction whose Industrial Users are located
+outside the jurisdictional boundary of a User Jurisdiction, but the discharges
+from the Industrial Users discharge into the User Jurisdiction sewer system and
+ultimately into WASA’s wastewater system.
+
+
+
+Cooling Water &#8211; the wastewaters discharged from any system of heat
+transfer, such as condensation, air conditioning, cooling or refrigeration to
+which the only pollutant added is heat.
+
+
+
+Daily Maximum – the arithmetic average of all effluent samples for a pollutant
+collected during a calendar day.
+
+
+
+Daily Maximum Limit – the maximum allowable discharge limit of a pollutant
+during a calendar day.  Where Daily Maximum Limits are expressed in units of
+mass, the daily discharge is the total mass discharged over the course of the
+day.  Where Daily Maximum Limits are expressed in terms of a concentration, the
+daily discharge is the arithmetic average measurement of the pollutant
+concentration derived from all measurements taken that day.
+
+
+
+DCMR – the District of Columbia Municipal Regulations.
+
+
+
+Discharge &#8211; any solid, liquid, or gas introduced into the wastewater
+system, including indirect discharges.
+
+
+
+District &#8211; the District of Columbia, a municipal corporation.
+
+
+
+District Pretreatment Standards or Local Limits &#8211; those limits found in 21
+DCMR § 1501 and D.C. Official Code § 8-105.06 (2008 Repl. &#038; 2011 Supp.)).
+
+
+
+Domestic Wastewater – Any wastewater produced by ordinary living uses,
+including, but not limited to, liquid waste containing animal or vegetable
+matter in suspension or solution, or the water-carried waste from the discharge
+of water closets, laundry tubs, washing machines, sinks, dishwashers, or other
+sources of water-carried wastes of human origin. This definition includes
+wastewater from commercial, industrial or residential sources which is of a
+similar quality, constituents and strength, to that produced by these same
+ordinary living uses.
+
+
+
+EPA &#8211; the U.S. Environmental Protection Agency.
+
+
+
+Garbage &#8211; solid wastes from domestic and commercial preparation, cooking,
+or dispensing of food, or from the handling, storage, or sale of produce. For
+purposes of this chapter, &#8220;garbage&#8221; is not the same as
+&#8220;shredded garbage&#8221;.
+
+
+
+Grease Abatement System &#8211; Any grease interceptor, grease trap, grease
+recovery device, or any treatment system designed to remove Fats, Oils and
+Grease (FOG) from food service establishments, including but not limited to,
+cafeterias, hotel kitchens, church kitchens, school kitchens, hospital
+cafeterias, bars, or any other commercial food service establishment.
+
+
+
+Hazardous Waste &#8211; waste defined as hazardous waste in the District of
+Columbia Hazardous Waste Management Act of 1977, effective March 16, 1978 (D.C.
+Law 2-64; D.C. Official Code § 8-1302(2) (2008 Repl. &#038; 2011 Supp.)), as
+amended.
+
+
+
+Health Care Facility &#8211; a facility defined as a health care facility in the
+Unused Pharmaceutical Safe Disposal Act of 2009, effective March 5, 2010 (D.C.
+Law 18-112; D.C. Official Code § 48-851.01 (2009 Repl. &#038; 2011 Supp.)), as
+amended.
+
+
+
+High Strength Wastewater &#8211; wastewater containing concentrations of organic
+matter, solids, or nutrients that are higher than domestic strength wastewater
+as established by WASA.
+
+
+
+Incompatible Pollutant &#8211; any pollutant which is not a &#8220;compatible
+pollutant&#8221; as defined in this section.
+
+
+
+Indirect Discharge &#8211; the introduction of pollutants into a POTW or the
+District’s wastewater system from any non-domestic source regulated under
+section 307(b), (c), or (d) of the Clean Water Act and the Act.
+
+
+
+Industrial User or IU &#8211; a source of Indirect Discharge from a non-domestic
+User who discharges, causes, or permits the discharge of wastewater into the
+District&#8217;s wastewater system.
+
+
+
+Infectious Waste &#8211; any waste defined as infectious waste in the Solid
+Waste Facility Permit Act of 1995, effective February 27, 1996 (D.C. Law 11-94;
+D.C. Official Code § 8-1051(21) (2008 Repl. &#038; 2011 Supp.)), as amended.
+
+
+
+Institutional pharmacy – a pharmacy defined as an institutional pharmacy in
+the Unused Pharmaceutical Safe Disposal Act of 2009, effective March 5, 2010
+(D.C. Law 18-112; D.C. Official Code § 48-851.01 (2009 Repl. &#038; 2011
+Supp.)), as amended.
+
+Interference &#8211; a discharge which, alone or in conjunction with a discharge
+or discharges from other sources, both:
+
+
+
+(a)	Inhibits or disrupts the District’s wastewater system, its treatment
+processes or operations, or its sludge processes, use or disposal; and
+
+
+
+(b)	Therefore is a cause of a violation of any requirement of WASA’s National
+Pollutant Discharge Elimination System permit (including an increase in the
+magnitude or duration of a violation) or of the prevention of sewage sludge use
+or disposal in compliance with the following statutory provisions and
+regulations or permits issued thereunder (or more stringent State or local
+regulations):
+
+
+
+(1) 	Section 405 of the Clean Water Act;
+
+
+
+(2) 	Solid Waste Disposal Act (SWDA) including Title II, more commonly referred
+to as the Resource Conservation and Recovery Act (RCRA) and including State or
+District regulations contained in any State or District sludge management plan
+prepared pursuant to subtitle D of the SWDA;
+
+
+
+(3) 	Clean Air Act;
+
+
+
+(4) 	Toxic Substances Control Act; and
+
+
+
+(5) 	Marine Protection, Research, and Sanctuaries Act.
+
+
+
+International Standards Organization or ISO &#8211; An international
+non-governmental organization that develops international standards, such as ISO
+11143: Dentistry &#8211; Amalgam Separators, available through the ISO website
+at http://www.iso.org.
+
+
+
+Mayor &#8211; the Mayor of the District of Columbia or any representative or
+agency designated by the Mayor to carry out the provisions of the Act and these
+regulations.
+
+
+
+Medical Waste &#8211; any waste defined as medical waste in section 2(3A) of the
+Illegal Dumping Enforcement Act of 1994, effective May 20, 1994 (D.C. Law
+10-117; D.C. Official Code § 8-901(3A) (2008 Repl.)), as amended.
+
+
+
+National Pretreatment Standards, Pretreatment Standards, or Standards &#8211;
+any regulation containing pollutant discharge limits promulgated by the EPA in
+accordance with section 307(b) and (c) of the Clean Water Act, which applies to
+Industrial Users. National Pretreatment Standards, Pretreatment Standards, or
+Standards includes prohibitive discharge limits established pursuant to 40
+C.F.R. § 403.5, D.C. Official Code § 8-105.06 (2008 Repl. &#038; 2011 Supp.),
+and this chapter.
+
+
+
+Natural Outlet &#8211; any outlet into a watercourse, pond, ditch, river, lake,
+or other body of surface water.
+
+
+
+New Source -
+
+
+
+(a) 	Any building, structure, facility or installation from which there is or
+may be a discharge of pollutants, the construction of which commenced after the
+publication of proposed pretreatment standards under section 307(c) of the Clean
+Water Act, which will be applicable to such source if such standards are
+thereafter promulgated in accordance with that section,  provided that:
+
+
+
+(1)	The building, structure, facility or installation is constructed at a site
+at which no other source is located;
+
+
+
+(2)	The building, structure, facility, or installation totally replaces the
+process or production equipment that causes the discharge of pollutants at an
+existing source; or
+
+
+
+(3)	The production or wastewater generating processes of the building, facility
+or installation are substantially independent of an existing source at the same
+site. In determining whether these are substantially independent, factors such
+as the extent to which the new facility is integrated with the existing plant,
+and the extent to which the new facility is engaged in the same general type of
+activity as the existing source should be considered;
+
+
+
+(b)	Construction on a site at which an existing source is located results in a
+modification rather than a new source if the construction does not create a new
+building, structure, facility or installation meeting the criteria of paragraphs
+(a)(2) and (a)(3) above, but otherwise alters, replaces, or adds to existing
+process or production equipment; and
+
+
+
+(c)	Construction of a new source as defined above has commenced if the owner or
+operator has:
+
+
+
+(1)	Begun or caused to begin as part of a continuous onsite construction
+program:
+
+
+
+(A) 	Any placement, assembly, or installation of facilities or equipment; or
+
+
+
+(B)	Significant site preparation work including clearing, excavation, or removal
+of existing buildings, structures, or facilities which is necessary for the
+placement, assembly, or installation of new source facilities or equipment; or
+
+
+
+(2)	Entered into a binding contractual obligation for the purchase of facilities
+or equipment which are intended to be used in its operation within a reasonable
+time. Options to purchase or contracts which can be terminated or modified
+without substantial loss, and contracts for feasibility, engineering, and design
+studies do not constitute a contractual obligation under this paragraph.
+
+
+
+Non-Contact Cooling Water – water used for cooling which does not come into
+direct contact with any raw material, product, byproduct, or waste.
+
+
+
+Non-Significant Categorical Industrial User – an Industrial User subject to
+Categorical Pretreatment Standards under 40 C.F.R. § 403.6 and 40 C.F.R.
+Chapter I, Subchapter N that WASA determines is a Non-Significant Categorical
+Industrial User rather than a Significant Categorical Industrial User on a
+finding that the Industrial User does not discharge more than one-hundred
+gallons per day (100 gal./day) of total categorical wastewater (excluding
+sanitary, non-contact cooling and boiler blowdown wastewater, unless
+specifically included in the pretreatment standard) and the following conditions
+are met:
+
+
+
+(a)	The Industrial User, prior to WASA’s finding has consistently complied
+with all applicable Categorical Pretreatment Standards and requirements;
+
+
+
+(b)	The Industrial User annually submits the certification statement required in
+§ 1508.9 together with any additional information necessary to support the
+certification statement; and
+
+
+
+(c)	The Industrial User never discharges any untreated concentrated wastewater.
+
+
+
+Non-Significant Non-Categorical Industrial User – an Industrial User that is
+not subject to Categorical Pretreatment Standards, discharges less than
+twenty-five gallons per day (25,000 gal./day) of process wastewater, and
+specifically designated by WASA due to type of business, characteristics of the
+discharge, or presence of pretreatment facilities.
+
+
+
+Non-wastewater flows – discharges that do not result from an industrial
+process, which include storm waters (including snow melt), surface waters,
+ground waters, subsurface drainage (including foundation, footing, and under
+drainage), cooling waters, roof drainage, irrigation waters, diverted stream
+flows, and spring waters.
+
+
+
+North American Industry Classification System (NAICS) – the classification and
+classification numbers of Users based on the 2007 North American Industry
+Classification Manual by the Executive Office of the President, Office of
+Management and Budget, as it may be revised, updated, replaced, or amended.
+
+
+
+NPDES Permit – means the National Pollution Discharge Elimination System
+permit issued by the EPA Region III to WASA for the operation of the Blue Plains
+Wastewater Treatment Facility in effect on September 30, 2010, and as it may be
+amended or modified in the future, and any successor permits issued by the EPA
+Region III to either the District or to WASA.
+
+
+
+Nuisance &#8211; any condition, state or combination of circumstances which
+injures, or threatens or endangers health, safety, or welfare.
+
+
+
+Objectionable Color &#8211; a color inappropriate for the normal characteristics
+of the receiving water.
+
+
+
+Pass Through &#8211; any discharge which exits the District’s Wastewater
+system into waters of the United States in quantities or concentrations which,
+alone or in conjunction with a discharge or discharges from other sources,
+causes or may cause, or contributes to, a violation of any requirement of the
+NPDES permit including an increase in the magnitude or duration of a violation.
+
+
+
+Person &#8211; any natural person, partnership, co-partnership, firm, company,
+corporation, association, joint stock company, trust, estate, governmental
+entity or any other legal entity, or their legal representatives, agents, or
+assigns.
+
+
+
+pH &#8211; the logarithm to the base ten (10) of the reciprocal of the
+concentration of hydrogen ion in grams per liter (g/l) of solution as determined
+by the methods of Analytical Testing.
+
+
+
+Pharmaceutical Product &#8211; a drug or biologic regulated by the federal Food
+and Drug Administration.
+
+
+
+Pharmaceutical Waste – a pharmaceutical product, which is no longer suitable
+for its intended purpose or is otherwise being discarded.
+
+
+
+Phosphorus or Total Phosphorus (TP) – phosphorus content in wastewater as
+determined by the methods of Analytical Testing.
+
+
+
+Pollutant &#8211; any substance which induces or may induce an alteration of the
+chemical, physical, biological, or radiological integrity of water, which has or
+may have a detrimental effect on a subsequent use of that water, or which
+interferes or may interfere with the District’s wastewater system.
+
+
+
+Pretreatment- the reduction of the amount of pollutants, the elimination of
+pollutants, or the alteration of the nature of pollutant properties in
+wastewater prior to or in lieu of discharging or otherwise introducing such
+pollutants to the District’s wastewater system.  This reduction or alteration
+may be obtained by physical, chemical, or biological processes, process changes,
+or by other means, except as prohibited by 40 C.F.R. § 403.6(d) and section
+7(h) of the Act. Appropriate pretreatment technology includes control equipment,
+such as equalization tanks or facilities, for protection against surges or slug
+loadings that might interfere with or otherwise be incompatible with the
+District’s wastewater system. However, if wastewater from a regulated process
+is mixed in an equalization facility with unregulated wastewater or with
+wastewater from another regulated process, the effluent from the equalization
+facility must meet an adjusted pretreatment limit calculated in accordance with
+40 C.F.R. § 403.6(e).
+
+
+
+Pretreatment Requirements &#8211; any District pretreatment standard or federal,
+state, or local substantive or procedural requirement related to pretreatment,
+other than a National Pretreatment Standard, imposed on an Industrial User.
+
+
+
+Process Wastewater – wastewater discharged from an industrial process or
+contaminated non-wastewater flows that contain pollutant levels that exceed the
+District’s Pretreatment Standards (prior to treatment), excluding sanitary,
+noncontact cooling and boiler blowdown wastewater.
+
+Publicly Owned Treatment Works or POTW &#8211; a treatment works as defined by
+section 212 of the Clean Water Act (33 U.S.C. § 1292), which is owned by a
+State or municipality, such as the District of Columbia.  This definition
+includes any devices and systems used in the storage, treatment, recycling, and
+reclamation of municipal sewage or industrial wastes of a liquid nature. It also
+includes sewers, pipes, and other conveyance, which convey wastewater to a
+treatment plant.
+
+
+
+Residue &#8211; the accumulated solids, grease, liquids, and scum separated from
+wastewater during the wastewater treatment process. Also referred to as
+&#8220;sludge and residue&#8221;.
+
+
+
+Responsible Corporate Officer &#8211; shall be:
+
+
+
+
+
+
+
+A president, secretary, treasurer, or vice-president of the corporation in
+charge of a principal business function, or any other person who performs
+similar policy- or decision-making functions for the corporation; or
+
+
+
+
+
+
+
+The manager of one (1) or more manufacturing, production, or operating
+facilities, provided, the manager is authorized to make management decisions
+which govern the operation of the regulated facility including having the
+explicit or implicit duty of making major capital investment recommendations,
+and initiate and direct other comprehensive measures to assure long-term
+environmental compliance with environmental laws and regulations; can ensure
+that the necessary systems are established or actions taken to gather complete
+and accurate information for control mechanism requirements; and where authority
+to sign documents has been assigned or delegated to the manager in accordance
+with corporate procedures.
+
+
+
+Sanitary Sewer Service Charge &#8211; the charge levied against Users to recover
+the costs of rendering wastewater treatment system services.
+
+
+
+Septic Tank &#8211; a watertight receptacle which receives the discharge from a
+drainage system or a part of the drainage system, and is designed and
+constructed to separate solids from the liquid, decompose organic matter through
+a period of detention, and allow the liquids to discharge into the soil outside
+of the tank.
+
+
+
+Sewer &#8211; any pipe or conduit for conveying wastewater or drainage water.
+
+
+
+Shredded Garbage &#8211; garbage that has been shredded to such a degree that
+all particles will be carried freely under the flow conditions normally
+prevailing in public sewers, with no particle greater than one inch (1 in.) in
+dimension. For purposes of this chapter, &#8220;shredded garbage&#8221; is not
+the same as &#8220;garbage&#8221;.
+
+
+
+Significant Accidental Discharge &#8211; any unintentional or uncontrolled
+release of pollutant(s) which results in a violation of a permit issued pursuant
+to this chapter or results in a violation of the NPDES permit issued to operate
+Blue Plains.
+
+
+
+Significant Categorical Industrial User – an Industrial User that is subject
+to Categorical Pretreatment Standards under 40 C.F.R. § 403.6 and 40 C.F.R.
+chapter I, subchapter N and does not meet the requirements as a Non-Significant
+Categorical Industrial User.
+
+
+
+Significant Industrial User -
+
+
+
+(a)	Except as provided in paragraph (b) below, any Industrial User that either:
+
+
+
+(1) 	Is an Industrial User subject to Categorical Pretreatment Standards under
+40 C.F.R. § 403.6 and 40 C.F.R. chapter I, subchapter N; and
+
+
+
+(2) 	Any other Industrial User that:
+
+
+
+(A) 	Discharges an average of twenty-five thousand gallons per day (25,000
+gal./day) or more of process wastewater to the District’s wastewater system or
+other POTW (excluding sanitary, noncontact cooling and boiler blowdown
+wastewater);
+
+
+
+(B) 	Contributes a process wastestream which makes up five percent (5%) or more
+of the average dry weather hydraulic or organic capacity of Blue Plains; or
+
+
+
+(C)	Is designated as a Significant Industrial User by WASA on the basis that the
+Industrial User has a reasonable potential for adversely affecting the operation
+of Blue Plains or for violating any pretreatment standard or requirement, for
+harming the environment or for causing a threat to wastewater utility personnel.
+
+
+
+(b)	Upon a finding that an Industrial User meeting the criteria in (a)(2)(A)-(C)
+has no reasonable potential for adversely affecting the operation of Blue Plains
+or for violating any pretreatment standards or requirements, WASA may at any
+time, on its own initiative or in response to a petition received from an
+Industrial User, and in accordance with 40 C.F.R. § 403.8(f)(6), determine that
+such Industrial User is not a Significant Industrial User.
+
+
+
+Significant Noncompliance &#8211; for the purposes of this chapter, a
+Significant Industrial User is in significant noncompliance with the
+pretreatment standards and requirements if it violates a term of a discharge
+permit and it’s violation meets one (1) or more of the criteria listed in §
+1515, or an Industrial User whose violation meets one (1) or more of the
+criteria listed in § 1515.3(c), (d), or (h) of this chapter.
+
+
+
+Significantly Changed Operation – WASA shall determine what constitutes a
+“&#8221;significantly changed operation&#8221; on a case-by-case basis by
+reference to such factors as the increase in the level of pollutant(s)
+discharged, the potential for the discharge of additional pollutants or the
+potential for accidental or uncontrolled discharges as a result of process
+modifications, production increases, equipment modifications and the like.
+
+
+
+Slug Discharge or Slug Load &#8211; any discharge of a non-routine, episodic
+nature, including but not limited to, an accidental spill or a non-customary
+batch discharge, which has a reasonable potential to cause interference or pass
+through, or in any other way violate WASA’s regulations, local limits, or
+permit conditions such that it is capable of violating the specific prohibited
+discharge limits and local pretreatment requirements in § 1501 of this chapter.
+
+
+
+Standard Industrial Classification &#8211; the classification and classification
+numbers of Users based on the 1987 Standard Industrial Classification Manual
+(SIC) by the Executive Office of the President, Office of Management and Budget,
+as it may be revised, updated, replaced or amended.
+
+
+
+Termination of Service &#8211; includes closing off or removing branch sewer(s),
+disconnecting water service(s) and removal of water service lines.
+
+
+
+Total Kjeldahl Nitrogen (TKN) – the sum of the content of organic nitrogen,
+ammonia and ammonium in the wastewater, expressed in milligrams per liter (mg/l)
+as determined by the methods of Analytical Testing.
+
+
+
+Total Suspended Solids (TSS) &#8211; solids that either float on the surface of,
+or may be suspended in, water, sewage, or other liquids, and which may be
+removable by laboratory filtering, with concentrations expressed in milligrams
+per liter (mg/l). The value shall be as determined by the methods of Analytical
+Testing.
+
+
+
+Toxic Pollutant &#8211; any pollutant which is identified as toxic by the EPA or
+which is designated as toxic by WASA.
+
+
+
+Uncontaminated Non-Wastewater Flows – non-wastewater flows that contain
+pollutants at levels that do not exceed the District’s pretreatment standards.
+
+
+
+User &#8211; any person who discharges, causes, or permits the discharge of
+wastewater into the District&#8217;s wastewater system.
+
+
+
+User Jurisdictions – the jurisdiction that directly or indirectly connects to
+or discharges into, the District’s wastewater system, including Montgomery
+County and Prince George&#8217;s County, Maryland, as represented by the
+Washington Suburban Sanitary Commission; Fairfax County, Virginia; Loudoun
+County, Virginia; and Vienna, Virginia.
+
+
+
+WASA &#8211; the District of Columbia Water and Sewer Authority.
+
+
+
+Waste &#8211; sewage and any and all other waste substances of human or animal
+origin, or associated with human habitation, or resulting from any production,
+storage, manufacturing or processing operation of whatever nature, whether
+liquid, solid, gaseous or radioactive. This definition includes such wastes
+placed within containers of whatever nature prior to, and for purposes of,
+disposal.
+
+
+
+Wastewater &#8211; means the liquid and water-carried wastes from dwellings,
+commercial buildings, industrial facilities, institutions, and swimming pools.
+
+
+
+Wastewater System &#8211; means the devices, facilities, structures, equipment,
+or works owned, operated, maintained, or used by the District or WASA for the
+purpose of the transmission, storage, treatment, recycling, and reclamation of
+wastewater or to recycle or reuse water, including intercepting sewers, outfall
+sewers, wastewater collection systems, treatment, pumping, power, and other
+equipment and their appurtenances, extensions, improvements, remodeling of
+improvements, additions, and alterations to the additions, elements essential to
+provide a reliable recycled water supply such as standby treatment units and
+clear well facilities, and any works, including land, that are or may be an
+integral part of the treatment process or that are or may be used for disposal
+of sludge and residue resulting from such treatment, and sewers designated as
+storm sewers shall be considered a part of the wastewater system for purposes of
+this subchapter.
+
+
+
+	SOURCE: Final Rulemaking published at 33 DCR 6194, 6202 (October 10, 1986); as
+amended by Final Rulemaking published at 47 DCR 2948 (April 28, 2000); as
+amended by Notice of Final Rulemaking published at 59 DCR 1021, 1083 (February
+10, 2012).

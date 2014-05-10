@@ -1,0 +1,368 @@
+                                  DC REGULATIONS
+
+MAXIMUM ALLOWABLE LEVELS OF EXHAUST COMPONENTS (§ 18-752)
+
+752.1. On or before January 1, 1996, the Director shall establish maximum
+   allowable emission levels for components of motor vehicle exhaust emissions
+   determined by the federal emission tests, as codified in title 40 CFR §
+   51.351, for light-duty motor vehicles weighing less than twenty-six thousand
+   pounds (26,000 lbs.) net weight by model year. The maximum allowable emission
+   levels will not exceed the fleet-wide performance criteria established by
+   title 40 CFR § 51.351.
+
+   752.2. On or before June 30, 1994, the Director shall establish test and
+   quality assurance procedures for measuring exhaust emissions that are in
+   compliance with the federal emissions test procedure as currently codified in
+   title 40 CFR §§ 51.357 -51.359.
+
+   752.3. Notwithstanding any other provision in this Section, effective January
+   1, 2004, all vehicles 1996 or newer shall comply with federal On Board
+   Diagnostic testing standards in effect on July 1, 2003, as published in the
+   Code of Federal Regulations, Title 40, Chapter 1, Part 85.
+
+   752.4. As necessary, the Director shall have authority to do the following:
+   
+   
+   
+   (a)	Supplement and amend the prescribed emission levels and testing methods;
+   
+   
+   
+   (b)	Prescribe emission levels for additional components of motor vehicle
+   exhaust emissions; and
+   
+   
+   
+   (c)	Prescribe emission levels for additional types of motor vehicles,
+   including, but not limited to, medium duty or heavy-duty gasoline propelled or
+   diesel-propelled vehicles.
+
+   752.5. In establishing or amending the emission levels or test procedures, the
+   Director shall consult with the Director of the Department of Environmental
+   Services and shall comply with the notice provisions of the District of
+   Columbia Administrative Procedure Act.
+
+   752.6. During the period January 1, 1995 through December 31, 1995, the
+   Director shall test the exhaust emission levels of motor vehicles registered
+   in the District in order to compile data on the exhaust emission levels of
+   motor vehicles registered in the District.
+
+   752.7. The allowable exhaust emission levels for light-duty gasoline-propelled
+   motor vehicles for Hydrocarbons shall be measured in parts per million (ppm)
+   of exhaust gas measured.
+
+   752.8. The allowable exhaust emission levels for light-duty gasoline-propelled
+   motor vehicles for Carbon Monoxide shall be measured in percent of exhaust gas
+   measured.
+
+   752.9. Emission levels for Hydrocarbons and Carbon Monoxide are established
+   for six (6) age groups of light-duty gasoline-propelled motor vehicles as
+   follows:
+   
+   
+   
+   (a)	Motor vehicles of model year 1967 or older;
+   
+   
+   
+   (b)	Motor vehicles of model year 1968 through model year 1970;
+   
+   
+   
+   (c)	Motor vehicles of model year 1971 through model year 1974;
+   
+   
+   
+   (d)	Motor vehicles of model year 1975 through model year 1979;
+   
+   
+   
+   (e)	Motor vehicles of model year 1980; and
+   
+   
+   
+   (f)	For motor vehicles of model year 1981 or newer.
+
+   752.10. The allowable emission levels of Hydocarbons for these motor vehicle
+   groups shall be as follows:
+   
+   
+   
+   (a)	For motor vehicles of model year 1967 or older, emissions shall not exceed
+   two thousand (2,000) ppm;
+   
+   
+   
+   (b)	For motor vehicles of model year 1968 through 1974, emissions shall not
+   exceed one thousand two hundred fifty (1,250) ppm;
+   
+   
+   
+   (c)	For motor vehicles of model year 1971 through 1974, emissions shall not
+   exceed one thousand two hundred (1,200) ppm;
+   
+   
+   
+   (d)	For motor vehicles of model year 1975 through 1979, emissions shall not
+   exceed six hundred (600) ppm;
+   
+   
+   
+   (e)	For motor vehicles of model year 1980, emissions shall not exceed three
+   hundred (300) ppm; and
+   
+   
+   
+   (f)	For motor vehicles of mode year 1981 or newer, emissions shall not exceed
+   two hundred twenty (220) ppm.
+
+   752.11. The allowable emission levels of Carbon Monoxide for these motor
+   vehicle groups shall be as follows:
+   
+   
+   
+   (a)	For motor vehicles of model year 1967 or older, emission shall not exceed
+   twelve and one half percent (12.5%);
+   
+   
+   
+   (b)	or motor vehicles of model year 1968 through 1970, emissions shall not
+   exceed eleven percent (11%);
+   
+   
+   
+   (c)	For motor vehicles of model year 1971 through 1974, emissions shall not
+   exceed nine percent (9%);
+   
+   
+   
+   (d)	For motor vehicles of model year 1975 through 1979, emissions shall not
+   exceed six and one-half percent (6.5%);
+   
+   
+   
+   (e)	For motor vehicles of model year 1980, emissions shall not exceed one and
+   one-half percent (1.5%); and
+   
+   
+   
+   (f)	For motor vehicles of model year 1981 or newer, emissions shall not exceed
+   one and two-tenths percent (1.2%).
+
+   752.12. ALLOWABLE EMISSION standards established in §§ 752.7 &#8211; 752.11
+   shall be used only for an idle exhaust emissions test.
+
+   752.13. ALLOWABLE exhaust EMISSION standards established in §§ 752.14
+   &#8211; 752.20 shall be used only for a transient exhaust emissions test.
+
+   752.14. The allowable exhaust emission levels for spark-combustion powered
+   motor vehicles for Hydrocarbons (HC) shall be measured in grams per mile
+   (gm/mi) of exhaust gas measured.
+
+   752.15. The allowable exhaust emission levels for spark-combustion powered
+   motor vehicles for Carbon Monoxide (CO) shall be measured in grams per mile
+   (gm/mi) of exhaust gas measured.
+
+   752.16. The allowable exhaust emission levels for spark-combustion powered
+   motor vehicles for Oxides of Nitrogen (NOx) shall be measured in grams per
+   mile (gm/mi) of exhaust gas measured.
+
+   752.17. Emission levels for Hydrocarbons, Carbon Monoxide, and Oxides of
+   Nitrogen are established for nine (9) age groups of spark combustion powered
+   motor vehicles as follows:
+   
+   
+   
+   (a)	For motor vehicles of model year 1968 through model year 1972;
+   
+   
+   
+   (b)	For motor vehicles of model year 1973 through model year 1974;
+   
+   
+   
+   (c)	For motor vehicles of model year 1975 through model year 1976;
+   
+   
+   
+   (d)	For motor vehicles of model year 1977 through model year 1979;
+   
+   
+   
+   (e)	For motor vehicles of model year 1980;
+   
+   
+   
+   (f)	For motor vehicles of model year 1981 through model year 1982;
+   
+   
+   
+   (g)	For motor vehicles of model year 1983 through model year 1990;
+   
+   
+   
+   (h)	For motor vehicles of model year 1991 through model year 1993; and
+   
+   
+   
+   (i)	For motor vehicles of model year 1994 or newer designated by The United
+   States Environmental Protection Agency as “Tier 1” vehicles.
+
+   752.18. The allowable emission levels of Hydrocarbons for these motor vehicle
+   groups shall be as follows:
+   
+   
+   
+   (a)	For motor vehicles of model year 1968 through model year 1972, emissions
+   shall not exceed ten grams per mile (10 gm/mi);
+   
+   
+   
+   (b)	For motor vehicles of model year 1973 through model year 1974, emissions
+   shall not exceed ten grams per mile (10 gm/mi);
+   
+   
+   
+   (c)	For motor vehicles of model year 1975 through model year 1976, emissions
+   shall not exceed seven and one-half grams per mile (7.5 gm/mi);
+   
+   
+   
+   (d)	For motor vehicles of model year 1977 through model year 1979, emissions
+   shall not exceed seven and one-half grams per mile (7.5 gm/mi);
+   
+   
+   
+   (e)	For motor vehicles of model year 1980, emissions shall not exceed two
+   grams per mile (2.0 gm/mi);
+   
+   
+   
+   (f)	For motor vehicles of model year 1981 through model year 1982, emissions
+   shall not exceed two grams per mile (2.0 gm/mi);
+   
+   
+   
+   (g)	For motor vehicles of model year 1983 through model year 1990, emissions
+   shall not exceed two grams per mile (2.0 gm/mi);
+   
+   
+   
+   (h)	For motor vehicles of model year 1991 through model year 1993, emissions
+   shall not exceed one and two-tenths grams per mile (1.2 gm/mi); and
+   
+   
+   
+   (i)	For motor vehicles of model year 1994 or newer designated by The United
+   States Environmental Protection Agency as “Tier 1” vehicles, emissions
+   shall not exceed eight-tenth grams per mile (.8 gm/mi);
+
+   752.19. The allowable emission levels of Carbon Monoxide for these motor
+   vehicle groups shall be as follows:
+   
+   
+   
+   (a)	For motor vehicles of model year 1968 through model year 1972, emissions
+   shall not exceed one hundred and fifty grams per mile (150 gm/mi);
+   
+   
+   
+   (b)	For motor vehicles of model year 1973 through model year 1974, emissions
+   shall not exceed one hundred and fifty grams per mile (150 gm/mi);
+   
+   
+   
+   (c)	For motor vehicles of model year 1975 through model year 1976, emissions
+   shall not exceed ninety grams per mile (90 gm/mi);
+   
+   
+   
+   (d)	For motor vehicles of model year 1977 through model year 1979, emissions
+   shall not exceed ninety grams per mile (90 gm/mi);
+   
+   
+   
+   (e)	For motor vehicles of model year 1980, emissions shall not exceed sixty
+   grams per mile (60 gm/mi);
+   
+   
+   
+   (f)	For motor vehicles of model year 1981 through model year 1982, emissions
+   shall not exceed sixty grams per mile (60 gm/mi);
+   
+   
+   
+   (g)	For motor vehicles of model year 1983 through model year 1990, emissions
+   shall not exceed thirty grams per mile (30 gm/mi);
+   
+   
+   
+   (h)	For motor vehicles of model year 1991 through model year 1993, emissions
+   shall not exceed twenty grams per mile (20 gm/mi); and
+   
+   
+   
+   (i)	For motor vehicles of model year 1994 or newer designated by The United
+   States Environmental Protection Agency “Tier 1” vehicles, emissions shall
+   not exceed fifteen grams per mile (15 gm/mi).
+
+   752.20. The allowable emission levels of Oxides of Nitrogen for these motor
+   vehicle groups shall be as follows:
+   
+   
+   
+   (a)	For motor vehicles of model year 1968 through model year 1972, emission
+   shall not exceed ten grams per mile (10 gm/mi);
+   
+   
+   
+   (b)	For motor vehicles of model year 1973 through model year 1974, emissions
+   shall not exceed nine grams per mile (9.0 gm/mi);
+   
+   
+   
+   (c)	For motor vehicles of model year 1975 through model year 1976, emissions
+   shall not exceed nine grams per mile (9.0 gm/mi);
+   
+   
+   
+   (d)	For motor vehicles of model year 1977 through model year 1979, emissions
+   shall not exceed six grams per mile (6.0 gm/mi);
+   
+   
+   
+   (e)	For motor vehicles of model year 1980, emissions shall not exceed six
+   grams per mile (6.0 gm/mi);
+   
+   
+   
+   (f)	For motor vehicles of model year 1981 through model year 1982, emissions
+   shall not exceed three grams per mile (3.0 gm/mi);
+   
+   
+   
+   (g)	For motor vehicles of model year 1983 through model year 1990, emissions
+   shall not exceed three grams per mile (3.0 gm/mi);
+   
+   
+   
+   (h)	For motor vehicles of model year 1991 through model year 1993, emissions
+   shall not exceed two and one-half grams per mile (2.5 gm/mi); and
+   
+   
+   
+   (i)	For motor vehicles of model year 1994 or newer designated by the United
+   States Environmental Protection Agency as “Tier 1” vehicles, emissions
+   shall not exceed two grams per mile (2.0 gm/mi).
+   
+   
+   
+   	SOURCE: Section 2 of the District of Columbia Exhaust Emission
+   Inspection/Maintenance Program Amendments Act of 1980 D.C. Law 3-152,27 DCR
+   2907 (November 7, 1980), 32 DCRR § 6.803 (d); as amended by Final Rulemaking
+   published at 30 DCR 2571 (May 27, 1983); by Final Rulemaking published at 37
+   DCR 4119 (June 22, 1990); § 4(b) of the Motor Vehicle Biennial Inspection
+   Amendment Act of 1993, 41 DCR 1014 (March 4, 1994); and by Final Rulemaking
+   published at 41 DCR 3802, 3803 (June 17, 1994); as amended by Final Rulemaking
+   published at 44 DCR 5967 (October 17,1997); as amended by Final Rulemaking
+   published at 50 DCR 8196 (October 3, 2003).

@@ -1,0 +1,195 @@
+                                  DC REGULATIONS
+
+HAZARDOUS WASTE MANAGEMENT SYSTEM[COLON] GENERAL PROVISIONS (§ 20-4260)
+
+4260.1. The provisions of 40 CFR Part 260 (Hazardous Waste Management System:
+   General) and Appendix I to Part 260 are incorporated by reference, subject to
+   the general modifications in 20 DCMR §§ 4200 through 4206 and the specific
+   modifications in this section.
+
+   4260.2. In 40 CFR § 260.1, pertaining to the purpose, scope, and
+   applicability of Part 260, the term &#8220;EPA&#8221; shall mean the United
+   States Environmental Protection Agency.
+
+   4260.3. In 40 CFR § 260.2, pertaining to the availability and confidentiality
+   of information submitted to EPA, the term &#8220;EPA&#8221; shall mean the
+   United States Environmental Protection Agency. In addition to the requirements
+   of 40 CFR § 260.2:
+   
+   
+   
+   (a)	Any information provided to the Department under the District of Columbia
+   Hazardous Waste Management Act of 1977, effective March 16, 1978, as amended
+   (D.C. Law 2-64; D.C. Official Code §§ 8-1301 through 8-1314 (2001)), and the
+   Hazardous Waste Management Regulations, 20 DCMR chapters 42 and 43, shall be
+   made available to the public to the extent and in the manner authorized by the
+   District of Columbia Freedom of Information Act, effective March 29, 1977, as
+   amended (D.C. Law 1-96; D.C. Official Code §§ 2-531 to 2-540 (2001)) (FOIA),
+   and the rules implementing FOIA, chapter 4 in Title 1 DCMR; and
+   
+   
+   
+   (b)	Any person submitting information to the Department pursuant to the
+   Hazardous Waste Management Act or the Hazardous Waste Management Regulations
+   may assert a claim of confidentiality covering part or all of the information
+   by demonstrating to the Director that the information claimed to be
+   confidential is exempt from public disclosure under FOIA, D.C. Official Code
+   § 2-534(a). The Director will determine, in accordance with the criteria in
+   § 2-534(a), whether and to what extent the information claimed to be
+   confidential will be withheld from disclosure.
+
+   4260.4. Except as provided in this subsection, the substitution of terms
+   specified in 20 DCMR § 4201.8(a) and (b) shall not apply to the definitions
+   in 40 CFR § 260.10. The following definitions either clarify or modify the
+   corresponding federal definitions, or provide the meaning for terms not
+   defined in the RCRA regulations:
+   
+   
+   
+   (a)	Active life &#8211; in the federal definition of the term &#8220;active
+   life,&#8221; the term &#8220;Director&#8221; shall supplant the term
+   &#8220;Regional Administrator&#8221;;
+   
+   
+   
+   (b)	Boiler &#8211; in the federal definition of the term &#8220;boiler,&#8221;
+   the term &#8220;Director&#8221; shall supplant the term &#8220;Regional
+   Administrator&#8221;;
+   
+   
+   
+   (c)	Department means the District of Columbia District Department of the
+   Environment or a successor agency;
+   
+   
+   
+   (d)	Director means the Director of the Department or his or her designee;
+   
+   
+   
+   (e)	District-only wastes means wastes that are regulated as hazardous waste
+   under the Hazardous Waste Management Regulations, 20 DCMR chapters 42 and 43,
+   but that are not considered hazardous wastes under 40 CFR Part 261, Subparts C
+   or D;
+   
+   
+   
+   (f)	Existing tank system or existing component means for HSWA tanks, the terms
+   &#8220;existing tank system&#8221; or &#8220;existing component&#8221; have
+   the meaning, given those terms in 40 CFR § 260.10. For non-HSWA tanks, an
+   &#8220;existing tank system&#8221; or &#8220;existing component&#8221; is one
+   that is in operation, or for which installation has commenced, on or before
+   March 1, 1996;
+   
+   
+   
+   (g)	HSWA means the Hazardous and Solid Waste Amendments of 1984, approved
+   November 8, 1984 (98 Stat. 3321; 42 USC §§ 6901 &#8211; 6991i). RCRA
+   regulations promulgated by EPA under HSWA authorities take effect in all
+   states at the same time, regardless of a state&#8217;s authorization status.
+   RCRA regulations promulgated by EPA under non-HSWA authorities do not take
+   effect in EPA-authorized states until the state adopts the non-HSWA
+   regulation;
+   
+   
+   
+   (h)	HSWA tank means a hazardous waste storage or treatment tank that meets any
+   one of the following criteria:
+   
+   
+   
+   (1)	a tank that is owned or operated by a small quantity generator;
+   
+   
+   
+   (2)	a new underground tank; or
+   
+   
+   
+   (3)	an existing underground tank that cannot be entered for inspection;
+   
+   
+   
+   (i)	New tank system or new tank component means a tank system or component
+   that will be used for the storage or treatment of hazardous waste and for
+   which installation has commenced (1) after July 14, 1986, for HSWA tanks, and
+   (2) after March 1, 1996, for non-HSWA tanks; except, however, for purposes of
+   applying the variance provisions of 40 CFR §§ 264.193(g)(2) and
+   265.193(g)(2), a new tank system is one for which construction commences (1)
+   after July 14, 1986, for HSWA tanks, and (2) after March 1, 1996, for non-HSWA
+   tanks (See &#8220;existing tank system&#8221;);
+   
+   
+   
+   (j)	Non-HSWA tank means any hazardous waste storage or treatment tank that is
+   not a HSWA tank;
+   
+   
+   
+   (k)	Resource Conservation and Recovery Act (RCRA) regulations means the
+   regulations contained in 40 CFR Parts 124, 260 through 266, 268, 270, 273, and
+   279; and
+   
+   
+   
+   (l)	Wastewater treatment unit means a device that:
+   
+   
+   
+   (1)	Is part of a wastewater treatment facility that is subject to regulation
+   under either §§ 307(b) or 402 of the Clean Water Act, 33 U.S.C. §§ 1317(b)
+   or 1342; § 7 of the District of Columbia Water Pollution Control Act of 1984,
+   effective March 16, 1985, as amended (D.C. Law 5-188; D.C. Official Code §
+   8-103.06 (2001)); or the District of Columbia Wastewater System Regulation
+   Act, effective March 12, 1986, as amended (D.C. Law 6-95; D.C. Official Code
+   §§ 8-105.01 to 8-105.15 (2001));
+   
+   
+   
+   (2)	Receives and treats or stores an influent wastewater that is a hazardous
+   waste as defined in 40 CFR § 261.3, or that generates and accumulates a
+   wastewater treatment sludge that is a hazardous waste as defined in 40 CFR §
+   261.3; and
+   
+   
+   
+   (3)	Meets the definition of tank or tank system in 40 CFR § 260.10.
+
+   4260.5. In 40 CFR §§ 260.20 through 260.22 (general requirements for
+   rulemaking petitions, petitions for equivalent testing or analytic methods,
+   and petitions to amend 40 CFR Part 261 to exclude a waste produced at a
+   particular facility), the term &#8220;Administrator&#8221; shall mean the
+   Administrator of the United States Environmental Protection Agency. Within
+   sixty (60) days after a decision by the Administrator to grant a petition
+   under 40 CFR §§ 260.21 or 260.22, the Director shall take rulemaking action
+   to propose the adoption of the federal regulatory amendment by reference in
+   the District of Columbia Hazardous Waste Management Regulations.
+
+   4260.6. Except as provided in 20 DCMR § 4260.5 for petitions for equivalent
+   testing or analytic methods and petitions to amend 40 CFR Part 261 to exclude
+   a waste produced at a particular facility, any person may petition the
+   Director to amend or repeal any provision in the District of Columbia
+   Hazardous Waste Management Regulations. The following procedures shall apply
+   to rulemaking petitions submitted to the Director:
+   
+   
+   
+   (a)	The petitioner shall include in the petition the information listed in 40
+   CFR § 260.20(b); and
+   
+   
+   
+   (b)	In deciding whether to grant or deny the petition, the Director shall
+   follow the procedures in 40 CFR § 260.20(c) through (e), except that the
+   Director shall publish tentative and final decisions as notices of proposed
+   and final rulemaking in the D.C. Register.
+
+   4260.7. In 40 CFR § 260.41(a) (procedures for case-by-case regulation of
+   hazardous waste recycling activities), the term &#8220;District of Columbia
+   Office of Administrative Hearings&#8221; shall supplant the term
+   &#8220;Administrator.&#8221;
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 52 DCR 9653 (October 28, 2005); as
+   amended by Final Rulemaking published at 54 DCR 5586 (June 8, 2007).

@@ -1,0 +1,267 @@
+                                  DC REGULATIONS
+
+CONTROL OF VOLATILE ORGANIC COMPOUND LEAKS FROM PETROLEUM REFINERY EQUIPMENT (§
+20-702)
+
+702.1. The owner or operator of a petroleum refinery complex subject to this
+   section shall do the following:
+   
+   
+   
+   (a)	Develop a monitoring program consistent with the provisions in §
+   702.5(a);
+   
+   
+   
+   (b)	Conduct a monitoring program consistent with the provisions in § 702.7;
+   
+   
+   
+   (c)	Record all leaking components which have a volatile organic compound
+   concentration exceeding ten thousand parts per million (10,000 ppm) when
+   tested according to the provisions in § 702.6, and place an identifying tag
+   on each component consistent with the provisions in § 702.9;
+   
+   
+   
+   (d)	Repair and retest the leaking components as soon as possible but no later
+   than fifteen (15) days after the leak is found; and
+   
+   
+   
+   (e)	Identify all leaking components which cannot be repaired until the unit is
+   shut down.
+
+   702.2. The Mayor may, at his or her discretion, require early unit shutdown
+   based on the number and severity of tagged leaks awaiting shutdown.
+
+   702.3. Except for safety pressure relief valves, no owner or operator of a
+   petroleum refinery shall install or operate a valve at the end of a pipe or
+   line containing volatile organic compounds unless the pipe or line is sealed
+   with a second valve, a blind flange, a plug, or a cap. The sealing device may
+   be removed only when a sample is being taken or during maintenance operations.
+
+   702.4. Pipeline valves and pressure relief valves in gaseous volatile organic
+   compound service shall be marked in some manner that will be readily obvious
+   to both refinery personnel performing monitoring and the Mayor.
+
+   702.5. In order to comply with §§ 702.1 through 702.4, the owner or operator
+   of a petroleum refinery shall do the following:
+   
+   
+   
+   (a)	Submit to the Mayor a monitoring program within ninety (90) days of the
+   effective date of the District of Columbia Air Pollution Control Act of 1984.
+   This program shall contain, at a minimum, a list of the refinery units and the
+   quarter in which they will be monitored, a copy of the log book format, and
+   the make and model of the monitoring equipment to be used. In no case shall a
+   monitoring contract relieve the owner or operator of a petroleum refinery of
+   the responsibility for compliance with this subtitle; and
+   
+   
+   
+   (b)	Submit the first quarterly monitoring report to the Mayor within two
+   hundred seventy (270) days of the effective date of the District of Columbia
+   Air Pollution Control Act of 1984.
+
+   702.6. Testing and calibration procedures used to comply with this subtitle
+   shall be consistent with Appendix B of the EPA Office of Air Quality Planning
+   and Standards, Guideline Series document, &#8220;Control of Volatile Organic
+   Compound Leaks from Petroleum Refinery Equipment,&#8221; EPA-450/2-78-036.
+
+   702.7. The owner or operator of a petroleum refinery subject to this subtitle
+   shall conduct a monitoring program consistent with the following provisions:
+   
+   
+   
+   (a)	Monitor yearly by the methods referenced in § 702.6, the following:
+   
+   
+   
+   (1)	Pump seals;
+   
+   
+   
+   (2)	Pipeline valves in liquid service; and
+   
+   
+   
+   (3)	Process drains.
+   
+   
+   
+   (b)	Monitor quarterly by the methods referenced in § 702.6, the following:
+   
+   
+   
+   (1)	Compressor seals;
+   
+   
+   
+   (2)	Pipeline valves in gaseous service; and
+   
+   
+   
+   (3)	Pressure relief valves in gaseous service;
+   
+   
+   
+   (c)	Monitor weekly by visual methods all pump seals;
+   
+   
+   
+   (d)	Monitor immediately any pump seal from which liquids are observed
+   dripping;
+   
+   
+   
+   (e)	Monitor any relief valve within twenty-four (24) hours after it has vented
+   to the atmosphere; and
+   
+   
+   
+   (f)	Monitor immediately after repair any component that was found leaking.
+
+   702.8. Pressure relief devices which are connected to an operating flare
+   header, vapor recovery device, inaccessible valves, storage tank valves, or
+   valves that are not externally regulated, are exempt from the monitoring
+   requirements in § 702.7.
+
+   702.9. The owner or operator of a petroleum refinery, upon the detection of a
+   leaking component, shall affix a weatherproof and readily visible tag, bearing
+   an identification number and the date the leak is located, to the leaking
+   component. This tag shall remain in place until the leaking component is
+   repaired.
+
+   702.10. The owner or operator of a petroleum refinery shall maintain a leaking
+   component monitoring log as specified in § 702.1(c) which shall contain, at a
+   minimum, the following data:
+   
+   
+   
+   (a)	The name of the process unit where the component is located;
+   
+   
+   
+   (b)	The type of component (e.g., valve, seal);
+   
+   
+   
+   (c)	The tag number of the component;
+   
+   
+   
+   (d)	The date on which a leaking component is discovered;
+   
+   
+   
+   (e)	The date on which a leaking component is repaired;
+   
+   
+   
+   (f)	The date and instrument reading of the recheck procedure after a leaking
+   component is repaired;
+   
+   
+   
+   (g)	A record of the calibration of the monitoring instrument;
+   
+   
+   
+   (h)	Those leaks that cannot be repaired until turnaround; and
+   
+   
+   
+   (i)	The total number of components checked and the total number of components
+   found leaking.
+
+   702.11. Copies of the monitoring log shall be retained by the owner or
+   operator for a minimum of two (2) years after the date on which the record was
+   made or the report prepared.
+
+   702.12. Copies of the monitoring log shall be made available immediately to
+   the Mayor, upon verbal or written request made at a reasonable time.
+
+   702.13. The owner or operator of a petroleum refinery, upon the completion of
+   each yearly or quarterly monitoring procedure, shall submit the following:
+   
+   
+   
+   (a)	A report to the Mayor by the fifteenth (15th) day of January, April, July,
+   and October that lists all leaking components that were located during the
+   previous three (3) calendar months but not repaired within fifteen (15) days,
+   all leaking components awaiting unit turnaround, the total number of
+   components inspected and the total number of components found leaking; and
+   
+   
+   
+   (b)	A signed statement with the report attesting to the fact that, with the
+   exception of those leaking components listed in § 702.13(a), all monitoring
+   and repairs were performed as stipulated in the monitoring program.
+
+   702.14. The Mayor, upon written notice, may modify the monitoring,
+   recordkeeping and reporting requirements as to a specific petroleum refinery
+   complex or part of the specific petroleum refinery complex.
+
+   702.15. If, at any time after two (2) complete liquid service inspections and
+   five (5) complete gaseous service inspections, the owner or operator of a
+   petroleum refinery can demonstrate that modifications to §§ 702.7 through
+   702.14 are appropriate, he or she may petition to the Mayor that revisions be
+   made.
+
+   702.16. The petition for revisions under § 702.15 shall contain the
+   following:
+   
+   
+   
+   (a)	The name and address of the company and the name and telephone number of
+   the responsible company representative over whose signature the petition is
+   submitted;
+   
+   
+   
+   (b)	A detailed description of the problem encountered by implementing §§
+   702.7 through 702.14; and
+   
+   
+   
+   (c)	A detailed description of the proposed alternative monitoring procedure.
+
+   702.17. If at any time the owner or operator of a petroleum refinery can
+   demonstrate that compliance with §§ 702.1 through 702.4 would require more
+   than leaking component repair of equipment changed, he or she may petition the
+   Mayor to allow the use of alternative operational or equipment controls-for
+   the reduction of volatile organic emissions.
+
+   702.18. The petition filed pursuant to § 702 17 shall be made for each
+   component within a given facility, and shall contain the following:
+   
+   
+   
+   (a)	The name and address of the company and the name and telephone number of
+   the responsible company representative over whose signature the petition is
+   submitted;
+   
+   
+   
+   (b)	A description of all operations conducted at the location to which the
+   petition applies and the purpose that the volatile organic compound emitting
+   component serves within the operations;
+   
+   
+   
+   (c)	A detailed description of the proposed alternative operational or
+   equipment controls; and
+   
+   
+   
+   (d)	A schedule for the installation or institution of the alternative
+   operational or equipment controls.
+
+   702.19. The Mayor may approve a petition for alternative control pursuant to
+   § 702.17 if the petition is submitted in accordance with § 702.18.
+   
+   
+   
+   	SOURCE: Section 3 of the District of Columbia Air Pollution Control Act of
+   1984, D.C. Law 5-165, § 702, 32 DCR 565, 619 (February 1, 1985).

@@ -1,0 +1,101 @@
+                                  DC REGULATIONS
+
+MEDICAID REIMBURSEMENT FOR INPATIENT HOSPITAL SERVICES (§ 29-4800)
+
+Effective for inpatient hospital discharges occurring on or after the
+   effective date of these rules, Medicaid reimbursement for inpatient hospital
+   services shall be on an All Patient-Diagnosis Related Group (APDRG)
+   prospective payment system discharge basis for all hospitals in the District
+   of Columbia except:
+   
+   
+   
+   (a)	Washington Specialty-Hadley Memorial Hospital, Washington
+   Specialty-Capitol Hill Hospital, Hospital for Sick Children, and National
+   Rehabilitation Hospital as described in Section 4810.1;
+   
+   
+   
+   (b)	Psychiatric hospitals as described in Sections 4810.2 and 4810.3;
+   
+   
+   
+   (c)	Hospitals located in Maryland as described in Section 4800.5; and
+   
+   
+   
+   (d) 	Other out-of state hospitals as described in Section 4800.6.
+
+   4800.2. Hospital inpatient services subject to the APDRG prospective payment
+   system shall include inpatient hospital stays that last only one (1) day and
+   services provided in Medicare-designated distinct-part psychiatric units and
+   distinct-part rehabilitation units within those hospitals.
+
+   4800.3. Payment for each APDRG claim, excluding transfer claims as described
+   in Section 4809, shall be based on the following formula:
+   
+   
+   
+   APDRG Service Intensity Weight for each claim
+   
+   X
+   
+   Final Base Payment Rate
+   
+   +
+   
+   Add-on Payments for Capital and Direct Medical
+   
+   Education Costs
+   
+   +
+   
+   Outlier Payment
+
+   4800.4. The Department of Health Care Finance (DHCF) has adopted the APDRG
+   classification system as contained in the 2009 APDRGs Definition Manual,
+   Version 26, for purposes of calculating the rates set forth in this chapter. 
+   Subsequent versions may be adopted after publication, if DHCF determines a
+   substantial change has occurred.
+
+   4800.5. Effective for inpatient hospital discharges occurring on or after
+   October 1, 2012, hospitals located within the State of Maryland shall be
+   reimbursed a percentage of charges, except that:
+   
+   
+   
+   
+   
+   
+   
+    Adventist Behavioral Health (Potomac Ridge), Sheppard Pratt, and any other
+   specialty psychiatric hospital shall be paid the lesser of the hospital’s
+   submitted charges or the rates paid to hospitals in Section 4810.3; and
+   
+   
+   
+   
+   
+   
+   
+   Adventist Rehabilitation Hospital and any other specialty rehabilitation
+   hospital shall be paid the lesser of the hospital’s submitted charges or the
+   TEFRA Target Rate for National Rehabilitation Hospital as described in Section
+   4810.1.
+
+   4800.6. With the exception of the State of Maryland, out of state hospitals
+   shall be reimbursed as a Diagnosis Related Group (DRG) payment.  The DRG base
+   rate for out of state hospitals shall be the weighted average of the base
+   rates for hospitals in the Community Hospital peer group, as defined in
+   Subsection 4801.1(b).
+   
+   
+   
+   SOURCE: Final Rulemaking published at 45 DCR 4141, 4142 (June 26, 1998); as
+   amended by Final Rulemaking published at 46 DCR 8271, 8272 (October 15, 1999);
+   as Final Rulemaking published at 49 DCR 8719 (September 20, 2002).; as amended
+   by Notice of Emergency and Proposed Rulemaking published at 57 DCR 2691 (March
+   26, 2010)[EXPIRED]; as amended by Notice of Emergency and Proposed Rulemaking
+   published at 57 DCR 6837 (July 10, 2010)[EXPIRED]; as amended by Notice of
+   Final Rulemaking published at 58 DCR 4323, 4324 (May 20, 2011); as amended by
+   Final Rulemaking published at 59 DCR 15078 (December 28, 2012).

@@ -1,0 +1,71 @@
+                                  DC REGULATIONS
+
+COMPETITIVE WHOLESALE BIDDING AND CONTRACTING PROCESS (§ 15-4104)
+
+4104.1. The Electric Company shall solicit offers for Wholesale
+   Full-Requirements Service via the RFP approved by the Commission.  The
+   Electric Company shall remain the NITS provider and shall be the designated
+   PJM Load Serving Entity (“LSE”) for all SOS.  The Electric Company, as the
+   PJM LSE, shall provide the rights to nomination and make available to the
+   wholesale suppliers all Firm Transmission Rights/Auction Revenue Rights
+   (“FTR/ARRs”) to which it has rights pursuant to the PJM procedures
+   applicable to FTR and ARRs.
+
+   4104.2. The Electric Company shall solicit seasonally differentiated and, if
+   applicable, time-of-use differentiated prices.  In the case of multi-year-term
+   contracts, prices shall, in addition, be annually specified.  The solicitation
+   shall be conducted through as many as four bidding rounds, as specified in the
+   RFP.
+
+   4104.3. The total load associated with each SOS Customer Group shall be
+   divided into bid blocks of approximately 50 MW to promote diversity of supply
+   and reliable supply contract performance.  Each bid block shall represent a
+   percentage of the total SOS load that each supplier will be obligated to
+   supply for the term of the contract regardless of changes in the magnitude of
+   the total load for that SOS Customer Group.  The size of the total load may
+   vary from the 50 MW guideline for a particular group if the total load
+   associated with a specific SOS Customer Group indicates that such variation is
+   warranted.  The Electric Company may alter the target size of the bid blocks
+   by requesting permission to do so at the same time as it informs the
+   Commission of its procurement plan, but only if it has reason to believe that
+   the change would lead to more competitive offers.
+
+   4104.4. SOS service years shall continue annually beginning on June 1 of each
+   year and ending on May 31 of the following year, consistent with PJM planning
+   periods, until modified by Commission Order.
+
+   4104.5. Potential wholesale suppliers must demonstrate their qualifications to
+   provide Wholesale Full Requirements Service by providing proof that they are
+   qualified to participate in the PJM Markets and have all the necessary FERC
+   authorizations to enter into wholesale energy contracts.  Furthermore, the RFP
+   and WFRSA shall specify the financial credit requirements that potential or
+   actual wholesale SOS suppliers must demonstrate.
+
+   4104.6. The Electric Company’s RFP will include specific forms of bid
+   request, evaluation plan, and the WFRSA.  The evaluation plan contained in the
+   RFP will specify that all bids to serve the load associated with a specific
+   SOS Customer Group and for a specific contract length will be compared on a
+   discounted price basis to select the lowest cost winning bids.
+
+   4104.7. Upon completion of the bid evaluation process, the Electric Company
+   will notify the winning bidders and execute a WFRSA with each winning bidder. 
+   Such contract execution will be contingent, however, on Commission approval of
+   the bid awards, contracts and credit support provisions therein.  The
+   contract(s) will be deemed approved by the Commission unless the Commission
+   orders otherwise within two (2) business days following their submission. 
+   Winning bidders will receive the actual prices in their offers for each year
+   of the term of their supply contract.  Winning bidders will not be permitted
+   to revise prices or any other terms and conditions of the WFRSA, except as
+   provided for in the WFRSA.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   		Source: Final Rulemaking published at 56 DCR 5404, 5410 (July 3, 2009).

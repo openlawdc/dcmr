@@ -1,0 +1,41 @@
+                                  DC REGULATIONS
+
+EQUIPMENT (§ 20-2901)
+
+2901.1. Sound-level meters and microphones shall meet Type II specifications
+   per ANSI S1.4-1971.
+
+   2901.2. Each sound-level meter shall be qualified annually.
+
+   2901.3. Each sound-level meter and microphone device shall meet the following
+   specifications:
+   
+   
+   
+   (a)	External calibration devices with a known sound pressure level output at a
+   single known frequency between two hundred (200) Hz and one thousand (1,000)
+   Hz, as specified by the manufacturer;
+   
+   
+   
+   (b)	Windscreen with insertion loss less than five tenths (0.5) dB(A) below
+   eight (8) kHz;
+   
+   
+   
+   (c)	Stopwatch, capable of cumulative operation and accurate to two percent
+   (2%) or better;
+   
+   
+   
+   (d)	Wind speed indicator with at least twenty percent (20%) accuracy at twelve
+   miles per hour (12 mph); and
+   
+   
+   
+   (e)	Earphones with impedance meeting the sound level meter
+   manufacturer&#8217;s specifications.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 26 DCR 1499, 1501 (September 28, 1979).

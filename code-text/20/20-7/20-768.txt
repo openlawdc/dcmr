@@ -1,0 +1,98 @@
+                                  DC REGULATIONS
+
+SOLVENT CLEANING â€“ ALTERNATIVECOMPLIANCE (§ 20-768)
+
+768.1 As an alternative to complying with the provisionsof Â§Â§ 764 through
+767, the operator of asolvent cleaning machine may demonstrate compliance
+withÂ§ 768.3 and 768.4. 768.2 The operator shall maintainrecords sufficient to
+demonstrate compliance. The records, whichshall be maintained for not less than
+two (2) years, shall include,at a minimum, the quantity of solvent added to and
+removed from thesolvent cleaning machine, and the dates of the addition
+andremoval. Â 768.3 If the cleaning machine has a solvent/airinterface, the
+owner or operator shall: Â (a) Maintain a logof solvent additions and deletions
+for each solvent cleaningmachine; and Â (b) Ensure that emissions from each
+solventcleaning machine are equal to or less than the applicable emissionlimit
+presented in Table II of this section. Table II. Emissionlimits for Batch Vapor
+and In-Line Solvent Cleaning Machines with aSolvent/Air Interface Solvent
+Cleaning Machine Three (3) MonthRolling Average (kg./m.2/month) Monthly Emission
+Limit:(lb./ft.2/month) Solvent cleaning machines batch vapor 150 30.7Existing
+inline solvent cleaning machines 153 31.3 New inlinesolvent cleaning machines 99
+20.2 Â 768.4 If the cleaningmachine is a batch vapor cleaning machine and does
+not have asolvent/air interface, the owner or operator shall: (a) Maintain alog
+of solvent additions and deletions for each solvent cleaningmachine; and Â (b)
+Ensure that the emissions from each solventcleaning machine are equal to or less
+than the appropriate limitsas described in Â§ 768.5 and 768.6. Each owner
+oroperator of a batch vapor or in-line cleaning machine shalldemonstrate
+compliance with the applicable three (3) month rollingaverage monthly emission
+limit on a monthly basis. Â 768.5 Forcleaning machines with a cleaning capacity
+that is less than orequal to two and ninety-five one hundredths cubic meters
+(2.95m.3), the emission limit shall be determined using Table I inÂ§ 767.3 or
+the equation in Â§ 768.6. If thetable is used, and the cleaning capacity of
+the cleaning machinefalls between two cleaning capacity sizes, then the lower of
+thetwo (2) emission limits applies; 768.6 For cleaning machines with acleaning
+capacity that is greater than two and ninety-five onehundredths cubic meters
+(2.95 m.3), the emission limit shall bedetermined using the following equation:
+Â EL = 330 (vol)0.6Â where: Â EL = the three (3) month rolling averagemonthly
+emission limit (kilograms/month); vol = the cleaningcapacity of machine (cubic
+meters); Â 768.7 Each owner oroperator of a batch vapor or inline solvent
+cleaning machine shalldemonstrate compliance with the applicable three (3) month
+rollingaverage monthly emission limit on a monthly basis. If theapplicable three
+(3) month rolling average emission limit is notmet, an exceedance has occurred.
+All exceedances shall be reportedto the District within thirty (30) days of the
+determination of theexceedance. 768.8 The owner or operator of a batch vapor or
+in-linesolvent cleaning machine shall maintain records and determinecompliance
+in accordance with the following: (a) On the firstoperating day of every month
+ensure that the solvent cleaningmachine system contains only clean liquid
+solvent; (1) Thisincludes, but is not limited to, fresh unused solvent,
+recycledsolvent, and used solvent that has been cleaned of soils; (2) Afill line
+must be indicated during the first month the measurementsare made; (3) The
+solvent level within the machine must be returnedto the same fill-line each
+month, immediately before calculatingmonthly emissions; and (4) The solvent
+cleaning machine does nothave to be emptied and filled with fresh unused solvent
+before thecalculations. (b) Using the records of all solvent additions
+anddeletions for the previous monthly reporting period, determinesolvent
+emissions using one (1) of the following equations: (1) Forcleaning machines
+with a solvent/air interface: Â Âwhere: Â E = the total halogenated HAP
+solvent emissions fromthe solvent cleaning machine during the most recent
+monthlyreporting period (kilograms of solvent per square meter ofsolvent/air
+interface area per month);Â SA = the total amountof halogenated HAP liquid
+solvent added to the solvent cleaningmachine during the most recent monthly
+reporting period (kilogramsof solvent per month); LSR = the total amount of
+halogenated HAPliquid solvent removed from the solvent cleaning machine during
+themost recent monthly reporting period (kilograms of solvent permonth);Â SSR =
+the total amount of halogenated HAP solventremoved from the solvent cleaning
+machine in solid waste during themost recent monthly reporting period (kilograms
+of solvent permonth) determined from tests conducted using EPA reference
+method25d or by engineering calculations included in the compliancereport;Â
+Area = the solvent/air interface area of the solventcleaning machine (square
+meters); or Â (2) For cleaningmachines without a solvent/air interface: E =
+SA-LSR-SSR where: E =the total halogenated HAP solvent emissions from the
+solventcleaning machine during the most recent monthly reporting
+period(kilograms of solvent per month); SA = the total amount ofhalogenated HAP
+liquid solvent added to the solvent cleaningmachine during the most recent
+monthly reporting period (kilogramsof solvent per month);Â LSR = the total
+amount of halogenatedHAP liquid solvent removed from the solvent cleaning
+machine duringthe most recent monthly reporting period (kilograms of solvent
+permonth);Â SSR = the total amount of halogenated HAP solventremoved from the
+solvent cleaning machine in solid waste during themost recent monthly reporting
+period (kilograms of solvent permonth) determined from tests conducted using EPA
+reference method25d (40 C.F.R. Â§ 60) or by engineering calculationsincluded
+in the compliance report; and (c) Determine the monthlyrolling average, EA, for
+the three (3) month period ending with themost recent reporting period using one
+(1) of the followingequations: (1) For cleaning machines with a solvent/air
+interface:Â where: Â EA = the average halogenated HAP solventemissions over
+the preceding three (3) monthly reporting periods,(kilograms of solvent per
+square meter of solvent/air interfacearea per month); E = halogenated HAP
+solvent emissions for eachmonth (j) for the most recent three (3) monthly
+reporting periods(kilograms of solvent per square meter of solvent/air
+interfacearea);Â j=1 = the most recent monthly reporting period; j=2 =the
+monthly reporting period immediately before j=1; j=3 = themonthly reporting
+period immediately before j=2; or Â (2) Forcleaning machines without a
+solvent/air interface: Â Âwhere: EA = the average halogenated HAP solvent
+emissions over thepreceding three (3) monthly reporting periods (kilograms of
+solventper month);Â E = halogenated HAP solvent emissions for eachmonth (j) for
+the most recent three (3) monthly reporting periods(kilograms of solvent per
+month); j=1 = the most recent monthlyreporting period; j=2 = the monthly
+reporting period immediatelybefore j=1; j=3 = the monthly reporting period
+immediately beforej=2. SOURCE: Notice of Final Rulemaking published at 58 DCR
+11286,11384 (December 30, 2011).

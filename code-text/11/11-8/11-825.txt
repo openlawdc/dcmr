@@ -1,0 +1,36 @@
+                                  DC REGULATIONS
+
+STANDARDS OF EXTERNAL EFFECTS (M) (§ 11-825)
+
+825.1. All uses established in an M District under §§ 801.7 or 821.3, all
+   Electronic Equipment Facility (EEF) uses established in an M District, and all
+   uses accessory to those uses shall be operated to comply with the standards of
+   external effects in this section.
+
+   825.2. The volume of sound inherently and recurrently generated shall not
+   exceed the standards in §§ 825.3 through 825.6 at any point along the
+   boundaries of the zone district in which the use is located.
+
+   825.3. Sound levels shall be measured with a sound level meter and associated
+   octave band filter manufactured according to standards prescribed by the
+   American Standards Association on May 12, 1958.
+
+   825.4. Objectionable sounds of an intermittent nature shall be controlled so
+   as not to become a nuisance to adjacent uses.
+
+   825.5. Except as provided in § 825.6, maximum sound pressure levels shall not
+   exceed those provided in the following table:
+   
+   
+   
+   OCTAVE BAND
+   
+   (cycles per second)
+   
+   
+   
+   
+   
+   
+   
+   MAXIMUM SOUND PRESSURELEVEL IN DECIBELS

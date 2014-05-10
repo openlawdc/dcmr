@@ -1,0 +1,105 @@
+                                  DC REGULATIONS
+
+SAFETY (§ 15-2305)
+
+2305.1. Gas leak detection surveys, including all service lines up to the
+   exterior building wall, regardless of meter placement, shall be made as
+   follows:
+   
+   (a)	Business Districts.  A gas corporation shall conduct an annual survey in
+   business districts, involving tests of the atmosphere in gas, electric,
+   telephone, sewer, and water system manholes, at cracks in pavements and
+   sidewalks, and at other locations providing an opportunity for finding gas
+   leaks;
+   
+   (b)	Within ninety (90) days of the effective date of these rules, the gas
+   corporation shall provide the Commission with a map of the District of
+   Columbia showing Business Districts and shall update the map whenever changes
+   are made;
+   
+   (c)	Places of Public Assembly.  A gas corporation shall conduct an annual
+   	survey of service lines to places of public assembly using Hydrogen Flame
+   Ionization (HFI) or Combustible Gas Indicator (CGI) or other comparable
+   methods.;
+   
+   (d)	Within ninety (90) days of the effective date of these rules, the gas
+   corporation shall provide the Commission with a list of Places of Public
+   Assembly in the District of Columbia and shall update the list whenever
+   changes are made;
+   
+   (e)	Each gas corporation or small gas operator shall conduct a	survey of its
+   entire distribution system not less than once every three (3) years;
+   
+   (f)	Leakage tests by HFI or by CGI and bar hole or other comparable approved
+   method shall be conducted within the immediate area of each new, repaired or
+   replaced gas line after backfilling and after a reasonable period of gas
+   pressurizing when the line is being placed into service;
+   
+   (g)	Whenever a steel pipe or tubing is used in the attachment of a service
+   line to a cast iron main, it shall be protected against external corrosion
+   using an anode and test station, except in the case of a malleable fitting
+   when use of an anode only is sufficient;
+   
+   (h)	A pipeline no longer meeting cathodic protection criteria shall be
+   remediated promptly.  Prompt, as used in this section, is defined as resolving
+   the loss of cathodic protection within the next monitoring cycle.  Records
+   showing when the pipeline was discovered to have lost cathodic protection and
+   when the loss was remedied, along with annual test records, must be kept for
+   as long as the pipeline remains in service; and
+   
+   		(i)	Records of Surveys
+   
+   			(1)	Each gas corporation or small gas operator shall maintain a 					record
+   of each leak survey showing by location and date:
+   
+   				(A)	Leaks detected; and
+   
+   				(B)	Severity of each leak; and
+   
+   (2)	These records shall be kept as long as the segment of pipeline involved
+   remains in service.
+
+   2305.2. Pipeline Location
+   
+   (a)	Burial.  Pipelines shall be buried a minimum of twenty four inches (24
+   in.) or eighteen inches (18 in.) in solid rock, where the term solid rock
+   indicates the necessity of blasting or the use of pneumatic equipment.
+   
+   (b)	Exceptions.  Burial depths less than that specified but not less than
+   twelve 	inches (12 in.) will be allowed if underground obstructions preclude
+   these 	depths, and if special line protection is provided and accepted by the
+   Office of Engineering, after submission of documentation justifying the
+   exception;
+   
+   		(c)	As-built drawings shall be made after installation, but before 				the
+   pipelines are covered;
+   
+   (d)	Identification.
+   
+   			(1)	Tracer wire shall be installed with all plastic pipes; and
+   
+   (2)	When the open trenching method of pipeline construction is used, suitable
+   identification tape shall be installed at a minimum of twelve inches (12 in.)
+   above the top of the pipe and at least six inches (6 in.) below the final
+   grade after completion of installation
+   
+   (e)	Each gas corporation or small gas operator shall maintain all relevant
+   documentation of plastic pipe joining qualifications, all Operator
+   Qualification documentation, up-to-date manuals, and copies of relevant
+   procedures. Access to this documentation shall be available at each job site,
+   either in hard copy or electronically;
+   
+   		(f)	Each gas corporation or small gas operator shall provide adequate
+   				supervision for its construction crews;
+   
+   (g)	Each gas corporation or small gas operator shall submit a report of damage
+   to the gas pipeline system, including appropriate codes indicating the cause
+   of the damage.  This report shall be filed every other month, no later than
+   the tenth (10th) of the month; and
+   
+   (h)	Each gas corporation shall notify the Office of Engineering in writing at
+   least ten (10) days before the estimated start date of any construction
+   project scheduled for completion in five (5) or more working days, or before
+   the estimated start date of work related to an Integrity Management Program.
+   
+   SOURCE: Final Rulemaking published at 60 DCR 7 (January 4, 2013).

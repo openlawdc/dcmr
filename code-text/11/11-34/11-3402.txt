@@ -1,0 +1,300 @@
+                                  DC REGULATIONS
+
+CALCULATION OF GREEN AREA RATIO (§ 11-3402)
+
+3402.1. The GAR shall be calculated using the following formula:
+   
+   
+   
+   (area of landscape element 1 x multiplier)+
+   
+   GAR = 	(area of landscape element 2 x multiplier)+…
+   
+   						Lot Area
+   
+   3402.1 	For the purposes of the above formula and the remainder of this
+   chapter:
+   
+   The term “landscape element” refers to one of the elements listed in the
+   table in § 3402.9, and will be hereafter referred to as “landscape
+   element” or “element”;
+   
+   
+   
+   
+   
+   The term “multiplier” refers to the number listed in the Table in §
+   3402.9 that corresponds to a “landscape element”; and
+   
+   
+   
+   
+   
+   The “area of landscape element” shall be  the square feet of a landscape
+   element, unless the element is a tree or large shrub, in which case “area of
+   landscape element” refers to the element’s equivalent square footage as
+   indicated in  § 3402.7.
+   
+   3402.3 	The process for calculating a property’s GAR under the formula is as
+   follows:
+   
+   The area of each landscape element is multiplied by its corresponding
+   multiplier;
+   
+   
+   
+   
+   
+   The resulting numbers for all landscape elements are added together;
+   
+   
+   
+   
+   
+   The resulting point total is then divided by the total land area of the lot;
+   and
+   
+   
+   
+   
+   
+   The product of the equation equals the property’s GAR.
+
+   3402.4. The total points for all permeable paving and enhanced tree growth
+   credits may not count for more than one-third (1/3) of the GAR score for a
+   lot.
+
+   3402.5. If multiple landscape elements occupy the same area, for example
+   groundcover under a tree or trees and shrubs on an intensive green roof, the
+   full square footage or equivalent square footage of each element may be
+   counted.
+
+   3402.6. A landscape element must meet the eligibility conditions of § 3403.
+
+   3402.7. Equivalent square feet of tree canopy and large shrubs are identified
+   in the table below.
+   
+   
+   
+   GREEN AREA RATIO LANDSCAPE ELEMENTS
+   
+   EQUIVALENT SQUARE FOOTAGE
+   
+   
+   
+   Plants, not including grasses, at least 2 feet tall at maturity
+   
+   9 s.f. per plant
+   
+   
+   
+   Tree canopy for trees 2.5 inches to 6 inches in diameter
+   
+   50 s.f. per tree
+   
+   
+   
+   Tree canopy for trees  6 inches to 12 inches in diameter
+   
+   250 s.f. per tree
+   
+   
+   
+   Tree canopy for trees  12 inches to 18 inches in diameter
+   
+   600 s.f. per tree
+   
+   
+   
+   Tree canopy for trees 18 inches to 24 inches in diameter
+   
+   1300 s.f. per tree
+   
+   
+   
+   Tree canopy for trees larger than 24 inches in diameter
+   
+   2000 s.f. per tree
+
+   3402.8. Landscape elements of the GAR shall be measured in the following ways:
+   
+   All trees shall be measured for diameter at a height four feet, six inches (4
+   ft. 6 in.) above grade when planted and the square footage equivalent based on
+   diameter shall be as established in the table in § 3402.7;
+   
+   
+   
+   
+   
+   For vegetated walls, use the vertical square footage of the portion of the
+   wall covered by vegetation; and
+   
+   
+   
+   
+   
+   For all other elements other than trees, large shrubs, perennials, and
+   vegetated walls, square footage is determined by the area of a horizontal
+   plane that is over the element.
+
+   3402.9. Eligible landscape elements are identified in the table below:
+   
+   
+   
+   GREEN AREA RATIO LANDSCAPE ELEMENTS
+   
+   MULTIPLIER
+   
+   
+   
+   Landscaped area (select one of the following for each area)
+   
+   
+   
+   Landscaped areas with a soil depth of less than 24 inches
+   
+   0.3
+   
+   
+   
+   Landscaped areas with a soil depth of 24 inches or more
+   
+   0.6
+   
+   
+   
+   Bioretention facilities
+   
+   0.4
+   
+   
+   
+   Plantings
+   
+   
+   
+   Ground covers, or other plants less than 2 feet tall at maturity
+   
+   0.2
+   
+   
+   
+   Plants , not including grasses, at least 2 feet tall at maturity
+   
+   0.3
+   
+   
+   
+   Tree canopy for all trees 2.5 inches to 6 inches in diameter
+   
+   0.5
+   
+   
+   
+   Tree canopy for new trees 6 inches in diameter or larger
+   
+   0.6
+   
+   
+   
+   Tree canopy for preservation of existing trees 6 inches to 24 inches in
+   diameter
+   
+   0.7
+   
+   
+   
+   Tree canopy for preservation of existing trees 24 inches diameter or larger
+   
+   0.8
+   
+   
+   
+   Vegetated wall, plantings on a vertical surface
+   
+   0.6
+   
+   
+   
+   Vegetated roofs
+   
+   
+   
+   Extensive vegetated  roof over at least 2 inches but less than 8 inches of
+   growth medium
+   
+   0.6
+   
+   
+   
+   Intensive vegetated roof over at least 8 inches of growth medium
+   
+   0.8
+   
+   
+   
+   Permeable paving
+   
+   
+   
+   Permeable paving over at least 6 inches and less than 2 feet of soil or gravel
+   
+   0.4
+   
+   
+   
+   Permeable paving over at least 2 feet of soil or gravel
+   
+   0.5
+   
+   
+   
+   Other
+   
+   
+   
+   Enhanced tree growth systems
+   
+   0.4
+   
+   
+   
+   Renewable energy generation (area of)
+   
+   0.5
+   
+   
+   
+   Water features (using at least 50% recycled water)
+   
+   0.2
+   
+   
+   
+   Bonuses
+   
+   
+   
+   Native plant species listed in §3403.9
+   
+   0.1
+   
+   
+   
+   Landscaping in food cultivation
+   
+   0.1
+   
+   
+   
+   Harvested stormwater irrigation
+   
+   0.1
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 10077 (July 12, 2013).

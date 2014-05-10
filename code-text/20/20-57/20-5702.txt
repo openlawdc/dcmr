@@ -1,0 +1,59 @@
+                                  DC REGULATIONS
+
+NEW HAZARDOUS SUBSTANCE UST SYSTEMS (§ 20-5702)
+
+5702.1. Except as provided in § 5700.10, each new hazardous substance
+   underground storage tank shall be:
+   
+   
+   
+   (a)	Constructed of fiberglass-reinforced plastic, steel-fiberglass-reinforced
+   plastic composite, or steel;
+   
+   
+   
+   (b)	If constructed of steel, cathodically protected in accordance with the
+   requirements of § 5702.2 and;
+   
+   
+   
+   (c)	Of three hundred sixty degree (360) double wall construction as set forth
+   in § 5702.6.
+
+   5702.2. Each steel tank shall be cathodically protected by being coated with a
+   suitable dielectric material, and in addition:
+   
+   
+   
+   (a)	Field-installed cathodic protection systems shall be designed by a
+   corrosion expert; and
+   
+   
+   
+   (b)	Impressed current cathodic protection systems shall be designed to allow
+   determination of current operating status as required by § 5901.6.
+
+   5702.3. Each cathodic protection system shall be operated and maintained in
+   accordance with § 5901.
+
+   5702.4. Double-walled tanks shall be designed, constructed, and installed to
+   do the following:
+   
+   
+   
+   (a)	Contain a release from any portion of the inner tank within the outer wall
+   until detected and removed;
+   
+   
+   
+   (b)	Detect the failure of the inner or outer wall; and
+   
+   
+   
+   (c)	Prevent the release of regulated substances to the environment at any time
+   during the operational life of the UST system.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 7835, 7854 (November 12, 1993);
+   as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999).

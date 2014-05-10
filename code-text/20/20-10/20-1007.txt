@@ -1,0 +1,449 @@
+                                  DC REGULATIONS
+
+EMISSION MONITORING (§ 20-1007)
+
+1007.1. The owner or operator of each budget source shall comply with the
+   following:
+   
+   
+   
+   (a)	An owner or operator of a budget source shall monitor NOx emissions from
+   each budget source as specified by this section and &#8220;Guidance for
+   Implementation of Emission Monitoring Requirements for the NOx Budget
+   Program,&#8221; prepared for the Ozone Transport Commission and EPA&#8217;s
+   Acid Rain Division by Perrin Quarles Associates, Inc., and published January
+   28, 1997. Wherever the referenced guidance document allows for the
+   Director&#8217;s approval of alternative testing, monitoring, or record
+   keeping, EPA approval shall also be required.
+   
+   
+   
+   (b)	Within thirty (30) days of the effective date of this section, an owner or
+   operator shall submit to the Director a monitoring plan that describes the
+   monitoring approach to be used at the budget source. Any budget source not
+   subject to 40 CFR Part 75 (July 1, 1999) shall also include the information
+   outlined in § 1007.5.
+   
+   
+   
+   (c)	An owner or operator shall install emission monitoring systems, as
+   required and specified by this section, that are operational and meet all of
+   the certification testing requirements by no later than thirty (30) days after
+   the effective date of this Chapter.
+   
+   
+   
+   (d)	Budget sources that commence operation after January 1, 2000 shall submit
+   a monitoring plan and install, operate and certify emission- monitoring
+   systems required by this section no later than May 1st of the year following
+   the date when operations commenced.
+   
+   
+   
+   (e)	All monitoring systems are subject to initial performance testing and
+   periodic calibration, accuracy testing and quality assurance/quality control
+   testing as specified in &#8220;Guidance for Implementation of Emission
+   Monitoring Requirements for the NOx Budget Program&#8221;.
+   
+   
+   
+   (f)	During a period when valid data is not being recorded by monitoring
+   devices approved for use to demonstrate compliance with this Chapter, missing
+   or invalid data shall be replaced with representative default data pursuant to
+   the provisions of 40 CFR Part 75 and &#8220;Guidance for Implementation of
+   Emission Monitoring Requirements for the NOx Budget Program&#8221;.
+   
+   
+   
+   (g)	NOx emissions data shall be reported to the Administrator pursuant to the
+   provisions of § 1009.
+   
+   
+   
+   (h)	Each budget source that operates or commences operation before January 1,
+   2000 shall begin reporting data no later than thirty (30) days after the
+   effective date of this Chapter.
+   
+   
+   
+   (i)	Budget sources that commence operation after January 1, 2000 shall begin
+   reporting data in the first hour that the budget source is operating during an
+   ozone season.
+
+   1007.2. The owner or operator of each budget source subject to 40 CFR Part 75,
+   shall demonstrate compliance with this Chapter using a certified Part 75
+   monitoring system. If the owner or operator of the budget source has a flow
+   monitor certified pursuant to 40 CFR Part 75, NOx emissions in pounds per hour
+   (lb./hr) shall be determined using a NOx continuous emissions monitoring
+   system (CEMS) and the flow monitor. NOx in lb./mmBtu shall be determined by
+   using the procedure in § 3 of Appendix F of 40 CFR Part 75. The hourly heat
+   input shall be determined by using the procedures in § 5 of Appendix F of 40
+   CFR Part 75. NOx, in lb./hr shall be determined by multiplying the results of
+   the two determinations described above.
+
+   1007.3. If a Part 75 budget source does not have a certified flow monitor, but
+   does have a NOx CEMS, NOx emissions in lb./hr should be determined using the
+   NOx CEMS and procedures contained in &#8220;Guidance for Implementation of
+   Emission Monitoring Requirements for the NOx Budget Program&#8221; and other
+   procedures as applicable in the following circumstances:
+   
+   
+   
+   (a)	If the owner or operator of a budget source uses the procedures in
+   Appendix E of 40 CFR Part 75 to estimate the NOx emission rate, NOx emissions
+   in lb./hr- should be determined using Appendix E procedures and the heat input
+   for the unit.
+   
+   
+   
+   (b)	If the owner or operator of a budget source uses the procedures in Subpart
+   E of 40 CFR Part 75 to determine the NOx emission rate, NOx emissions in
+   lb./hr shall be determined using the alternative monitoring method approved
+   under 40 CFR Part 75, Subpart E, and the procedures contained in
+   &#8220;Guidance for Implementation of Emission Monitoring Requirements for the
+   NOx Budget Program&#8221;.
+
+   1007.4. Where unusual stack configurations complicate the monitoring protocol,
+   the relevant procedures contained in &#8220;Guidance for Implementation of
+   Emission Monitoring Requirements for the NOx Budget Program&#8221; shall
+   apply.
+
+   1007.5. The owner or operator of a budget source not subject to 40 CFR Part 75
+   shall:
+   
+   
+   
+   (a)	Prepare and obtain approval of a monitoring plan as specified in §
+   1007.6;
+   
+   
+   
+   (b)	Determine the NOx emission rate using a methodology specified in §
+   1007.7;
+   
+   
+   
+   (c)	Determine the heat input rate using the methodology described in §
+   1007.8; and
+   
+   
+   
+   (d)	Convert the NOx emission rate and heat input rate to NOx emissions in
+   lb./hr using the procedure described in § 1007.9.
+
+   1007.6. The owner or operator of a budget source not subject to 40 CFR Part
+   75, who seeks to use an alternative monitoring method to comply with this
+   section, shall develop and submit an alternative monitoring plan to the
+   Director and the Administrator. The owner or operator shall not commence
+   construction or testing of any alternative monitoring system unless the
+   Director and the Administrator approve the plan. The plan shall contain the
+   following:
+   
+   
+   
+   (a)	A description of the monitoring approach to be used;
+   
+   
+   
+   (b)	A description of the major components of the monitoring system including
+   the manufacturer, serial number of the component, the measurement span of the
+   component, and documentation to demonstrate that the measurement span of each
+   component is appropriate to measure all of the expected values (this
+   requirement applies to all monitoring systems including NOx CEMS&#8217;s that
+   have not been certified pursuant to 40 CFR Part 75);
+   
+   
+   
+   (c)	An estimate of the accuracy of the system and documentation to demonstrate
+   how the estimate of accuracy was determined;
+   
+   
+   
+   (d)	A description of the tests that will be used for initial certification,
+   initial quality assurance, periodic quality assurance and relative accuracy;
+   
+   
+   
+   (e)	A description of the test to determine boiler efficiency, if the
+   alternative monitoring method for determining heat input involves boiler
+   efficiency testing;
+   
+   
+   
+   (f)	A description of the test to be used in the fuel-sampling program, if the
+   alternative method uses fuel sampling;
+   
+   
+   
+   (g)	A description of all components of the fuel flow meter, the estimated
+   accuracy of the fuel flow meter, the most recent calibration of each of the
+   components and the original accuracy specifications from the manufacturer of
+   the fuel flow meter, if the alternative method utilizes fuel flow meters to
+   determine heat input and the meters have not been certified pursuant to 40 CFR
+   Part 75; and
+   
+   
+   
+   (h)	If the alternative method utilizes a default emission rate or unit
+   specific emission factor, as specified in § 1007.7(c)(3), the monitoring plan
+   shall include the following:
+   
+   
+   
+   (1)	All information necessary to support the emission rate including
+   historical monitoring and fuel usage data. If the source plans to conduct
+   emission testing to determine emission rate, the plan should include a test
+   protocol explaining the testing to be conducted;
+   
+   
+   
+   (2)	Procedures that will be used to demonstrate that any control equipment in
+   operation during the testing to develop source specific emission factors, or
+   during development of load-based emissions curves, are in use when those
+   factors or emission curves are applied to estimate NOx emissions; and
+   
+   
+   
+   (3)	Alternative uncontrolled emission rates to be used to estimate NOx
+   emissions during periods when control equipment is not being used or is
+   inoperable.
+
+   1007.7. The owner or operator of a budget source not subject to Part 75 who
+   chooses to implement an alternative emission rate monitoring method shall
+   determine the NOx emission rate in lb./mmBtu using one of the following
+   methods:
+   
+   
+   
+   (a)	The owner or operator of a budget source may implement monitoring pursuant
+   to Part 75.
+   
+   
+   
+   (b)	The owner or operator of a budget source that is required to install and
+   operate a NOx CEMS to meet the requirements of 40 CFR Part 75 or to meet other
+   District requirements or permits, shall use the NOx CEMS to meet the
+   requirements of this Chapter. Part 75 monitors used for this purpose shall
+   meet quality assurance criteria as described in &#8220;Guidance for
+   Implementation of Emission Monitoring Requirements for the NOx Budget
+   Program&#8221;. Any time a Part 75 CEMS cannot be used to report data for this
+   program because it does not meet the requirements of &#8220;Guidance for
+   Implementation of Emission Monitoring Requirements for the NOx Budget
+   Program&#8221;, missing data shall be substituted using the procedures in 40
+   CFR Part 75, Subpart D. In addition, a NOx CEMS that has not undergone initial
+   certification testing to meet the requirements of 40 CFR Part 75, or 40 CFR
+   Part 60, shall meet the initial certification requirements contained in
+   &#8220;Guidance for Implementation of Emission Monitoring Requirements for the
+   NOx Budget Program&#8221;.
+   
+   
+   
+   (c)	The owner or operator of a budget source that does not have a NOx CEMS may
+   request approval from the Director to use any of the following appropriate
+   methodologies to determine NOx emission rate:
+   
+   
+   
+   (1)	Boilers or turbines may use the procedures contained in 40 CFR Part 75,
+   Appendix E, to measure NOx emission rate in lb./mmBTU, consistent with the
+   provisions in &#8220;Guidance for Implementation of Emission Monitoring
+   Requirements for the NOx Budget Program&#8221;.
+   
+   
+   
+   (2)	Owners or operators of combustion turbines that are subject to this
+   Chapter may meet the monitoring requirements of this Chapter by using default
+   emission factors to determine NOx emissions in lb./hr as follows:
+   
+   
+   
+   (A)	For gas-fired turbines, the default NOx emission factor shall be seven
+   tenths (0.7) lb./mmBtu; and
+   
+   
+   
+   (B)	For oil-fired turbines, the default NOx emission factor shall be one and
+   two tenths (1.2) lb./mmBtu.
+   
+   
+   
+   (C)	Owners or operators of gas or oil fired turbines may perform testing, with
+   a protocol approved by the Director, to determine unit specific maximum
+   potential NOx emission rates.
+   
+   
+   
+   (3)	Owners or operators of boilers that are subject to this Chapter may meet
+   the monitoring requirements of this Chapter by using default emission factors
+   to determine NOx emissions in lb./hr as follows:
+   
+   
+   
+   (A)	For gas-fired boilers, the default NOx emission factor shall be one and
+   five tenths (1.5) lb./mmBtu;
+   
+   
+   
+   (B)	For oil-fired boilers, the default NOx emission factor shall be two (2.0)
+   lb./mmBtu; and
+   
+   
+   
+   (C)	Owners or operators of gas or oil fired boilers may perform testing, with
+   a protocol approved by the Director, to determine unit specific maximum
+   potential NOx emission rates.
+
+   1007.8. The owner or operator of a budget source that does not have a flow
+   CEMS may request approval from the Director to use any of the following
+   methodologies to determine heat input rate:
+   
+   
+   
+   (a)	The owner or operator of a budget source may determine heat input using a
+   flow monitor and a diluent monitor meeting the requirements of 40 CFR Part 75
+   and the procedures in § 5 of Appendix F of 40 CFR Part 75.
+   
+   
+   
+   (b)	The owner or operator of a budget source that combusts only oil or natural
+   gas may determine heat input using a fuel flow monitor meeting the
+   requirements of Appendix D of 40 CFR Part 75, and the procedures of § 5 of
+   Appendix F of 40 CFR Part 75.
+   
+   
+   
+   (c)	The owner or operator of a budget source of less than twenty-five (25)
+   megawatt (MWe) rated capacity that combusts only oil or natural gas may
+   determine heat input by measuring the fuel used at a frequency of no less than
+   once per week. This fuel usage must then be reported on an hourly basis by
+   apportioning the fuel based on electrical load pursuant to the following
+   formula:
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Hourly fuel usage
+   
+   
+   
+   
+   
+   
+   
+   =
+   
+   
+   
+   
+   
+   
+   
+   Hourly electrical load
+   
+   
+   
+   
+   
+   
+   
+   ×
+   
+   
+   
+   
+   
+   
+   
+   Total fuel usage
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Total electrical load
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   (d)	The owner or operator of a budget source that combusts any fuel other than
+   oil or natural gas may request permission from the Director to use an
+   alternative method of determining heat input. Alternative methods include:
+   
+   
+   
+   (1)	Conducting fuel sampling and analysis and monitoring fuel usage;
+   
+   
+   
+   
+   
+   (2)	Using boiler efficiency curves and other monitored information such as
+   boiler steam output; or
+   
+   
+   
+   (3)	Any other methods approved by the Director that meet the requirements
+   contained in &#8220;Guidance for Implementation of Emission Monitoring
+   Requirements for the NOx Budget Program&#8221;.
+   
+   
+   
+   (e)	Alternative methods for determining heat input are subject to both initial
+   and periodic relative accuracy and quality assurance testing as prescribed by
+   &#8220;Guidance for Implementation of Emission Monitoring Requirements for the
+   NOx Budget Program&#8221;.
+
+   1007.9. Once the NOx emission rate in lb./mrnBtu has been determined pursuant
+   to § 1007.7 and heat input rate in mmBtu/hr has been determined pursuant to
+   § 1007.8, the two (2) values shall be multiplied to provide NOx emissions in
+   lb./hr and shall be reported to the Administrator pursuant to § 1009.
+   
+   
+   
+   	SOURCE: As amended by final rulemaking published at 47 DCR 8646(October 10,
+   2000); as amended by final rulemaking published at 47 DCR 9686 (December 8,
+   2000).

@@ -1,0 +1,778 @@
+                                  DC REGULATIONS
+
+SALES TAX EXEMPTION, AND USE TAX ALLOCATION FOR TELECOMMUNICATION, UTILITY AND
+PUBLIC-SERVICE COMPANIES (§ 9-471)
+
+471.1. The Deputy Chief Financial Officer shall, upon written application of a
+   telecommunication, utility or public-service company, exempt that company from
+   the sales tax under § 128(f) of the Act, as amended, and issue a certificate
+   of exemption.
+
+   471.2. Tangible personal property and select services subject to sales tax
+   under the Act, purchased and paid for by telecommunication, utility and
+   public-service companies which have obtained a certificate of exemption, are
+   exempt from the District of Columbia sales tax if the property is for use and
+   consumption in maintaining, operating, and conducting the activities of the
+   company which are subject to the gross receipts tax under An Act Making
+   appropriations to provide for the expenses of the government of the District
+   of Columbia for the fiscal year ending June thirtieth, nineteen hundred and
+   three, and for other purposes, approved July 1, 1902 (32 Stat. 619; D.C. Code
+   § 47-2501), as amended, or which are subject to the telecommunication service
+   tax under the Toll Telecommunication Service Tax Emergency Act of 1989,
+   effective March 1, 1989 (D.C. Act 8-2; 36 DCR 1759; March 10, 1989).
+
+   471.3. A telecommunication or utility company exempt from the sales tax under
+   this section shall pay a use tax on all purchases subject to the sales tax
+   under the act and subject to the compensating use tax under the District of
+   Columbia Use Tax Act in an amount determined by applying the following
+   three-step formula:
+   
+   
+   
+   Step One
+   
+   
+   
+   Column (1)
+   
+   
+   
+   Column (2)
+   
+   
+   
+   Column (3)
+   
+   
+   
+   Column (4)
+   
+   
+   
+   Total District taxable purchases for month
+   
+   ×
+   
+   
+   
+   Gross receipts and/or gross charges on which District gross receipts tax or
+   telecommunication service tax paid in month of Column (1)
+   
+   
+   
+   ×
+   
+   Purchases of tangible personal property everywhere in month of Column (1)
+   
+   
+   
+   =
+   
+   Amount of Column (1) purchases exempt for use tax
+   
+   
+   
+   
+   
+   
+   
+   Gross receipts and/or gross charges every where for month of Column (1)
+   
+   
+   
+   District purchases of tangible personal property in month of Column (1)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Two
+   
+   
+   
+   
+   
+   Amount of Column (1) taxable at applicable rate, 6% e.g.
+   
+   
+   
+   ×
+   
+   Amount of Column (1) less Column (4) exempted purchases, with the exempted
+   purchases not to exceed Column (1) amount
+   
+   ×
+   
+   Applicable sales tax rate. 6% e. g
+   
+   =
+   
+   Use tax payable to District at applicable rate
+   
+   
+   
+   Total District purchases from Column (1)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Three
+   
+   
+   
+   Add the results of all Step Two applicable sales and use tax rates. Remit to
+   the District total Use tax payable to the District,&#8221; as computed in Step
+   Two for all applicable tax rates.
+   
+   
+   
+   The following are examples of the application of § 471.3.
+   
+   
+   
+   (1)	The taxpayer has gross receipts charges from the sale of toll
+   telecommunication service everywhere for the calendar month of one million
+   dollars ($ 1,000,000), with one hundred thousand dollars ($ 100,000) of those
+   gross charges and/or gross receipts in the District. Purchases of tangible
+   personal property subject to use tax are five hundred thousand dollars ($
+   500,000), with fifty thousand dollars ($ 50,000) in the District. For purposes
+   of this example, a six percent (6%) District sales tax rate applies to forty
+   thousand dollars ($ 40,000) of the fifty thousand ($ 50,000) in District
+   purchases. The remaining ten thousand dollars ($ 10,000) in District purchases
+   are subject to an eight percent (8%) rate. The use tax exemption, and use tax
+   payable to the District, is computed as follows:
+   
+   
+   
+   Step One
+   
+   
+   
+   Column (1)
+   
+   
+   
+   Column (2)
+   
+   
+   
+   Column (3)
+   
+   
+   
+   Column (4)
+   
+   
+   
+   $ 50,000
+   
+   ×
+   
+   $ 100,000
+   
+   ×
+   
+   $ 500,000
+   
+   =
+   
+   $ 50,000 exemption
+   
+   
+   
+   
+   
+   
+   
+   $ 1,000,000
+   
+   
+   
+   $ 50,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Two and Step Three
+   
+   
+   
+   These steps need not be completed because the exemption equals taxable
+   purchases resulting in no District use tax payable. However, a tax return
+   prescribed by the Mayor shall be filed in this instance, nonetheless.
+   
+   
+   
+   (2)	Same facts as (1) above except that gross receipts or gross charges
+   subject to a District gross receipts tax or toll telecommunication service tax
+   are fifty thousand dollars ($ 50,000). The exemption is computed as follows:
+   
+   
+   
+   Step One
+   
+   
+   
+   Column (1)
+   
+   
+   
+   Column (2)
+   
+   
+   
+   Column (3)
+   
+   
+   
+   Column (4)
+   
+   
+   
+   $ 50,000
+   
+   ×
+   
+   $ 50,000
+   
+   ×
+   
+   $ 500,000
+   
+   =
+   
+   $ 25,000 exemption
+   
+   
+   
+   
+   
+   
+   
+   $ 1,000,000
+   
+   
+   
+   $ 50,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Two
+   
+   
+   
+   6% rate
+   
+   $ 40,000
+   
+   ×
+   
+   $ 25,000
+   
+   =
+   
+   $ 20,000
+   
+   ×
+   
+   6%
+   
+   =
+   
+   $ 1,200
+   
+   
+   
+   
+   
+   $ 50,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   8% rate
+   
+   $ 10,000
+   
+   ×
+   
+   $ 25,000
+   
+   =
+   
+   $ 5,000
+   
+   ×
+   
+   8%
+   
+   =
+   
+   $ 400
+   
+   
+   
+   
+   
+   $ 50,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Three
+   
+   
+   
+   $ 1,200(tax at 6% rate) + $ 400(tax at 8% rate) = $ 1,600(Total use tax
+   payable to the District)
+
+   471.4. A public-service company exempt from the sales tax under this section
+   shall pay a use tax on all purchases subject to the sales tax under the act
+   and subject to the compensating use tax under the District of Columbia Use Tax
+   Act in an amount determined by applying the following three-step formula:
+   
+   
+   
+   Step One
+   
+   
+   
+   Column (1)
+   
+   
+   
+   Column (2)
+   
+   
+   
+   Column (3)
+   
+   
+   
+   Column (4)
+   
+   
+   
+   Total District taxable purchases for month
+   
+   ×
+   
+   Public-Service miles traveled within the District
+   
+   ×
+   
+   Purchases of tangible personal property everywhere in month of Column (1)
+   
+   =
+   
+   Amount of Column (1) purchases exempt from use tax
+   
+   
+   
+   
+   
+   
+   
+   Public-Service miles traveled everywhere
+   
+   
+   
+   District purchases of tangible personal property in month of Column (1)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Two
+   
+   
+   
+   
+   
+   Amount of Column (1) taxable at applicable rate, 6% e.g.
+   
+   
+   
+   ×
+   
+   Amount of Column (1) less Column (4) exempted purchases, with the exempted
+   purchases not to exceed Column (1) amount
+   
+   ×
+   
+   Applicable sales tax rate. 6% e.g.
+   
+   =
+   
+   Use tax payable to District at applicable rate
+   
+   
+   
+   Total District purchases from Column (1)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Three
+   
+   
+   
+   Add the results of all Step Two applicable sales and use tax rates. Remit to
+   the District total &#8220;Use tax payable to the District,&#8221; as computed
+   in Step Two for all applicable tax rates.
+   
+   
+   
+   The following are examples of the application of § 471.4:
+   
+   
+   
+   (1)	The taxpayer has public-service miles traveled everywhere for the calendar
+   month of one million miles (1,000,000), with one hundred thousand miles
+   (100,000) traveled in the District. Purchases of tangible personal property
+   subject to use tax are five hundred thousand dollars ($ 500,000), with fifty
+   thousand dollars 50,000) in the District. For purposes of this example, a six
+   percent (6%) District sales tax rate applies to forty thousand dollars ($
+   40,000) of the fifty thousand dollars ($ 50,000) in District purchases. The
+   remaining ten thousand dollars ($ 10,000) in. District purchases are subject
+   to an eight percent (8%) rate. The use tax exemption, and use tax payable to
+   the District, is computed as follows:
+   
+   
+   
+   Step One
+   
+   
+   
+   Column (1)
+   
+   
+   
+   Column (2)
+   
+   
+   
+   Column (3)
+   
+   
+   
+   Column (4)
+   
+   
+   
+   $ 50,000
+   
+   ×
+   
+   100,000 miles
+   
+   ×
+   
+   $ 500,000
+   
+   =
+   
+   $ 50,000 exemption
+   
+   
+   
+   
+   
+   
+   
+   1,000,000 miles
+   
+   
+   
+   $ 50,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Two and Step Three
+   
+   
+   
+   These steps need not be completed because the exemption equals taxable
+   purchases resulting in no District use tax payable. However, a tax return
+   prescribed by the Mayor shall be filed in this instance, nonetheless.
+   
+   
+   
+   (2)	Same facts as (1) above except that fifty thousand miles (50,000) were
+   traveled in the District. The exemption is computed as follows:
+   
+   
+   
+   Step One
+   
+   
+   
+   Column (1)
+   
+   
+   
+   Column (2)
+   
+   
+   
+   Column (3)
+   
+   
+   
+   Column (4)
+   
+   
+   
+   $ 50,000
+   
+   ×
+   
+   50,000 miles
+   
+   ×
+   
+   $ 500,000
+   
+   =
+   
+   $ 25,000 exemption
+   
+   
+   
+   
+   
+   
+   
+   1,000,000 miles
+   
+   
+   
+   $ 50,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Two
+   
+   6% rate
+   
+   $ 40.000
+   
+   ×
+   
+   $ 25,000
+   
+   =
+   
+   $ 20,000
+   
+   ×
+   
+   6%
+   
+   =
+   
+   $ 1,200
+   
+   
+   
+   
+   
+   $ 50,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   8% rate
+   
+   $ 10.000
+   
+   ×
+   
+   $ 25,000
+   
+   =
+   
+   $ 5,000
+   
+   ×
+   
+   8%
+   
+   =
+   
+   $ 400
+   
+   
+   
+   
+   
+   $ 50,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Step Three
+   
+   
+   
+   $ 1200(tax at 6% rate) + $ 400(tax at 8% rate) = $ 1,600 (Total use tax
+   payable to the District)
+
+   471.5. The use tax return required to be filed under this section shall be due
+   and the tax paid by the twentieth (20th) day of the month following the
+   calendar month for which the tax is due.
+
+   471.6. Each telecommunication, utility and public-service company shall file a
+   return as prescribed by the Mayor even if no use tax is payable therewith.
+
+   471.7. The numerator and denominator of Column (3) purchases in §§ 471.3 and
+   471.4 shall include services subject to sales and use taxes without regard for
+   any exemption from these taxes.
+
+   471.8. The numerator and denominator of Column (3) purchases in §§ 471.3 and
+   471.4 shall include rental payments subject to sales and use taxes under the
+   act and the District of Columbia Use Tax Act without regard for any exemption
+   from these taxes.
+
+   471.9. The exemption provided for under §§ 471.3 and 471.4 shall be limited
+   to Column (1) total District taxable purchases for the same calendar month.
+
+   471.10. No carryforward or carryback shall be allowed for any excess exemption
+   derived from operation of the formulas in §§ 471.3 and 471.4.
+
+   471.11. Column (1) total District taxable purchases, as required under the
+   formula set forth in §§ 471.3 and 471.4, for a calendar month shall include
+   all purchases of tangible personal property and services subject to sales or
+   use taxes without regard for any exemption from these taxes.
+
+   471.12. If the allocation provisions of this section do not fairly represent
+   the extent of the sales tax exemption provision under the Act, as amended, the
+   taxpayer may petition for, or the Mayor may require, the employment of any
+   other method to effectuate an equitable allocation of the taxpayer&#8217;s
+   sales tax exemption.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 34 DCR 6143 (September 25, 1987); as
+   amended by Final Rulemaking published at 36 DCR 2478 (April 7, 1989).

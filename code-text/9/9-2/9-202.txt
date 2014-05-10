@@ -1,0 +1,898 @@
+                                  DC REGULATIONS
+
+VALUATION (§ 9-202)
+
+202.1. The taxable value of any estate for years shall be determined by
+   multiplying five percent (5%) of the market value of the property from which
+   the estate accrues by the figure shown in the table in § 202.3 opposite the
+   number of years for which the estate is fixed.
+
+   202.2. The taxable value of a fixed annuity shall be determined by multiplying
+   the aggregate fixed sum or sums to be received each year by the figure shown
+   in the table in § 202.3 opposite the fixed number of years during which the
+   annuity is to run.
+
+   202.3. FIXED ANNUITY TABLE (5%): Present worth of an annuity of one dollar ($
+   1) payable at the end of each year for a certain number of years:
+   
+   
+   
+   Years
+   
+   
+   
+   Years
+   
+   
+   
+   Years
+   
+   
+   
+   Years
+   
+   
+   
+   
+   
+    1
+   
+   $ 0.9524
+   
+   21
+   
+   $ 12.8212
+   
+   41
+   
+   $ 17.2944
+   
+   61
+   
+   $ 18.9803
+   
+   
+   
+    2
+   
+   1.8594
+   
+   22
+   
+   13.1630
+   
+   42
+   
+   17.4232
+   
+   62
+   
+   19.0288
+   
+   
+   
+    3
+   
+   2.7232
+   
+   23
+   
+   13.4886
+   
+   43
+   
+   17.5459
+   
+   63
+   
+   19.0751
+   
+   
+   
+    4
+   
+   3.5460
+   
+   24
+   
+   13.7986
+   
+   44
+   
+   17.6628
+   
+   64
+   
+   19.1191
+   
+   
+   
+    5
+   
+   4.3295
+   
+   25
+   
+   14.0939
+   
+   45
+   
+   17.7741
+   
+   65
+   
+   19.1611
+   
+   
+   
+    6
+   
+   5.0757
+   
+   26
+   
+   14.3752
+   
+   46
+   
+   17.8801
+   
+   66
+   
+   19.2010
+   
+   
+   
+    7
+   
+   5.7864
+   
+   27
+   
+   14.6430
+   
+   47
+   
+   17.9810
+   
+   67
+   
+   19.2391
+   
+   
+   
+    8
+   
+   6.4632
+   
+   28
+   
+   14.8981
+   
+   48
+   
+   18.0772
+   
+   68
+   
+   19.2753
+   
+   
+   
+    9
+   
+   7.1078
+   
+   29
+   
+   15.1411
+   
+   49
+   
+   18.1687
+   
+   69
+   
+   19.3098
+   
+   
+   
+   10
+   
+   7.7217
+   
+   30
+   
+   15.3725
+   
+   50
+   
+   18.2559
+   
+   70
+   
+   19.3427
+   
+   
+   
+   11
+   
+   8.3064
+   
+   31
+   
+   15.5928
+   
+   51
+   
+   18.3390
+   
+   71
+   
+   19.3740
+   
+   
+   
+   12
+   
+   8.8633
+   
+   32
+   
+   15.8027
+   
+   52
+   
+   18.4181
+   
+   72
+   
+   19.4038
+   
+   
+   
+   13
+   
+   9.3936
+   
+   33
+   
+   16.0025
+   
+   53
+   
+   18.4934
+   
+   73
+   
+   19.4322
+   
+   
+   
+   14
+   
+   9.8986
+   
+   34
+   
+   16.1929
+   
+   54
+   
+   18.5651
+   
+   74
+   
+   19.4592
+   
+   
+   
+   15
+   
+   10.3797
+   
+   35
+   
+   16.3742
+   
+   55
+   
+   18.6335
+   
+   75
+   
+   19.4850
+   
+   
+   
+   16
+   
+   10.8378
+   
+   36
+   
+   16.5469
+   
+   56
+   
+   18.6985
+   
+   76
+   
+   19.5095
+   
+   
+   
+   17
+   
+   11.2741
+   
+   37
+   
+   16.7113
+   
+   57
+   
+   18.7605
+   
+   77
+   
+   19.5329
+   
+   
+   
+   18
+   
+   11.6896
+   
+   38
+   
+   16.7113
+   
+   58
+   
+   18.8195
+   
+   78
+   
+   19.5551
+   
+   
+   
+   19
+   
+   12.0853
+   
+   39
+   
+   17.0170
+   
+   59
+   
+   18.8758
+   
+   79
+   
+   19.5863
+   
+   
+   
+   20
+   
+   12.4622
+   
+   40
+   
+   17.1591
+   
+   60
+   
+   18.9293
+   
+   80
+   
+   19.5965
+
+   202.4. The taxable value of life interest in any property shall be determined
+   by multiplying five percent (5%) of the market value of the property (as of
+   date of death of decedent) from which the life interest is to accrue, by the
+   figure shown opposite the age of the beneficiary in the American Experience
+   Table of Mortality in § 202.6.
+
+   202.5. The taxable value of an annuity for life shall be multiplied by the
+   appropriate figure in the same table, instead of five percent (5%) of the
+   value of the property from which the annuity accrues. If payments under an
+   annuity are to be made more often than once each year, the aggregate of those
+   payments per year shall be considered the annuity payment for purposes of
+   determining the taxable value.
+
+   202.6. ANNUITY VALUATION TABLE BASED ON AMERICAN EXPERIENCE TABLE OF MORTALITY
+   (WITH INTEREST AT 5%): Annuity or present value of one dollar ($ 1) due at the
+   end of each year during the life of a person of specified age:
+   
+   
+   
+   Age
+   
+   
+   
+   Age
+   
+   
+   
+   Age
+   
+   
+   
+   
+   
+    0
+   
+   $ 12.818
+   
+   32
+   
+   $ 14.85666
+   
+   64
+   
+   $ 7.75900
+   
+   
+   
+    1
+   
+   14.922
+   
+   33
+   
+   14.73492
+   
+   65
+   
+   7.45885
+   
+   
+   
+    2
+   
+   15.731
+   
+   34
+   
+   14.60774
+   
+   66
+   
+   7.15921
+   
+   
+   
+    3
+   
+   16.125
+   
+   35
+   
+   14.47479
+   
+   67
+   
+   6.86074
+   
+   
+   
+    4
+   
+   16.346
+   
+   36
+   
+   14.33572
+   
+   68
+   
+   6.56420
+   
+   
+   
+    5
+   
+   16.472
+   
+   37
+   
+   14.19057
+   
+   69
+   
+   6.27048
+   
+   
+   
+    6
+   
+   16.535
+   
+   38
+   
+   14.03897
+   
+   70
+   
+   5.98022
+   
+   
+   
+    7
+   
+   16.561
+   
+   39
+   
+   13.88092
+   
+   71
+   
+   5.69422
+   
+   
+   
+    8
+   
+   16.560
+   
+   40
+   
+   13.71604
+   
+   72
+   
+   5.41286
+   
+   
+   
+    9
+   
+   16.540
+   
+   41
+   
+   13.54430
+   
+   73
+   
+   5.13592
+   
+   
+   
+   10
+   
+   16.50475
+   
+   42
+   
+   13.36528
+   
+   74
+   
+   4.86279
+   
+   
+   
+   11
+   
+   16.46076
+   
+   43
+   
+   13.17891
+   
+   75
+   
+   4.59264
+   
+   
+   
+   12
+   
+   16.41469
+   
+   44
+   
+   12.98494
+   
+   76
+   
+   4.32477
+   
+   
+   
+   13
+   
+   16.36642
+   
+   45
+   
+   12.78344
+   
+   77
+   
+   4.05856
+   
+   
+   
+   14
+   
+   16.31581
+   
+   46
+   
+   12.57414
+   
+   78
+   
+   3.79392
+   
+   
+   
+   15
+   
+   16.26274
+   
+   47
+   
+   12.35728
+   
+   79
+   
+   3.53109
+   
+   
+   
+   16
+   
+   16.20722
+   
+   48
+   
+   12.13275
+   
+   80
+   
+   3.27017
+   
+   
+   
+   17
+   
+   16.14986
+   
+   49
+   
+   11.90076
+   
+   81
+   
+   3.01349
+   
+   
+   
+   18
+   
+   16.08779
+   
+   50
+   
+   11.66175
+   
+   82
+   
+   2.76062
+   
+   
+   
+   19
+   
+   16.02372
+   
+   51
+   
+   11.41594
+   
+   83
+   
+   2.51052
+   
+   
+   
+   20
+   
+   15.95658
+   
+   52
+   
+   11.16361
+   
+   84
+   
+   2.26066
+   
+   
+   
+   21
+   
+   15.88620
+   
+   53
+   
+   10.90499
+   
+   85
+   
+   2.00986
+   
+   
+   
+   22
+   
+   15.81257
+   
+   54
+   
+   10.64036
+   
+   86
+   
+   1.76061
+   
+   
+   
+   23
+   
+   15.73552
+   
+   55
+   
+   10.37017
+   
+   87
+   
+   1.51750
+   
+   
+   
+   24
+   
+   15.65484
+   
+   56
+   
+   10.09472
+   
+   88
+   
+   1.28611
+   
+   
+   
+   25
+   
+   15.57033
+   
+   57
+   
+   9.81450
+   
+   89
+   
+   1.06704
+   
+   
+   
+   26
+   
+   15.48176
+   
+   58
+   
+   9.52988
+   
+   90
+   
+   0.85453
+   
+   
+   
+   27
+   
+   15.38910
+   
+   59
+   
+   9.24127
+   
+   91
+   
+   0.64497
+   
+   
+   
+   28
+   
+   15.29210
+   
+   60
+   
+   8.94928
+   
+   92
+   
+   0.44851
+   
+   
+   
+   29
+   
+   15.19051
+   
+   61
+   
+   8.65445
+   
+   93
+   
+   0.28761
+   
+   
+   
+   30
+   
+   15.08425
+   
+   62
+   
+   8.35742
+   
+   94
+   
+   0.13605
+   
+   
+   
+   31
+   
+   14.97307
+   
+   63
+   
+   8.05876
+
+   202.7. The age of the beneficiary to be used is the age on the birthday of the
+   beneficiary nearest the date of the death of the decedent.
+
+   202.8. In determining the value of any estate for life limited upon a
+   precedent estate for life or a term of years, the value of the precedent life
+   interest or a term of years shall be deducted, except where the time for
+   payment of the tax is postponed under the provisions of § 7 of Article 1 of
+   the Act.
+
+   202.9. Where an estate for life, or for years, can be divested by the act or
+   omission of any legatee or devisee, it shall be taxed as if there were no
+   possibility of such divesting.
+
+   202.10. In determining the value of the share or interest of a beneficiary in
+   any estate where the beneficiary is presently in possession or enjoyment of
+   the share or interest, no allowance shall be made on account of any contingent
+   encumbrance nor for any contingency upon the happening of which the estate of
+   property or some part of it or interest in it might be abridged, defeated, or
+   diminished.
+
+   202.11. Income accrued but not collected at the time of the death of the
+   decedent is subject to the tax and is to be included in the valuation of the
+   property.
+   
+   
+   
+   	SOURCE: Commissioners&#8217; Order 299-637/12, effective June 14, 1944, 16
+   DCRR §§ 403.1 through 403.3, 403.5 through 403.7.

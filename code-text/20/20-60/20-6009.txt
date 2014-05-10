@@ -1,0 +1,60 @@
+                                  DC REGULATIONS
+
+VAPOR MONITORING (§ 20-6009)
+
+6009.1. A release detection method that monitors or tests for vapors within
+   the soil gas of the excavation zone shall meet the requirements of this
+   section.
+
+   6009.2. The owner or operator shall assess the excavation zone to ensure
+   compliance with the requirements set forth in this section.
+
+   6009.3. The materials used as backfill (such as gravel, sand, crushed rock, or
+   similar materials) shall be sufficiently porous to readily allow diffusion of
+   vapors from releases into the excavation zone.
+
+   6009.4. The stored regulated substance, or a tracer compound placed in the
+   tank system, shall have a volatility that is sufficient to result in a vapor
+   level that is detectable by the monitoring devices located in the excavation
+   zone in the event of a release from the tank.
+
+   6009.5. The measurement of vapors by the monitoring device shall not be
+   reduced in effectiveness or rendered inoperative by ground water, rainfall,
+   soil moisture, or any other known interference to the point that a release
+   could go undetected for more than fifteen (15) days.
+
+   6009.6. The level of background contamination in the excavation zone shall not
+   interfere with the vapor monitoring method used to detect releases from the
+   tank.
+
+   6009.7. The vapor monitor used shall be designed and operated to detect any
+   significant increase in concentration above the background concentrations in
+   the excavation zone of any one (1) of the following:
+   
+   
+   
+   (a)	The regulated substance stored in the tank system;
+   
+   
+   
+   (b)	A component or components of the regulated substance; or
+   
+   
+   
+   (c)	A tracer compound placed in the tank system.
+
+   6009.8. Before using vapor monitoring, the owner or operator shall assess the
+   excavation zone to ensure compliance with §§ 6009.3 through 6009.6 of this
+   section, and to establish the number and positioning of monitoring wells that
+   will detect releases within the excavation zone from any portion of the tank
+   that routinely contains product.
+
+   6009.9. Monitoring wells shall be clearly marked and secured to avoid
+   unauthorized access and tampering. Monitoring wells shall not be marked in any
+   way that could be associated with a regulated substance stored at the
+   facility.
+   
+   
+   
+   	SOURCE Final Rulemaking published at 40 DCR 7835, 7873 (November 12, 1993);
+   as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999).

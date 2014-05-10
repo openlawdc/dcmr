@@ -1,0 +1,74 @@
+                                  DC REGULATIONS
+
+COMBINED REPORTING[COLON] APPORTIONMENT (§ 9-169)
+
+169.1. The Joyce Rule.  For apportionment purposes, the principle established
+   in Appeal of Joyce, Inc. (Cal. SBOE 11/23/66) shall apply, in which each
+   taxpayer member of the combined group is treated as a separate taxpayer and
+   that taxpayer’s numerators will include only that taxpayer’s own property,
+   payroll, and sales factor numerators attributable to the District and will not
+   include a share of a non-nexus member’s factors.  Each taxpayer member’s
+   denominator shall contain the property, payroll, and sales of the entire
+   combined group wherever those property, payroll, and sales are attributed
+   regardless of nexus.  The following example illustrates the Joyce method:
+   
+   
+   
+   Entity Name
+   
+   
+   
+   District Receipts
+   
+   Everywhere Receipts
+   
+   District
+   
+   Nexus
+   
+   
+   
+   Entity A
+   
+   50
+   
+   100
+   
+   Yes
+   
+   
+   
+   Entity B
+   
+   100
+   
+   200
+   
+   Yes
+   
+   
+   
+   Entity C
+   
+   100
+   
+   200
+   
+   No
+   
+   
+   
+   Factor Total
+   
+   150
+   
+   500
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 59 DCR 10875, 10894 (September 14,
+   2012).

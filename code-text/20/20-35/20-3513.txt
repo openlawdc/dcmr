@@ -1,0 +1,249 @@
+                                  DC REGULATIONS
+
+ENERGY PERFORMANCE BENCHMARKING OF PRIVATELY-OWNED BUILDINGS (§ 20-3513)
+
+3513.1. Pursuant to D.C. Official Code § 6-1451.03, an owner of a
+   privately-owned building shall annually measure the performance of the
+   building using the ENERGY STAR® Portfolio Manager (Portfolio Manager)
+   benchmarking tool, according to the following schedule:
+   
+   (a)	All buildings over two hundred thousand square feet (200,000 sq. ft.) of
+   gross floor area, beginning with 2010 data and thereafter;
+   
+   (b)	All buildings over one hundred fifty thousand square feet (150,000 sq.
+   ft.) of gross floor area, beginning with 2011 data and thereafter;
+   
+   (c)	All buildings over one hundred thousand square feet (100,000 sq. ft.) of
+   gross floor area, beginning with 2012 data and thereafter; and
+   
+   (d)	All buildings over fifty thousand square feet (50,000 sq. ft.) of gross
+   floor area, beginning with 2013 data and thereafter.
+
+   3513.2. When determining the size of a building to determine the application
+   of § 3513.1, a building owner shall:
+   
+   (a)	Calculate the gross floor area of a building as defined by Portfolio
+   Manager;
+   
+   (b)	Include primary spaces but not include secondary spaces, as defined by
+   Portfolio Manager; and
+   
+   (c)	Include the combined gross floor area, not including secondary spaces, of
+   any set of buildings that share building systems or at least one common energy
+   or water meter without separate metering or sub-metering, such that their
+   energy or water use cannot be individually tracked and they must benchmarked
+   as one building or campus in Portfolio Manager.
+
+   3513.3. According to the schedule in § 3513.1 and the requirements specified
+   in § 3513.4 through § 3513.8, a building owner whose building falls under
+   the benchmarking requirements for the previous calendar year shall:
+   
+   (a)	Open a Portfolio Manager account;
+   
+   (b)	Request from any non-residential tenants or utility companies the
+   information necessary to fulfill the requirements of § 3513.3(c);
+   
+   (c)	Enter into Portfolio Manager the building information required by the
+   District Data Collection Worksheet, including:
+   
+   (1)	Energy and water utility information, in accordance with § 3413.7;
+   
+   (2)	Space use attributes information; and
+   
+   (3)	Garage or other secondary space information associated with a building’s
+   energy and water use;
+   
+   (d)	Benchmark in Portfolio Manager as one building, property, or campus,
+   following guidance from the United States Environmental Protection Agency
+   (U.S. EPA) and the District Department of the Environment (DDOE), any set of
+   buildings that are served by shared utility systems or at least one common
+   energy or water meter without separate metering or sub-metering, such that the
+   buildings’ individual energy or water use cannot be individually tracked, or
+   are of a space type that U.S. EPA recommends be benchmarked as a campus; and
+   
+   (e)	Authorize the transfer of a District Benchmark Results and Compliance
+   Report to the District, via the District Benchmark Reporting Template,
+   exclusive of any financial information.
+
+   3513.4. The District Benchmark Results and Compliance Report must include the
+   following:
+   
+   (a)	For a building type for which:
+   
+   (1)	A Portfolio Manager benchmark score is available, a score result between
+   one (1) and one hundred (100); or
+   
+   (2)	A Portfolio Manager benchmark score is not available, an Energy Use
+   Intensity (EUI) result; or
+   
+   (3)	Insufficient information is available to achieve either a Portfolio
+   Manager benchmark score or an EUI result, an explanation of why the
+   requirements of § 3513.3(c) were not met in reasonably sufficient detail to
+   avoid the penalties of § 3513.14;
+   
+   (b)	Information on any non-residential tenants who did not provide needed data
+   as required by § 3513.6, including the tenant’s name, contact information,
+   and gross floor area leased; and
+   
+   (c)	Whether whole-building data was included for all utilities, or, if
+   partial-building utility data was included, which set(s) of utility data were
+   partial, and which covered the whole building.
+
+   3513.5. A non-residential building owner, or an owner of a residential
+   building with non-residential tenants, shall request the information about
+   tenant spaces required for the owner to fulfill the requirements of §
+   3513.3(c). The following applies:
+   
+   (a)	Beginning in 2013 and thereafter, and by February 1 of each year, a
+   building owner shall request the space use, energy, and water consumption
+   information listed on the Non-Residential Tenant Information Form from all
+   non-residential tenants, and may use the Non-Residential Tenant Notification
+   Letter and Non-Residential Tenant Information Form to request this
+   information; or
+   
+   (b)	Beginning in 2013 and thereafter, and by February 1 of each year, provided
+   that one or more utility companies have made access to aggregated utility data
+   available to building owners prior to that date, the building owner may
+   request utility data from the utility company or companies, and is only
+   required to request from non-residential tenants space use information and any
+   utility data not available in aggregate form.
+
+   3513.6. Within thirty (30) days of receiving a request for the data listed on
+   the Non-Residential Tenant Information Form from the building owner, a
+   non-residential tenant shall provide complete and accurate information to the
+   building owner. The following applies:
+   
+   (a)	Tenants who sublease their space are responsible for collecting and
+   reporting sub-tenant information and submitting it to the building owner; and
+   
+   (b)	Failure of a non-residential tenant to provide the information listed on
+   the Non-Residential Tenant Information Form to the building owner as required
+   by this section shall subject the tenant to fines under § 3513.14.
+
+   3513.7. A building owner shall enter data in Portfolio Manager in accordance
+   with the following:
+   
+   
+   
+    (a)	Whenever possible, building owners should benchmark their building(s)
+   using whole-building utility data:
+   
+   
+   
+   (1)	Whole-building utility data can be obtained by receiving data from all
+   tenants, from master meters, or from a utility company; or
+   
+   
+   
+   (2)	If a utility company has made aggregated utility data available to
+   building owners prior to February 1 of that calendar year, then a building
+   owner must benchmark using whole-building utility data for that utility;
+   
+   
+   
+   (b)	When a non-residential building owner does not have whole-building
+   information sufficient to fulfill the requirements of § 3513.3(c), and has
+   made a reasonable effort to obtain from a non-residential tenant the
+   information required by § 3513.5, but that information has not been received
+   from that tenant, the building owner shall not be relieved of their
+   benchmarking obligations, and shall instead submit a partial-building
+   benchmarking report; and
+   
+   
+   
+   (c)	A partial-building benchmarking report shall include any available
+   whole-building information (including any available aggregated utility data),
+   any non-residential tenant information received (where applicable), and all
+   common area information.
+
+   3513.8. Beginning in 2013 and thereafter, and by April 1 of each year, a
+   building owner shall timely authorize the transfer to the District of a
+   complete and accurate District Benchmark Results and Compliance Report for the
+   previous calendar year.
+
+   3513.9. If, after submitting a District Benchmark Results and Compliance
+   Report to the District as required in § 3513.8, a building owner receives new
+   or updated information that would require an update to a building’s
+   benchmark report, then the building owner shall, within thirty (30) days of
+   receiving the new information, enter the additional or corrected data into
+   Portfolio Manager and authorize the transfer to the District of an updated
+   District Benchmark Results and Compliance Report, and shall notify DDOE
+   accordingly.
+
+   3513.10. In cases where a building owner has leased a building to a single
+   tenant and that tenant has assumed management of the entire building, the
+   building owner may, at the request of and with the consent of the tenant,
+   delegate all responsibility regarding this section to that tenant, and notify
+   DDOE accordingly.
+
+   3513.11. Consistent with the requirements of § 3513.1, a building owner shall
+   fulfill the requirements of § 3513.3 beginning with the first full calendar
+   year after:
+   
+   (a)	The building receives its Temporary Certificate of Occupancy or
+   Certificate of Occupancy, whichever comes first; or
+   
+   (b)	The building changes ownership.
+
+   3513.12. If a building owner receives notice that a non-residential tenant
+   intends to vacate a building before the information required by § 3513.5 is
+   due, then:
+   
+   (a)	The building owner shall request that the tenant provide the information
+   on the Non-Residential Tenant Information Form for the period the tenant
+   occupied the building; and
+   
+   (b)	The tenant shall provide the information listed on the Non-Residential
+   Tenant Information Form to the building owner as soon as practicable prior to
+   vacating the leased space in the building; or, if such information is not
+   available prior to vacating such space, as soon as practicable after the
+   tenant vacates the building.
+
+   3513.13. A building owner shall comply with the following record retention
+   requirements:
+   
+   (a)	Preserve benchmark results and supporting records for a period of at least
+   three (3) years. The records shall include:
+   
+   (1)	The U.S. EPA Portfolio Manager confirmation email demonstrating
+   proof-of-submission date;
+   
+   (2)	A copy of the building owner’s energy, water, and space use attribute
+   information entered into Portfolio Manager;
+   
+   (3)	Copies of applicable tenant information forms and letters; and
+   
+   (4)	Additional information used to support the information required by §
+   3513.3(c); and
+   
+   (b)	Make benchmark results and supporting records available for inspection and
+   audit by DDOE during normal business hours, following reasonable notice by
+   DDOE.
+
+   3513.14. Enforcement of this section shall proceed as follows:
+   
+   (a) 	The Director shall issue a written Notice of Violation to any building
+   owner or non-residential tenant that is determined to be in violation of this
+   section;
+   
+   (b)	If the Director determines that the violation has not been corrected
+   within thirty (30) calendar days of the issuance of a Notice of Violation, a
+   building owner or non-residential tenant shall be assessed a fine of not more
+   than one hundred dollars ($100) per calendar day, during which a complete and
+   accurate District Benchmark Results and Compliance Report has not been timely
+   submitted to the District; and
+   
+   (c)	A building owner or non-residential tenant who receives a fine may request
+   a hearing or adjudication pursuant to the Office of Administrative Hearings
+   Establishment Act of 2001 (D.C. Official Code § 2-1831.01 et seq.) and the
+   Office of Administrative Hearings rules (1 DCMR § 2800 et seq.).
+
+   3513.15. In accordance with the provisions § 3513.1, and notwithstanding the
+   provisions of § 3513.5 and § 3513.8, a building owner shall authorize,
+   within sixty (60) days from the effective date of these regulations, the
+   transfer to the District of complete and accurate 2010 and 2011 District
+   Benchmark Results and Compliance Reports.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 367 (January 18, 2013).

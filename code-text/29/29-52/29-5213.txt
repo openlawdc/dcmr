@@ -1,0 +1,527 @@
+                                  DC REGULATIONS
+
+REIMBURSEMENT (§ 29-5213)
+
+Medicaid reimbursement for MHRS shall be determined as follows:
+   
+   
+   
+   SERVICE
+   
+   CODE
+   
+   BILLABLE UNIT
+   
+   OF SERVICE
+   
+   RATE
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Diagnostic/
+   
+   Assessment
+   
+   T1023HE
+   
+   An assessment,
+   
+   at least 3 hours in duration
+   
+   $240.00
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   H0002
+   
+   An assessment, 40 – 50 minutes in duration to determine eligibility for
+   admission to a mental health treatment program
+   
+   $85.00
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Medication/
+   
+   Somatic Treatment
+   
+   H0034
+   
+   15 minutes
+   
+   $39.29 – Individual (ages 22 and over)
+   
+   
+   
+   
+   
+   H0034HA
+   
+   15 minutes
+   
+   $42.86– Individual (ages 0 – 21)
+   
+   
+   
+   
+   
+   H0034HQ
+   
+   15 minutes
+   
+   $21.26 – Group
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Counseling
+   
+   H0004
+   
+   15 minutes
+   
+   $19.50 – Individual On-Site
+   
+   (ages 22 and over)
+   
+   
+   
+   
+   
+   H0004HA
+   
+   15 minutes
+   
+   $20.31 – Individual On-Site
+   
+   (ages 0 – 21)
+   
+   
+   
+   
+   
+   H0004HQ
+   
+   15 minutes
+   
+   $10.45 – Group
+   
+   
+   
+   
+   
+   H0004HR
+   
+   15 minutes
+   
+   $19.50 – Family with Consumer On-Site (ages 22 and over)
+   
+   
+   
+   
+   
+   H0004HS
+   
+   15 minutes
+   
+   $19.50 – Family without Consumer On-Site (ages 22 and over)
+   
+   
+   
+   
+   
+   H0004HAHR
+   
+   15 minutes
+   
+   $20.31 – Family with Consumer On-Site (ages 0 – 21)
+   
+   
+   
+   
+   
+   H0004HAHS
+   
+   15 minutes
+   
+   $20.31 – Family without Consumer On-Site (ages 0 &#8211; 21)
+   
+   
+   
+   
+   
+   H0004HE
+   
+   15 minutes
+   
+   $23.19 – Individual Off-Site (all ages)
+   
+   
+   
+   
+   
+   Community Support
+   
+   H0036
+   
+   15 minutes
+   
+   $19.19 – Individual
+   
+   
+   
+   
+   
+   H0036HQ
+   
+   15 minutes
+   
+   $8.67 – Group
+   
+   
+   
+   
+   
+   H0036UK
+   
+   15 minutes
+   
+   $19.19 – Collateral
+   
+   
+   
+   
+   
+   H0036AM
+   
+   15 minutes
+   
+   $19.19 – Physician Team Member
+   
+   
+   
+   
+   
+   H0038
+   
+   H0038HQ
+   
+   
+   
+   H0036HR
+   
+   H0036HS
+   
+   H0036U1
+   
+   15 minutes
+   
+   15 minutes
+   
+   
+   
+   15 minutes
+   
+   15 minutes
+   
+   15 minutes
+   
+   $19.19 – Self-Help Peer Support
+   
+   $8.67  –Self-Help Peer Support Group
+   
+   $19.19 – Family with Consumer
+   
+   $19.19 – Family without Consumer
+   
+   $19.19 – Community Residence Facility
+   
+   
+   
+   
+   
+   
+   
+   H2023
+   
+   15 minutes
+   
+   
+   
+   
+   
+   $16.25 – Supported Employment (Therapeutic)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Crisis/
+   
+   Emergency
+   
+   H2011
+   
+   15 minutes
+   
+   $33.57
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Day Services
+   
+   H0025
+   
+   One day, at least 3 hours in duration
+   
+   $144.77
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Intensive Day Treatment
+   
+   H2012
+   
+   One day, at least 5 hours in duration
+   
+   $164.61
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Community- Based Intervention (Level I – Multi-Systemic Therapy)
+   
+   H2033
+   
+   15  minutes
+   
+   $57.42
+   
+   
+   
+   Community- Based Intervention (Level II and Level III)
+   
+   H2022
+   
+   15 minutes
+   
+   $31.35
+   
+   
+   
+   Community-Based Intervention (Level IV – Functional Family Therapy)
+   
+   H2033HU
+   
+    15 minutes
+   
+   $57.42
+   
+   
+   
+   Assertive Community
+   
+   H0039
+   
+   15 minutes
+   
+   $31.57 – Individual
+   
+   
+   
+   Treatment
+   
+   H0039HQ
+   
+    15 minutes
+   
+   $11.07 – Group
+
+   5213.2. DMH shall be responsible for payment of the District&#8217;s share or
+   the local match for all MHRS in accordance with the terms and conditions set
+   forth in the Memorandum of Understanding between MAA and DMH. MAA shall claim
+   the federal share of financial participation for all MHRS services.
+
+   5213.3. Providers shall not bill the client or any member of the
+   client&#8217;s family for MHRS services. DMH shall bill all known third-party
+   payors prior to billing the Medicaid Program.
+
+   5213.4. Medicaid reimbursement for MHRS is not available for:
+   
+   
+   
+   (a)	Room and board costs;
+   
+   
+   
+   (b)	Inpatient services (including hospital, nursing facility services,
+   intermediate care facility for persons with mental retardation services, and
+   Institutions for Mental Diseases services);
+   
+   
+   
+   (c)	Transportation services;
+   
+   
+   
+   (d)	Vocational services;
+   
+   
+   
+   (e)	School and educational services;
+   
+   
+   
+   (f)	Services rendered by parents or other family members;
+   
+   
+   
+   (g)	Socialization services;
+   
+   
+   
+   (h)	Screening and prevention services (other than those provided under Early
+   and Periodic, Screening Diagnostic Treatment requirements);
+   
+   
+   
+   (i)	Services which are not medically necessary, or included in an approved
+   Individualized Recovery Plan for adults or an Individualized Plan of Care for
+   children and youth;
+   
+   
+   
+   (j)	Services which are not provided and documented in accordance with
+   DMH-established MHRS service-specific standards; and
+   
+   
+   
+   (k)	Services furnished to a person other than the Medicaid client when those
+   services are not directed exclusively to the well-being and benefit of the
+   Medicaid client.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 49 DCR 4860 (May 24, 2002); as amended
+   by Final Rulemaking published at 56 DCR 4098 (May 22, 2009); as amended by
+   Final Rulemaking published at 56 DCR 6991 (August 28, 2009); as amended by
+   Notice of Final Rulemaking published at 57 DCR 10521 (November 12, 2010); as
+   amended by Notice of Emergency and Proposed Rulemaking published at 58 DCR 865
+   (January 28, 2011) [EXPIRED]; as amended by Notice of Emergency and Proposed
+   Rulemaking published at 58 DCR 4675 (May 27, 2011) [EXPIRED]; as amended by
+   Notice of Final Rulemaking published at 58 DCR 8230 (September 23, 2011); as
+   amended by Notice of Emergency and Proposed Rulemaking published at 58 DCR
+   9292 (October 28, 2011) [EXPIRED]; as amended by Notice of Final Rulemaking
+   published at 59 DCR 1208 (February 17, 2012); as amended by Final Rulemaking
+   published at 59 DCR 12366 (October 26, 2012); as amended by Final Rulemaking
+   published at 60 DCR 11214 (August 2, 2013).

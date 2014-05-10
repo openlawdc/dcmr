@@ -1,0 +1,283 @@
+                                  DC REGULATIONS
+
+COMBINED REPORTING[COLON] NET OPERATING LOSSES (§ 9-165)
+
+165.1. Post-apportioned net operating loss carryforwards.  A combined group
+   member may carry forward its District apportioned net operating loss to the
+   extent the carryforward and offset is consistent with the requirements and
+   limitations of D.C. Official Code § 47-1803.03(a)(14).  A District
+   apportioned net operating loss carryforward is an attribute of the separate
+   entity rather than of the combined group.  A combined group member may not
+   share all or a portion of its net operating loss carryforward with other
+   members of the combined group or as an offset against the total income of the
+   combined group.  A District apportioned net operating loss carryforwards shall
+   be allowed to offset only the District taxable income of the combined group
+   member that created the net operating loss.
+
+   165.2. Pre-combination net operating loss carryforwards.  Each member of a
+   combined group shall have its own net operating loss carryforward deduction
+   (before apportionment) for loss years prior to 2000 and District apportioned
+   net operating loss deduction (after apportionment) for loss years 2000 and
+   thereafter where:
+   
+   
+   
+   (a)	Such member filed a separate District franchise tax return for tax years
+   beginning before January 1, 2011; or
+   
+   
+   
+   (b)	Such member was included in a District consolidated return for tax years
+   beginning before January 1, 2011, in which case, the net operating loss shall
+   be determined on a separate entity basis by using the prorated amount of the
+   consolidated net operating loss assigned to the District consolidated member
+   if that member had a loss.
+
+   165.3. Example:  Applying an NOL in a Combined Report.
+   
+   
+   
+   
+   
+   YEAR 1:
+   
+   Corp. X
+   
+   Corp. Y
+   
+   Corp. Z
+   
+   Combined
+   
+   
+   
+   Unitary business income (loss) subject to apportionment
+   
+   (400,000)
+   
+   (10,000)
+   
+   60,000
+   
+   (350,000)
+   
+   
+   
+   Apportionment percentages
+   
+   5%
+   
+   1%
+   
+   3%
+   
+   9%
+   
+   
+   
+   Loss apportioned to D.C. (combined loss x apportionment %)
+   
+   (17,500)
+   
+   (3,500)
+   
+   (10,500)
+   
+   (31,500)
+   
+   
+   
+   Nonbusiness items wholly attributable to D.C.
+   
+   50,000
+   
+   (2,500)
+   
+   0
+   
+   
+   
+   
+   
+   D.C. net income (loss)
+   
+   32,500
+   
+   (6,000)
+   
+   (10,500)
+   
+   
+   
+   
+   
+   NOL available to be carried forward (100% of loss)
+   
+   0
+   
+   (6,000)
+   
+   (10,500)
+   
+   
+   
+   
+   
+   
+   
+   YEAR 2:
+   
+   Corp. X
+   
+   Corp. Y
+   
+   Corp. Z
+   
+   Combined
+   
+   
+   
+   Unitary business income (loss) subject to apportionment
+   
+   50,000
+   
+   80,000
+   
+   (5,000)
+   
+   125,000
+   
+   
+   
+   Apportionment percentages
+   
+   6%
+   
+   4%
+   
+   4%
+   
+   14%
+   
+   
+   
+   Income apportioned to D.C. (Combined income x apportionment %)
+   
+   7,500
+   
+   5,000
+   
+   5,000
+   
+   17,500
+   
+   
+   
+   Non-business items wholly attributable to D.C.
+   
+   2,500
+   
+   (10,000)
+   
+   0
+   
+   
+   
+   
+   
+   D.C. net income (loss)
+   
+   10,000
+   
+   (5,000)
+   
+   5,000
+   
+   
+   
+   
+   
+   Application of NOL carryforward from Year 1
+   
+   0
+   
+   0
+   
+   (5,000)
+   
+   
+   
+   
+   
+   D.C. net income (loss)
+   
+   10,000
+   
+   (5,000)
+   
+   0
+   
+   
+   
+   
+   
+   NOL available to be carried forward (100% of loss)
+   
+   0
+   
+   (5,000)
+   
+   0
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Corp. X
+   
+   Corp. Y
+   
+   Corp. Z
+   
+   
+   
+   Remaining NOL from Year 1
+   
+   0
+   
+   (6,000)
+   
+   (5,500)
+   
+   
+   
+   Loss in Year 2
+   
+   0
+   
+   (5,000)
+   
+   0
+   
+   
+   
+   NOL available to be carried forward
+   
+   0
+   
+   (11,000)
+   
+   (5,500)
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 59 DCR 10875, 10890 (September 14,
+   2012).

@@ -1,0 +1,67 @@
+                                  DC REGULATIONS
+
+ANNUAL PROJECTIONS (§ 15-511)
+
+511.1. The company shall submit to the Commission on February 15th of each
+   year a forecast of fuel costs, power plant operating parameters, and its
+   planned maintenance budget and timetable for each month of the forecast year.
+
+   511.2. Forecasts shall be developed for each generating unit and for
+   PEPCO&#8217;s entire generating system of the following generating system
+   operating performance indices:
+   
+   
+   
+   (a)	Operating availability factor;
+   
+   
+   
+   (b)	Equivalent availability factor;
+   
+   
+   
+   (c)	Capacity factor;
+   
+   
+   
+   (d)	Heat rate;
+   
+   
+   
+   (e)	Forced outage rate;
+   
+   
+   
+   (f)	Equivalent forced outage rate;
+   
+   
+   
+   (g)	Planned outage rate; and
+   
+   
+   
+   (h)	Maintenance outage rate.
+
+   511.3. Forecasts shall be made of fuel prices, consumption and expenditures by
+   fuel type and quality for each generating plant and for the total PEPCO
+   system, and of the company&#8217;s planned maintenance budget and timetable.
+
+   511.4. All forecasts shall be accompanied by upper and lower limit forecast
+   bounds (i.e., a forecast band). The range of this band shall reflect the
+   potential variations from forecast values which may result from unanticipated
+   but reasonable divergencies from expected performance under normal operating
+   conditions.
+
+   511.5. Prior to the development of the forecasts, PEPCO shall submit a
+   forecast procedure explaining its preferred methodology for computing forecast
+   values.
+
+   511.6. Staff shall review this approach and the specific forecast method that
+   the company follows. The forecasts are not to be strictly historically based;
+   they should incorporate expected improvements in operating performance over
+   the forecast period.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 29 DCR 5130, 5135 (November 19, 1982);
+   as amended by Final Rulemaking published at 34 DCR 1568, 1569 (March 6, 1987).

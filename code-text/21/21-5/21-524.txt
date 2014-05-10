@@ -1,0 +1,308 @@
+                                  DC REGULATIONS
+
+STORMWATER MANAGEMENT[COLON] PERFORMANCE REQUIREMENTS FOR MAJOR REGULATED
+PROJECTS IN THE ANACOSTIA WATERFRONT DEVELOPMENT ZONE (§ 21-524)
+
+524.1. An Anacostia Waterfront Development Zone site (AWDZ site) is a site
+   within the Anacostia Waterfront Development Zone (AWDZ) that undergoes a major
+   regulated project that is publicly owned or publicly financed.
+
+   524.2. An AWDZ site shall employ each Best Management Practice (BMP) and land
+   cover necessary to meet the requirements of this section until site
+   redevelopment that follows a Department-approved Stormwater Management Plan
+   occurs.
+
+   524.3. Except for activities exempted under this chapter, if a provision of
+   this section conflicts with any other provision of this chapter, an AWDZ site
+   shall be subject to the more stringent provision.
+
+   524.4. An AWDZ site that undergoes a major land-disturbing activity shall
+   achieve treatment of the rainfall from the ninety-fifth (95th) percentile
+   rainfall event for the District of Columbia, measured for a twenty-four
+   (24)-hour rainfall event with a seventy-two (72)-hour antecedent dry period
+   (1.7 inch rainfall event) by:
+   
+   
+   
+   
+   
+   
+   
+   Employing each BMP necessary to treat the 1.7 inch Water Quality Treatment
+   Volume (WQTv) equal to the difference between:
+   
+   
+   
+   
+   
+   
+   
+   The post-development runoff from the 1.7 inch rainfall event; and
+   
+   
+   
+   
+   
+   
+   
+   The 1.2 inch Stormwater Retention Volume (SWRv);
+   
+   
+   
+   
+   
+   
+   
+   Calculating the WQTv in subsection (a) as follows:
+   
+   
+   
+   WQTv= ([P × [(RvI × %I) + (RvC × %C) + (RvN × %N)] × SA] × 7.48
+   /12)-SWRv
+   
+   
+   
+   WQTv	= 	volume, in gallons, required to be retained or treated, above and
+   beyond the SWRv
+   
+   SWRv	=	volume, in gallons, required to be retained
+   
+   P	= 	95th percentile rainfall event for the District (1.7 inches)
+   
+   RvI	= 	0.95 (runoff coefficient for impervious cover)
+   
+   RvC	= 	0.25 (runoff coefficient for compacted cover)
+   
+   RvN	= 	0.00 (runoff coefficient for natural cover)
+   
+   %I  	   = 	post-development percent of site in impervious cover
+   
+   %C	   =       post-development percent of site in compacted cover
+   
+   %N	   =       post-development percent of site in natural cover
+   
+   SA	   =	surface area in square feet, of land-disturbing activity
+   
+   
+   
+   where the surface area under a BMP shall be calculated as part of the
+   impervious cover (%I); and
+   
+   
+   
+   
+   
+   
+   
+   Employing each post-development land cover factored into the WQTv.
+
+   524.5. An AWDZ site that undergoes a major substantial improvement activity
+   and does not undergo a major land-disturbing activity shall:
+   
+   
+   
+   
+   
+   
+   
+   Comply with the performance requirements for major substantial improvement
+   activity, except that the Stormwater Retention Volume (SWRv) shall be equal to
+   the post-development runoff from the eighty-fifth (85th) percentile rainfall
+   event for the District of Columbia, measured for a twenty-four (24)-hour
+   rainfall event with a seventy-two (72)-hour antecedent dry period (1.0 inch
+   rainfall event);
+   
+   
+   
+   
+   
+   
+   
+   Achieve treatment of the rainfall from the ninety-fifth (95th) percentile
+   rainfall event for the District of Columbia, measured for a twenty-four
+   (24)-hour rainfall event with a seventy-two (72)-hour antecedent dry period
+   (1.7 inch rainfall event) by:
+   
+   
+   
+   
+   
+   
+   
+   Employing each BMP necessary to treat the 1.7 inch Water Quality Treatment
+   Volume (WQTv) equal to the difference between:
+   
+   
+   
+   
+   
+   
+   
+   The post-development runoff from the 1.7 inch rainfall event; and
+   
+   
+   
+   
+   
+   
+   
+   The 1.0 inch SWRv;
+   
+   
+   
+   
+   
+   
+   
+   Calculating the WQTv in subsection (b) as follows:
+   
+   
+   
+   WQTv = ([P × [(RvI × %I) + (RvC × %C) + (RvN × %N)] × SA] × 7.48
+   /12)-SWRv
+   
+   
+   
+   WQTv	= 	volume, in gallons, required to be retained or treated, above and
+   beyond the SWRv
+   
+   SWRv	=	volume, in gallons, required to be retained
+   
+   P	= 	95th percentile rainfall event for the District (1.7 inches)
+   
+   RvI	= 	0.95 (runoff coefficient for impervious cover)
+   
+   RvC	= 	0.25 (runoff coefficient for compacted cover)
+   
+   RvN	= 	0.00 (runoff coefficient for natural cover)
+   
+   %I  	= 	post-development percent of site in impervious cover
+   
+   %C	=    	post-development percent of site in compacted cover
+   
+   %N	=       post-development percent of site in natural cover
+   
+   SA	=	surface area in square feet,
+   
+   
+   
+   where, the surface area under a BMP shall be calculated as part of the
+   impervious cover (%I); and
+   
+   
+   
+   
+   
+   
+   
+   Employing each post-development land cover factored into the WQTv.
+
+   524.6. A major regulated project in the AWDZ may achieve on-site treatment for
+   WQTv with:
+   
+   
+   
+   
+   
+   
+   
+   On-site treatment designed to remove eighty percent (80%) of Total Suspended
+   Solids;
+   
+   
+   
+   
+   
+   
+   
+   On-site retention; or
+   
+   
+   
+   
+   
+   
+   
+   Direct conveyance of stormwater from the site to an approved shared BMP with
+   sufficient available treatment or retention capacity.
+
+   524.7. An AWDZ site may achieve part of the WQTv by using off-site retention
+   if:
+   
+   
+   
+   
+   
+   
+   
+   Site conditions make compliance technically infeasible, environmentally
+   harmful, or of limited appropriateness in terms of impact on surrounding
+   landowners or overall benefit to District waterbodies; and
+   
+   
+   
+   
+   
+   
+   
+   The Department approves an application for relief from extraordinarily
+   difficult site conditions.
+
+   524.8. An AWDZ site that achieves a gallon of Off-Site Retention Volume (Offv)
+   by using Stormwater Retention Credits (SRCs) certified for retention capacity
+   located outside of the Anacostia watershed shall use 1.25 SRCs for that gallon
+   of Offv.
+
+   524.9. An AWDZ site shall obtain Department approval of an integrated
+   pesticide management plan meeting the requirements of the Department’s
+   Stormwater Management Guidebook.
+
+   524.10. A major regulated project in the AWDZ shall achieve the required level
+   of stormwater management using one or more of the following methods, in the
+   following order of preference:
+   
+   
+   
+   
+   
+   
+   
+   Vegetated BMPs and land covers designed to retain and beneficially use
+   stormwater;
+   
+   
+   
+   
+   
+   
+   
+   Where compatible with groundwater protection, non-vegetated infiltration BMPs;
+   
+   
+   
+   
+   
+   
+   
+   Other low impact development practices;
+   
+   
+   
+   
+   
+   
+   
+   Collection and use of stormwater for on-site irrigation and other purposes;
+   and
+   
+   
+   
+   (e)	Other on-site BMPs or design methods approved by the Department.
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 10640 (July 19, 2013).

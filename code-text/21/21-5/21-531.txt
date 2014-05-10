@@ -1,0 +1,337 @@
+                                  DC REGULATIONS
+
+STORMWATER MANAGEMENT[COLON] CERTIFICATION OF STORMWATER RETENTION CREDITS (§
+21-531)
+
+531.1. Only the Department shall certify a Stormwater Retention Credit (SRC);
+   and no SRC shall be valid and usable for the purposes of this chapter unless
+   the Department certifies it.
+
+   531.2. The Department shall:
+   
+   
+   
+   
+   
+   
+   
+   Assign a unique serial number to each SRC; and
+   
+   
+   
+   
+   
+   
+   
+   Retain and track information about each SRC, including final sale price.
+
+   531.3. A gallon of retention capacity in a Best Management Practice (BMP) or
+   land cover is eligible for SRC certification if it meets the following
+   eligibility requirements:
+   
+   
+   
+   
+   
+   
+   
+   The gallon retained by the BMP or land cover shall:
+   
+   
+   
+   
+   
+   
+   
+   Be in excess of the Stormwater Retention Volume (SWRv) for a major regulated
+   project or, for a site that is not regulated, in excess of pre-project
+   retention;
+   
+   
+   
+   
+   
+   
+   
+   Be no more than the SRC ceiling; and
+   
+   
+   
+   
+   
+   
+   
+   Not be installed to comply with a stormwater management requirement of a
+   statute, regulation, or court order, including for:
+   
+   
+   
+   (A)	Reduction of Combined Sewer Overflows (CSOs) in compliance with the
+   court-approved consent decree, including court-approved modifications, for
+   reducing CSOs in the District of Columbia, except that retention capacity
+   installed on an experimental basis as a requirement of the consent decree
+   shall be eligible if a subsequent modification of the consent decree ends the
+   requirement to maintain that retention capacity; or
+   
+   
+   
+   (B)	Compliance with a Watershed Implementation Plan established under a Total
+   Maximum Daily Load for the Chesapeake Bay.
+   
+   
+   
+   
+   
+   
+   
+   Design, installation, and operation shall comply with a Department-approved
+   Stormwater Management Plan (SWMP);
+   
+   
+   
+   
+   
+   
+   
+   The Department’s final construction inspection shall be successfully
+   completed;
+   
+   
+   
+   
+   
+   
+   
+   A Department inspection shall be successfully completed within six (6) months
+   before the Department decides to certify an SRC; and
+   
+   
+   
+   (e)	An executed maintenance contract or a signed promise to follow a
+   maintenance plan for the period of time for which the certification of SRCs is
+   requested, in compliance with the Department-approved SWMP for the BMP or land
+   cover, shall be in place.
+   
+   
+   
+   531.4 	The SRC-eligible retention capacity described in Subsection 531.3(a)
+   shall be calculated using the formulas in Chapter seven (7) of the
+   Department’s Stormwater Management Guidebook.
+
+   531.5. The Department shall begin accepting applications for SRC certification
+   after this section is published as final in the D.C. Register.
+
+   531.6. A person submitting an application for SRC certification shall be the
+   owner of the land with the SRC-eligible BMP or land cover or shall have been
+   assigned the right to a SRC that is certified.
+
+   531.7. The Department may reject as premature an application for SRC
+   certification if it is submitted more than three (3) months before the end of
+   the preceding period of time for which the Department had certified a SRC for
+   the retention capacity.
+
+   531.8. The Department shall not consider an incomplete application for SRC
+   certification.
+
+   531.9. A complete application for SRC certification shall include:
+   
+   
+   
+   
+   
+   
+   
+   A completed Department application form;
+   
+   
+   
+   
+   
+   
+   
+   Documentation of the right to the SRC that would be certified;
+   
+   
+   
+   
+   
+   
+   
+   A copy of the Department-approved SWMP for the BMP or land cover with
+   SRC-eligible retention capacity and the area draining into it;
+   
+   
+   
+   
+   
+   
+   
+   A copy of the as-built SWMP or the BMP or land cover with SRC-eligible
+   retention capacity and the area draining into it, certified by a professional
+   engineer licensed in the District of Columbia and meeting the requirements of
+   this chapter;
+   
+   
+   
+   
+   
+   
+   
+   An executed maintenance contract or a signed promise to follow a maintenance
+   plan for the period of time for which the certification of the SRC is
+   requested;
+   
+   
+   
+   
+   
+   
+   
+   Other documentation that the Department requires to determine that the
+   eligibility requirements are satisfied, including documentation that a
+   maintenance provider has the expertise and capacity to provide required
+   maintenance for the time period of SRC certification; and
+   
+   
+   
+   
+   
+   
+   
+   A signed promise from the owner of the property on which the BMP or land cover
+   is located to notify the Department if, during the period of time for which a
+   SRC is certified, the property is sold or otherwise transferred to another
+   person.
+
+   531.10. If the Department determines that a complete application meets the
+   eligibility requirements, it shall certify up to three (3) years’ worth of
+   SRCs for each gallon of SRC-eligible retention capacity.
+
+   531.11. The Department shall not certify an SRC:
+   
+   
+   
+   
+   
+   
+   
+   For a period of time that overlaps with the period of time for which the
+   Department has already certified an SRC for the same retention capacity;
+   
+   
+   
+   
+   
+   
+   
+   For a period that begins earlier than the date of the submittal of a complete
+   application; or
+   
+   
+   
+   
+   
+   
+   
+   For ineligible retention capacity.
+
+   531.12. The Department may waive submittal of documentation required for a
+   complete application if the Department has the documentation on file that
+   reflects current conditions, except that the Department shall not waive
+   submittal of a current maintenance agreement or maintenance contract for the
+   BMP or land cover.
+
+   531.13. The Department may conduct an inspection of a BMP or land cover for
+   the purposes of this section before certification of an SRC and after
+   certification.
+
+   531.14. The Department may refuse to certify an SRC for a person:
+   
+   
+   
+   
+   
+   
+   
+   Who is currently lapsed in compliance with an obligation to fulfill an
+   Off-Site Retention Volume for a property; or
+   
+   
+   
+   
+   
+   
+   
+   Who is an original SRC owner for another SRC and who is currently not
+   maintaining the associated BMP or land cover as promised for the period of
+   time for which the Department certified that SRC.
+
+   531.15. At the Director’s discretion and to allow for the aggregation of
+   SRCs, the Department may approve a SWMP that proposes aggregation of retention
+   from small sites under a common design and that:
+   
+   
+   
+   
+   
+   
+   
+   Would not otherwise trigger a stormwater management performance requirement in
+   this chapter;
+   
+   
+   
+   
+   
+   
+   
+   Proposes the use of a common design for multiple installations of a BMP;
+   
+   
+   
+   
+   
+   
+   
+   Specifies well-defined technical criteria for location and placement of each
+   BMP;
+   
+   
+   
+   
+   
+   
+   
+   Specifies details for how multiple installations will be constructed,
+   operated, and maintained;
+   
+   
+   
+   
+   
+   
+   
+   Contains requirements for inspection by the Department or a
+   Department-approved third party;
+   
+   
+   
+   
+   
+   
+   
+   Demonstrates the technical capacity to locate, design, install, and maintain
+   each BMP; and
+   
+   
+   
+   
+   
+   
+   
+   Demonstrates that the requirements of this chapter will be met.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 35 DCR 21 (January 1, 1988); as amended
+   by Final Rulemaking published at 60 DCR 10640 (July 19, 2013).

@@ -1,0 +1,50 @@
+                                  DC REGULATIONS
+
+PARTIAL APPLICABILITY OF UST REGULATIONS TO EMERGENCY GENERATOR UST SYSTEMS (§
+20-5505)
+
+5505.1. Any UST system that stores fuel for use by an emergency power
+   generator shall be subject to the requirements of this Subtitle, except as
+   provided in §§ 5505.2 and 5505.3.
+
+   5505.2. Emergency power generator tanks, that are 15 years old or older, shall
+   use one of the release detection methods set forth below:
+   
+   
+   
+   (a)	Statistical Inventory Reconciliation (SIR) pursuant to § 6005; or
+   
+   
+   
+   (b)	Manual Tank Gauging pursuant to § 6006; or
+   
+   
+   
+   (c)	Automatic Tank Gauging pursuant to § 6009; or
+   
+   
+   
+   (d)	Monthly Ground Water Monitoring pursuant to § 6011; or
+   
+   
+   
+   (e)	Continuous Interstitial Monitoring pursuant to § 6012; or
+   
+   
+   
+   (f)	§ 6013 (Other Methods).
+
+   5505.3. New or replaced emergency power generator tank systems, including
+   systems replaced in accordance with the requirements of §§ 5902.5, 5902.6,
+   5902.7 and 5902.13, including all piping, shall be constructed to include
+   secondary containment and interstitial monitoring as set forth in §§ 5701.4,
+   5701.5, and 5701.6.
+
+   5505.4. The provisions of Chapter 61 pertaining to closure shall apply, except
+   an emergency generator tank shall not be deemed temporarily closed until 15
+   months after it was last used to receive or dispense product.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 46 DCR 7699 (October 1, 1999); as
+   amended by Final Rulemaking published at 56 DCR 6678 (August 21, 2009).

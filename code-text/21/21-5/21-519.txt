@@ -1,0 +1,419 @@
+                                  DC REGULATIONS
+
+STORMWATER MANAGEMENT[COLON] PLAN (§ 21-519)
+
+519.1 	A Department-approved stormwater management plan (SWMP) shall:
+   
+   
+   
+   
+   
+   
+   
+   Govern all construction for which stormwater management is required;
+   
+   
+   
+   
+   
+   
+   
+   Govern all applicable maintenance activities; and
+   
+   
+   
+   
+   
+   
+   
+   Demonstrate compliance with this chapter.
+
+   519.2. A submitted SWMP and supporting documentation shall contain information
+   sufficient for the Department to determine whether the SWMP complies with this
+   chapter including:
+   
+   
+   
+   
+   
+   
+   
+   Existing site conditions, including the identification and location of each
+   existing Best Management Practice (BMP) and whether it will remain on the site
+   and in use or will be removed;
+   
+   
+   
+   
+   
+   
+   
+   Proposed site design;
+   
+   
+   
+   
+   
+   
+   
+   Each land use proposed for the site;
+   
+   
+   
+   
+   
+   
+   
+   Identification and location of each proposed BMP, including geographic
+   coordinates;
+   
+   
+   
+   
+   
+   
+   
+   Design and performance of each BMP for stormwater retention, detention, and
+   treatment;
+   
+   
+   
+   
+   
+   
+   
+   Conveyance capacity of stormwater infrastructure;
+   
+   
+   
+   
+   
+   
+   
+   Environmental characteristics of the site;
+   
+   
+   
+   
+   
+   
+   
+   Pre- and post-development hydrologic computations, including:
+   
+   
+   
+   (1)	Calculation of required stormwater management volume for:
+   
+   
+   
+   
+   
+   
+   
+   The entire site; and
+   
+   
+   
+   
+   
+   
+   
+   Each individual drainage area; and
+   
+   
+   
+   (2) 	On-site and off-site retention volumes;
+   
+   
+   
+   
+   
+   
+   
+   Maintenance plan and schedule for each proposed BMP;
+   
+   
+   
+   
+   
+   
+   
+   Monitoring plan for each BMP that captures stormwater for use;
+   
+   
+   
+   
+   
+   
+   
+   For each proposed BMP not included in the Department’s Stormwater Management
+   Guidebook (SWMG):
+   
+   
+   
+   (1) 	Separate identification and description; and
+   
+   
+   
+   (2) 	Documentation of performance and effectiveness;
+   
+   
+   
+   
+   
+   
+   
+   Construction sequence for:
+   
+   
+   
+   (1) 	Each BMP; and
+   
+   
+   
+   (2)	The related development or improvement project, if any.
+   
+   
+   
+   
+   
+   
+   
+   A list of  the construction and waste material to be stored on site and a
+   description of the material and each pollution control measure that will be
+   implemented to minimize exposure to stormwater discharge, including:
+   
+   
+   
+   
+   
+   
+   
+   Each storage practice;
+   
+   
+   
+   
+   
+   
+   
+   A spill prevention response;
+   
+   
+   
+   
+   
+   
+   
+   The United States Environmental Protection Agency (EPA) identification number,
+   or copy of application to EPA for identification number, for each hazardous
+   waste that will be stored on site; and
+   
+   
+   
+   
+   
+   
+   
+   Proof of payment of each applicable fee.
+
+   519.3. The retention capacity of each BMP in a SWMP shall be calculated using
+   the applicable equations for calculating retention value in Chapter three (3)
+   of the Department’s Stormwater Management Guidebook.
+
+   519.4. The pollutant removal efficiency of each BMP in a SWMP shall be
+   calculated using the applicable equation in Chapter three (3) of the
+   Department’s SWMG.
+
+   519.5. The Department may require for each area that a project proposes for
+   use to meet the requirements of this chapter, including a contiguous area or
+   an area with a shared BMP:
+   
+   
+   
+   
+   
+   
+   
+   Information listed in this section; or
+   
+   
+   
+   
+   
+   
+   
+   A SWMP.
+
+   519.6. A submitted SWMP shall use:
+   
+   
+   
+   (a)	A standard drawing size of twenty-four inches by thirty-six inches (24 in.
+   x 36 in);
+   
+   
+   
+   (b) 	One (1) of the following horizontal scales of profile, unless otherwise
+   approved:
+   
+   
+   
+   
+   
+   
+   
+   One inch equals ten feet (1 in. = 10 ft.);
+   
+   
+   
+   
+   
+   
+   
+   One inch equals twenty feet (1 in. = 20 ft.);
+   
+   
+   
+   
+   
+   
+   
+   One inch equals thirty feet (1 in. = 30 ft.);
+   
+   
+   
+   
+   
+   
+   
+   One inch equals forty feet (1 in. = 40 ft.);
+   
+   
+   
+   
+   
+   
+   
+   One inch equals fifty feet (1 in. = 50 ft.); or
+   
+   
+   
+   
+   
+   
+   
+   One inch equals eighty feet (1 in. = 80 ft.);
+   
+   
+   
+   
+   
+   
+   
+   One (1) of the following vertical scales of profile, unless otherwise
+   approved:
+   
+   
+   
+   
+   
+   
+   
+   One inch equals two feet (1 in. = 2 ft.);
+   
+   
+   
+   
+   
+   
+   
+   One inch equals four feet (1 in. = 4 ft.);
+   
+   
+   
+   
+   
+   
+   
+   One inch equals five feet (1 in. = 5 ft.); or
+   
+   
+   
+   
+   
+   
+   
+   One inch equals ten feet (1 in = 10 ft.); and
+   
+   
+   
+   
+   
+   
+   
+   Drafting media that yield first or second generation reproducible drawings
+   with a minimum letter size of No. 4 (1/8 inch).
+
+   519.7. A SWMP shall not be approved without the signature and seal of the
+   Director or the Director’s designee on the plan.
+
+   519.8. For each as-built SWMP that an applicant submits to the Department, an
+   applicant shall provide that a professional engineer licensed in the District
+   of Columbia, certifies with seal and signature that:
+   
+   
+   
+   
+   
+   
+   
+   The design, and installation for an as-built plan:
+   
+   
+   
+   
+   
+   
+   
+   Conforms to engineering principles applicable to stormwater management; and
+   
+   
+   
+   
+   
+   
+   
+   Complies with the requirements of this chapter; and
+   
+   
+   
+   
+   
+   
+   
+   A set of instructions for operation and maintenance of each BMP has been
+   provided to the applicant.
+
+   519.9. A SWMP for a project shall be consistent with each other project
+   submittal, including:
+   
+   
+   
+   (a)	An erosion and sediment control plan; and
+   
+   
+   
+   (b) 	A floodplain management plan.
+
+   519.10. The approved SWMP for a major regulated project shall be available on
+   site for Department review for the entire period of construction during
+   ordinary business hours.
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 10640 (July 19, 2013).

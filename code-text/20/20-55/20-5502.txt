@@ -1,0 +1,58 @@
+                                  DC REGULATIONS
+
+PARTIAL APPLICABILITY OF UST REGULATIONS TO PARTICULAR UST SYSTEMS (§ 20-5502)
+
+5502.1. The following UST systems are required to comply only with the
+   provisions of this section and with the provisions of Chapter 62:
+   
+   
+   
+   (a)	Wastewater treatment tank systems not regulated under § 307(b) or § 402
+   of the Clean Water Act, 33 USC § 1151 et seq.;
+   
+   
+   
+   (b)	Any UST system containing any radioactive material that is regulated under
+   the Atomic Energy Act of 1954, 42 USC § 2011 et seq.;
+   
+   
+   
+   (c)	Any UST system that is part of any emergency generator system at nuclear
+   power generation facilities regulated by the Nuclear Regulatory Commission
+   under 10 CFR Part 50, Appendix A;
+   
+   
+   
+   (d)	Any airport or heliport hydrant fuel distribution system; and
+   
+   
+   
+   (e)	UST systems with field-constructed tanks.
+
+   5502.2. No person may install an UST system identified in § 5502.1 for the
+   purpose of storing any regulated substance unless that UST system:
+   
+   
+   
+   (a)	Will prevent releases due to corrosion or structural failure for the
+   operational life of the UST system;
+   
+   
+   
+   (b)	Is cathodically protected against corrosion, constructed of noncorrodible
+   material, steel clad with a noncorrodible material, or designed to prevent the
+   release or threatened release of any stored regulated substance; and
+   
+   
+   
+   (c)	Is constructed or lined with material that is compatible with the stored
+   regulated substance.
+
+   5502.3. In the event of a suspected or confirmed release from a UST system
+   listed in § 5502.1, the owner or operator shall comply with all of the
+   provisions of Chapter 56 except §§ 5600.7(d), 5601 and 5604.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 7835, 7840 (November 12, 1993);
+   as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999).

@@ -1,0 +1,104 @@
+                                  DC REGULATIONS
+
+IN-SERVICE PERFORMANCE TESTING (§ 15-2371)
+
+2371.1. The Commission&#8217;s in-service performance testing program is
+   designed to adjust automatically the number of meters required to be tested by
+   a gas corporation based solely on the performance of the gas corporation’s
+   meters, as determined by § 2371.3.
+
+   2371.2. For the purpose of the in-service performance testing program, meters
+   within Groups I, II, and III, as described in § 2370.4, shall be further
+   subdivided into homogeneous subgroups. A typical sub-group shall include all
+   meters of the same manufacturer and type. The requirements of this chapter
+   shall be applied separately to each sub-group.
+
+   2371.3. The In-Service Performance Test required each year shall be computed
+   from the following formulas:
+   
+   (a)	Group I Meters (less than four hundred fifty (450) cfh capacity):
+   
+   			r = .02 + .3d
+   
+   where r = ratio of meters to be tested; d = ratio of meters tested in previous
+   year and found to have a check proof less than ninety-eight percent (98%) or
+   more than one hundred two percent (102%) as reported to the nearest  half
+   percent (1/2%);
+   
+   (b)	Group II (four hundred fifty (450) cfh through one thousand eight hundred
+   (1,800) cfh
+   
+   			r = .03 + .5d;
+   
+   		(r and d defined as above); and
+   
+   	(c)  	Group III (more than one thousand eight hundred (1,800      cfh):
+   
+   		r = .05 + .85d
+   
+   			(r and d defined as above).
+
+   2371.4. Test results accumulated on meters tested in one (1) calendar year
+   shall be reported to the Commission by April 1st of the following year. The
+   required percentage as calculated in § 2371.3 shall be used to determine the
+   number of meters to be tested during the succeeding calendar year. The report
+   to the Commission shall include for each subgroup the following:
+   
+   (a)	The number of meters tested as part of the in-service testing program
+   during the last year;
+   
+   (b)	The number of meters that failed;
+   
+   (c)	The ratio of meters to be tested in the current year by applying the
+   appropriate formula;
+   
+   (d)	The number of meters in-service over one (1) year as of January 1 of the
+   current year; and
+   
+   (e)	The number of meters to be tested in the current year.
+
+   2371.5. The meters required to be tested as a result of the application of the
+   proper formula in § 2371.3 shall include those meters removed for cause. The
+   additional meters which shall be tested to meet the required percentage as
+   calculated in § 2371.3 shall be those meters in service longest without being
+   tested including:
+   
+   (a)	Meters removed from fire;
+   
+   (b)	Meters removed from damage or hung;
+   
+   (c)	Meters removed for failure to register;
+   
+   (d)	Meters in-service less than one (1) year; or
+   
+   (e)	Meters damaged in transit and cannot be tested.
+
+   2371.6. The tests of the meters listed in § 2371.5 shall not be used in
+   determining the following year&#8217;s ratio and may not be counted as
+   fulfilling the current year&#8217;s requirement.
+
+   2371.7. The gas corporation may review the meter performance of each subgroup
+   annually. Based on this review, the gas corporation may take the following
+   actions:
+   
+   (a)	If two (2) subgroups in the same capacity class show similar test results
+   for two (2) consecutive years, they may be considered as a single subgroup for
+   reporting purposes; or
+   
+   (b)	If a subgroup can be shown to have one (1) or more parts that have
+   dissimilar test results from the remainder of the subgroup, each part may be
+   reported and treated as a separate subgroup.
+
+   2371.8. Analysis of meter tests shall consist of the following:
+   
+   (a)	The Commission shall review the annual reports of meter test results and
+   shall consult with each gas corporation concerning the percent of meters to be
+   tested in each subgroup during the succeeding calendar year; and
+   
+   (b)	Each gas corporation shall analyze its meter test results for the purpose
+   of identifying the meter types which have poor accuracy characteristics.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 35 DCR 7938, 7949 (November 4, 1988); as
+   amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).

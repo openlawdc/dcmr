@@ -1,0 +1,511 @@
+                                  DC REGULATIONS
+
+PERFORMANCE ABILITY OF BRAKES (§ 18-724)
+
+724.1. The standards set forth in the following braking table shall govern the
+   performance ability of brakes under this chapter:
+   
+   
+   
+   BRAKING STANDARDS TABLE
+   
+   
+   
+   
+   
+   
+   
+   COLUMN 1
+   
+   
+   
+   
+   
+   
+   
+   COLUMN 2
+   
+   
+   
+   
+   
+   
+   
+   COLUMN 3
+   
+   
+   
+   
+   
+   
+   
+   COLUMN 4
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   CLASSIFICATION OF VEHICLE
+   
+   
+   
+   
+   
+   
+   
+   BRAKING FORCE (Percentage of Gross Vehicle or Combination Weight)
+   
+   
+   
+   
+   
+   
+   
+   DECELERATION (Ft/sec.2)
+   
+   
+   
+   
+   
+   
+   
+   BRAKE SYSTEM APPLICATION AND BRAKING DISRANCE from initial speed of 20 mph.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   A
+   
+   
+   
+   
+   
+   
+   
+   Passenger vehicles with a seating capacity of 10 people or less(including the
+   driver) and not having a gross vehicle rating
+   
+   
+   
+   
+   
+   
+   
+   52.8%
+   
+   
+   
+   
+   
+   
+   
+   17
+   
+   
+   
+   
+   
+   
+   
+   25 ft
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   B1
+   
+   
+   
+   
+   
+   
+   
+   All motorcycles and motorized bicycles
+   
+   
+   
+   
+   
+   
+   
+   43.5%
+   
+   
+   
+   
+   
+   
+   
+   14
+   
+   
+   
+   
+   
+   
+   
+   30 ft
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   B2
+   
+   
+   
+   
+   
+   
+   
+   Single unit vehicles w/manufacturer’s gross vehicle weight of 10,000 pounds
+   or less
+   
+   
+   
+   
+   
+   
+   
+   43.5%
+   
+   
+   
+   
+   
+   
+   
+   14
+   
+   
+   
+   
+   
+   
+   
+   30 ft
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   C1
+   
+   
+   
+   
+   
+   
+   
+   Single unit vehicles w/manufacturer’s gross weight over 10000 lbs.
+   
+   
+   
+   
+   
+   
+   
+   43.5%
+   
+   
+   
+   
+   
+   
+   
+   14
+   
+   
+   
+   
+   
+   
+   
+   40 ft
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   C2
+   
+   
+   
+   
+   
+   
+   
+   Combination of a 2-axde towing vehicle and a trailer with gross trailer wt of
+   3,000 lbs. or lees
+   
+   
+   
+   
+   
+   
+   
+   43.5%
+   
+   
+   
+   
+   
+   
+   
+   14
+   
+   
+   
+   
+   
+   
+   
+   40 ft
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   C3
+   
+   
+   
+   
+   
+   
+   
+   Buses, regardless of the number of axles, without a manufacturer’s gross
+   weight rating
+   
+   
+   
+   
+   
+   
+   
+   43.5%
+   
+   
+   
+   
+   
+   
+   
+   14
+   
+   
+   
+   
+   
+   
+   
+   40 ft
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   C4
+   
+   
+   
+   
+   
+   
+   
+   All combinations of vehicles in driveway or towaway operations
+   
+   
+   
+   
+   
+   
+   
+   43.5%
+   
+   
+   
+   
+   
+   
+   
+   14
+   
+   
+   
+   
+   
+   
+   
+   40 ft.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   D
+   
+   
+   
+   
+   
+   
+   
+   All other vehicles and combinations of vehicles
+   
+   
+   
+   
+   
+   
+   
+   43.5%
+   
+   
+   
+   
+   
+   
+   
+   14
+   
+   
+   
+   
+   
+   
+   
+   50 ft.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   NOTE: The information set forth in § 724.2 through 724.7 of this section is
+   to be used in understanding and applying the standards for braking performance
+   set forth in the Braking Standards Table in § 724.1.
+
+   724.2. There is a definite mathematical relationship between the figures in
+   columns 2 and 3 of the table in § 724.1. If the decelerations set forth in
+   column 3 are divided by 32.2 ft/sec., the column 2 figures will be obtained.
+   (For example, 17 divided by 32.2 gives 52.8%) Column 2 is included in the
+   table because certain brake-testing devices utilize this factor.
+
+   724.3. The decelerations in column 3 of the table are an indication of the
+   effectiveness of the basic brakes and, as measured in practical brake testing,
+   are the maximum braking decelerations attained at some time during the stop.
+   This deceleration, as measured in brake tests, cannot be used to compute the
+   values in column 4 of the table because it is not sustained at the same rate
+   over the entire period of the stop. The deceleration increases from zero to a
+   maximum during a period of brake-system application and brake-force buildup.
+   Also, other factors may cause the deceleration to decrease after reaching the
+   maximum. The added distance which results because a maximum deceleration is
+   not sustained is included in the figures in column 4 but is not indicated by
+   the usual brake-testing device for checking deceleration.
+
+   724.4. The values in column 4 of the table and the values in column 3 are not
+   directly related. Column 4 is a definite measure of the overall effectiveness
+   of the braking system, being the distance traveled between the point at which
+   the driver starts to move the braking controls and the point at which the
+   vehicle comes to rest. It includes distance traveled while the brakes are
+   being applied and the distance traveled while the brakes are retarding the
+   vehicle.
+
+   724.5. The distance traveled during the period of brake system application and
+   brake force build-up varies with vehicle type, being negligible for many
+   passenger cars and greatest for combinations of commercial vehicles. This fact
+   accounts for the variation from twenty-five to fifty feet (25 ft. to 50 ft.)
+   in the numerical values in column 4 for the various classes.
+
+   724.6. The deceleration value in column 3 of the table is the same for all
+   classifications except passenger vehicles (other than buses) because brakes on
+   vehicles in the B, C, and D classifications are capable with reasonable
+   maintenance of producing the required decelerations as measured by
+   brake-testing devices. A higher deceleration value is warranted for passenger
+   cars by Bureau of Public Roads test data.
+
+   724.7. Each motor vehicle and combination of vehicles, at all times and under
+   all conditions of loading, upon application of the service brake, shall be
+   capable of the following:
+   
+   
+   
+   (a)	Developing a braking force that is not less than the percentage of its
+   gross weight for its classification, as set forth in column 2 of the table in
+   § 724.1;
+   
+   
+   
+   (b)	Decelerating to a stop from not more than twenty miles per hour (20 mph)
+   at not less than the ft./sec. for its classification set forth in column 3 of
+   the table in § 724.1; and
+   
+   
+   
+   (c)	Stopping from a speed of twenty miles per hour (20 mph) in not more than
+   the distance for its classification set forth in column 4 of the table in §
+   724.1, such distance to be measured from the point at which movement of the
+   service brake pedal or control begins.
+
+   724.8. Tests for deceleration and stopping distance shall be made on a
+   substantially level (not to exceed plus or minus one per cent (1%) grade),
+   dry, smooth, hard surface that is free from loose material.
+   
+   
+   
+   	SOURCE: Regulation No. 72-13 effective June 30, 1972, 32 DCRR § 6.301,
+   Special Edition.

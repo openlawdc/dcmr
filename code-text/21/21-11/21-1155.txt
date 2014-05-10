@@ -1,0 +1,1699 @@
+                                  DC REGULATIONS
+
+GROUND WATER STANDARDS (§ 21-1155)
+
+1155.1. For the protection of the designated use of the ground water and the
+   hydrologically connected water bodies, narrative and numerical criteria,
+   enforcement standards and early warning values for each ground water class
+   shall be provided in this section in order to establish upper contaminant
+   levels that shall not be exceeded.
+
+   1155.2. The following narrative criteria shall apply to all ground waters of
+   the District:
+   
+   
+   
+   (a)	All ground waters shall at all places and at all times be free from
+   pollution in the form of oil, carcinogens, toxicants, and other substances in
+   concentrations which might present a health hazard or render the ground water
+   unusable; and
+   
+   
+   
+   (b)	All ground waters shall at all places and at all times be free from
+   domestic, industrial, agricultural, or other man-induced non-thermal
+   components of discharges in concentrations which, alone or in combination with
+   other substances or components of discharges:
+   
+   
+   
+   (1)	Are harmful to plants, animals or other organisms;
+   
+   
+   
+   (2)	Are carcinogenic, mutagenic, teratogenic, or toxic in toxic amounts to
+   human beings;
+   
+   
+   
+   (3)	Are acutely toxic to biological species of the aquatic community within
+   surface waters affected by the ground water at the point of contact with
+   surface waters;
+   
+   
+   
+   (4)	Pose a serious danger to the public health, safety or welfare;
+   
+   
+   
+   (6)	Create or constitute a nuisance; or
+   
+   
+   
+   (7)	Impair the reasonable and beneficial use of adjacent waters within and
+   outside the District.
+
+   1155.3. Numerical criteria for Class G1 ground waters shall be the most
+   restrictive and are as follows:
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Constitutent
+   
+   
+   
+   
+   
+   
+   
+   Criterion
+   
+   
+   
+   
+   
+   
+   
+   Early Warning Value
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Trace Metals &#038; Inorganics (maximum mg/L unless noted otherwise)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Primary
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Arsenic
+   
+   
+   
+   
+   
+   
+   
+   0.05
+   
+   
+   
+   
+   
+   
+   
+   0.01 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Barium
+   
+   
+   
+   
+   
+   
+   
+   1.0
+   
+   
+   
+   
+   
+   
+   
+   0.2 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Cadmium
+   
+   
+   
+   
+   
+   
+   
+   0.005
+   
+   
+   
+   
+   
+   
+   
+   0.002 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Chromium,hexavalent
+   
+   
+   
+   
+   
+   
+   
+   0.1
+   
+   
+   
+   
+   
+   
+   
+   0.01 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Chromium, trivalent
+   
+   
+   
+   
+   
+   
+   
+   0.1
+   
+   
+   
+   
+   
+   
+   
+   0.01 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Cyanide, free
+   
+   
+   
+   
+   
+   
+   
+   0.2
+   
+   
+   
+   
+   
+   
+   
+   0.04 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Fluoride
+   
+   
+   
+   
+   
+   
+   
+   4.0
+   
+   
+   
+   
+   
+   
+   
+   0.4 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Lead
+   
+   
+   
+   
+   
+   
+   
+   0.05
+   
+   
+   
+   
+   
+   
+   
+   0.01 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Mercury
+   
+   
+   
+   
+   
+   
+   
+   0.002
+   
+   
+   
+   
+   
+   
+   
+   0.0005 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Nitrates
+   
+   
+   
+   
+   
+   
+   
+   10.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Nitrite
+   
+   
+   
+   
+   
+   
+   
+   1.0
+   
+   
+   
+   
+   
+   
+   
+   0.5 *
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Selenium
+   
+   
+   
+   
+   
+   
+   
+   0.05
+   
+   
+   
+   
+   
+   
+   
+   0.002 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Silver
+   
+   
+   
+   
+   
+   
+   
+   0.05
+   
+   
+   
+   
+   
+   
+   
+   0.05 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Secondary
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Turbidity (NTU)
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   NA
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Chloride
+   
+   
+   
+   
+   
+   
+   
+   250.0
+   
+   
+   
+   
+   
+   
+   
+   125.0 *
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Copper
+   
+   
+   
+   
+   
+   
+   
+   1.0
+   
+   
+   
+   
+   
+   
+   
+   0.5 *
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Iron
+   
+   
+   
+   
+   
+   
+   
+   0.3
+   
+   
+   
+   
+   
+   
+   
+   0.15 *
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Manganese
+   
+   
+   
+   
+   
+   
+   
+   0.05
+   
+   
+   
+   
+   
+   
+   
+   0.025 *
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Sulfate
+   
+   
+   
+   
+   
+   
+   
+   250.0
+   
+   
+   
+   
+   
+   
+   
+   125.0 *
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Total dissolved solids
+   
+   
+   
+   
+   
+   
+   
+   500.0
+   
+   
+   
+   
+   
+   
+   
+   250.0 *
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Zinc
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   2.5 *
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Organics (maximum µg/L)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Benzene
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Carbon tetrachloride
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   1.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Dichlorobenzene (para)
+   
+   
+   
+   
+   
+   
+   
+   75.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Dichloroethylene (1,1-)
+   
+   
+   
+   
+   
+   
+   
+   7.0
+   
+   
+   
+   
+   
+   
+   
+   1.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Dichloroethylene (cis-1,2-)
+   
+   
+   
+   
+   
+   
+   
+   70.0
+   
+   
+   
+   
+   
+   
+   
+   1.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Dichloroethylene (trans-1,2)
+   
+   
+   
+   
+   
+   
+   
+   100.0
+   
+   
+   
+   
+   
+   
+   
+   1.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Endrin
+   
+   
+   
+   
+   
+   
+   
+   0.2
+   
+   
+   
+   
+   
+   
+   
+   0.1 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Ethylbenzene
+   
+   
+   
+   
+   
+   
+   
+   700.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Hexachlorocyclohexane (Lindane)
+   
+   
+   
+   
+   
+   
+   
+   4.0
+   
+   
+   
+   
+   
+   
+   
+   0.2 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Methoxychlor
+   
+   
+   
+   
+   
+   
+   
+   100.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     1,1,1-Trichloroethane
+   
+   
+   
+   
+   
+   
+   
+   200.0
+   
+   
+   
+   
+   
+   
+   
+   5.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     1.2-Dichloroethane
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   0.5 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Tetrachloroethylene
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   0.5 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Toluene
+   
+   
+   
+   
+   
+   
+   
+   1,000.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Total Trihalomethanes
+   
+   
+   
+   
+   
+   
+   
+   100.0
+   
+   
+   
+   
+   
+   
+   
+   0.5 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Toxaphene
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Trichloroethylene
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   1.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     2,4-D
+   
+   
+   
+   
+   
+   
+   
+   100.0
+   
+   
+   
+   
+   
+   
+   
+   10.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     2,4,5-TP Silvex
+   
+   
+   
+   
+   
+   
+   
+   10.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Vinyl chloride
+   
+   
+   
+   
+   
+   
+   
+   2.0
+   
+   
+   
+   
+   
+   
+   
+   2.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Xylenes
+   
+   
+   
+   
+   
+   
+   
+   10,000.0
+   
+   
+   
+   
+   
+   
+   
+   5.0 +
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Radionuclides (maximum activity, pCi/L)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Combined Radium-226 &#038; Radium-228
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   1.0 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Gross alpha particle activity
+   
+   
+   
+   
+   
+   
+   
+   15.0
+   
+   
+   
+   
+   
+   
+   
+   3.0 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Gross beta particle activity
+   
+   
+   
+   
+   
+   
+   
+   50.0
+   
+   
+   
+   
+   
+   
+   
+   10.0 **
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Microbiological (maximum organisms/ml)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     Fecal Coliform
+   
+   
+   
+   
+   
+   
+   
+   1.0
+   
+   
+   
+   
+   
+   
+   
+   NA
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Acidity (allowable range, standard units)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   pH
+   
+   
+   
+   
+   
+   
+   
+   6.5 to 8.5
+   
+   
+   
+   
+   
+   
+   
+   NA
+   
+   
+   
+   
+   
+   
+   **: Early Warning Value is 20% of criterion.
+   
+   *: Early Warning Value is 50% of criterion.
+   
+   *: Early Warning Value for synthetic chemicals that have no natural source is
+   at the practical quantitation limit.
+   
+   NA: Not Applicable.
+
+   1155.4. For the purposes of §§ 1150 through 1158 of this chapter, the
+   enforcement standard shall be the value assigned to any contaminant, which if
+   exceeded, may result in the Director initiating enforcement action.
+
+   1155.5. Except as specified in § 1155.6, the enforcement standards shall be
+   established based on the following:
+   
+   
+   
+   (a)	For Class G1, where a criterion is established, the enforcement standard
+   shall be the criterion if the criterion is not exceeded in the background
+   water quality;
+   
+   
+   
+   (b)	For Class G1, if a criterion is established and exceeded in the background
+   water quality, the enforcement standard shall be the background concentration;
+   
+   
+   
+   (c)	When a criterion is not established for a Class G1 ground water, the
+   enforcement standard shall be based on the best available scientific knowledge
+   including, but not limited to, the background water quality, the use of U.S.
+   Environmental Protection Agency water quality criteria and Health Advisories,
+   other states water quality criteria, and risk assessment calculations. The
+   value utilized will depend on technological and economic factors;
+   
+   
+   
+   (d)	When a specific activity which does or may contaminate ground water is
+   being regulated by the Director and a criterion is not established, the
+   enforcement standard may be established by the Director through, but not
+   limited to, a waste discharge permit or other permit, order or a memorandum of
+   understanding with other regulating agencies; and
+   
+   
+   
+   (e)	For a Class G2 or Class G3 ground water, the enforcement standard shall be
+   based on the best available scientific knowledge including, but not limited
+   to, the background water quality, the use of U.S. Environmental Protection
+   Agency water quality criteria and Health Advisories, other states water
+   quality criteria, and risk assessment calculations. The value utilized will
+   depend on the class of ground water, and technological and economic factors.
+
+   1155.6. A request for variation from the enforcement standards of § 1155.5
+   for any class of ground water can be made to the Director. The request, by the
+   responsible party, shall be based on both the technological and economic
+   analyses. The responsible party shall demonstrate to the satisfaction of the
+   Director that cleanup to the enforcement standard is both technologically and
+   economically infeasible. The request shall propose an alternate cleanup level.
+
+   1155.7. Early Warning Values (&#8220;EWV&#8221;) shall be established to
+   protect ground waters from contamination and to avoid costly remediation by
+   providing for early detection of increasing contaminant concentrations before
+   the criteria or enforcement standards are exceeded.
+
+   1155.8. EWV&#8217;s shall be applicable to facilities or activities with a
+   potential to contaminate ground water and which are required to monitor the
+   impact of their activities on ground water quality.
+
+   1155.9. Whenever a criterion or an enforcement standard is set above
+   background level, an EWV or trend analysis shall be utilized.
+   
+   
+   
+   1155.10 Early Warning Values shall be determined by one of the following
+   items:
+   
+   
+   
+   (a)	When the regulated substance is not found in the background water quality
+   or is present in levels lower than the criterion or the enforcement standard
+   then the EWV shall be as follows:
+   
+   
+   
+   (1)	Practical quantitation limit for all synthetic constituents for which no
+   natural source exists;
+   
+   
+   
+   (2)	Twenty percent (20%) of the criterion or enforcement standard for
+   substances of health concern;
+   
+   
+   
+   (3)	Fifty percent (50%) of the criterion or enforcement standard for
+   substances of public welfare concern; or
+   
+   
+   
+   (4)	EWV for specific criteria are according to § 1155.3; or
+   
+   
+   
+   (b)	When the regulated substance is found in the background water quality in a
+   concentration that exceeds the criterion or enforcement standard for that
+   substance, then the EWV shall be set between background and the criterion or
+   enforcement standard in such a way that increasing or decreasing contaminant
+   levels will be detected.
+
+   1155.11. If the permittee or responsible party desire, a trend analysis in
+   place of fixed values for EWV&#8217;s may be used. The trend analysis shall
+   use a scientifically sound and valid statistical procedure appropriate to the
+   discharge and shall provide a ninety-nine percent (99%) level of confidence.
+   The design and implementation of the trend analysis shall be the
+   responsibility of the permittee and shall be approved by the Director.
+   Response levels shall be defined for each trend analysis but at a minimum
+   shall include those levels as defined in § 1155.3.
+
+   1155.12. It shall not be considered a violation of §§ 1150 through 1158 of
+   this chapter when pollutants are detected in concentrations exceeding an EWV
+   unless the following occurs:
+   
+   
+   
+   (a)	The pollutant concentrations exceed the numerical criterion of § 1155.3
+   and the enforcement standards of § 1155.5; and
+   
+   
+   
+   (b)	There is failure to inform the Director or respond as required in §
+   1155.13.
+
+   1155.13. The following procedures shall apply when a substance(s) is detected
+   at the point of compliance and an EWV is attained or exceeded, or a net change
+   in concentration is detected through an approved trend analysis:
+   
+   
+   
+   (a)	The permittee or responsible party shall notify the Director, in writing,
+   within thirty (30) days; and
+   
+   
+   
+   (b)	Upon receiving notification, the Director may require the permittee or
+   responsible party to perform one of the following:
+   
+   
+   
+   (1)	No action;
+   
+   
+   
+   (2)	Resample wells to verify results;
+   
+   
+   
+   (3)	Revise the monitoring plan including increased monitoring; or
+   
+   
+   
+   (4)	Complete a report documenting the extent of contamination, contamination
+   sources and discuss alternative methods of operation.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 4203, 4205 (July 2, 1993);
+   renumbered by Final Rulemaking published at 41 DCR 1075 (March 4, 1994).

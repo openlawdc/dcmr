@@ -1,0 +1,584 @@
+                                  DC REGULATIONS
+
+ARCHITECTURAL AND INDUSTRIAL MAINTENANCE COATING – STANDARDS (§ 20-774)
+
+774.1. No person shall manufacture, blend, supply, sell, offer for sale,
+   apply, or solicit the application of any architectural coating with a VOC
+   content in excess of the corresponding limit specified in the Table of
+   Standards in § 774.10, except as provided in §§ 774.2, 774.3, 774.8, and
+   774.10.
+   
+   
+   
+   774.2 	The most restrictive VOC content limit shall apply if anywhere on the
+   container of any architectural coating, or any label or sticker affixed to the
+   container, or in any sales, advertising, or technical literature supplied by a
+   manufacturer or anyone acting on their behalf, any representation is made that
+   indicates that the coating meets the definition of or is recommended for use
+   for more than one (1) of the coating categories listed in the Table of
+   Standards in § 774.10. This provision does not apply to the following coating
+   categories:
+   
+   
+   
+   
+   
+   
+   
+   Lacquer coatings (including lacquer sanding sealers);
+   
+   
+   
+   (b)	Metallic pigmented coatings;
+   
+   
+   
+   (c)	Shellacs;
+   
+   
+   
+   (d)	Fireretardant coatings;
+   
+   
+   
+   (e)	Pretreatment wash primers;
+   
+   
+   
+   (f)	Industrial maintenance coatings;
+   
+   
+   
+   (g)	Lowsolids coatings;
+   
+   
+   
+   (h)	Wood preservatives;
+   
+   
+   
+   (i)	Hightemperature coatings;
+   
+   
+   
+   (j)	Temperatureindicator safety coatings;
+   
+   
+   
+   (k)	Antenna coatings;
+   
+   
+   
+   (l)	Antifouling coatings;
+   
+   
+   
+   (m)	Flow coatings;
+   
+   
+   
+   (n)	Bituminous roof primers;
+   
+   
+   
+   (o)	Specialty primers, sealers, and undercoaters;
+   
+   
+   
+   (p)	Thermoplastic rubber coating and mastic;
+   
+   
+   
+   (q)	Calcimine recoaters;
+   
+   
+   
+   (r)	Impacted immersion coatings;
+   
+   
+   
+   (s)	Nuclear coatings; and
+   
+   
+   
+   (t)	Concrete surface retarders.
+
+   774.3. A coating manufactured before the effective date specified for that
+   coating in the Table of Standards in § 774.10, may be sold, supplied, or
+   offered for sale after the specified effective date. In addition, a coating
+   manufactured before the effective date specified for that coating in the Table
+   of Standards in § 774.10 may be applied at any time, both before and after
+   the specified effective date, so long as the coating complied with the
+   standards in effect at the time the coating was manufactured. This subsection
+   does not apply to any coating that does not display the date or date code
+   required by § 776.1(a).
+
+   774.4. All architectural coating containers used to apply the contents therein
+   to a surface directly from the container by pouring, siphoning, brushing,
+   rolling, padding, ragging, or other means shall be closed when not in use.
+   These architectural coatings containers include, but are not limited to:
+   
+   
+   
+   (a) 	Drums, buckets, cans, pails, trays, or other application containers; and
+   
+   
+   
+   (b)	Containers of any VOCcontaining materials used for thinning and cleanup
+   shall also be closed when not in use.
+
+   774.5. No person who applies or solicits the application of any architectural
+   coating shall apply a coating that is thinned to exceed the applicable VOC
+   limit specified in the Table of Standards in § 774.10.
+
+   774.6. No person shall apply or solicit the application of any rust preventive
+   coating for industrial use, unless such a rust preventive coating complies
+   with the industrial maintenance coating VOC limit specified in the Table of
+   Standards in § 774.10.
+
+   774.7. For any coating that does not meet any of the definitions for the
+   specialty coatings categories listed in the Table of Standards in § 774.10,
+   the VOC content limit shall be determined by classifying the coating as a flat
+   coating or a nonflat coating, based on its gloss, as defined in § 799, and
+   the corresponding flat or nonflat coating limit shall apply.
+
+   774.8. A manufacturer, seller, or user of an industrial maintenance coating
+   may petition the Department to apply an industrial maintenance coating with a
+   VOC content greater than three hundred forty gallons per liter (340 g./L) if
+   all of the following conditions are met:
+   
+   
+   
+   (a)	The industrial maintenance coating is applied outside the ozone season,
+   normally May through September every year;
+   
+   
+   
+   (b)	The petition submitted to the Department shall contain the following
+   information, as applicable: job requirements and descriptions, volume of
+   coating, maximum VOC content, and a certification that a complying coating
+   meeting the job performance requirements is not available; and
+   
+   
+   
+   (c)	If the Department grants written approval, such approval shall contain
+   volume and VOC limit conditions. Until written approval is granted by the
+   Department and received by the petitioner, all provisions of this section
+   shall apply.
+
+   774.9. The Department shall not approve any petition under § 774.8 if the
+   approvals previously granted by the Department during the calendar year, when
+   combined with the petition under consideration, would result in excess VOC
+   emissions for that calendar year that would exceed five percent (5%) of the
+   annual emission reduction achieved within the District of Columbia from
+   implementing the January 1, 2005, VOC limit for industrial maintenance
+   coatings. Coatings subject to this provision shall be sold only if an approved
+   petition (or a copy of it) is provided before the sale. Coatings subject to
+   this provision shall not be available to the general public.
+
+   774.10. Notwithstanding the provisions of § 774.1, a person or facility may
+   add up to ten percent (10%) by volume of VOC to a lacquer to avoid blushing of
+   the finish during days with relative humidity greater than seventy percent
+   (70%) and temperature below sixty-five degrees Fahrenheit (65° F) or eighteen
+   degrees Celsius (18º C) at the time of application, provided that the coating
+   contains acetone and no more than five hundred fifty grams (550 g.) of VOC per
+   liter of coating, less water and exempt compounds, before the addition of VOC.
+   
+   
+   
+   Table of Standards. VOC Content Limits for Architectural Coatings.
+   
+   
+   
+   Coating Category
+   
+   
+   
+   VOC Content Limit
+   
+   (Grams VOC per liter)
+   
+   
+   
+   Flat coatings
+   
+   100
+   
+   
+   
+   Nonflat coatings
+   
+   150
+   
+   
+   
+   Nonflat high gloss coatings
+   
+   250
+   
+   
+   
+   Specialty Coatings
+   
+   
+   
+   
+   
+   Antenna coatings
+   
+   530
+   
+   
+   
+   Antifouling coatings
+   
+   400
+   
+   
+   
+   Bituminous roof coatings
+   
+   300
+   
+   
+   
+   Bituminous roof primers
+   
+   350
+   
+   
+   
+   Bond breakers
+   
+   350
+   
+   
+   
+   Calcimine recoater
+   
+   475
+   
+   
+   
+   Clear wood coatings:
+   
+   
+   
+   
+   
+   • Clear brushing lacquers
+   
+   680
+   
+   
+   
+   • Lacquers (including lacquer sanding sealers)
+   
+   550
+   
+   
+   
+   • Sanding sealers (other than lacquer sanding sealers)
+   
+   350
+   
+   
+   
+   • Varnishes
+   
+   350
+   
+   
+   
+   Concrete curing compounds
+   
+   350
+   
+   
+   
+   Concrete surface retarders
+   
+   780
+   
+   
+   
+   Conjugated oil varnish
+   
+   450
+   
+   
+   
+   Conversion varnish
+   
+   725
+   
+   
+   
+   Dry fog coatings
+   
+   400
+   
+   
+   
+   Faux finishing coatings
+   
+   350
+   
+   
+   
+   Fireresistive coatings
+   
+   350
+   
+   
+   
+   Fireretardant coatings
+   
+   
+   
+   
+   
+   • Clear
+   
+   650
+   
+   
+   
+   • Opaque
+   
+   350
+   
+   
+   
+   Floor coatings
+   
+   250
+   
+   
+   
+   Flow coatings
+   
+   420
+   
+   
+   
+   Formrelease compounds
+   
+   250
+   
+   
+   
+   Graphic arts coatings (sign paints)
+   
+   500
+   
+   
+   
+   Hightemperature coatings
+   
+   420
+   
+   
+   
+   Industrial maintenance coatings
+   
+   340
+   
+   
+   
+   Impacted immersion coatings
+   
+   780
+   
+   
+   
+   Lowsolids coatings
+   
+   120
+   
+   
+   
+   Magnesite cement coatings
+   
+   450
+   
+   
+   
+   Mastic texture coatings
+   
+   300
+   
+   
+   
+   Metallic pigmented coatings
+   
+   500
+   
+   
+   
+   Multicolor coatings
+   
+   250
+   
+   
+   
+   Nuclear coatings
+   
+   450
+   
+   
+   
+   Pretreatment wash primers
+   
+   420
+   
+   
+   
+   Primers, sealers, and undercoaters
+   
+   200
+   
+   
+   
+   Reactive penetrating carbonate stone sealer
+   
+   600
+   
+   
+   
+   Quickdry enamels
+   
+   250
+   
+   
+   
+   Quickdry primers, sealers and undercoaters
+   
+   200
+   
+   
+   
+   Recycled coatings
+   
+   250
+   
+   
+   
+   Roof coatings
+   
+   250
+   
+   
+   
+   Rust preventative coatings
+   
+   400
+   
+   
+   
+   Shellacs
+   
+   
+   
+   
+   
+   • Clear
+   
+   730
+   
+   
+   
+   • Opaque
+   
+   550
+   
+   
+   
+   Specialty primers, sealers, and undercoaters
+   
+   350
+   
+   
+   
+   Stains
+   
+   250
+   
+   
+   
+   Stone consolidants
+   
+   450
+   
+   
+   
+   Swimming pool coatings
+   
+   340
+   
+   
+   
+   Swimming pool repair and maintenance coatings
+   
+   340
+   
+   
+   
+   Temperatureindicator safety coatings
+   
+   550
+   
+   
+   
+   Thermoplastic rubber coatings and mastics
+   
+   550
+   
+   
+   
+   Traffic marking coatings
+   
+   150
+   
+   
+   
+   Waterproofing sealers
+   
+   250
+   
+   
+   
+   Waterproofing concrete/masonry sealers
+   
+   400
+   
+   
+   
+   Wood preservatives
+   
+   350
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   	SOURCE: Notice of Final Rulemaking published at 58 DCR 11286, 11397 (December
+   30, 2011).
+   
+    Limits are expressed in grams of VOC per liter of coating thinned to the
+   manufacturer&#8217;s maximum recommendation, excluding the volume of any
+   water, exempt compounds, or colorant added to tint bases.  Manufacturer’s
+   maximum recommendation means the maximum recommendation for thinning that is
+   indicated on the label or lid of the coating container.
+   
+   
+   
+    Conversion factor: one pound VOC per gallon (U.S.) is equivalent to one
+   hundred nineteen and ninety-five one hundredths grams per liter (119.95 g/L).
+   
+    Units for this coating are grams of VOC per liter (pounds of VOC/gallon) of
+   coating, including water and exempt compounds

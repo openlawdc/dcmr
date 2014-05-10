@@ -1,0 +1,438 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 20-3199)
+
+3199.1. When used in this chapter, the following words and phrases shall have
+   the meaning ascribed:
+   
+   
+   
+   Alteration of a Watercourse – an alteration of a watercourse includes, but
+   is not limited to, any dam, impoundment, channel relocation, change in channel
+   alignment, channelization, or change in cross-sectional area or capacity,
+   which may alter, impede, retard or change the direction and/or velocity of the
+   riverine flow of water during conditions of the base flood.
+   
+   
+   
+   Base Flood – the flood having a one percent (1%) chance of being equaled or
+   exceeded in any given year, also known as “the one-hundred (100) year
+   flood.”
+   
+   
+   
+   Base Flood Elevation – the elevation of the base flood, including wave
+   height, relative to the National Geodetic Vertical Datum (NGVD), North America
+   Vertical Datum (NAVD) or other datum specified on the Flood Insurance Rate Map
+   (FIRM).
+   
+   
+   
+   Basement – the portion of a building having its floor subgrade (below ground
+   level) on all sides.
+   
+   
+   
+   Code Official – the officer or other designated authority charged with the
+   administration and enforcement of the building codes, or a duly authorized
+   representative, as designated by 12 DCMR A 103.1.
+   
+   
+   
+   Construction – the construction, reconstruction, renovation, repair,
+   extension, expansion, alteration, or relocation of a building structure.
+   
+   
+   
+   DCRA – the Department of Consumer and Regulatory Affairs.
+   
+   
+   
+   DDOE – the District Department of the Environment, also referred to as
+   “Department.”
+   
+   
+   
+   Development – any manmade change to improved or unimproved real estate,
+   including but not limited to: buildings or other structures, streets and other
+   paving, utilities, filling, grading, excavation, mining, dredging, drilling
+   operations, storage of equipment or materials, and the subdivision of land.
+   
+   
+   
+   Department – the District Department of the Environment, also referred to as
+   “DDOE.”
+   
+   
+   
+   Dry Floodproofing – a combination of design modifications that result in a
+   building or structure, including the attendant utility and sanitary
+   facilities, being water tight with walls substantially impermeable to the
+   passage of water and with structural components have the capacity to resist
+   loads as identified in ASCE 7 (see floodproofing).
+   
+   
+   
+   Elevation Certificate – a certificate used to certify building and grade and
+   other building information, and elevations to provide elevation information
+   necessary to ensure compliance with this chapter, to determine the proper
+   insurance premium rate, and to support a request for a Letter of Map Amendment
+   (LOMA) or Letter of Map Revision based on Fill (LOMR-F).
+   
+   
+   
+   Encroachment – the advancement or infringement of uses, fill, excavation,
+   buildings, permanent structures or other development into a special flood
+   hazard area which may impede or alter the flow capacity of a floodplain.
+   
+   
+   
+   FEMA – the Federal Emergency Management Agency.
+   
+   
+   
+   Flood or Flooding – a general and temporary condition of partial or complete
+   inundation of normally dry land from:
+   
+   
+   
+   
+   
+   
+   
+   The overflow of inland or tidal waters; or
+   
+   
+   
+   
+   
+   
+   
+   The unusual and rapid accumulation or runoff of surface waters from any
+   source.
+   
+   
+   
+   Flood Insurance Rate Map (FIRM) – an official map of a community, on which
+   the Federal Insurance Administrator has delineated both the special hazard
+   areas and the risk premium zones applicable to the community.
+   
+   
+   
+   Flood Insurance Study (FIS) – an official report including a Flood Insurance
+   Rate Map by the Federal Insurance Administrator evaluating flood hazards and
+   containing flood profiles and water surface elevations of the base flood.
+   
+   
+   
+   Floodplain – a relatively flat or low land area which is subject to partial
+   or complete inundation from an adjoining or nearby stream, river or
+   watercourse; or any area subject to the usual and rapid accumulation of
+   surface waters from any source.
+   
+   
+   
+   Floodplain Administrator – the official or office charged with the
+   administration and enforcement of this Chapter, for these purposes, DDOE.
+   
+   
+   
+   Floodproofing – any combination of structural and non-structural additions,
+   changes, adjustments to structures which reduce or eliminate flood damage to
+   real estate or improved real property, water and sanitary facilities,
+   structures, and their contents.
+   
+   
+   
+   Floodway – the channel or a river or other watercourse and the adjacent land
+   areas that must be reserved in order to discharge the base flood without
+   cumulatively increasing the water surface elevation more than a designated
+   height.
+   
+   
+   
+   Freeboard – a factor of safety usually expressed in feet above a flood level
+   for purposes of floodplain management. “Freeboard” tends to compensate for
+   the many unknown factors that could contribute to flood heights greater than
+   the height calculated for a selected size flood and floodway conditions, such
+   as wave action, bridge openings, and the hydrological effect of urbanization
+   of the watershed.
+   
+   
+   
+   Historic Structure – any structure that is:
+   
+   
+   
+   
+   
+   
+   
+   Individually listed in the National Register of Historic Places (a listing
+   maintained by the U.S. Department of Interior) or preliminarily determined by
+   the Secretary of the Interior as meeting the requirements for individual
+   listing on the National Register;
+   
+   
+   
+   
+   
+   
+   
+   Certified or preliminarily determined by the Secretary of the Interior as
+   contributing to the historical significance of a registered historic district
+   or a district preliminarily determined by the Secretary to qualify as a
+   registered historic district;
+   
+   
+   
+   
+   
+   
+   
+   Individually listed on a state inventory of historic places in states with
+   historic preservation programs which have been approved by the Secretary of
+   the Interior; or
+   
+   
+   
+   
+   
+   
+   
+   Individually listed on a local inventory of historic places in communities
+   with historic preservation programs that have been certified either:
+   
+   
+   
+   
+   
+   
+   
+   By an approved state program as determined by the Secretary of the Interior;
+   or
+   
+   
+   
+   
+   
+   
+   
+   Directly by the Secretary of the Interior in states without approved programs.
+   
+   
+   
+   Land Disturbing Activity – any earth movement or land change which may
+   result in soil erosion from water or wind and the movement of sediments in the
+   District of Columbia, including, but not limited to, stripping, grading,
+   excavating, transporting and filling of land, construction or demolition of
+   buildings or structures.
+   
+   
+   
+   Lowest Floor – the lowest floor of the lowest enclosed area (including
+   basement). An unfinished or flood resistant enclosure, used solely for parking
+   of vehicles, building access, or storage, in an area other than basement, is
+   not considered a building’s lowest floor, provided that such enclosure is
+   not built so as to render the structure in violation of the applicable
+   non-elevation design requirements of this chapter.
+   
+   
+   
+   Manufactured Home – a structure, transportable in one (1) or more sections,
+   which is built on a permanent chassis and is designed for use with or without
+   a permanent foundation when connected to the required utilities. For flood
+   plain management purposes, the term &#8220;manufactured home&#8221; also
+   includes park trailers, travel trailers, and other similar vehicles placed on
+   a site for greater than one hundred and eighty (180) consecutive days.
+   
+   
+   
+   Market Value – the price at which a property will change hands between a
+   willing buyer and a willing seller, neither party being under compulsion to
+   buy or sell and both having reasonable knowledge of relevant facts.
+   
+   
+   
+   National Flood Insurance Program (NFIP) – a Federal program enabling
+   property owners in participating communities to purchase insurance protection
+   against losses from flooding. Participation in the NFIP is based on an
+   agreement between local communities and the Federal Government that states if
+   a community will adopt and enforce a floodplain management ordinance to reduce
+   future flood risks to new construction and development in special flood hazard
+   areas, the Federal Government will make flood insurance available within the
+   community as a financial protection against flood losses.
+   
+   
+   
+   New Construction/Date – for floodplain management purposes, structures for
+   which the start of construction commenced on or after the effective date of
+   the initial FIRM (i.e., November 15, 1985) and includes any subsequent
+   improvements to such structures.
+   
+   
+   
+   Obstruction – any wall, dam, wharf, embankment levee, dike, pile abutment,
+   projection, excavation, channel, rectification, culvert, building, fence,
+   stockpile, refuse, fill, structure, or matter in, along, across or projecting
+   into any channel, watercourse, or flood-prone area, which may impede, retard,
+   or change the direction of the flow of water either by itself or by catching
+   or collecting debris carried by such water or is placed where the flow of the
+   water might carry the same downstream to the damage of life and property.
+   
+   
+   
+   Recreational Vehicle – a vehicle that is:
+   
+   
+   
+   
+   
+   
+   
+   Built on a single chassis;
+   
+   
+   
+   
+   
+   
+   
+   Having total outside dimensions not exceeding four hundred square feet (400
+   ft.2) or less when measured at the largest horizontal projection;
+   
+   
+   
+   
+   
+   
+   
+   Designed to be self-propelled or permanently towable by a light duty truck;
+   and
+   
+   
+   
+   
+   
+   
+   
+   Designed primarily not for use as a permanent dwelling but as temporary living
+   quarters for recreational, camping, travel, or seasonal use.
+   
+   
+   
+   
+   
+   Regulatory Flood Elevation – the base flood elevation plus a freeboard
+   safety factor of one and one-half feet (1-1/2 ft.).
+   
+   
+   
+   Special Flood Hazard Area (SFHA) – the land in the floodplain within the
+   community subject to a 1-percent (1%) chance or greater chance of flooding in
+   any given year. The area may be designated in the FIRM as Zone A, A1-30, AE,
+   A99, AR/A1-30, AR/AE, AR/AO, AR/AH, or AR/A.
+   
+   
+   
+   	Zone A – an area subject to inundation by the one (1)-percent (1%) chance
+   or greater chance of flooding in any given year. Because detailed hydraulic
+   analyses have not been performed, no base flood elevation or depths are shown.
+   
+   
+   
+   	Zone AE – an area subject to inundation by the one (1)-percent (1%) chance
+   or greater chance of flooding in any given year determined by detailed
+   methods. Base flood elevations are shown within these zones.
+   
+   
+   
+   	Zone X – an area identified in the FIRM and FIS as an area of moderate or
+   minimal hazard from the principal source of flood in the area.
+   
+   
+   
+   Start of Construction – the date of permit issuance for new construction and
+   substantial improvements to existing structures, provided the actual start of
+   construction, repair, reconstruction, rehabilitation, addition, placement or
+   other improvement is within one hundred eighty (180) days after the date of
+   issuance. The actual start of construction means the first placement of
+   permanent construction of a building (including a manufactured home) on a
+   site, such as the pouring of a slab or footings, installation of pilings or
+   construction of columns.
+   
+   
+   
+   Structure – for floodplain management purposes, a walled and roofed
+   building, including a gas or liquid storage tank, that is principally above
+   ground, as well as a manufactured home or recreational vehicle that is on-site
+   for more than one hundred eighty (180) days.
+   
+   
+   
+   Subdivision – the division or redivision of a lot, tract, or parcel of land
+   by any means into two (2) or more lots, tracts, parcels or other divisions of
+   land including changes in existing lots lines.
+   
+   
+   
+   Substantial Damage – damage of any origin sustained by a structure whereby
+   the cost of restoring the structure to its before-damaged condition would
+   equal or exceed fifty percent (50%) of the market value of the structure
+   before the damage occurred.
+   
+   
+   
+   Substantial Improvement – any repair, reconstruction, rehabilitation,
+   addition, or improvement of a building or structure, the cost of which equals
+   or exceeds fifty percent (50%) of the market value of the structure before the
+   start of construction. If the structure has sustained substantial damage, any
+   repairs are considered substantial improvement regardless of the actual repair
+   work performed. The term does not, however, include either:
+   
+   
+   
+   (a) 	Any project for improvement of a building required to correct existing
+   health, sanitary or safety code violations identified by the building official
+   and which are the minimum necessary to assure safe living conditions; or
+   
+   
+   
+   (b) 	Any alteration of a historic structure provided that the alteration will
+   not preclude the structure’s continued designation as a historic structure.
+   
+   
+   
+   Violation – the failure of new construction or development to be fully
+   compliant with requirements of this Chapter, the Construction Codes (DCMR
+   Title 12), the District’s Water Quality and Pollution Control Regulations
+   (20 DCMR 500 et. seq.). A structure or other development without the elevation
+   certificate, other certifications, or other evidence of compliance required in
+   this chapter is presumed to be in violation until such time as that
+   documentation is provided.
+   
+   
+   
+   Wet Floodproofing – floodproofing method that relies on the use of
+   flood-damage-resistant materials and construction techniques to minimize flood
+   damages to areas below the base flood elevation of a structure intentionally
+   allowed to flood (see floodproofing).
+   
+   
+   
+   Zone A – see Special Flood Hazard Area
+   
+   
+   
+   Zone AE – see Special Flood Hazard Area
+   
+   
+   
+   Zone X – see Special Flood Hazard Area
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 32 DCR 6547, 6562 (November 15, 1985);
+   as amended by Final Rulemaking published at 35 DCR 962, 963 (February 12,
+   1988); as amended by Notice of Final Rulemaking published at 57 DCR 10782
+   (November 19, 2010).

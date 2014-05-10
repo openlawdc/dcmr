@@ -1,0 +1,380 @@
+                                  DC REGULATIONS
+
+REPORTING AND REPARING REQUIREMENTS FOR GAS LEAKS AND ODOR COMPLAINTS (§
+15-3702)
+
+3702.1. The natural gas utility’s reporting and repair requirements for gas
+   leaks and odor complaints shall follow four steps: (i) respond to all leaks
+   and odor complaints; (ii) notify, by e-mail and telephone, OE and OPC; (iii)
+   provide periodic updates to the initial notification; and (iv) submit written
+   reports on the results of the leak detection and repair, and odor complaints. 
+   The leak detection, classification, and repair personnel should meet the
+   federal training requirements for natural gas operations, maintenance, and
+   emergencies (49 Code of Federal Regulations, Part 192).
+
+   3702.2. The natural gas utility shall respond to (be at the site of) all gas
+   leaks or customer reported odor complaint calls involving a strong gas leak,
+   carbon monoxide, illness, broken service main or gaslight, fire in progress,
+   explosion, uncontrolled appliance heat, steam or noise, gas blowing or
+   hissing, second call, or pressure alarm, or presents an immediate or probable
+   hazard to persons or property and requires immediate repair or continuous
+   action until the conditions are no longer hazardous within fifty (50) minutes
+   after the utility’s dispatch has been informed about the leak and/or odor
+   complaint during business or non-business hours.  The natural gas utility
+   shall respond to (be at the site of) all gas leaks or customer reported odor
+   complaint calls involving a “medium” gas leak, noise, or a leak that is
+   recognized as being non-hazardous at the time of detection, but requires
+   scheduled repair based on probable future hazard, within sixty (60) minutes
+   after the utility’s dispatch has been informed about the leak and/or odor
+   complaint during business or non-business hours.  For gas leaks and customer
+   reported odor complaint calls involving a “slight” gas leak, or a leak
+   that is non-hazardous at the time of detection and can be reasonably expected
+   to remain non-hazardous, a response shall involve making a determination as to
+   the severity of the gas leaks and/or reported odor complaints and indicating
+   to the customer/caller when a representative will be at the site, but not
+   later than ninety-five (95) minutes after the utility’s dispatch has been
+   informed about the leak and/or odor complaint during business and non-business
+   hours.  The natural gas utility shall provide the results to OE and OPC on a
+   semi-annual basis. The natural gas utility shall provide explanations if these
+   time limits are exceeded.
+
+   3702.3. The natural gas utility shall report to OE and OPC by telephone and
+   e-mail all natural gas leaks and customer reported odor complaint calls at the
+   earliest practicable time, but not later than one (1) hour after the
+   utility’s dispatch has been informed about and determined that the odor
+   complaint resulted from a leak and/or the dispatch has determined that a leak
+   has occurred on the utility’s gas system, with as much detailed information
+   as possible.  To the extent all information required by Section 3702.5 is not
+   available at the time of the initial communication, the natural gas utility
+   shall within two (2) hours of the dispatch supplement its initial report with
+   the additional information. Gas leaks found inside customers’ facilities and
+   odor complaints where no leaks are found shall not be reported.  This
+   reporting requirement applies to business and non-business hours.
+
+   3702.4. Each gas leak shall be categorized as Grade 1, 2, or 3. All leaks
+   shall be classified with the following criteria:
+   
+   
+   
+   	(a)	Grade 1:  A leak that presents an immediate or probable hazard to persons
+   or property, and requires immediate repair or continuous action until the
+   conditions are no longer hazardous;
+   
+   
+   
+   (b)	Grade 2: A leak that is recognized as being non-hazardous at the time of
+   detection, but requires scheduled repair based on probable future hazard; and
+   
+   
+   
+   	(c)	Grade 3: A leak that is non-hazardous at the time of detection and can be
+   reasonably expected to remain non-hazardous.
+   
+   
+   
+   3702.5 	Each telephone and e-mail report of a Grade 1 leak or a leak due to a
+   gas-related odor complaint shall state clearly, at a minimum, the following
+   information:
+   
+   
+   
+   
+   
+    	A description of the type of leak(s);
+   
+   
+   
+   
+   
+    	The location of the leak(s), including street addresses;
+   
+   
+   
+   
+   
+    	The ward(s) and/or quadrant(s) where the leak(s) occurred;
+   
+   
+   
+   
+   
+   The estimated number of customers and/or persons whose service was disrupted,
+   if known;
+   
+   
+   
+   
+   
+   A preliminary assessment as to the cause of the leak(s), if known; and
+   
+   
+   
+   
+   
+   
+   
+    	The estimated time to repair the leak, if known.
+   
+   
+   
+   The natural gas utility shall provide regular updates, to OE and OPC, to the
+   initial report as it receives more information.
+   
+   
+   
+   3702.6 	Each e-mail report of a Grade 2 leak shall state clearly, at a
+   minimum, the following information:
+   
+   
+   
+   
+   
+   
+   
+    	A description of the type of leak(s);
+   
+   
+   
+   
+   
+    	The location of the leak(s), including street addresses;
+   
+   
+   
+   
+   
+    	The ward(s) and/or quadrant(s) where the leak(s) occurred;
+   
+   
+   
+   
+   
+   A preliminary assessment as to the cause of the leak(s), if known;  and
+   
+   
+   
+   
+   
+    	The estimated time to repair the leak(s), if known.
+   
+   
+   
+   3702.7 	Each e-mail report of a Grade 3 leak shall state clearly, at a
+   minimum, the following information:
+   
+   
+   
+   
+   
+   
+   
+    	A description of the type of leak(s);
+   
+   
+   
+   
+   
+    	The location of the leak(s), including street addresses; and
+   
+   
+   
+   
+   
+    	The ward(s) and/or quadrant(s) where the leak(s) occurred.
+
+   3702.8. All Grade 1 leaks shall be promptly repaired.  If not repaired
+   immediately, upon detection, the utility shall submit a weekly written report
+   to OE and OPC regarding the status of and the utility’s progress in
+   completing the leak repair.  The natural gas utility shall inform OE and OPC
+   prior to making any changes to the estimated leak repair time(s).
+
+   3702.9. Each written report concerning Grade 1 leaks or customer reported odor
+   complaint leaks shall state clearly, at a minimum, the following information
+   as applicable to the incident:
+   
+   
+   
+   
+   
+   Address and location of the leak or odor;
+   
+   
+   
+   
+   
+   A description of the type of leak;
+   
+   
+   
+   
+   
+   Pressure involved (Transmission, High Pressure, Medium Pressure or Low
+   Pressure);
+   
+   
+   
+   
+   
+   The ward(s) and/or quadrant(s) where the leak has been identified;
+   
+   
+   
+   
+   
+   The time the utility received the first call regarding a gas leak or leak
+   detection;
+   
+   
+   
+   
+   
+   The cause of the leak, if known;
+   
+   
+   
+   
+   
+   The actual repair time; and
+   
+   
+   
+   
+   
+   Any action taken to date.
+
+   3702.10. Grade 2 leaks shall be monitored and reevaluated at least once every
+   six months until cleared with no further signs of leak.  Depending on the
+   location and magnitude of the leakage condition, reevaluation may be made
+   earlier than six months.  If reevaluation of a Grade 2 leak indicates
+   potential hazard, it shall be scheduled for repair within five (5) working
+   days of completed evaluation.  For Grade 2 leaks that do not pose an immediate
+   hazard, the utility shall schedule repairs within thirty (30) days.  Grade 2
+   leaks shall be repaired or cleared within one calendar year, but no later than
+   15 months from the date the leak was reported.
+
+   3702.11. Grade 3 leaks shall be monitored and reevaluated during the next
+   scheduled leak survey, or within 15 months of the date reported, whichever
+   occurs first, until the leak is regraded or cleared with no further signs of
+   leak.
+   
+   
+   
+   3702.12 	Written reports for leaks classified as Grade 2 and Grade 3 shall be
+   filed semi-annually with OCMS and OPC.  The report shall be submitted
+   forty-five (45) days after the reporting period, starting with the six-month
+   reporting period following the NGQSS’s adoption in Title 15 of the District
+   of Columbia Municipal Regulations (DCMR).
+   
+   
+   
+   3702.13 	Each semi-annual written report concerning Grade 2 leaks, shall state
+   clearly, at a minimum, the following information as applicable:
+   
+   
+   
+   
+   
+   	Address and location of the leak or odor;
+   
+   
+   
+   
+   
+    	A description of the type of leak;
+   
+   
+   
+   
+   
+   	Pressure involved (Transmission, High Pressure, Medium Pressure
+   
+   	or Low Pressure);
+   
+   
+   
+   
+   
+   The ward(s) and/or quadrant(s) where the leak was identified;
+   
+   
+   
+   
+   
+   Assessment as to the cause of the leak(s); and
+   
+   
+   
+   
+   
+   The schedule and the status of repair of all Grade 2 leaks consistent with the
+   standard provided in Section 3702.10.
+   
+   3702.14 	Each semi-annual written report concerning Grade 3 leaks, shall state
+   clearly, at a minimum, the following information as applicable:
+   
+   
+   
+   
+   
+   	Address and location of the leak or odor;
+   
+   
+   
+   
+   
+    	A description of the type of leak;
+   
+   
+   
+   
+   
+   
+   
+   	Pressure involved (Transmission, High Pressure, Medium Pressure
+   
+   	or Low Pressure);
+   
+   
+   
+   
+   
+    	The ward(s) and/or quadrant(s) where the leak was identified; and
+   
+   
+   
+   
+   
+   	The status of reevaluation and repair schedule, if applicable, of Grade 3
+   leaks, consistent with Section 3702.11.
+
+   3702.15. The natural gas utility shall create and maintain database(s) for all
+   gas leaks and customer reported gas-related odor complaints.  The database(s)
+   shall be referred to as the “Leak Identification, Detection and Repair, and
+   Odor Complaints (LIDAROC)”.  The database(s) shall contain, at a minimum,
+   the grade of the leak, type of leak, location of the leak, the ward and/or
+   quadrant where the leak occurred, estimated number of customers whose services
+   were disrupted because of the leak, the cause of the leak, response time,
+   estimated and actual time to repair the leak, and actions taken.  The natural
+   gas utility shall incorporate all natural gas leaks and customer reported odor
+   complaint calls into the database(s) within five (5) days of receipt of the
+   gas-related odor complaint and/or determination that a leak has occurred on
+   its gas system.  The database(s) shall be organized in a way that permits
+   analysis of the data by the time taken to respond, repair, and resolve the gas
+   leaks.
+
+   3702.16. The natural gas utility shall update the database(s) after it has
+   repaired and/or resolved the leak and customer reported odor complaints and
+   shall submit an electronic and a hard copy of the database (s) to OE and OPC
+   on a quarterly basis.
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Notice of Final Rulemaking published at 56 DCR 7646 (September 25,
+   2009), incorporating text of Proposed Rulemaking published at 56 DCR 1827,
+   1835 (February 27, 2009); as amended by Final Rulemaking published at 56 DCR
+   9562 (December 25, 2009), incorporating text of Proposed Rulemaking published
+   at 56 DCR 8599 (October 30, 2009).

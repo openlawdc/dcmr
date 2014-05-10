@@ -1,0 +1,65 @@
+                                  DC REGULATIONS
+
+CALCULATION OF THE HOSPITAL SPECIFIC COST PER DISCHARGE (§ 29-4802)
+
+4802.1. The hospital-specific cost per discharge shall be equal to each
+   hospital’s Medicaid inpatient operating costs standardized for indirect
+   medical education costs and variations in case mix, divided by the number of
+   Medicaid discharges in the base year data set and adjusted for outlier
+   reserve.
+
+   4802.2. Medicaid inpatient operating costs for the base year period shall be
+   calculated by applying the hospital-specific operating cost-to-charge ratio to
+   allowed charges from the base year claims data.  The cost-to-charge ratio
+   shall be calculated in accordance with 42 C.F.R. § 413.53 (Determination of
+   cost of services to beneficiaries) and 42 C.F.R. §§ 412.1 through 412.125
+   (Prospective payment systems for inpatient hospital services), and as reported
+   on cost reporting Form HCFA 2552-10, Worksheet C, Part 1 (Computation of ratio
+   of cost to charges), or its successor, except that organ acquisition costs
+   shall be excluded.
+
+   4802.3. Cost classifications and allocation methods shall be made in
+   accordance with the Department of Health and Human Services, Health Care
+   Finance Administration Guidelines for Form HCFA 2552-10 and the Medicare
+   Provider Reimbursement Manual 15 or any subsequent guidance issued by the
+   federal Department of Health and Human Services.
+
+   4802.4. Medicaid inpatient operating costs calculated pursuant to Subsection
+   4802.2 shall be standardized for indirect medical education costs by removing
+   indirect medical education costs.  Indirect medical education costs shall be
+   removed by dividing Medicaid operating costs by the indirect medical education
+   factor set forth in Subsection 4802.5.
+
+   4802.5. The indirect medical education adjustment factor for each hospital
+   shall be the factor calculated by Medicare for each hospital based on the
+   hospital cost report for the base year period as described in Subsection
+   4801.2.
+
+   4802.6. Medicaid inpatient operating costs calculated pursuant to Subsection
+   4802.2 shall be standardized for variations in case mix by dividing Medicaid
+   operating costs standardized for indirect medical education pursuant to
+   Subsection 4802.4 by the appropriate case mix adjustment factor set forth in
+   Subsection 4802.7.
+
+   4802.7. The case mix adjustment factor for each hospital shall be equal to the
+   sum of the relative weights of each discharge in the base year, divided by the
+   number of discharges in the base year. The case mix adjustment factor
+   calculated pursuant to this section shall be adjusted by two point five
+   percent (2.5%), which accounts for an expected change in case mix related to
+   improved coding of claims.
+
+   4802.8. The hospital-specific cost per discharge adjusted for indirect medical
+   education and case mix shall be reduced by a net one percent (1%), which takes
+   into account five percent (5%) of the cost reserved for payment of high-cost
+   claims and four percent (4%) of the cost restored to account for the reduction
+   in payment for low-cost claims.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 45 DCR 4141, 4145 (June 26, 1998); as
+   amended by Notice of Emergency and Proposed Rulemaking published at 57 DCR
+   2691 (March 26, 2010) [EXPIRED]; as amended by Notice of Emergency and
+   Proposed Rulemaking published at 57 DCR 6837 (July 10, 2010) [EXPIRED]; as
+   amended by Notice of Final Rulemaking published at 58 DCR 4323, 4326 (May 20,
+   2011); as amended by Final Rulemaking published at 59 DCR 15078 (December 28,
+   2012).

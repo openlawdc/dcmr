@@ -1,0 +1,160 @@
+                                  DC REGULATIONS
+
+STORMWATER MANAGEMENT[COLON] PERFORMANCE REQUIREMENTS FOR MAJOR SUBSTANTIAL
+IMPROVEMENT ACTIVITY (§ 21-522)
+
+522.1. If a major substantial improvement activity demonstrates that it is not
+   part of a common plan of development with a major land-disturbing activity,
+   then it shall comply with the provisions of this section; otherwise, it shall
+   comply with the requirements for a major land-disturbing activity.
+
+   522.2. For the purposes of calculating the cost of a major substantial
+   improvement to a building or structure, an applicant may exclude the cost of
+   replacing manufacturing and industrial equipment, including pumps, valve
+   chambers, and wastewater treatment facilities, but may not exclude the cost of
+   replacing boilers, furnaces, and other equipment that is part of the heating
+   and cooling system or other infrastructure commonly found in a building or
+   structure.
+
+   522.3. A site that undergoes a major substantial improvement activity shall
+   employ each Best Management Practice (BMP) and land cover necessary to meet
+   the requirements of this section until the property is redeveloped in
+   compliance with these regulations.
+
+   522.4. A site that undergoes a major substantial improvement activity shall
+   achieve  retention of the rainfall from  the eightieth (80th) percentile
+   rainfall event for the District of Columbia, measured for a twenty-four
+   (24)-hour storm with a seventy-two (72)-hour antecedent dry period (0.8 inch
+   rainfall event) by:
+   
+   
+   
+   
+   
+   
+   
+   Employing each BMP necessary to retain the 0.8 inch Stormwater Retention
+   Volume (SWRv), calculated as follows:
+   
+   
+   
+   	SWRv = [P × [(RvI × %I) + (RvC × %C) + (RvN × %N)] × SA] × 7.48 /12
+   
+   
+   
+   SWRv	= 	volume, in gallons, required to be retained
+   
+   P	= 	80th percentile rainfall event for the District (0.8 inches)
+   
+   RvI	= 	0.95 (runoff coefficient for impervious cover)
+   
+   RvC	= 	0.25 (runoff coefficient for compacted cover)
+   
+   RvN	= 	0.00 (runoff coefficient for natural cover)
+   
+   	%I 	   = 	post-development percent of site in impervious cover
+   
+   	%C	   =    	post-development percent of site in compacted cover
+   
+   	%N	   =    	post-development percent of site in natural cover
+   
+   SA         =	surface area, in square feet, of substantially improved building
+   footprint plus land disturbance
+   
+   where the surface area under a BMP shall be calculated as part of the
+   impervious cover (%I); and
+   
+   
+   
+   
+   
+   
+   
+   Employing each post-development land cover factored into the SWRv.
+   
+   
+   
+   
+   
+   
+   
+   Calculating separately and achieving the SWRv, with P equal to 1.2 inches, for
+   the portion of land-disturbing activity that is in the existing Public Right
+   of Way (PROW), in compliance with the section of this Chapter pertaining to
+   performance requirements in the existing PROW.
+
+   522.5. A site that undergoes a major substantial improvement activity may
+   achieve the 0.8 inch SWRv on site or through a combination of on-site
+   retention and off-site retention, under the following conditions:
+   
+   
+   
+   (a) 	The site shall retain on site a minimum of fifty percent (50%) of the 0.8
+   inch SWRv, calculated for the entire site, unless the Department approves an
+   application for relief from extraordinarily difficult site conditions; and
+   
+   
+   
+   (b) 	The site shall use off-site retention for the portion of the SWRv that is
+   not retained on site.
+
+   522.6. A site that undergoes a major substantial improvement activity may
+   achieve on-site retention by retaining more than the 0.8 inch SWRv for an area
+   of the site, subject to the following conditions:
+   
+   
+   
+   (a) 	At least fifty percent (50%) of the 0.8 inch SWRv from each Site Drainage
+   Area (SDA), unless it drains into the combined sewer system, shall be:
+   
+   
+   
+   		(1)	Retained; or
+   
+   
+   
+   (2)	Treated to remove eighty percent (80%) of total suspended solids; and
+   
+   
+   
+   
+   
+   
+   
+   The entirety of an area intended for use or storage of motor vehicles shall
+   drain to each necessary BMP so that at least fifty percent (50%) of the 0.8
+   inch SWRv flowing from that entire area is retained or treated;
+   
+   
+   
+   (b) 	Retention in excess of a 0.8 inch SWRv for one area of the site may be
+   applied to the volume required for another area of the site;
+   
+   
+   
+   (c) 	The requirement for retention of a minimum of fifty percent (50%) of the
+   0.8 inch SWRv for the entire site shall be achieved, unless the Department
+   approves an application for relief from extraordinarily difficult site
+   conditions; and
+   
+   
+   
+   
+   
+   
+   
+   Retention of volume greater than that from a 1.7 inch rainfall event,
+   calculated using the SWRv equation with a P equal to 1.7 inches, shall not be
+   counted toward on-site retention.
+
+   522.7. A major substantial improvement activity may achieve on-site retention
+   by directly conveying volume from the regulated site to a shared BMP with
+   available retention capacity.
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 10640 (July 19, 2013).

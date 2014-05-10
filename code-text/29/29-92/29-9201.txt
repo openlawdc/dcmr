@@ -1,0 +1,117 @@
+                                  DC REGULATIONS
+
+HEALTH CARE ACQUIRED CONDITIONS (§ 29-9201)
+
+9201.1. HCACs subject to payment adjustments under the District of
+   Columbia’s Medicaid program shall include those preventable medical
+   conditions that were not present upon admission to an inpatient hospital
+   setting, but were acquired after an inpatient admission occurs.
+
+   9201.2. HCACs shall consist of diagnoses identified by a secondary diagnostic
+   code.
+
+   9201.3. DHCF shall adjust provider payments for the portion of the claims
+   directly related to treatment for, and related to, the following HCACs:
+   
+   
+   
+   
+   
+   Foreign object retained after surgery;
+   
+   
+   
+   
+   
+   Air embolism;
+   
+   
+   
+   
+   
+   Blood incompatibility;
+   
+   
+   
+   
+   
+   Catheter-associated urinary tract infection;
+   
+   
+   
+   
+   
+   Pressure Ulcer Stages III or IV;
+   
+   
+   
+   
+   
+   Vascular catheter-associated infection;
+   
+   
+   
+   
+   
+   Mediastinitis after coronary artery bypass graft;
+   
+   
+   
+   
+   
+   Falls and trauma resulting in fractures, dislocations, intracranial injury,
+   crushing injury, burn, and other unspecified effects of external causes;
+   
+   
+   
+   
+   
+   Manifestations of poor glycemic control;
+   
+   
+   
+   
+   
+   Surgical site infection following spine, neck, shoulder, or elbow orthopedic
+   procedures;
+   
+   
+   
+   
+   
+   Surgical site infection following bariatric surgery for obesity; and
+   
+   (l) 	Deep vein thrombosis and pulmonary embolism following a total knee or hip
+   replacement, except for pediatric (individuals under the age of twenty-one
+   (21)) and obstetric populations.
+
+   9201.4. The following provider types shall be denied reimbursement for the
+   portion of a claim attributed to HCACs:
+   
+   (a)	Hospitals paid on a diagnosis-related group (DRG) basis; and
+   
+   (b)	Hospitals paid on a non-DRG basis.
+
+   9201.5. For all claims submitted on or after July 1, 2012, each provider shall
+   collect and record information related to HCACs in the present on admission
+   (POA) indicator field and on the secondary diagnosis indicator field on all
+   applicable claims, regardless of whether the claims are submitted in a
+   hardcopy or electronic format.
+
+   9201.6. Additional information, including medical records, may be requested by
+   DHCF regarding claims for payment made on or after July 1, 2012. Providers
+   must collect and maintain information regarding the diagnosis underlying each
+   claim made on or after July 1, 2012, including whether the diagnosis was POA,
+   or if the provider was unable to make such a determination due to clinical
+   reasons or insufficient documentation.
+
+   9201.7. The POA and secondary diagnosis indicator requirement shall be
+   implemented pursuant to additional guidance issued by the DHCF.
+
+   9201.8. A provider that fails to collect and record information in the POA
+   indicator field or secondary diagnosis indicator field, in accordance with
+   this section, shall be denied payment for the associated claim.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 59 DCR 14960 (December 21, 2012).

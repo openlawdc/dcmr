@@ -1,0 +1,82 @@
+                                  DC REGULATIONS
+
+PETROLEUM UST SYSTEM PIPING (§ 20-6004)
+
+6004.1. The owner or operator of a petroleum UST system shall regularly
+   monitor all underground piping that contains or conveys regulated substances
+   for releases, in accordance with the provisions of this section.
+
+   6004.2. Each method of release detection for petroleum UST system piping,
+   excluding heating oil tanks, shall meet the requirements of this section
+
+   6004.3. Underground piping that conveys regulated substances under pressure
+   shall be equipped with an automatic line leak detector.
+
+   6004.4. Automatic line leak detectors which alert the operator to the presence
+   of a leak by restricting or shutting off the flow of regulated substances
+   through piping or triggering an audible or visual alarm may be used only if
+   they detect leaks of three gallons per hour (3 gal/hr) at ten pounds per
+   square inch (10 lbs/in) line pressure within one (1) hour. The owner or
+   operator shall conduct an annual test of the operation of the leak detector,
+   in accordance with the manufacturer&#8217;s requirements.
+   
+   
+   
+   6004.5 		Underground piping that conveys regulated substances under pressure
+   shall have an annual line tightness test conducted in accordance with §6004.7
+   or have monthly monitoring conducted in accordance with §6004.9.
+
+   6004.6. Underground piping that conveys regulated substances under suction
+   except those covered under 6004.8 shall either have a line tightness test
+   conducted at least every three (3) years, in accordance with § 6004.7, or use
+   a monthly monitoring method conducted in accordance with § 6004.9
+
+   6004.7. Periodic line tightness testing of piping may be conducted only if it
+   can detect a one-tenth gallon per hour (0.1 gal/hr) leak rate at one and
+   one-half (1.5) times the operating pressure and includes testing of return
+   lines as applicable.
+
+   6004.8. No release detection shall be required for suction piping that is
+   designed and constructed to meet the following standards:
+   
+   
+   
+   (a)	The below-grade piping operates at less than atmospheric pre sure;
+   
+   
+   
+   (b)	The below-grade piping is sloped so that the contents of the pipe will
+   drain back into the storage tank if the suction is released;
+   
+   
+   
+   (c)	Only one (1) check valve is included in each suction line;
+   
+   
+   
+   (d)	The check valve is located directly below and as close as practical to the
+   suction pump; and
+   
+   
+   
+   (e)	A method, satisfactory to the Director, is provided that allows compliance
+   with the provisions of subparagraphs (b) through (d) of this subsection to be
+   readily determined.
+
+   6004.9. Any of the methods for release detection for tanks set forth in §§
+   6009 through 6011 of this chapter may be used for piping, in accordance with
+   the provisions of the applicable section, if the method used is designed to
+   detect a release from any portion of the underground piping that contains or
+   conveys regulated substances.
+
+   6004.10. Secondary containment systems on underground piping installed or
+   replaced after February 8, 2007 shall be checked for evidence of a release at
+   least once every thirty (30) days using interstitial monitoring.
+   
+   
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 7835, 7870 (November 12, 1993);
+   as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999); as
+   amended by Final Rulemaking published at 56 DCR 6678 (August 21, 2009).

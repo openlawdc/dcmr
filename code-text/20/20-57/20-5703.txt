@@ -1,0 +1,93 @@
+                                  DC REGULATIONS
+
+NEW HEATING OIL UST SYSTEMS (§ 20-5703)
+
+5703.1. Except as provided in § 5700.10, each new heating oil underground
+   storage tank, having a capacity of one thousand and one hundred (1,100)
+   gallons or more, installed after November 12, 1993, whether of single or
+   double-walled construction, shall be constructed of the following:
+   
+   
+   
+   (a)	Fiberglass-reinforced plastic;
+   
+   
+   
+   (b)	Steel-fiberglass-reinforced plastic composite; or
+   
+   
+   
+   (c)	Steel and shall be cathodically protected in accordance with the
+   requirements of § 5703.2.
+
+   5703.2. Each steel tank shall be cathodically protected by being coated with a
+   suitable dielectric material, and, in addition:
+   
+   
+   
+   (a)	Field-installed cathodic protection systems shall be designed by a
+   corrosion expert; and
+   
+   
+   
+   (b)	Impressed current cathodic protection systems shall be designed to allow
+   determination of current operating status as required by § 5901.6.
+
+   5703.3. Each cathodic protection system shall be operated and maintained in
+   accordance with § 5901.
+   
+   
+   
+   5703.4 	Secondary containment systems shall be designed, constructed, and
+   installed to do the following:
+   
+   
+   
+   (a) 	Contain regulated substances released from the tank system until they are
+   detected and removed;
+   
+   
+   
+   (b) 	Prevent the release of regulated substances to the environment at any
+   time during the operational life of the UST system; and
+   
+   
+   
+   (c) 	In accordance with § 6003.5, check for evidence of a release at least
+   every thirty (30) days.
+
+   5703.5. Double-walled tanks shall be designed, constructed, and installed to
+   do the following:
+   
+   
+   
+   (a)	Contain a release from any portion of the inner tank within the outer
+   wall; and
+   
+   
+   
+   (b)	Detect the failure of the inner wall.
+
+   5703.6. External liner systems (including vaults) shall be designed,
+   constructed, and installed to do the following:
+   
+   
+   
+   (a)	Contain one hundred ten percent (110%) of the capacity of the largest tank
+   within its boundary;
+   
+   
+   
+   (b)	Prevent the interference of precipitation or ground water intrusion with
+   the ability to contain or detect a release of regulated substances; and
+   
+   
+   
+   (c)	Surround the tank completely and be capable of preventing lateral, as well
+   as vertical migration of regulated substances.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 7835, 7855 (November 12, 1993);
+   as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999); as
+   amended by Final Rulemaking published at 56 DCR 6678 (August 21, 2009).

@@ -1,0 +1,80 @@
+                                  DC REGULATIONS
+
+PRE-ELECTION LOGIC AND ACCURACY TESTING (§ 3-801)
+
+801.1. In preparation for any election, Board employees shall conduct complete
+   testing of the automatic tabulation system before the use of the system.
+
+   801.2. Before each election, every unit of voting equipment shall be subject
+   to public testing referred to as logic and accuracy testing (“L&#038;A
+   testing”).
+
+   801.3. Notice of the L&#038;A testing period shall be provided to candidates,
+   proponents and opponents of measures, party officials, the news media, and to
+   any other public representatives the Board deems appropriate, at least seven
+   (7) days before the L&#038;A testing period begins.
+
+   801.4. Notice of the final public L&#038;A test shall be provided to
+   candidates, proponents and opponents of measures, party officials, the news
+   media, and to any other public representatives the Board deems appropriate, at
+   least forty-eight (48) hours before the final public L&#038;A test shall
+   occur.
+
+   801.5. An L&#038;A test shall verify the conditions required of the voting
+   equipment, and that each unit of voting equipment is correctly configured for
+   the specifics of that election.  Conditions required of the voting equipment
+   are:
+   
+   
+   
+   (a)  	Each unit of voting equipment contains correct ballot information,
+   including the names or texts of all applicable candidates, contests, and
+   ballot questions;
+   
+   
+   
+   (b)  	Tabulation is accurate and consistent; and
+   
+   (c)  	All required components of the voting equipment, including
+   specifications mandated by the Americans with Disabilities Act (“ADA”), 42
+   U.S.C. §§ 12101, et seq., are functional.
+
+   801.6. Each unit of voting equipment shall be tested by recording test votes
+   from a predetermined script, verifying that it is possible to vote for each
+   candidate or each answer to a question on the ballot, and that these votes are
+   tabulated correctly.
+
+   801.7. The predetermined script shall include valid votes, overvotes, and
+   blank votes for each candidate and each answer to a ballot question.
+
+   801.8. Equipment shall not be approved unless it produces the exact count of
+   the predetermined script, rejects all improper votes, and meets all other test
+   criteria.  If a unit of voting equipment fails L&#038;A testing, it shall not
+   be used in the election and shall be subject to review.
+
+   801.9. The final public L&#038;A test shall conclude by setting all vote
+   totals to zero and emptying the physical or electronic ballot boxes, and then
+   sealing the systems prior to their official use for the election.
+
+   801.10. After the final public L&#038;A test has been successfully completed,
+   all test votes, test results, and the computer programs tested shall be kept
+   in sealed containers and shall not be removed from such containers except in
+   the presence of two or more witnesses not affiliated with the Board, or two
+   (2) or more credentialed election observers or poll watchers not of the same
+   political party or organizational affiliation.
+
+   801.11. The voting equipment configuration tested during the L&#038;A testing
+   period shall be the same configuration used during the early voting period and
+   on Election Day.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 27 D.C. Reg. 1836 (May 2, 1980),
+   incorporating the text of Proposed Rulemaking published at 27 D.C. Reg. 1222,
+   1231 (March 21, 1980); and further amended by Final Rulemaking published at 30
+   D.C. Reg. 5289, 5299 (October 14, 1983); as amended by Final Rulemaking
+   published at 51 D.C. Reg. 5063 (May 14, 2004) 7426 (July 30, 2004); as amended
+   by Final Rulemaking published at 51 D.C. Reg. 7426 (July 30, 2004); as amended
+   by Notice of Emergency and Proposed Rulemaking published at 57 DCR 7705
+   (August 20, 2010)[EXPIRED]; as amended by Notice of Final Rulemaking published
+   at 57 DCR 11149, 11151 (November 26, 2010).

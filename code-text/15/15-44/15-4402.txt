@@ -1,0 +1,52 @@
+                                  DC REGULATIONS
+
+SUBMETERING (§ 15-4402)
+
+4402.1. When submeters are installed by an owner to measure the electricity or
+   natural gas used by its tenants, all charges for electricity or natural gas
+   used, except the allowed service charges permitted by sections 4405 (Periodic
+   Tests and Checks) and 4407 (Billing), shall be calculated from the readings of
+   such submeters.
+
+   4402.2. Submeters in service shall be tested periodically by the owner
+   pursuant to Section 4405 (Periodic Tests and Checks).  If the test results
+   reveal that the submeter is found to be no more than two percent (2%) fast or
+   slow, no adjustment will be made to the tenant’s bill.  If the submeter is
+   found to be more than two percent (2%) fast or slow because of incorrect
+   calibration, the owner will rebill the tenant for the correct amount as
+   calculated for a period equal to one-half (1/2) of the time elapsed since the
+   last previous test, but in no case for a period in excess of twelve (12)
+   months or since occupancy by the existing tenant, whichever is less.  The
+   percentage registration of an electric submeter will be calculated by the
+   “weighted average” of light load and full load which is calculated by
+   giving a value of one to the light load and a value of four to the full load. 
+   The accuracy of a natural gas submeter will be measured at the check rate of
+   flow, as provided in subsection 4401.10 (Section 4401, General Requirements).
+
+   4402.3. Whenever it is found that unmetered electricity or natural gas is
+   being used as a result of tampering, the tenant shall pay to the owner an
+   amount estimated by the owner to be sufficient to cover the electricity or
+   natural gas used but not recorded by the meter and not previously paid for by
+   the tenant.
+
+   4402.4. Whenever it is found that, for any reason other than calibration or
+   tampering, the submetering apparatus has not registered the true amount of
+   electricity or natural gas which has been used by the tenant, the electricity
+   or natural gas used during the entire period of incorrect registration will be
+   estimated by the owner based upon all known pertinent facts, and the amount of
+   electricity or natural gas so estimated will be used in calculating the
+   corrected bill.  The owner shall rebill the tenant for the adjusted amount for
+   a period equal to one-half (1/2) of the time elapsed since the last previous
+   test for submetering apparatus, but in no case for a period in excess of
+   twelve (12) months or since occupancy by the existing tenant, whichever is
+   less. The owner shall calculate the estimated bill in accordance with
+   subsection 4407.10 (Section 4407, Billing).
+   
+   
+   
+   
+   
+   
+   
+   	Source: Notice of Final Rulemaking published at 58 DCR 9521, 9525 (November
+   11, 2011).

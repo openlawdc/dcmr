@@ -1,0 +1,177 @@
+                                  DC REGULATIONS
+
+LEVEL 3 INTERCONNECTION REVIEWS (§ 15-4006)
+
+4006.1. The EDC shall use Level 3 review procedures for evaluating
+   interconnection requests to area networks and radial distribution circuits
+   where power shall not be exported based on the criteria in this section;
+   however, interconnection to spot networks is not permitted under the Level 3
+   review process.
+
+   4006.2. For interconnection requests to the load side of an area network the
+   following criteria shall be satisfied to qualify for a Level 3 expedited
+   review:
+   
+   
+   
+   (a)	The nameplate capacity of the small generator facility is less than or
+   equal to 50 kW; and
+   
+   
+   
+   (b)	The proposed small generator facility utilizes a certified inverter-based
+   equipment package.
+
+   4006.3. For Level 3A Adverse Impact Screens, the EDC shall evaluate the
+   potential for adverse system impacts using the following screens which must be
+   satisfied:
+   
+   
+   
+   (a)	If the small generator facility utilizes reverse power relays and/or other
+   protection functions that prevent power flow to the area network, the proposed
+   small generator facility cannot cause network protector cycling; cause
+   inadvertent network protector opening; or impact any other customer under any
+   conditions (including under fault conditions);
+   
+   
+   
+   (b)	The aggregated other generation on the area network may not exceed the
+   smaller of five (5) percent of an area network&#8217;s maximum load or 50 kW;
+   and
+   
+   
+   
+   (c)	No construction of facilities by the EDC shall be required to accommodate
+   the small generator facility.
+
+   4006.4. For Level 3A, the EDC shall use the additional review procedures
+   listed in Section 4006.8 and the following review procedures:
+   
+   
+   
+   (a)	The EDC shall evaluate the interconnection request under Level 2
+   interconnection review procedures as set forth in Level 3A Procedures except
+   that the EDC may have twenty-five (25) business days to conduct an area
+   network impact study at its own expense to determine any potential adverse
+   system impacts of interconnecting to the EDC&#8217;s area network.
+   
+   
+   
+   (b)	In the event the area network impact study identifies potential adverse
+   system impacts, the EDC may determine at its sole discretion that it is
+   inappropriate for the small generator facility to interconnect to the area
+   network in which case the interconnection request shall be denied; however,
+   the interconnection customer may elect to submit a new interconnection request
+   for consideration under Level 4 procedures in which case the queue position
+   assigned to the Level 3 interconnection request shall be retained provided the
+   request is made within fifteen (15) business days of notification that the
+   current application is denied.
+   
+   
+   
+   (c)	In the event the EDC denies the interconnection request, the EDC shall
+   provide the interconnection customer with a copy of its area network impact
+   study and written justification for denying the interconnection request.
+
+   4006.5. For interconnection requests to a radial distribution circuit, the
+   following criteria shall be satisfied to qualify for a Level 3 review:
+   
+   
+   
+   (a)	The small generator facility has a nameplate capacity of 10 MW or less;
+   
+   
+   
+   (b)	The aggregated total of the nameplate capacity of all of the generators on
+   the circuit, including the proposed small generator facility, is 10 MW or
+   less;
+   
+   
+   
+   (c)	The small generator shall use reverse power relays or other protection
+   functions that prevent power flow onto the electric distribution system;
+   
+   
+   
+   (d)	The small generator is not served by a shared transformer; and
+   
+   
+   
+   (e)	No construction of facilities by the electric distribution company on its
+   own system shall be required to accommodate the small generator facility.
+
+   4006.6. Level 3.B Adverse Impact Screens are the same as the Level 2 adverse
+   impact screens.
+
+   4006.7. Level 3.B review procedures are the same as Level 2 review procedures,
+   except that Section 4006.8 contains additional procedures for all Level 3
+   requests.
+
+   4006.8. The following additional procedures shall apply to all Level 3
+   interconnection requests:
+   
+   
+   
+   (a)	Once the interconnection request is deemed complete by the EDC, the EDC
+   shall assign a queue position based upon the date and time the interconnection
+   request is determined to be complete. The queue position of each
+   interconnection request shall be used to determine the potential adverse
+   system impact of the small generator facility based on the relevant screening
+   criteria. The interconnection customer shall proceed under the timeframes of
+   this section. The EDC shall notify the interconnection customer about other
+   higher-queued interconnection customers on the same radial line or area
+   network to which the interconnection customer is seeking to interconnect.
+   
+   
+   
+   (b)	The interconnection customer shall have thirty (30) business days after
+   submission of the small generator interconnection agreement to sign and return
+   the small generator interconnection agreement. If the interconnection customer
+   does not sign the small generator interconnection agreement within thirty (30)
+   business days, the request shall be deemed withdrawn unless the parties
+   mutually agree in writing to extend the time period for executing the small
+   generator interconnection agreement prior to the expiration of the thirty (30)
+   business day period. After the small generator interconnection agreement is
+   signed by the parties, interconnection of the small generator facility shall
+   proceed according to all milestones agreed to by the parties in the small
+   generator interconnection agreement.
+   
+   
+   
+   (c)	The interconnection agreement shall not be final until:
+   
+   
+   
+   (1)	All milestones agreed to in the small generator interconnection agreement
+   are satisfied;
+   
+   
+   
+   (2)	The small generator facility is approved by electric code officials with
+   jurisdiction over the interconnection;
+   
+   
+   
+   (3)	The interconnection customer provides a certificate of completion to the
+   EDC; and
+   
+   
+   
+   (4)	There is a successful completion of the witness test per the terms and
+   conditions found in the Standard Agreement for Interconnection of Small
+   Generator Facilities unless waived.
+   
+   
+   
+   (d)	If the small generator facility is not approved under a Level 3 review,
+   the interconnection customer may submit a new interconnection request for
+   consideration under the Level 4 procedures without sacrificing the original
+   queue position, provided the revised interconnection request is submitted
+   within fifteen (15) business days of notice that the current request has not
+   been approved.
+   
+   
+   
+   	SOURCE: As amended by Final Rulemaking published at 56 DCR 1415, 1418
+   (February 13, 2009).

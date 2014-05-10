@@ -1,0 +1,54 @@
+                                  DC REGULATIONS
+
+CONTRIBUTIONS TO THE DC USTF (§ 15-2814)
+
+2814.1. The amount of contribution required from each local exchange carrier
+   and VoIP 	service provider shall be based on the total revenues of the local
+   exchange carrier and VoIP service provider for local telecommunications
+   service or 	telecommunications service derived from end users in the District
+   of Columbia as a percentage of all the local exchange carrier’s or VoIP
+   service provider&#8217;s total 	retail revenues for local telecommunications
+   or telecommunications services derived from end users in the District of
+   Columbia for the previous twelve (12)-month period ending December 31.
+
+   2814.2. For VoIP providers, local telecommunications services revenue shall be
+   based on actual local telecommunications services revenue based on a
+   customer’s primary place of use, a traffic study used to allocate revenues
+   by jurisdiction, or the inverse of the FCC’s Federal Universal Service
+   Fund’s safe harbor mechanism used to determine interstate and intrastate
+   revenue.  For nomadic VoIP providers, a customer’s registered E911 location
+   may serve as a proxy for the customer’s primary place of use.  Each VoIP
+   provider shall identify whether its reported revenue is based on actual local
+   telecommunications services revenue, a traffic study, or the FCC safe harbor
+   mechanism.
+
+   2814.3. The Fund Administrator shall, based on the amount to be contributed to
+   the DC USTF, calculate the contribution required to be made to the Fund by
+   each contributor, based on the fund level established by the Commission and
+   the information provided pursuant to 15 DCMR § 2804.1.  If any annual
+   contribution is less than or equals twelve dollars ($12), then the
+   Administrator may waive the payment of this contribution.
+
+   2814.4. Each local exchange carrier and VoIP service provider shall pay its
+   contribution directly to the Fund Administrator on a monthly basis.  The check
+   or other negotiable instrument shall be payable to the &#8220;DC USTF.&#8221; 
+   The invoice or other request for DC USTF contributions shall be past due
+   thirty (30) calendar days after the date on the invoice or other request for
+   DC USTF contributions, unless otherwise ordered by the Commission.
+
+   2814.5. Upon request by a local exchange carrier or VoIP service provider, the
+   Fund Administrator may approve an alternative payment arrangement.
+
+   2814.6. Interest shall be charged on any payment not received by the past due
+   date at the rate of one and half percent (1.5 %) monthly.
+
+   2814.7. All contributions and interest payments made to the DC USTF shall be
+   deposited into the DC USTF account by the Fund Administrator.
+   
+   
+   
+   	SOURCE: Notice of Final Rulemaking published at 50 DCR 8198 (October 3,
+   2003); as amended by Final Rulemaking published at 56 DCR 9450, 9451 (December
+   18, 2009); as amended by Notice of Final Rulemaking published at 58 DCR 10343,
+   10345 (December 9, 2011); as amended by Notice of Final Rulemaking published
+   at 59 DCR 3152 (April 20, 2012).

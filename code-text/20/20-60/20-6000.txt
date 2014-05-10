@@ -1,0 +1,97 @@
+                                  DC REGULATIONS
+
+GENERAL PROVISIONS (§ 20-6000)
+
+6000.1. Each owner or operator of a new or existing UST system shall provide a
+   method, or combination of methods, of release detection that meets the
+   requirements of this section.
+
+   6000.2. In choosing a release detection method, the owner or operator shall
+   consult the manufacturer&#8217;s certification of performance data to ensure
+   the suitability of the chosen methods.
+
+   6000.3. The owner or operator of each UST system shall comply with the release
+   detection requirements for all pressurized piping set forth in § 6004.
+
+   6000.4. If the owner or operator of any existing UST system cannot apply a
+   method of release detection that complies with the requirements of this
+   chapter, the owner or operator shall complete the closure requirements of
+   Chapter 61.
+
+   6000.5. In complying with the requirements of this chapter, owners and
+   operators may use a code of practice developed by a nationally recognized
+   association or independent testing laboratory, as specified by the Director.
+
+   6000.6. Each release detection system shall be capable of detecting a release
+   from any portion of the tank and the connected underground piping that
+   contains or conveys a regulated substance.
+
+   6000.7. Each release detection system shall be installed, calibrated,
+   operated, and maintained in accordance with the manufacturer&#8217;s
+   instructions, including routine maintenance and service checks for operability
+   or running condition.
+
+   6000.8. Each release detection system shall meet the applicable performance
+   requirements for the particular system set forth in §§ 6004 through 6013.
+
+   6000.9. Any performance claims made for a release detection system shall be
+   stated in writing by the equipment manufacturer or installer. Each claim shall
+   include a description of the manner in which the claim was derived or tested.
+
+   6000.10. Each release detection method or system, except for systems
+   permanently installed on or before December 22, 1990, shall be capable of
+   detecting the leak rate or quantity specified for the applicable method in §
+   6006, 6007, 6008, or 6013, with a probability of detection of ninety-five
+   one-hundredths (0.95) and a probability of false alarm of five one-hundredths
+   (0.05).
+
+   6000.11. The Director shall not approve a leak detection method or system that
+   does not meet the requirements of this section, that presents a safety hazard,
+   or for which there has been no performance data submitted proving the
+   reliability of the testing method under normal installation and operating
+   conditions.
+
+   6000.12. When a release detection system does not perform in accordance with
+   the manufacturer&#8217;s performance requirements or in accordance with the
+   requirements of this Chapter, the owner or operator shall repair or replace
+   the release detection system within forty-five (45) days in accordance with
+   the provisions of this Chapter, unless an alternate release detection system
+   that complies with the requirements of this Chapter is in use.
+
+   6000.13. The owner or operator shall notify the Director within twenty-four
+   (24) hours of the expiration of the forty-five (45) day period set forth in §
+   6000.12 if the release detection system is not repaired or replaced and comply
+   with the temporary closure requirements set forth in § 6100, unless an
+   alternate release detection system that complies with the requirements of this
+   Chapter is in use.
+   
+   
+   
+   6000.14 		When a release detection method operated in accordance with the
+   performance standards of §§ 6004 through 6012 indicates that a release may
+   have occurred, the owner or operator shall notify the Director, in accordance
+   with the provisions of Chapter 62.
+
+   6000.15. An owner or operator of a heating oil tank having a capacity of
+   one-thousand-one-hundred (1,100) gallons or more shall be required to provide
+   release detection only for a UST which is fifteen (15) years old or older as
+   set forth in § 5503.
+
+   6000.16. An owner or operator of a UST system that stores fuel for use by an
+   emergency generator and is fifteen (15) years or older shall provide release
+   detection for the UST system as set forth in § 5505.
+   
+   
+   
+   	AUTHORITY: Unless otherwise noted, the authority for this chapter is §13 of
+   the District of Columbia Underground Storage Tank Management Act of 1990, as
+   amended, D.C. Law 8-242, D.C. Code §6-995.1 et seq. (1995 Repl. Vol.),
+   Mayor&#8217;s Order 91-160 dated October 9, 1991; and the District of Columbia
+   Water Pollution Control Act of 1984, D.C. Law 5-188, D.C. Code §6-921 (1995
+   Repl. Vol.), Mayor&#8217;s Order 85-152 dated September 12, 1985.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 7835, 7866 (November 12, 1993);
+   as amended by final rulemaking published at 46 DCR 7699 (October 1, 1999); as
+   amended by Final Rulemaking published at 56 DCR 6678 (August 21, 2009).

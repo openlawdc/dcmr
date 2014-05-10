@@ -1,0 +1,25 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 15-899)
+
+899.1. When used in this chapter, the following terms and phrases shall having
+   the meaning ascribed:
+   
+   
+   
+   Physical Collocation &#8211; a form of interconnection with local telephone
+   company facilities whereby the interconnector is allowed to occupy a portion
+   of the telephone company&#8217;s central office, install its communications
+   equipment there, and bring its personnel to operate and maintain the
+   equipment.
+   
+   
+   
+   Virtual Collocation &#8211; a form of interconnection at a point adjacent to
+   the telephone company&#8217;s central office, where the telephone company
+   leases the equipment to the interconnector and performs provisioning and
+   maintenance for the interconnection.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 2587 (April 23, 1993).

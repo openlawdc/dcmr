@@ -1,0 +1,51 @@
+                                  DC REGULATIONS
+
+PRESSURE OF GAS SUPPLIED TO CONSUMERS (§ 15-2377)
+
+2377.1. The gas supplied by corporation low pressure (LP) district regulator
+   station shall be maintained at a pressure of not less than six inches (6 in.)
+   or more than ten inches (10 in.) of water pressure. Certain customers,
+   however, require higher pressures which may be mutually agreed upon by the
+   customer and the gas corporation.
+
+   2377.2. The daily variation in the low pressure network system, during any day
+   at any gauge station, shall not exceed two and  a half inches (2.5 in.) of
+   water pressure.
+
+   2377.3. There shall be supplied, installed, and maintained by each gas
+   corporation pressure gauges which shall furnish an accurate record of the
+   pressure maintained throughout the District of Columbia. The records shall
+   include the following:
+   
+   (a)	The type, number, and locations of pressure gauges shall be approved by
+   the Commission;
+   
+   (b)	The gauges shall be subject to inspection and test by the Commission at
+   any time;
+   
+   (c)	The original record of each and every gauge shall be available for
+   inspection by the Commission and shall be preserved for at least one (1) year;
+   
+   (d)	The maximum and minimum pressures measured at each gauge during all gauge
+   periods, and the number and magnitude of daily variations in excess of the
+   daily variation provided for in § 2377.2, shall be reported to the Commission
+   monthly, on or before the tenth (10th) day of each month; and
+   
+   (e)	Additional gauges shall be installed whenever and wherever ordered by the
+   Commission.
+
+   2377.4. In cases where it is necessary to install a pressure regulator or
+   governor on the consumer&#8217;s premises ahead of the consumer&#8217;s meter,
+   the regulator shall be installed in accordance with the Gas Fitting
+   Regulations for the District of Columbia.
+
+   2377.5. The gas corporation shall inspect the regulator and vent pipes when
+   installed, and thereafter at intervals not greater than the time of the
+   periodic test for the meter it supplies, to determine that they are in safe
+   operating condition. If found faulty in any respect, the fault shall be
+   corrected immediately.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 35 DCR 7938, 7952 (November 4, 1988); as
+   amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).

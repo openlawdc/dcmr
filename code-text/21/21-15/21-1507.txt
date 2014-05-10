@@ -1,0 +1,333 @@
+                                  DC REGULATIONS
+
+WASTEWATER MONITORING (§ 21-1507)
+
+WASA may require any Industrial User to construct monitoring facilities to allow
+inspection, sampling, and flow measurement of the discharges from the building
+sewer or internal drainage systems, and may also require sampling or metering
+equipment to be provided, installed and operated, at the expense of the
+Industrial Users.
+
+
+
+
+
+
+
+The monitoring facility shall be situated on the Industrial User&#8217;s
+premises and located so that it will not be obstructed by the landscape or by
+parked vehicles. There shall be ample room in or near such monitoring facilities
+to allow accurate flow measurement, sampling and compositing of samples for
+analysis.
+
+
+
+
+
+
+
+The monitoring facilities, sampling, and measuring equipment shall be approved
+by WASA and maintained at all times in a safe and proper operating condition at
+the expense of the Industrial User.
+
+
+
+
+
+
+
+Sampling and analysis shall be done in accordance with the techniques prescribed
+in 40 C.F.R. Part 136 and amendments thereto and documented in accordance with
+the requirements in § 1512.
+
+
+
+
+
+
+
+Where 40 C.F.R. Part 136 does not contain sampling or analytical techniques for
+the pollutant in question, or where the EPA Administrator determines that the 40
+C.F.R. Part 136 sampling and analytical techniques are inappropriate for the
+pollutant in question, sampling and analysis shall be performed using validated
+analytical methods or any other applicable sampling and analytical procedures,
+including procedures suggested by WASA, and approved by the EPA Region III
+Administrator.
+
+
+
+
+
+
+
+Industrial Users shall collect and analyze all samples as follows:
+
+
+
+
+
+
+
+Collect grab samples for pH, cyanide, total phenols, oil and grease, sulfide,
+and volatile organic compounds;
+
+
+
+
+
+
+
+Collect twenty-four (24) hour composite samples for all other pollutants,
+through flow-proportional composite sampling techniques, unless WASA authorizes
+time-proportional composite sampling or grab sampling;
+
+
+
+
+
+
+
+Where WASA authorizes time-proportional composite sampling or grab sampling, the
+samples shall be representative of the discharge and the decision to allow the
+alternative sampling shall be documented in the Industrial User file for that
+facility or facilities; and
+
+
+
+
+
+
+
+Using protocols (including appropriate preservation) specified in 40 C.F.R. Part
+136 and appropriate EPA guidance, multiple grab samples collected during a
+twenty-four (24) hour period may be composited prior to the analysis as follows:
+
+
+
+
+
+
+
+For cyanide, total phenols, and sulfides the samples may be composited in the
+laboratory or in the field;
+
+
+
+
+
+
+
+For volatile organic compounds and oil and grease the samples may be composited
+in the laboratory; and
+
+
+
+
+
+
+
+Composite samples for other parameters unaffected by the compositing procedures
+as documented in approved EPA methodologies may be authorized by WASA, as
+appropriate.
+
+
+
+
+
+
+
+For sampling required in support of the Baseline Monitoring Report in § 1508.5
+and ninety (90) day Compliance Report in § 1508.7, a minimum of four (4) grab
+samples shall be collected for pH, cyanide, total phenols, oil and grease,
+sulfide, and volatile organic compounds for facilities for which historical
+sampling data do not exist.  For facilities for which historical sampling data
+are available, WASA may authorize a lower number of required grab samples.
+
+
+
+
+
+
+
+For sampling required in support of the Periodic Compliance Report in § 1508.3,
+WASA shall specify the number of grab samples necessary to assess and ensure
+compliance by Industrial Users with applicable pretreatment standards and
+requirements.
+
+
+
+
+
+
+
+For all Categorical Industrial Users, samples shall be collected immediately
+downstream from pretreatment facilities or from the regulated process if no
+pretreatment exists.  For all Industrial Users, sampling location(s) will be
+specified in the permit and shall be representative of the normal discharges
+occurring during the reporting period.
+
+
+
+
+
+
+
+Industrial Users shall maintain records of all information resulting from any
+monitoring activities required by this chapter, including documentation
+associated with Best Management Practices. The records shall include for all
+samples:
+
+
+
+
+
+
+
+Date, time, and place of sampling, method of sampling, preservation used, and
+the names of the person or persons taking the samples;
+
+
+
+
+
+
+
+Date, time, and place where sample analyses were performed;
+
+
+
+
+
+
+
+Name of the person who performed the analyses;
+
+
+
+
+
+
+
+Analytical techniques or methods used; and
+
+
+
+
+
+
+
+Results of such analyses.
+
+
+
+
+
+
+
+Waivers to Sampling Requirements. WASA may authorize Industrial Users subject to
+Categorical Pretreatment Standards to forego sampling of a pollutant if the
+Industrial User has submitted a request for a waiver and has demonstrated
+through sampling and other technical factors that the pollutant is neither
+present nor expected to be present in their discharge or is present only at
+background levels (for example, due to the levels in their water intake) and
+without any increase in the pollutant due to the activities of the Industrial
+User.  All waiver requests are subject to the following conditions:
+
+
+
+
+
+
+
+A waiver may be granted if the pollutant is determined to be present solely due
+to sanitary wastewater discharged from the facility provided that the sanitary
+wastewater is not regulated by an applicable Categorical Pretreatment Standard
+and otherwise includes no process wastewater;
+
+
+
+
+
+The waiver shall be included in the Industrial User’s permit and is valid only
+during the period of the permit, which in no case shall exceed five (5) years.
+The Industrial User shall submit a new waiver request for each permit issued;
+
+
+
+
+
+To justify the waiver request, the Industrial User shall sample their waste
+stream on at least two (2) separate occasions from a location that is
+representative of all wastewater from all processes prior to any treatment at
+the facility;
+
+
+
+
+
+All sampling shall follow the sampling and analysis requirements listed in this
+section;
+
+
+
+
+
+Non-detect sample results may only be used as a determination that a pollutant
+is not present if the EPA approved method from 40 C.F.R. Part 136 with the
+lowest minimum detection level for that pollutant was used for the analysis;
+
+
+
+
+
+The waiver request shall include the certification statement in § 1508.10 and
+shall be signed in accordance with § 1508.11;
+
+
+
+
+
+Industrial Users who are granted a waiver shall certify on each Periodic
+Compliance Report that there has been no increase in the pollutant in its
+discharge using the following language:
+
+
+
+Based on my inquiry of the person or persons directly responsible for managing
+compliance with the Pretreatment Standard for 40 C.F.R. § __________ (specify
+applicable National Pretreatment Standards), I certify that, to the best of my
+knowledge and belief, there has been no increase in the level of _________ (list
+the pollutant) in the wastewater due to the activities at the facility since
+filing of the last periodic report as required under 21 DCMR § 1508;
+
+
+
+
+
+In the event that a waived pollutant is found to be present or is expected to be
+present based on changes to the Industrial User’s operations, the Industrial
+User shall immediately notify WASA and comply with monitoring and reporting
+requirements listed in § 1508.3 or other more frequent monitoring imposed by
+WASA; and
+
+
+
+
+
+The granting of a waiver does not supersede certification or other requirements
+established in Categorical Pretreatment Standards.
+
+
+
+
+
+WASA may conduct sampling and analysis in lieu of or in addition to Industrial
+User sampling.  Fees for sampling and laboratory analyses may be charged to the
+Industrial User.
+
+
+
+	SOURCE: Final Rulemaking published at 33 DCR 6194, 6200 (October 10, 1986); as
+amended by Final Rulemaking published at 47 DCR 2948 (April 28, 2000); as
+amended by Notice of Final Rulemaking published at 59 DCR 1021, 1049 (February
+10, 2012).

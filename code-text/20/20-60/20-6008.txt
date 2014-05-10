@@ -1,0 +1,23 @@
+                                  DC REGULATIONS
+
+AUTOMATIC TANK GAUGING (§ 20-6008)
+
+6008.1. Automatic tank gauging equipment that tests for the loss of product
+   and conducts inventory control shall meet the requirements of this section.
+
+   6008.2. The owner or operator shall ensure that the tank-gauging probe is
+   installed as close as possible to the middle of the tank and not adjacent to
+   the fill pipe or submersible pump.
+
+   6008.3. An automatic product level monitor test shall be capable of detecting
+   a two-tenths gallon per hour (0.2 gal/hr) leak rate from any portion of the
+   tank that routinely contains a regulated substance.
+
+   6008.4. For tanks installed after November 12, 1993, if automatic tank gauging
+   is to be used as a method of release detection, the tank must be installed
+   horizontally without tank tilt.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 7835, 78673 (November 12, 1993);
+   as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999).

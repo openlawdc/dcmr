@@ -1,0 +1,49 @@
+                                  DC REGULATIONS
+
+EQUIPMENT SETTINGS (§ 20-2903)
+
+2903.1. In measuring impulsive or rapidly fluctuating noise, the following
+   procedures shall be followed:
+   
+   
+   
+   (a)	A windscreen shall be used for all outdoor measurements;
+   
+   
+   
+   (b)	The &#8220;C&#8221; scale shall be used on the sound level meter;
+   
+   
+   
+   (c)	The attenuator shall be set so that the measured levels fall between the
+   zero mark and the full scale mark on the meter scale; and
+   
+   
+   
+   (d)	The fast meter response shall be used on the sound level meter.
+
+   2903.2. In measuring steady (including intermittent, slowly fluctuating, or
+   quasi-steady) noise, the following procedures shall be followed:
+   
+   
+   
+   (a)	A windscreen shall be used for all outdoor measurements;
+   
+   
+   
+   (b)	The &#8220;A&#8221; scale shall be used on the sound level meter;
+   
+   
+   
+   (c)	The attenuator shall be set so that the measured levels fall between the
+   zero mark and the full scale mark on the meter scale. At least five (5)
+   seconds shall elapse after the attenuator is changed before measurements are
+   taken; and
+   
+   
+   
+   (d)	The slow meter response shall be used on the sound level meter.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 26 DCR 1499, 1502 (September 28, 1979).

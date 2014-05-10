@@ -1,0 +1,105 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 17-499)
+
+499.1. When used in this chapter or in connection with the implementation of
+   this chapter, the terms and phrases set forth in this section shall have the
+   meanings ascribed.
+   
+   
+   
+   Boiler Horsepower &#8211; a horsepower shall be defined as any of the
+   following:
+   
+   
+   
+   (a)	The evaporation of thirty-four and one-half pounds of steam per hour (34.5
+   lbs./hr.) from and at two hundred twelve degrees (212°F.);
+   
+   
+   
+   (b)	Thirty-three thousand four hundred and seventy-five British Thermal Units
+   per hour (33,475 BTU/hr.);
+   
+   
+   
+   (c)	One hundred forty square feet (140 ft.2) of steam radiation;
+   
+   
+   
+   (d)	Two hundred twenty-four square feet (224 ft.2) of water radiation at one
+   hundred fifty degrees Fahrenheit (150° F.); or
+   
+   
+   
+   (e)	Ten kilowatts per hour (10 kw./hr.) electrical input to the boiler.
+   
+   
+   
+   Compressor Horsepower of a Refrigerating System &#8211; for purposes of this
+   chapter, the manufacturer&#8217;s horsepower rating as given on the name plate
+   of the unit.
+   
+   
+   
+   High Pressure Boiler &#8211; any steam boiler that has the safety valve(s) set
+   to relieve a pressure of more than fifteen pounds per square inch (15
+   lbs./in.2).
+   
+   
+   
+   Horsepower Rating &#8211; the horsepower rating of a boiler shall be the
+   largest rating determined in accordance with the following:
+   
+   
+   
+   (a)	By dividing the square feet of boiler heating surface by ten (10);
+   
+   
+   
+   (b)	If the boiler rating is based on other than ten square feet of heating
+   surface per horsepower (10 ft.2/hp.), the manufacturer&#8217;s output rating
+   in horsepower shall be used; or
+   
+   
+   
+   (c)	If the manufacturer&#8217;s output rating is expressed in terms other than
+   horsepower, the rating shall be converted into horsepower by the use of one of
+   the factors in the definition of &#8220;boiler horsepower.&#8221;
+   
+   
+   
+   Horsepower Rating of a Refrigeration System &#8211; where reference is made to
+   the &#8220;horsepower of a refrigeration system,&#8221; this shall be
+   considered to be either compressor horsepower or tons of refrigeration as
+   converted to horsepower on an equal basis.
+   
+   
+   
+   Hot Water Heating Boiler &#8211; any hot water boiler operated at pressures
+   not exceeding one hundred sixty pounds (160 lbs.) or temperatures not
+   exceeding two hundred fifty degrees Fahrenheit (250°F.).
+   
+   
+   
+   Low Pressure Boiler &#8211; any steam boiler that has the safety valve(s) set
+   to relieve at a pressure of fifteen pounds per square inch (15 lbs/in.2) or
+   less.
+   
+   
+   
+   Packaged Self-Contained Air Conditioning Unit &#8211; a &#8220;packaged,
+   self-contained&#8221; air conditioning unit is where the unit is contained in
+   one casing except for a cooling tower and circulating pump, and which is
+   completely assembled and tested by one manufacturer and bears the approval
+   label of the Underwriters Laboratories or the American Gas Association.
+   
+   
+   
+   Ton of Refrigeration &#8211; the removal of heat at the rate of twelve
+   thousand British Thermal Units per hour (12,000 BTU/hr.).
+   
+   
+   
+   	SOURCE: §§4.1 through 4.9 of Commissioners&#8217; Order No. 301, 945, 5M
+   DCRR §§4.1 through 4.9.

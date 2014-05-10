@@ -1,0 +1,105 @@
+                                  DC REGULATIONS
+
+SEALS (§ 17-1516)
+
+1516.1. The Board shall adopt and have an official seal, which shall be
+   affixed to each certificate of licensure.
+
+   1516.2. When an applicant is granted licensure, he or she may obtain an
+   engineer&#8217;s or land surveyor&#8217;s seal, as appropriate.
+
+   1516.3. The seal and signature of the licensee shall be placed on all final
+   engineering specifications, reports, drawings, plans, design information, and
+   calculations or land surveys, reports, plats, drawings, plans, and
+   calculations whenever presented to a client or any public agency to certify
+   that the work thereon was done by the licensee or under control of the
+   licensee.
+
+   1516.4. All seals shall contain the following information:
+   
+   
+   
+   (a)	Jurisdiction of the licensee;
+   
+   
+   
+   (b)	Licensee&#8217;s name;
+   
+   
+   
+   (c)	License/certificate/registration number;
+   
+   
+   
+   (d)	The words &#8220;Professional Engineer&#8221; and discipline (if licensed
+   by) or &#8220;Professional Surveyor&#8221;; and
+   
+   
+   
+   (e)	Any other information requested by the Board.
+
+   1516.5. Working drawings or documents that are unfinished, in-progress
+   drawings or other documents may or may not have a seal and signature. A
+   working drawing or document must, however, contain a statement to the effect
+   &#8220;PRELIMINARY, NOT FOR CONSTRUCTION, RECORDING PURPOSES, OR
+   IMPLEMENTATION.&#8221;
+
+   1516.6. The seal and signature shall be placed on all original copy, tracings
+   or other reproducible documents so that the seal and signature will be
+   reproduced when copies are made.
+
+   1516.7. When the document contains more than one (1) sheet, the first or title
+   page shall be sealed and signed by all involved in the work or those who
+   controlled the work and are responsible for it. In addition, each drawing
+   shall be sealed and signed by the licensee or licensees responsible for each
+   sheet.
+
+   1516.8. The seal and signature shall be placed on work only when it was under
+   the licensee&#8217;s complete direction and control.
+
+   1516.9. Computer-generated seals not signed with a digital signature may be
+   used on final original drawings provided a handwritten signature is placed
+   adjacent to or across the seal and the date is written below the stamp.
+   Drawings, specifications, plans, reports, or documents which do not require
+   certification may be transmitted electronically but shall have the generated
+   seal, if any, removed before transmitting and shall have the following
+   inserted in lieu of the signature and date:
+   
+   
+   
+   &#8220;This document originally issued and sealed by (name of licensee),
+   P.E.#_______/P.L.S.#_______ on (date of sealing). This document should not be
+   considered a certified document.&#8221;
+
+   1516.10. Drawings, reports, or documents that are signed using a digital
+   signature, as defined in these Rules, shall contain the following:
+   
+   
+   
+   (a)	An authentication procedure that includes the following elements:
+   
+   
+   
+   1.	A unique signature;
+   
+   
+   
+   2.	Capability to verify the source;
+   
+   
+   
+   3.	Sole control by the person using it; and
+   
+   
+   
+   4.	A link to the document in such a manner that the digital signature is
+   invalidated if any data in the document is changed; and
+   
+   
+   
+   (b)	A list of the hardware, software, and parameters used to prepare the
+   document(s).
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 54 DCR 8783 (September 7, 2007).

@@ -1,0 +1,4199 @@
+                                  DC REGULATIONS
+
+STANDARDS (§ 21-1104)
+
+1104.1. The surface waters of the District shall be free from substances in
+   amounts or combinations that do any one of the following:
+   
+   
+   
+   (a)	Settle to form objectionable deposits;
+   
+   
+   
+   (b)	Float as debris, scum, oil, or other matter to create a nuisance;
+   
+   
+   
+   (c)	Produce objectionable odor, color, taste, or turbidity;
+   
+   
+   
+   (d)	Cause injury to, are toxic to, or produce adverse physiological or
+   behavioral changes in humans, plants, or animals;
+   
+   
+   
+   (e)	Produce undesirable or nuisance aquatic life or result in the dominance of
+   nuisance species; or
+   
+   
+   
+   (f)	Impair the biological community that naturally occurs in the waters or
+   depends upon the waters for its survival and propagation.
+
+   1104.2. For the waters of the District with multiple designated uses, the most
+   stringent standards or criteria shall govern.
+
+   1104.3. Class A waters shall be free of discharges of untreated sewage, litter
+   and unmarked submerged or partially submerged manmade structures that would
+   constitute a hazard to the users of Class A waters.
+
+   1104.4. The aesthetic qualities of Class B waters shall be maintained.
+   Construction, placement or mooring of facilities not primarily and directly
+   water oriented is prohibited in, on, or over Class B waters unless:
+   
+   
+   
+   (a)	The facility is for the general public benefit and service, and
+   
+   
+   
+   (b)	Land based alternatives are not available.
+   
+   
+   
+   1104.5 	Class C streams shall be maintained to support aquatic life and shall
+   not be placed in pipes.
+
+   1104.6. Within tidally influenced Class C waters, concentrations of
+   chlorophyll a in free-floating microscopic aquatic plants (algae) shall not
+   exceed levels that result in ecologically undesirable consequences such as
+   reduced water clarity, low dissolved oxygen, food supply imbalances,
+   proliferation of species deemed potentially harmful to aquatic life or humans
+   or aesthetically objectionable conditions or otherwise render tidal waters
+   unsuitable for designated uses.
+
+   1104.7. Class E waters shall be free of unmarked submerged or partially
+   submerged manmade objects that pose a hazard to users of these waters.
+
+   1104.8. Unless otherwise stated, the numeric criteria that shall be met to
+   attain and maintain designated uses are as follows in Tables 1 through 3:
+   
+   
+   
+   		          TABLE 1 – NUMERIC CRITERIA
+   
+   
+   
+   Constituent
+   
+   Criteria for Classes
+   
+   
+   
+   
+   
+   A
+   
+   B
+   
+   C
+   
+   
+   
+   Bacteriological (MPN/100 mL)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   E. coli1
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Geometric Mean (Maximum 30 day
+   
+   126
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   geometric mean for 5 samples)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Single Sample Value
+   
+   410
+   
+   
+   
+   
+   
+   
+   
+   Physical
+   
+   
+   
+   
+   
+   
+   
+   
+   
+           Dissolved Oxygen (mg/L)
+   
+           Instantaneous minimum (Year-round) 2
+   
+   
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   February 1 through May 31 3,5
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   7-day mean
+   
+   
+   
+   
+   
+   6.0
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Instantaneous minimum
+   
+   
+   
+   
+   
+   5.0
+   
+   
+   
+   
+   
+   
+   
+   June 1 through January 31 3,5
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   30-day mean
+   
+   
+   
+   
+   
+   5.5
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   7-day mean
+   
+   
+   
+   
+   
+   4.0
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Instantaneous minimum 4
+   
+   
+   
+   
+   
+   3.2
+   
+   
+   
+   
+   
+   Temperature (oC)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Maximum
+   
+   
+   
+   
+   
+   32.2
+   
+   
+   
+   
+   
+   
+   
+   Maximum change above ambient
+   
+   
+   
+   
+   
+   2.8
+   
+   
+   
+   
+   
+   pH
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Greater than
+   
+   6.0
+   
+   6.0
+   
+   6.0
+   
+   
+   
+   
+   
+   
+   
+   And less than
+   
+   8.5
+   
+   8.5
+   
+   8.5
+   
+   
+   
+   
+   
+   Turbidity increase above ambient (NTU)
+   
+   20
+   
+   20
+   
+   20
+   
+   
+   
+   
+   
+   Secchi Depth 3,5 (m)(seasonal segment average)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   April 1 through October 31
+   
+   
+   
+   
+   
+   0.8
+   
+   
+   
+   Total dissolved gases (maximum % saturation)
+   
+   
+   
+   
+   
+   110
+   
+   
+   
+   Hydrogen Sulfide (maximum μg/L)
+   
+   
+   
+   
+   
+   2.0
+   
+   
+   
+   Oil &#038; grease (mg/L)
+   
+   
+   
+   
+   
+   10.0
+   
+   
+   
+   Biological
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Chlorophyll a 3,5 (μg/L)(seasonal segment average)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   July 1 through September 30
+   
+   
+   
+   
+   
+   25
+   
+   
+   
+   
+   
+   Notes:
+   
+   1 The geometric mean criterion shall be used for assessing water quality
+   trends and for permitting.  The single sample value criterion shall be used
+   for assessing water quality trends only.
+   
+   
+   
+   ² This criterion applies to nontidal waters.
+   
+   
+   
+   3 Attainment of the dissolved oxygen, water clarity and chlorophyll a water
+   quality criteria that apply to tidal influenced Class C waters will be
+   determined following the guidelines documented in the 2003 United States
+   Environmental Protection Agency publication: Ambient Water Quality Criteria
+   for Dissolved Oxygen, Water Clarity and Chlorophyll a for the Chesapeake Bay
+   and its Tidal Tributaries, EPA-903-R-03-002, April 2003, Region III Chesapeake
+   Bay Program Office, Annapolis, Maryland; 2004 Addendum, EPA-903-R-04-005,
+   October 2004; 2007 Addendum, EPA 903-R-07-003 CBP/TRS 285/07, July 2007; 2007
+   Chlorophyll Criterion Addendum, EPA 903-R-07-005 CBP/TRS 288-07, November
+   2007; 2008 Addendum, EPA 903-R-08-001 CBP/TRS 290-08, June 2008; and 2010
+   Criterion Addendum EPA 903-R-10-002 CBP/TRS-301-10, April 2010.
+   
+   
+   
+   4 At temperatures greater than 29oC, in tidally influenced waters, an
+   instantaneous minimum dissolved oxygen concentration of 4.3 mg/L shall apply.
+   
+   
+   
+   5 Shall apply to tidally influenced waters only.
+   
+   
+   
+   TABLE 2 – NUMERIC CRITERIA
+   
+   
+   
+   Constituent1
+   
+   Criteria for Classes
+   
+   
+   
+   
+   
+   Trace metals and inorganics in μg/L, except where stated otherwise (see Notes
+   below)
+   
+   C
+   
+   D2
+   
+   
+   
+   
+   
+   CCC
+   
+   4-Day Avg
+   
+   CMC
+   
+   1-Hour Avg
+   
+   
+   
+   30-Day Avg
+   
+   
+   
+   Ammonia, total mg N/L
+   
+   See Note 7
+   
+   See Note 8
+   
+   
+   
+   
+   
+   Antimony, dissolved
+   
+   
+   
+   
+   
+   640
+   
+   
+   
+   Arsenic3, dissolved
+   
+   150
+   
+   340
+   
+   0.14c
+   
+   
+   
+   Cadmium4,5, dissolved
+   
+   [I]CF
+   
+   [I.A]CF
+   
+   
+   
+   
+   
+   Chlorine, total residual
+   
+   11
+   
+   19
+   
+   
+   
+   
+   
+   Chromium4, hexavalent, dissolved
+   
+   11 CF
+   
+   16 CF
+   
+   
+   
+   
+   
+   Chromium4,5, trivalent, dissolved
+   
+   [II]CF
+   
+   [II.A]CF
+   
+   
+   
+   
+   
+   Copper4,5, dissolved
+   
+   [III]CF
+   
+   [III.A]CF
+   
+   
+   
+   
+   
+   Cyanide, free
+   
+   5.2
+   
+   22
+   
+   140
+   
+   
+   
+   Iron, dissolved
+   
+   1000
+   
+   
+   
+   
+   
+   
+   
+   Lead4,5, dissolved
+   
+   [IV]CF
+   
+   [IV.A]CF
+   
+   
+   
+   
+   
+   Mercury4, total recoverable
+   
+   0.77
+   
+   1.4
+   
+   0.15
+   
+   
+   
+   Methylmercury (mg/kg, fish tissue residue)
+   
+   
+   
+   
+   
+   0.3
+   
+   
+   
+   Nickel4,5, dissolved
+   
+   [V]CF
+   
+   [V.A]CF
+   
+   4600
+   
+   
+   
+   Selenium, total recoverable
+   
+   5
+   
+   20
+   
+   4200
+   
+   
+   
+   Silver4,5, dissolved
+   
+   
+   
+   [VI]CF
+   
+   65000
+   
+   
+   
+   Thallium, dissolved
+   
+   
+   
+   
+   
+   0.47
+   
+   
+   
+   Zinc4,5, dissolved
+   
+   [VII]CF
+   
+   [VII]CF
+   
+   26000
+   
+   
+   
+   
+   
+   
+   
+    Notes:
+   
+   1 For constituents without numerical criteria, standards have not been
+   developed at this time.  However, the National Pollutant Discharge Elimination
+   System (NPDES) permitting authority shall address constituents without
+   numerical standards in NPDES permit actions by using the narrative criteria
+   for toxics contained in these water quality standards.
+   
+   
+   
+   2 The Class D Human Health Criteria for metals will be based on Total
+   Recoverable metals.
+   
+   
+   
+   3 The letter “c” after the Class D Human Health Criteria numeric value
+   means that the criteria is based on carcinogenicity of 10-6 risk level.
+   
+   
+   
+   4 The superscript “CF” means that the criterion derived from the formula
+   under Note 5 is multiplied by the conversion factor in Table 2a as specified
+   in Subsection 1105.10:
+   
+   
+   
+    TABLE 2A. CONVERSION FACTORS
+   
+   
+   
+   Constituent
+   
+   CCC
+   
+   CMC
+   
+   
+   
+   Cadmium
+   
+   1.101672-[(ln hardness)(0.041838)]
+   
+   1.136672-[(ln hardness)(0.041838)]
+   
+   
+   
+   Chromium III
+   
+   0.860
+   
+   0.316
+   
+   
+   
+   Chromium VI
+   
+   0.962
+   
+   0.982
+   
+   
+   
+   Copper
+   
+   0.960
+   
+   0.960
+   
+   
+   
+   Lead
+   
+   1.46203-[(ln hardness)(0.145712)]
+   
+   1.46203-[(ln hardness)(0.145712)]
+   
+   
+   
+   Mercury
+   
+   0.85
+   
+   0.85
+   
+   
+   
+   Nickel
+   
+   0.997
+   
+   0.998
+   
+   
+   
+   Silver
+   
+   &#8211;
+   
+   0.85
+   
+   
+   
+   Zinc
+   
+   0.986
+   
+   0.978
+   
+   
+   
+   
+   
+   5 The formulas for calculating the criterion for the hardness dependent
+   constituents indicated above are as follows:
+   
+   
+   
+   [I]	The numerical CCC criterion for cadmium in μg/L shall be given by:
+   
+   e(0.7409[ln(hardness)]4.719)
+   
+   
+   
+   [I.A]	The numerical CMC criterion for cadmium in μg/L shall be given by:
+   
+   e(1.0166[ln(hardness)]3.924)
+   
+   
+   
+   [II]	The numerical CCC criterion for trivalent chromium in μg/L shall be
+   given by:
+   
+   	e(0.8190[ln(hardness)]+0.6848)
+   
+   
+   
+   [II.A]	The numerical CMC criterion for trivalent chromium in μg/L shall be
+   given by:
+   
+   	e(0.8190[ln(hardness)]+3.7256)
+   
+   
+   
+   [III] 	The numerical CCC criterion for copper in μg/L shall be given by:
+   
+   e(0.8545[ln(hardness)]1.702)
+   
+   
+   
+   [III.A]	The numerical CMC criterion for copper in μg/L shall be given by:
+   
+   e(0.9422[ln(hardness)]1.700)
+   
+   
+   
+   [IV]  	The numerical CCC criterion for lead in μg/L shall be given by:
+   
+   e(1.2730[ln(hardness)]4.705)
+   
+   
+   
+   [IV.A]	The numerical CMC criterion for lead in μg/L shall be given by:
+   
+   e(1.2730[ln(hardness)]1.460)
+   
+   
+   
+   [V]	The numerical CCC criterion for nickel in μg/L shall be given by:
+   
+   e(0.8460[ln(hardness)]+0.0584)
+   
+   
+   
+   [V.A]	The numerical CMC criterion for nickel in μg/L shall be given by:
+   
+   e(0.8460[ln(hardness)]+2.255)
+   
+   
+   
+   [VI]	The numerical CMC criterion for silver in μg/L shall be given by:
+   
+   e(1.7200[ln(hardness)]-6.590)
+   
+   
+   
+   [VII]	The numerical CCC criterion for zinc in μg/L shall be given by:
+   
+   e(0.8473[ln(hardness)]+0.884)
+   
+   
+   
+   [VII.A] The numerical CMC criterion for zinc in μg/L shall be given by:
+   
+   e(0.8473[ln(hardness)]+0.884)
+   
+   
+   
+   6 Hardness in the equations (I) through (VII.A) in Note 5 above shall be
+   measured as mg/L of Calcium Carbonate (CaCO3).   The minimum hardness allowed
+   for use in those equations shall not be less than 25 mg/L, as CaCO3, even if
+   the actual ambient hardness is less than 25 mg/L as CaCO3.  The maximum
+   hardness value allowed for use in those equations shall not exceed 400 mg/L,
+   as CaCO3, even if the actual ambient water hardness is greater than 400 mg/L
+   as CaCO3.
+   
+   
+   
+   7Criterion Continuous Concentration (CCC) for Total Ammonia:
+   
+   
+   
+   
+   
+   
+   
+      The CCC criterion for ammonia (in mg N/L) (i) shall be the thirty (30)-day
+   average concentration for total ammonia computed for a design flow specified
+   in Subsection 1105.5; and (ii) shall account for the influence of the pH and
+   temperature as shown in Table 2b and Table 2c.  The highest four (4)-day
+   average within the thirty (30)-day period shall not exceed 2.5 times the CCC.
+   
+   
+   
+   
+   
+   
+   
+   The CCC criterion in Table 2b for the period March 1st through June 30th was
+   calculated using the following formula, which shall be used to calculate
+   unlisted values: CCC = [(0.0577/(1+107.688-pH)) + (2.487/(1+ 10pH-7.688))] X
+   MIN(2.85, 1.45 X 100.028 X (25-T))], where MIN indicates the lesser of the two
+   values (2.85, 1.45 X 100.028 X (25-T)) separated by a comma.
+   
+   
+   
+   
+   
+   
+   
+   The CCC criterion in Table 2c for the period July 1st through February
+   28/29th, was calculated using the following formula, which shall be used to
+   calculate unlisted values: CCC = [(0.0577/(1+107.688-pH)) + (2.487/(1+
+   10pH-7.688))] X [1.45 X 100.028 X  (25-MAX(T,7)], where MAX indicates the
+   greater of the two values (T,7) separated by a comma.
+   
+   
+   
+   TABLE 2B. TOTAL AMMONIA (in milligrams of Nitrogen per liter) CCC CRITERION
+   FOR VARIOUS pH AND TEMPERATURES FOR MARCH 1ST THROUGH JUNE 30TH
+   
+   
+   
+   
+   
+   Temperature (°C)
+   
+   
+   
+   pH
+   
+   0
+   
+   14
+   
+   16
+   
+   18
+   
+   20
+   
+   22
+   
+   24
+   
+   26
+   
+   28
+   
+   30
+   
+   
+   
+   6.50
+   
+   6. 67
+   
+   6.67
+   
+   6.06
+   
+   5.33
+   
+   4.68
+   
+   4.12
+   
+   3.62
+   
+   3.18
+   
+   2.80
+   
+   2.46
+   
+   
+   
+   6.60
+   
+   6.57
+   
+   6.57
+   
+   5.97
+   
+   5.25
+   
+   4.61
+   
+   4.05
+   
+   3.56
+   
+   3.13
+   
+   2.75
+   
+   2.42
+   
+   
+   
+   6.70
+   
+   6.44
+   
+   6.44
+   
+   5.86
+   
+   5.15
+   
+   4.52
+   
+   3.98
+   
+   3.42
+   
+   3.00
+   
+   2.64
+   
+   2.32
+   
+   
+   
+   6.80
+   
+   6.29
+   
+   6.29
+   
+   5.72
+   
+   5.03
+   
+   4.42
+   
+   3.89
+   
+   3.42
+   
+   3.00
+   
+   2.64
+   
+   2.32
+   
+   
+   
+   6.90
+   
+   6.12
+   
+   6.12
+   
+   5.56
+   
+   4.89
+   
+   4.30
+   
+   3.78
+   
+   3.32
+   
+   2.92
+   
+   2.57
+   
+   2.25
+   
+   
+   
+   7.00
+   
+   5.91
+   
+   5.91
+   
+   5.37
+   
+   4.72
+   
+   4.15
+   
+   3.65
+   
+   3.21
+   
+   2.82
+   
+   2.48
+   
+   2.18
+   
+   
+   
+   7.10
+   
+   5.67
+   
+   5.67
+   
+   5.15
+   
+   4.53
+   
+   3.98
+   
+   3.50
+   
+   3.08
+   
+   2.70
+   
+   2.38
+   
+   2.09
+   
+   
+   
+   7.20
+   
+   5.39
+   
+   5.39
+   
+   4.90
+   
+   4.31
+   
+   3.78
+   
+   3.33
+   
+   2.92
+   
+   2.57
+   
+   2.26
+   
+   1.99
+   
+   
+   
+   7.30
+   
+   5.08
+   
+   5.08
+   
+   4.61
+   
+   4.06
+   
+   3.57
+   
+   3.13
+   
+   2.76
+   
+   2.42
+   
+   2.13
+   
+   1.87
+   
+   
+   
+   7.40
+   
+   4.73
+   
+   4.73
+   
+   4.30
+   
+   3.97
+   
+   3.49
+   
+   3.06
+   
+   2.69
+   
+   2.37
+   
+   2.08
+   
+   1.83
+   
+   
+   
+   7.50
+   
+   4.36
+   
+   4.36
+   
+   3.97
+   
+   3.49
+   
+   3.06
+   
+   2.69
+   
+   2.37
+   
+   2.08
+   
+   1.83
+   
+   1.61
+   
+   
+   
+   7.60
+   
+   3.98
+   
+   3.98
+   
+   3.61
+   
+   3.18
+   
+   2.79
+   
+   2.45
+   
+   2.16
+   
+   1.90
+   
+   1.67
+   
+   1.47
+   
+   
+   
+   7.70
+   
+   3.58
+   
+   3.58
+   
+   3.25
+   
+   2.86
+   
+   2.51
+   
+   2.21
+   
+   1.94
+   
+   1.71
+   
+   1.50
+   
+   1.32
+   
+   
+   
+   7.80
+   
+   3.18
+   
+   3.18
+   
+   2.89
+   
+   2.54
+   
+   2.23
+   
+   1.96
+   
+   1.73
+   
+   1.52
+   
+   1.33
+   
+   1.17
+   
+   
+   
+   7.90
+   
+   2.80
+   
+   2.80
+   
+   2.54
+   
+   2.24
+   
+   1.96
+   
+   1.73
+   
+   1.52
+   
+   1.33
+   
+   1.17
+   
+   1.03
+   
+   
+   
+   8.00
+   
+   2.43
+   
+   2.43
+   
+   2.21
+   
+   1.94
+   
+   1.71
+   
+   1.50
+   
+   1.32
+   
+   1.16
+   
+   1.02
+   
+   0.897
+   
+   
+   
+   8.10
+   
+   2.10
+   
+   2.10
+   
+   1.91
+   
+   1.68
+   
+   1.47
+   
+   1.29
+   
+   1.14
+   
+   1.00
+   
+   0.879
+   
+   0.773
+   
+   
+   
+   8.20
+   
+   1.79
+   
+   1.79
+   
+   1.63
+   
+   1.43
+   
+   1.26
+   
+   1.11
+   
+   0.973
+   
+   0.855
+   
+   0.752
+   
+   0.661
+   
+   
+   
+   8.30
+   
+   1.52
+   
+   1.52
+   
+   1.39
+   
+   1.22
+   
+   1.07
+   
+   0.941
+   
+   0.827
+   
+   0.727
+   
+   0.639
+   
+   0.562
+   
+   
+   
+   8.40
+   
+   1.29
+   
+   1.29
+   
+   1.17
+   
+   1.03
+   
+   0.906
+   
+   0.796
+   
+   0.700
+   
+   0.615
+   
+   0.541
+   
+   0.475
+   
+   
+   
+   8.50
+   
+   1.09
+   
+   1.09
+   
+   0.990
+   
+   0.870
+   
+   0.765
+   
+   0.672
+   
+   0.591
+   
+   0.520
+   
+   0.457
+   
+   0.401
+   
+   
+   
+   8.60
+   
+   0.920
+   
+   0.920
+   
+   0.836
+   
+   0.735
+   
+   0.646
+   
+   0.568
+   
+   0.499
+   
+   0.439
+   
+   0.386
+   
+   0.339
+   
+   
+   
+   8.70
+   
+   0.778
+   
+   0.778
+   
+   0.707
+   
+   0.622
+   
+   0.547
+   
+   0.480
+   
+   0.422
+   
+   0.371
+   
+   0.326
+   
+   0.287
+   
+   
+   
+   8.80
+   
+   0.661
+   
+   0.661
+   
+   0.601
+   
+   0.528
+   
+   0.464
+   
+   0.408
+   
+   0.359
+   
+   0.315
+   
+   0.277
+   
+   0.208
+   
+   
+   
+   8.90
+   
+   0.565
+   
+   0.565
+   
+   0.513
+   
+   0.451
+   
+   0.397
+   
+   0.349
+   
+   0.306
+   
+   0.269
+   
+   0.237
+   
+   0.208
+   
+   
+   
+   9.00
+   
+   0.486
+   
+   0.486
+   
+   0.442
+   
+   0.389
+   
+   0.342
+   
+   0.300
+   
+   0.264
+   
+   0.232
+   
+   0.204
+   
+   0.179
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   TABLE 2C. TOTAL AMMONIA (milligrams of Nitrogen per liter)
+   
+   CCC CRITERION FOR VARIOUS pH AND TEMPERATURES FOR JULY 1ST THROUGH FEBRUARY
+   28TH/29TH
+   
+   
+   
+   
+   
+   Temperature (°C)
+   
+   
+   
+   pH
+   
+   0-7
+   
+   8
+   
+   9
+   
+   10
+   
+   11
+   
+   12
+   
+   13
+   
+   14
+   
+   15*
+   
+   16*
+   
+   
+   
+   6.50
+   
+   10.8
+   
+   10.1
+   
+   9.51
+   
+   8.92
+   
+   8.36
+   
+   7.84
+   
+   7.35
+   
+   6.89
+   
+   6.46
+   
+   6.06
+   
+   
+   
+   6.60
+   
+   10.7
+   
+   9.99
+   
+   9.37
+   
+   8.79
+   
+   8.24
+   
+   7.72
+   
+   7.24
+   
+   6.79
+   
+   6.36
+   
+   5.97
+   
+   
+   
+   6.70
+   
+   10.5
+   
+   9.81
+   
+   9.20
+   
+   8.62
+   
+   8.08
+   
+   7.58
+   
+   7.11
+   
+   6.66
+   
+   6.25
+   
+   5.86
+   
+   
+   
+   6.80
+   
+   10.2
+   
+   9.58
+   
+   8.98
+   
+   8.42
+   
+   7.90
+   
+   7.40
+   
+   6.94
+   
+   6.51
+   
+   6.10
+   
+   5.72
+   
+   
+   
+   6.90
+   
+   9.93
+   
+   9.31
+   
+   8.73
+   
+   8.19
+   
+   7.68
+   
+   7.20
+   
+   6.75
+   
+   6.33
+   
+   5.93
+   
+   5.56
+   
+   
+   
+   7.00
+   
+   9.60
+   
+   9.00
+   
+   8.43
+   
+   7.91
+   
+   7.41
+   
+   6.95
+   
+   6.52
+   
+   6.11
+   
+   5.73
+   
+   5.37
+   
+   
+   
+   7.10
+   
+   9.20
+   
+   8.63
+   
+   8.09
+   
+   7.58
+   
+   7.11
+   
+   6.67
+   
+   6.25
+   
+   5.86
+   
+   5.49
+   
+   5.15
+   
+   
+   
+   7.20
+   
+   8.75
+   
+   8.20
+   
+   7.69
+   
+   7.21
+   
+   6.76
+   
+   6.34
+   
+   5.94
+   
+   5.57
+   
+   5.22
+   
+   4.90
+   
+   
+   
+   7.30
+   
+   8.24
+   
+   7.73
+   
+   7.25
+   
+   6.79
+   
+   6.37
+   
+   5.97
+   
+   5.60
+   
+   5.25
+   
+   4.92
+   
+   4.61
+   
+   
+   
+   7.40
+   
+   7.69
+   
+   7.21
+   
+   6.76
+   
+   6.33
+   
+   5.94
+   
+   5.57
+   
+   5.22
+   
+   4.89
+   
+   4.59
+   
+   4.30
+   
+   
+   
+   7.50
+   
+   7.09
+   
+   6.64
+   
+   6.23
+   
+   5.84
+   
+   5.48
+   
+   5.13
+   
+   4.81
+   
+   4.51
+   
+   4.23
+   
+   3.97
+   
+   
+   
+   7.60
+   
+   6.46
+   
+   6.05
+   
+   5.67
+   
+   5.32
+   
+   4.99
+   
+   4.68
+   
+   4.38
+   
+   4.11
+   
+   3.85
+   
+   3.61
+   
+   
+   
+   7.70
+   
+   5.81
+   
+   5.45
+   
+   5.11
+   
+   4.79
+   
+   4.49
+   
+   4.21
+   
+   3.95
+   
+   3.70
+   
+   3.47
+   
+   3.25
+   
+   
+   
+   7.80
+   
+   5.17
+   
+   4.84
+   
+   4.54
+   
+   4.26
+   
+   3.99
+   
+   3.74
+   
+   3.51
+   
+   3.29
+   
+   3.09
+   
+   2.89
+   
+   
+   
+   7.90
+   
+   4.54
+   
+   4.26
+   
+   3.99
+   
+   3.74
+   
+   3.51
+   
+   3.29
+   
+   3.09
+   
+   2.89
+   
+   2.71
+   
+   2.54
+   
+   
+   
+   8.00
+   
+   3.95
+   
+   3.70
+   
+   3.47
+   
+   3.26
+   
+   3.05
+   
+   2.86
+   
+   2.68
+   
+   2.52
+   
+   2.36
+   
+   2.21
+   
+   
+   
+   8.10
+   
+   3.41
+   
+   3.19
+   
+   2.99
+   
+   2.81
+   
+   2.63
+   
+   2.47
+   
+   2.31
+   
+   2.17
+   
+   2.03
+   
+   1.91
+   
+   
+   
+   8.20
+   
+   2.91
+   
+   2.73
+   
+   2.56
+   
+   2.4
+   
+   2.25
+   
+   2.11
+   
+   1.98
+   
+   1.85
+   
+   1.74
+   
+   1.63
+   
+   
+   
+   8.30
+   
+   2.47
+   
+   2.32
+   
+   2.18
+   
+   2.04
+   
+   1.91
+   
+   1.79
+   
+   1.68
+   
+   1.58
+   
+   1.48
+   
+   1.39
+   
+   
+   
+   8.40
+   
+   2.09
+   
+   1.96
+   
+   1.84
+   
+   1.73
+   
+   1.62
+   
+   1.52
+   
+   1.42
+   
+   1.33
+   
+   1.25
+   
+   1.17
+   
+   
+   
+   8.50
+   
+   1.77
+   
+   1.66
+   
+   1.55
+   
+   1.46
+   
+   1.37
+   
+   1.28
+   
+   1.20
+   
+   1.13
+   
+   1.06
+   
+   0.990
+   
+   
+   
+   8.60
+   
+   1.49
+   
+   1.40
+   
+   1.31
+   
+   1.23
+   
+   1.15
+   
+   1.08
+   
+   1.01
+   
+   0.951
+   
+   0.892
+   
+   0.836
+   
+   
+   
+   8.70
+   
+   1.26
+   
+   1.18
+   
+   1.11
+   
+   1.04
+   
+   0.976
+   
+   0.915
+   
+   0.858
+   
+   0.805
+   
+   0.754
+   
+   0.707
+   
+   
+   
+   8.80
+   
+   1.07
+   
+   1.01
+   
+   0.944
+   
+   0.885
+   
+   0.829
+   
+   0.778
+   
+   0.729
+   
+   0.684
+   
+   0.641
+   
+   0.601
+   
+   
+   
+   8.90
+   
+   0.917
+   
+   0.860
+   
+   0.806
+   
+   0.756
+   
+   0.709
+   
+   0.664
+   
+   0.623
+   
+   0.584
+   
+   0.548
+   
+   0.513
+   
+   
+   
+   9.00
+   
+   0.790
+   
+   0.740
+   
+   0.694
+   
+   0.651
+   
+   0.610
+   
+   0.572
+   
+   0.536
+   
+   0.503
+   
+   0.471
+   
+   0.442
+   
+   
+   
+   
+   
+   *At 15°C and above, the criterion for July 1st through February 28th/29th is
+   the same as the criterion for March 1st through June 30th.
+   
+   
+   
+   8 Criterion Maximum Concentration (CMC) for Total Ammonia:
+   
+   
+   
+   (a)	The CMC criterion for total ammonia (in mg N/L) (i) shall be the one
+   (1)-hour average concentration for total ammonia, computed for a design flow
+   specified in subsection 1105.5; and (ii) shall account for the influence of
+   the pH as shown in Table 2d.
+   
+   
+   
+   (b)	The CMC criterion was calculated using the following formula, which shall
+   be used to calculate unlisted values: CMC = [(0.411/(1+107.204-pH)] +
+   [58.4/(1+ 10pH-7.204)].
+   
+   
+   
+   TABLE 2D. TOTAL AMMONIA
+   
+   (in milligrams of Nitrogen per liter) CMC CRITERION FOR VARIOUS pH
+   
+   
+   
+     pH
+   
+    CMC
+   
+      pH
+   
+      CMC
+   
+      pH
+   
+      CMC
+   
+        pH
+   
+    CMC
+   
+   
+   
+   6.50
+   
+   48.8
+   
+   7.20
+   
+   29.5
+   
+   7.90
+   
+   10.1
+   
+   8.60
+   
+   2.65
+   
+   
+   
+   6.60
+   
+   46.8
+   
+   7.30
+   
+   26.2
+   
+   8.00
+   
+   8.40
+   
+   8.70
+   
+   2.20
+   
+   
+   
+   6.70
+   
+   44.6
+   
+   7.40
+   
+   23.0
+   
+   8.10
+   
+   6.95
+   
+   8.80
+   
+   1.84
+   
+   
+   
+   6.80
+   
+   42.0
+   
+   7.50
+   
+   19.9
+   
+   8.20
+   
+   5.72
+   
+   8.90
+   
+   1.56
+   
+   
+   
+   6.90
+   
+   39.1
+   
+   7.60
+   
+   17.0
+   
+   8.30
+   
+   4.71
+   
+   9.00
+   
+   1.32
+   
+   
+   
+   7.00
+   
+   36.1
+   
+   7.70
+   
+   14.4
+   
+   8.40
+   
+   3.88
+   
+   
+   
+   
+   
+   
+   
+   7.10
+   
+   32.8
+   
+   7.80
+   
+   12.1
+   
+   8.50
+   
+   3.20
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   TABLE 3 – ORGANIC COMPOUNDS
+   
+   
+   
+   
+   
+   Constituent1
+   
+   
+   
+   Organics (μg/L)
+   
+   CAS
+   
+   Number
+   
+   Criteria for Classes
+   
+   
+   
+   
+   
+   
+   
+   C
+   
+   D2
+   
+   
+   
+   
+   
+   
+   
+   CCC
+   
+   4-Day Avg
+   
+   CMC
+   
+   1-Hour Avg
+   
+   30-Day
+   
+   Avg
+   
+   
+   
+   Acrolein
+   
+   107028
+   
+   3.0
+   
+   3.0
+   
+   9.0
+   
+   
+   
+   Acrylonitrile
+   
+   107131
+   
+   700.0
+   
+   
+   
+   0.25,c
+   
+   
+   
+   Aldrin
+   
+   309002
+   
+   0.4
+   
+   3.0
+   
+   0.000050,c
+   
+   
+   
+   Benzene
+   
+   71432
+   
+   1000
+   
+   
+   
+   51.0,c
+   
+   
+   
+   Carbon Tetrachloride
+   
+   56235
+   
+   1000
+   
+   
+   
+   1.6,c
+   
+   
+   
+   Chlordane
+   
+   57749
+   
+   0.0043
+   
+   2.4
+   
+   0.00081,c
+   
+   
+   
+   Chlorinated benzenes (except Di)
+   
+   
+   
+   25.0
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Chlorobenzene
+   
+   108907
+   
+   
+   
+   
+   
+   1600
+   
+   
+   
+   
+   
+   1,2-Dichlorobenzene
+   
+   95501
+   
+   200
+   
+   
+   
+   1300
+   
+   
+   
+   
+   
+   1,3-Dichlorobenzene
+   
+   541731
+   
+   200
+   
+   
+   
+   960
+   
+   
+   
+   
+   
+   1,4-Dichlorobenzene
+   
+   106467
+   
+   200
+   
+   
+   
+   190
+   
+   
+   
+   
+   
+   Hexachlorobenzene
+   
+   118741
+   
+   
+   
+   
+   
+   0.00029,c
+   
+   
+   
+   
+   
+   Pentachlorobenzene
+   
+   608935
+   
+   
+   
+   
+   
+   1.5
+   
+   
+   
+   
+   
+   1,2,4,5-Tertrachlorobenzene
+   
+   95943
+   
+   
+   
+   
+   
+   1.1
+   
+   
+   
+   
+   
+   1,2,4-Trichlorobenzene
+   
+   120821
+   
+   
+   
+   
+   
+   70
+   
+   
+   
+   Chlorinated ethanes
+   
+   
+   
+   50
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   1,2-Dichloroethane
+   
+   107062
+   
+   
+   
+   
+   
+   37.0,c
+   
+   
+   
+   
+   
+   Hexachloroethane
+   
+   67721
+   
+   
+   
+   
+   
+   3.3,c
+   
+   
+   
+   
+   
+   1,1,2,2-Tetrachloroethane
+   
+   79345
+   
+   
+   
+   
+   
+   4.0,c
+   
+   
+   
+   
+   
+   1,1,2-Trichloroethane
+   
+   79005
+   
+   
+   
+   
+   
+   16.0,c
+   
+   
+   
+   Chlorinated naphthalene
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   2-Chloronaphthalene
+   
+   91587
+   
+   200
+   
+   
+   
+   1600
+   
+   
+   
+   Chlorinated phenols
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   2Chlorophenol
+   
+   95578
+   
+   100
+   
+   
+   
+   150
+   
+   
+   
+   
+   
+   2,4Dichlorophenol
+   
+   120832
+   
+   200
+   
+   
+   
+   290.0
+   
+   
+   
+   
+   
+   Pentachlorophenol3
+   
+   87865
+   
+   [I]
+   
+   [I.A]
+   
+   3.0,c
+   
+   
+   
+   
+   
+   2,4,5-Trichlorophenol
+   
+   95954
+   
+   
+   
+   
+   
+   3600
+   
+   
+   
+   
+   
+   2,4,6-Trichlorophenol
+   
+   88062
+   
+   
+   
+   
+   
+   2.4,c
+   
+   
+   
+   Chloroalkyl ethers
+   
+   
+   
+   1000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Bis(2-Chloroethyl)Ether
+   
+   111444
+   
+   
+   
+   
+   
+   0.53,c
+   
+   
+   
+   
+   
+   Bis(2-Chloroisopropyl)Ether
+   
+   108601
+   
+   
+   
+   
+   
+   65,000
+   
+   
+   
+   
+   
+   Bis(Chloromethyl)Ether
+   
+   542881
+   
+   
+   
+   
+   
+   0.00029
+   
+   
+   
+   3,3-Dichlorobenzidine
+   
+   91941
+   
+   10
+   
+   
+   
+   0.028,c
+   
+   
+   
+   Dichloroethylenes
+   
+   
+   
+   1000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   1,1-Dichloroethylene
+   
+   75354
+   
+   
+   
+   
+   
+   7,100,c
+   
+   
+   
+   
+   
+   1,2-Trans-Dichloroethylene
+   
+   156605
+   
+   
+   
+   
+   
+   10,000
+   
+   
+   
+   1,2-Dichloropropane
+   
+   78875
+   
+   2000
+   
+   
+   
+   15,c
+   
+   
+   
+   Dichloropropenes
+   
+   
+   
+   400
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   1,3-Dichloropropene
+   
+   542756
+   
+   
+   
+   
+   
+   21
+   
+   
+   
+   Dieldrin
+   
+   60571
+   
+   0.056
+   
+   0.24
+   
+   0.000054,c
+   
+   
+   
+   2,4Dimethylphenol
+   
+   105679
+   
+   200
+   
+   
+   
+   850
+   
+   
+   
+   2,4-Dinitrotoluene
+   
+   121142
+   
+   33
+   
+   
+   
+   3.4,c
+   
+   
+   
+   Dioxin (2,3,7,8-TCDD)
+   
+   1746016
+   
+   
+   
+   
+   
+   0.0000000051,c
+   
+   (5.1 E-8)
+   
+   
+   
+   1,2-Diphenylhydrazine
+   
+   122667
+   
+   30
+   
+   
+   
+   0.20,c
+   
+   
+   
+   Endosulfan
+   
+   
+   
+   0.056
+   
+   0.22
+   
+   89
+   
+   
+   
+   
+   
+   Alpha-Endosulfan
+   
+   959988
+   
+   0.056
+   
+   0.22
+   
+   89
+   
+   
+   
+   
+   
+   Beta-Endosulfan
+   
+   33213659
+   
+   0.056
+   
+   0.22
+   
+   89
+   
+   
+   
+   Endosulfan sulfate
+   
+   1031078
+   
+   
+   
+   
+   
+   89
+   
+   
+   
+   Endrin
+   
+   72208
+   
+   0.036
+   
+   0.086
+   
+   0.060
+   
+   
+   
+   Endrin aldehyde
+   
+   7421934
+   
+   
+   
+   
+   
+   0.30
+   
+   
+   
+   Ethylbenzene
+   
+   100414
+   
+   40
+   
+   
+   
+   2,100
+   
+   
+   
+   Halomethanes
+   
+   
+   
+   1000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Bromoform
+   
+   75252
+   
+   
+   
+   
+   
+   140,c
+   
+   
+   
+   
+   
+   Chloroform
+   
+   67663
+   
+   3000
+   
+   
+   
+   470.0,c
+   
+   
+   
+   
+   
+   Chlorodibromomethane
+   
+   124481
+   
+   
+   
+   
+   
+   13.0,c
+   
+   
+   
+   
+   
+   Dichlorobromomethane
+   
+   75274
+   
+   
+   
+   
+   
+   17.0,c
+   
+   
+   
+   
+   
+   Methyl Bromide
+   
+   74839
+   
+   
+   
+   
+   
+   1,500
+   
+   
+   
+   
+   
+   Methylene chloride
+   
+   75092
+   
+   
+   
+   
+   
+   590,c
+   
+   
+   
+   Heptachlor
+   
+   76448
+   
+   0.0038
+   
+   0.52
+   
+   0.000079,c
+   
+   
+   
+   Heptachlor epoxide
+   
+   1024573
+   
+   0.0038
+   
+   0.52
+   
+   0.000039,c
+   
+   
+   
+   Hexachlorobutadiene
+   
+   87683
+   
+   10
+   
+   
+   
+   18.0,c
+   
+   
+   
+   Hexachlorocyclohexane
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   alpha-BHC
+   
+   319846
+   
+   
+   
+   
+   
+   0.0049,c
+   
+   
+   
+   
+   
+   beta-BHC
+   
+   319857
+   
+   
+   
+   
+   
+   0.017,c
+   
+   
+   
+   
+   
+   gamma-BHC (Lindane)
+   
+   58899
+   
+   0.08
+   
+   0.95
+   
+   1.8,c
+   
+   
+   
+   Hexachlorocyclopentadiene
+   
+   77474
+   
+   0.5
+   
+   
+   
+   1,100
+   
+   
+   
+   Isophorone
+   
+   78591
+   
+   1000
+   
+   
+   
+   960,c
+   
+   
+   
+   Manganese
+   
+   7439965
+   
+   
+   
+   
+   
+   100
+   
+   
+   
+   Methoxychlor
+   
+   72435
+   
+   0.03
+   
+   
+   
+   
+   
+   
+   
+   Mirex
+   
+   2385855
+   
+   0.001
+   
+   
+   
+   
+   
+   
+   
+   Naphthalene
+   
+   91203
+   
+   600
+   
+   
+   
+   
+   
+   
+   
+   Nitrobenzene
+   
+   98953
+   
+   1000
+   
+   
+   
+   690
+   
+   
+   
+   Nitrophenols
+   
+   
+   
+   20
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   2-Methyl-4,6- Dinitrophenol
+   
+   534521
+   
+   
+   
+   
+   
+   280
+   
+   
+   
+   
+   
+   2,4-Dinitrophenol
+   
+   51285
+   
+   
+   
+   
+   
+   5,300
+   
+   
+   
+   
+   
+   Dinitrophenols
+   
+   25550587
+   
+   
+   
+   
+   
+   5,300
+   
+   
+   
+   Nitrosamines
+   
+   
+   
+   600
+   
+   
+   
+   1.24
+   
+   
+   
+   
+   
+   N-Nitrosodibutylamine
+   
+   924163
+   
+   
+   
+   
+   
+   0.22
+   
+   
+   
+   
+   
+   N-Nitrosodiethylamine
+   
+   55185
+   
+   
+   
+   
+   
+   1.24
+   
+   
+   
+   
+   
+   N-Nitrosodimethylamine
+   
+   62759
+   
+   
+   
+   
+   
+   3.0,c
+   
+   
+   
+   
+   
+   N-Nitrosodi-n-Propylamine
+   
+   621647
+   
+   
+   
+   
+   
+   0.51,c
+   
+   
+   
+   
+   
+   N-Nitrosodiphenylamine
+   
+   86306
+   
+   
+   
+   
+   
+   6.0,c
+   
+   
+   
+   N-Nitrosopyrrolidine
+   
+   930552
+   
+   
+   
+   
+   
+   34,c
+   
+   
+   
+           Nonylphenol
+   
+   84852153
+   
+   6.6
+   
+   28
+   
+   
+   
+   
+   
+   Carbamates
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Carbaryl (Sevin)
+   
+   63252
+   
+   2.1
+   
+   2.1
+   
+   
+   
+   
+   
+   Organochlorides
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   4,4’-DDD
+   
+   72548
+   
+   0.001
+   
+   1.1
+   
+   0.00031,c
+   
+   
+   
+   
+   
+   4,4’-DDE
+   
+   72559
+   
+   0.001
+   
+   1.1
+   
+   0.00022,c
+   
+   
+   
+   
+   
+   4,4’-DDT
+   
+   50293
+   
+   0.001
+   
+   1.1
+   
+   0.00022,c
+   
+   
+   
+   Organophosphates
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Guthion
+   
+   86500
+   
+   0.01
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Malathion
+   
+   121755
+   
+   0.1
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Parathion
+   
+   56382
+   
+   0.013
+   
+   0.065
+   
+   
+   
+   
+   
+   Phenol
+   
+   108952
+   
+   
+   
+   
+   
+   860,000
+   
+   
+   
+   Phthalate esters
+   
+   
+   
+   100
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Bis(2-Ethylhexyl) Phthalate
+   
+   117817
+   
+   
+   
+   
+   
+   2.2,c
+   
+   
+   
+   
+   
+   Butylbenzyl Phthalate
+   
+   85687
+   
+   
+   
+   
+   
+   1,900
+   
+   
+   
+   
+   
+   Diethyl Phthalate
+   
+   84662
+   
+   
+   
+   
+   
+   44,000
+   
+   
+   
+   
+   
+   Dimethyl Phthalate
+   
+   131113
+   
+   
+   
+   
+   
+   1,100,000
+   
+   
+   
+   
+   
+   Di-n-Butyl Phthalate
+   
+   84742
+   
+   
+   
+   
+   
+   4,500
+   
+   
+   
+   Polychlorinated biphenyls4
+   
+   
+   
+   0.014
+   
+   
+   
+   0.000064,c
+   
+   
+   
+   Polynuclear aromatic hydrocarbons
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Acenaphthene
+   
+   83329
+   
+   50
+   
+   
+   
+   990
+   
+   
+   
+   
+   
+   Acenaphthylene
+   
+   208968
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Anthracene
+   
+   120127
+   
+   
+   
+   
+   
+   40,000
+   
+   
+   
+   
+   
+   Benzidine
+   
+   92875
+   
+   250
+   
+   
+   
+   0.00020,c
+   
+   
+   
+   
+   
+   Benzo(a)Anthracene
+   
+   56553
+   
+   
+   
+   
+   
+   0.018,c
+   
+   
+   
+   
+   
+   Benzo(a)Pyrene
+   
+   50328
+   
+   
+   
+   
+   
+   0.018,c
+   
+   
+   
+   
+   
+   Benzo(b)Fluoranthene
+   
+   205992
+   
+   
+   
+   
+   
+   0.018,c
+   
+   
+   
+   
+   
+   Benzo(k)Fluoranthene
+   
+   207089
+   
+   
+   
+   
+   
+   0.018,c
+   
+   
+   
+   
+   
+   Chrysene
+   
+   218019
+   
+   
+   
+   
+   
+   0.018,c
+   
+   
+   
+   
+   
+   Dibenzo(a,h) Anthracene
+   
+   53703
+   
+   
+   
+   
+   
+   0.018,c
+   
+   
+   
+   
+   
+   Fluoranthene
+   
+   206440
+   
+   400
+   
+   
+   
+   140.0
+   
+   
+   
+   
+   
+   Fluorene
+   
+   86737
+   
+   
+   
+   
+   
+   5,300
+   
+   
+   
+   
+   
+   Indeno(1,2,3-cd) Pyrene
+   
+   193395
+   
+   
+   
+   
+   
+   0.018,c
+   
+   
+   
+   
+   
+   Pyrene
+   
+   129000
+   
+   
+   
+   
+   
+   4,000
+   
+   
+   
+   Tetrachloroethylene
+   
+   127184
+   
+   800
+   
+   
+   
+   3.3,c
+   
+   
+   
+   Toluene
+   
+   108883
+   
+   600
+   
+   
+   
+   15000
+   
+   
+   
+   Toxaphene
+   
+   8001352
+   
+   0.0002
+   
+   0.73
+   
+   0.00028,c
+   
+   
+   
+   Tributyltin (TBT)
+   
+   &#8211;
+   
+   0.072
+   
+   0.46
+   
+   
+   
+   
+   
+   Trichloroethylene
+   
+   79016
+   
+   1000
+   
+   
+   
+   30.0,c
+   
+   
+   
+   Vinyl chloride
+   
+   75014
+   
+   
+   
+   
+   
+   2.4,c
+   
+   
+   
+   
+   
+   Notes:
+   
+   1 For constituents without numerical criteria, standards have not been
+   developed at this time.  However, permit writers shall address these
+   constituents in NPDES permit actions using the narrative criteria for toxics
+   contained in these water quality standards.
+   
+   2 The letter “c” after the Class D Human Health Criteria numeric value
+   means that the criterion is based on carcinogenicity of 10-6 risk level.
+   
+   
+   
+   3 The formulas for calculating the concentrations of substances indicated
+   above are as follows:
+   
+   
+   
+   [I]	The numerical CCC criterion for pentachlorophenol in μg/L shall be given
+   by:
+   
+   e(1.005(pH) &#8211; 5.134)
+   
+   [I.A]	The numerical CMC criterion for pentachlorophenol in μg/L shall be
+   given by:
+   
+    e(1.005(pH) &#8211; 4.869)
+   
+   4 The polychlorinated biphenyls (PCB) criterion applies to total PCBs (e.g.,
+   the sum of all congener or all isomer or homolog or Aroclor analyses.)
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 41 DCR 1075, 1077 (March 4, 1994); as
+   amended by Final Rulemaking published at 47 DCR 284(January 21, 2000); as
+   amended by Final Rulemaking published at 49 DCR 3012 (April 5, 2002); as
+   amended by Emergency and Proposed Rulemaking published at 49 DCR 1706
+   (February 22, 2002); as amended by Final Rulemaking published at 52 DCR
+   9621(October 28, 2005); as amended by Final Rulemaking published at 57 DCR
+   9129, 9135-9146 (October 1, 2010); as amended by Final Rulemaking published at
+   60 DCR 15231 (November 1, 2013).

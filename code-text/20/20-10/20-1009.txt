@@ -1,0 +1,38 @@
+                                  DC REGULATIONS
+
+REPORTING (§ 20-1009)
+
+1009.1. The AAR for each budget source shall submit, in electronic format
+   meeting the requirements of EPA&#8217;s Electronic Data Reporting (EDR)
+   convention, emissions and operations information for each calendar quarter of
+   each year pursuant to standards specified in 40 CFR Part 75, Subpart G, or in
+   any other suitable format the Administrator approves.
+
+   1009.2. The owner or operator of a budget source shall provide the
+   Administrator, in the same quarterly reports, and in a format consistent with
+   the EDR as specified by the Administrator, NOx emission data in lb./hr for
+   every hour during the control period and cumulative quarterly NOx emission
+   data in pounds.
+
+   1009.3. Budget sources subject to 40 CFR Part 75 shall submit the quarterly
+   reports required under subsections 1009.1 and 1009.2 to the Administrator as
+   part of the quarterly reports submitted to the Administrator for the purpose
+   of compliance with 40 CFR Part 75.
+
+   1009.4. Budget sources not subject to 40 CFR Part 75 shall submit the
+   quarterly reports required under subsections 1009.1 and 1009.2 within thirty
+   (30) days of the end of each calendar quarter.
+
+   1009.5. When a budget source is permanently retired, the AAR for the budget
+   source may file with the Director a written request for a retirement exemption
+   from the requirements of this section and §§ 1007 and 1008. The request
+   shall identify the budget source being retired, and the retirement date. If
+   the Director approves the retirement exemption request, he or she shall send
+   the written approval for the retirement exemption, which may contain any
+   conditions the Director deems necessary, to the AAR.
+   
+   
+   
+   	SOURCE: As amended by final rulemaking published at 47 DCR 8646(October 10,
+   2000); as amended by final rulemaking published at 47 DCR 9686 (December 8,
+   2000).

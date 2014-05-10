@@ -1,0 +1,216 @@
+                                  DC REGULATIONS
+
+CONSUMER PRODUCTS – INNOVATIVE PRODUCTS EXEMPTION (§ 20-736)
+
+736.1. Any manufacturer claiming an exemption from the Table of Standards in
+   § 720.1 based on a CARB Innovative Products exemption under the Innovative
+   Products provisions in Subchapter 8.5, Article 2, § 94511, or Subchapter 8.5,
+   Article 1, § 94503.5 of Title 17 of the California Code of Regulations, must
+   submit to the Department a copy of the CARB Innovative Product exemption
+   decision including the executive order and all conditions established by CARB
+   applicable to the exemption.
+
+   736.2. Manufacturers of consumer products that have been granted an Innovative
+   Products exemption under the Innovative Products provisions in Subchapter 8.5,
+   Article 2, § 94511, or Subchapter 8.5, Article 1, § 94503.5 of Title 17 of
+   the California Code of Regulations based on California specific data, or that
+   have not been granted an exemption by CARB, may apply for an Innovative
+   Products exemption from the District of Columbia if the product meets the
+   following criteria:
+   
+   
+   
+   	(a)	The manufacturer demonstrates by clear and convincing evidence that due
+   to some characteristic of the product formulation, design, delivery systems or
+   other factors, the use of the product will result in less VOC emissions as
+   compared to:
+   
+   
+   
+   		(1)	The VOC emissions from a representative consumer product which complies
+   with the VOC limits specified in the Table of Standards in § 720.1; or
+   
+   
+   
+   		(2)	The calculated VOC emissions from a non-complying representative
+   product, if the product had been reformulated to comply with the VOC limits
+   specified in the Table of Standards in § 720.1; and
+   
+   
+   
+   (3)	VOC emissions shall be calculated using the following equation:
+   
+   
+   
+   		ER  =  ENC  x  VOCSTD ¸ VOCNC
+   
+   
+   
+   				where:
+   
+   
+   
+   			ER  	= 	The VOC emissions from the non-complying representative product,
+   had it been reformulated;
+   
+   
+   
+   			ENC  	=	The VOC emissions from the non-complying representative product in
+   its current formulation;
+   
+   
+   
+   			VOCSTD  =	The VOC limit specified in the Table of Standards in § 720.1;
+   and
+   
+   
+   
+   		VOCNC   =	The VOC content of the non-complying product in its current
+   formulation;
+   
+   
+   
+   				(b)	If a manufacturer demonstrates that the equation in paragraph (a) of
+   this section yields inaccurate results due to some characteristic of the
+   product formulation or other factors, an alternative method that accurately
+   calculates emissions may be used upon approval of the Department;
+   
+   
+   
+   		(c)	For the purposes of this section, representative consumer product means
+   a consumer product that meets all of the following criteria:
+   
+   
+   
+   		(1)	The representative product shall be subject to the same VOC limit in the
+   Table of Standards in § 720.1 as the innovative product;
+   
+   
+   
+   		(2)	The representative product shall be of the same product form as the
+   innovative product, unless the innovative product uses a new form that does
+   not exist in the product category at the time the application is made; and
+   
+   
+   
+   		(3) 	The representative product shall have at least similar efficacy as
+   other consumer products in the same product category based on tests generally
+   accepted for that product category by the consumer products industry;
+   
+   
+   
+   (d)	To apply for an innovative products exemption under this section, a
+   manufacturer shall submit a written application to the Department, which
+   includes:
+   
+   
+   
+   (1)	The supporting documentation that demonstrates the emissions from the
+   innovative product, including the actual physical test methods used to
+   generate the data and, if necessary, the consumer testing undertaken to
+   document product usage; and
+   
+   
+   
+   				(2)	Any information necessary to enable the Department to establish
+   enforceable conditions for granting the exemption including the VOC content
+   for the innovative product and test methods for determining the VOC content;
+   
+   
+   
+   (e)	The Department shall comply with the following process in responding to
+   applications for exemptions:
+   
+   
+   
+   	(1)	All information submitted by a manufacturer pursuant to paragraph (d)
+   shall be handled in accordance with the District of Columbia confidentiality
+   requirements in 20 DCMR § 106;
+   
+   
+   
+   			(2)	Within thirty (30) days of receipt of the exemption application the
+   Department shall determine whether an application is complete;
+   
+   
+   
+   				(3)	Within ninety (90) days after an application has been deemed complete,
+   the Department shall determine whether, under what conditions, and to what
+   extent, an exemption from the requirements of §720 will be permitted;
+   
+   
+   
+   (A)	The applicant and the Department may mutually agree to a longer time
+   period for reaching a decision; and
+   
+   
+   
+   (B)	Additional supporting documentation may be submitted by the applicant
+   before a decision is reached;
+   
+   
+   
+   				(4)	The Department shall notify the applicant of the decision in writing
+   and specify such terms and conditions that are necessary to ensure that
+   emissions from the product will meet the emissions reductions specified in
+   subparagraph (a)(1), and that such emissions reductions can be enforced; and
+   
+   
+   
+   			(5)	In granting an exemption for a product, the Department shall establish
+   conditions that are enforceable:
+   
+   
+   
+   (A)	These conditions shall include the VOC content of the innovative product,
+   dispensing rates, application rates, and any other parameters determined by
+   the Department to be necessary;
+   
+   
+   
+   (B)	The Department shall also specify the test methods for determining
+   conformance to the conditions established; and
+   
+   
+   
+   (C)	The test methods shall include criteria for reproducibility, accuracy,
+   sampling, and laboratory procedures;
+   
+   
+   
+   (f)	For any product for which an exemption has been granted pursuant to this
+   section, the manufacturer shall notify the Department in writing within thirty
+   (30) days of any change in the product formulation or recommended product
+   usage directions, and shall also notify the Department within thirty (30) days
+   if the manufacturer learns of any information which would alter the emissions
+   estimates submitted to the Department in support of the exemption application;
+   
+   
+   
+   	(g) 	If the VOC limits specified in the Table of Standards in § 720.1 are
+   lowered for a product category through any subsequent rulemaking, all
+   innovative product exemptions granted for products in the product category
+   shall have no effect as of the effective date of the modified VOC standard,
+   except for those innovative products that have VOC emissions less than the
+   applicable lowered VOC limit and for which a written notification of the
+   product&#8217;s emissions status versus the lowered VOC limit has been
+   submitted to and approved by the Department at least sixty (60) days before
+   the effective date of such limits; and
+   
+   
+   
+   	(h) 	If the Department believes that a consumer product for which an
+   exemption has been granted no longer meets the criteria for an innovative
+   product specified in this section, the Department may modify or revoke the
+   exemption as necessary to ensure that the product will meet these criteria.
+   The Department shall not modify or revoke an exemption without first affording
+   the applicant an opportunity for a public hearing held in accordance with the
+   District of Columbia Administrative Procedures Act, D.C. Official Code §§
+   2-501, et seq.(2006 Repl.).
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 51 DCR 3879 (April 16, 2004); as
+   amended by Final Rulemaking published at 51 DCR 10781 (November 26, 2004); as
+   amended by Notice of Final Rulemaking published at 58 DCR 11286, 11345
+   (December 30, 2011).

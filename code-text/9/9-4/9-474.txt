@@ -1,0 +1,100 @@
+                                  DC REGULATIONS
+
+DATA PROCESSING SERVICES (§ 9-474)
+
+474.1. Gross receipts from the sale of or charges for data processing services
+   shall be subject to the tax. For the purpose of this section, the term
+   &#8220;data processing services&#8221; means the processing of information for
+   the purpose of compiling and producing records of transactions, maintaining
+   information, and entering and retrieving information. It also includes word
+   processing, payroll and business accounting, and computerized data and
+   information storage and manipulation.
+
+   474.2. Examples of data processing services include the following:
+   
+   
+   
+   (a)	Entry of inventory control data for a company;
+   
+   
+   
+   (b)	Maintenance of records of employee work time;
+   
+   
+   
+   (c)	Filing payroll tax returns;
+   
+   
+   
+   (d)	Preparing W-2 forms; or
+   
+   
+   
+   (e)	Computing and preparing payroll checks.
+
+   474.3. Data processing services shall not include the use of a computer by a
+   provider of other services when the computer is used to facilitate the
+   performance of the service or the application of the knowledge of accounting
+   principles and tax laws. Purchasers of data processing services used to
+   perform professional services, such as accounting and legal services, shall be
+   considered consumers of the data processing services and thus shall be subject
+   to the tax on the services.
+
+   474.4. Gross receipts from the sale, lease or rental, or maintenance of any
+   computer software shall be subject to the tax regardless of whether the
+   software is canned, prepackaged or customized. Examples of taxable computer
+   software and software services include the following:
+   
+   
+   
+   (a)	System software;
+   
+   
+   
+   (b)	Application software;
+   
+   
+   
+   (c)	Computer programming;
+   
+   
+   
+   (d)	Software modification; or
+   
+   
+   
+   (e)	Software updating.
+
+   474.5. Data processing services performed, purchased, or delivered outside of
+   the District but subsequently brought into the District for use or consumption
+   shall be subject to the District use tax; Provided, that no sales tax was
+   required to be paid to the other jurisdiction. Data processing services
+   performed or delivered outside of the District for use within other
+   jurisdictions as well as for use within the District shall be subject to the
+   District use tax on a prorated share of the charge; Provided, that no sales
+   tax was required to be paid on that prorated share to the other jurisdiction.
+   Data processing services sold and delivered by the vendor to locations outside
+   of the District shall be exempt from the sales tax.
+
+   474.6. Vendors providing data processing services may issue a resale
+   certificate on all tangible personal property or services purchased for resale
+   or rental either in the same form or for incorporation in the same form as a
+   material part of other property or services being produced or provided for
+   resale or rental.
+   
+   
+   
+   For example, if a service were sold to the customer on magnetic tape, the tape
+   may be purchased with a certificate of resale.
+
+   474.7. Vendors providing temporary help to perform data processing services,
+   including consultation, computer programming, and software alteration,
+   modification, and updating shall be required to collect the tax on these
+   services. The tax shall be collected even if the temporary help performs some
+   inconsequential nontaxable services. However, vendors providing temporary
+   secretarial and clerical help who also perform some inconsequential data
+   processing services shall not be required to collect the tax.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 36 DCR 8057, 8065 (November 24, 1989).

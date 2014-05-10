@@ -1,0 +1,254 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 15-2999)
+
+2999.1. For the purposes of this chapter, the following terms and phrases have
+   the following meanings:
+   
+   
+   
+   Adjacent PJM State &#8211; a state that is adjacent to the PJM Interconnection
+   Region. The following states are deemed adjacent to the PJM Interconnection
+   Region as of October 2011: Alabama, Arkansas, Georgia, Iowa, Mississippi,
+   Missouri, New York, South Carolina, and Wisconsin. The adjacent states will
+   vary as the boundary of the PJM Interconnection Region changes over time.
+   
+   
+   
+   Behind-the-meter generator or BTM generator &#8211; a renewable on-site
+   generator that is located behind a retail customer meter such that no
+   utility-owned transmission or distribution facilities are used to deliver the
+   energy from the generating unit to the on-site generator&#8217;s load.
+   
+   
+   
+   Brush &#8211; shrubs and stands of short, scrubby trees that do not reach
+   merchantable size.
+   
+   
+   
+   Commission &#8211; the Public Service Commission of the District of Columbia.
+   
+   
+   
+   Customer generation &#8211; generation that is not principally dedicated for
+   sale into the wholesale electricity market.
+   
+   
+   
+   Dunnage &#8211; loose materials or padding used to support or protect cargo
+   within shipping containers.
+   
+   
+   
+   Energy Office &#8211; the District of Columbia Department of the
+   Environment&#8217;s Energy Office.
+   
+   
+   
+   Electricity supplier &#8211; a person, including an aggregator, broker, or
+   marketer, who generates electricity; sells electricity; or purchases, brokers,
+   arranges or, markets electricity for sale to customers. The term excludes the
+   following:
+   
+   
+   
+   (a)	Building owners, lessees, or managers who manage the internal distribution
+   system serving such building and who supply electricity solely to occupants of
+   the building for use by the occupants;
+   
+   
+   
+   (b)	Any person who purchases electricity for his or her own use or for the use
+   of his or her subsidiaries or affiliates; or
+   
+   
+   
+   (c)	Any apartment building or office building manager who aggregates electric
+   service requirements for his or her building or buildings, and who does not:
+   
+   
+   
+   (1)	Take title to the electricity;
+   
+   
+   
+   (2)	Market electric services to the individually-metered tenants of the
+   building; or
+   
+   
+   
+   (3)	Engage in the resale of electric services to others;
+   
+   
+   
+   (d)	Property owners who supply small amounts of power, at cost, as an
+   accommodation to lessors or licensees of the property; and
+   
+   
+   
+   (e)	A consolidator.
+   
+   
+   
+   Fund &#8211; the District of Columbia Renewable Energy Development Fund.
+   
+   
+   
+   PJM Interconnection &#8211; the regional transmission organization that is
+   regulated by the Federal Energy Regulatory Commission and functionally
+   controls the transmission system for the region that includes the District of
+   Columbia.
+   
+   
+   
+   PJM Interconnection region &#8211; the area within which the movement of
+   wholesale electricity is coordinated by the PJM Interconnection, L.L.C. With
+   respect to qualifying RECs, the following states are deemed within the PJM
+   Interconnection Region as of October 2011: Delaware, the District of Columbia,
+   Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina,
+   Ohio, Pennsylvania, Tennessee, Virginia, and West Virginia.
+   
+   
+   
+   Qualifying biomass &#8211; a solid, non-hazardous, cellulosic waste material
+   that is segregated from other waste materials, and is derived from any of the
+   following forest-related resources, with the exception of old growth timber,
+   unsegregated solid waste, or post-consumer wastepaper:
+   
+   
+   
+   (a)	Mill residue;
+   
+   
+   
+   (b)	Precommercial soft wood thinning;
+   
+   
+   
+   (c)	Slash;
+   
+   
+   
+   (d)	Brush;
+   
+   
+   
+   (e)	Yard waste;
+   
+   
+   
+   (f)	A waste pallet, crate, or dunnage;
+   
+   
+   
+   (g)	Agricultural sources, including tree crops, vineyard materials, grain,
+   legumes, sugar, and other crop by products or residues; or
+   
+   
+   
+   (h)	Cofired biomass, subject to the condition under D.C. Official Code §
+   34-1433(f) (2010 Repl.).
+   
+   
+   
+   Renewable energy credit or REC &#8211; a credit representing one megawatt (1
+   MWH) hour of electricity produced by a Tier One or Tier Two renewable resource
+   located within the PJM Interconnection region or within a state that is
+   adjacent to the PJM Interconnection region.
+   
+   
+   
+   Renewable energy portfolio standard or standard &#8211; the percentage of
+   electricity sales at retail in the District of Columbia that is to be derived
+   from Tier One renewable sources and Tier Two renewable sources in accordance
+   with D.C. Official Code § 34-1432(c) (2011 Supp.; as amended by Distributed
+   Generation Amendment Act of 2011, effective October 20, 2011 (D.C. Law
+   19-36)).
+   
+   
+   
+   Renewable on-site generator &#8211; a person that generates electricity on
+   site from a Tier One renewable source or Tier Two renewable source for the
+   person&#8217;s own use.
+   
+   
+   
+   Slash:
+   
+   
+   
+   (a)	Tree tops, branches, bark, or other residue left on the ground after
+   logging or other forestry operations; or
+   
+   
+   
+   (b)	Tree debris left after a natural catastrophe.
+   
+   
+   
+   Solar energy &#8211; radiant energy, direct, diffuse, or reflected, received
+   from the sun at wavelengths suitable for conversion into thermal, chemical, or
+   electrical energy.
+   
+   
+   
+   Tier one renewable source &#8211; one (1) or more of the following types of
+   energy sources:
+   
+   
+   
+   (a)	Solar energy;
+   
+   
+   
+   (b)	Wind;
+   
+   
+   
+   (c)	Qualifying biomass;
+   
+   
+   
+   (d)	Methane from the anaerobic decomposition of organic materials in a
+   landfill or wastewater treatment plant;
+   
+   
+   
+   (e)	Geothermal;
+   
+   
+   
+   (f)	Ocean, including energy from waves, tides, currents, and thermal
+   differences; and
+   
+   
+   
+   (g)	Fuel cells producing electricity from a Tier One renewable source under
+   paragraph (c) or (d) of this paragraph.
+   
+   
+   
+   Tier two renewable source – one (1) or more of the following types of energy
+   sources:
+   
+   
+   
+   (a)	Hydroelectric power other than pumped storage generation; or
+   
+   
+   
+   (b)	Waste-to-energy.
+   
+   
+   
+   Waste-to-energy &#8211; waste treatment, including the use of a licensed
+   facility that burns waste resources in high-efficiency furnaces or boilers, to
+   produce electricity. Such resources include municipal solid waste but exclude
+   waste coal.
+   
+   
+   
+   	SOURCE: Notice of Final Rulemaking published at 55 DCR 000561 (January 18,
+   2008); as amended by Notice of Final Rulemaking published at 59 DCR 2313, 2323
+   (March 23, 2012).

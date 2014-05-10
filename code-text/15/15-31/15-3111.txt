@@ -1,0 +1,92 @@
+                                  DC REGULATIONS
+
+REPAIR; OUTAGE AND RECEPTION PROBLEMS (§ 15-3111)
+
+3111.1. A cable operator shall have technicians on call twenty-four (24) hours
+   per day, seven (7) days per week, including legal holidays, to address and
+   repair system outages and other service problems.
+
+   3111.2. A cable operator shall maintain sufficient repair and maintenance
+   capacity so as to be able to correct outages and repair service problems
+   within the time periods identified by this subsection.
+
+   3111.3. A cable operator shall correct a system outage (loss of reception on
+   all channels affecting five (5) or more subscribers) within four (4) hours
+   after a cable operator receives the fifth (5th) subscriber&#8217;s call
+   regarding the outage, except as provided in subsection 3111.8. If a cable
+   operator fails to comply with this provision, the cable operator shall grant
+   each affected subscriber, upon request, a credit equal to, at least, one (1)
+   day worth of the monthly charge for any affected service or service tier for
+   any period exceeding four (4) hours in which the outage continues during any
+   twenty-four (24) hour period, and automatically, without request from
+   subscribers, for any period exceeding twelve (12) hours that the outage
+   continues during any twenty-four (24) hour period.
+
+   3111.4. A cable operator shall correct a service interruption (the loss of
+   picture or sound on one or more channels affecting less than five (5)
+   subscribers) within twenty-four (24) hours, except as provided in subsection
+   3111.8. If a cable operator fails to comply with this provision, the cable
+   operator shall grant each affected subscriber a credit equal to, at least, one
+   (1) day worth of the monthly charge for any affected service or service tier
+   for each subsequent day on which the service interruption continues.
+
+   3111.5. If a system outage or service interruption materially affects a
+   pay-per-view or special event for any period of time, a cable operator shall
+   grant the affected subscribers a credit equal to the full value of the
+   service.
+
+   3111.6. A reception problem (reception that an affected subscriber reasonably
+   determines is unsatisfactory, unless a cable operator demonstrates that the
+   signals transmitted to the subscriber are in compliance with applicable
+   performance standards regarding video or audio signal quality) or other
+   service problem of either picture or sound quality shall be repaired within
+   forty-eight (48) hours after a cable operator receives a request for repair
+   service. If a cable operator fails to comply with this provision, the cable
+   operator shall grant affected subscribers a credit equal to, at least, one (1)
+   day worth of the monthly charge for any affected service or service tier for
+   each subsequent day on which the reception problem continues.
+
+   3111.7. A cable operator shall initiate investigative action in response to a
+   service call regarding a problem other than a system outage or a service
+   interruption not later than the next day after notification unless the
+   subscriber requests an appointment at a later date.
+
+   3111.8. A cable operator shall correct a system outage or service interruption
+   due to a cause beyond the control of a cable operator within forty-eight (48)
+   hours after the condition has ceased.
+
+   3111.9. OCT shall excuse a cable operator&#8217;s failure to correct a system
+   outage or service interruption or to a make repair within the stated time
+   periods if OCT reasonably agrees with a cable operator that correcting the
+   outage or making the repair was not reasonably possible within the permitted
+   time period.
+
+   3111.10. A complaint shall be considered resolved when signals received by the
+   subscriber have been brought into compliance with applicable federal
+   standards.
+
+   3111.11. A repair or corrective action that the cable operator knows does not
+   require a cable operator to enter a subscriber&#8217;s premises shall not
+   require a subscriber to make an appointment, shall not require the subscriber
+   to be available on-site, and shall not be delayed on account of a cable
+   operator&#8217;s inability to contact the subscriber. A cable operator shall
+   complete the repair or corrective action within the time limits specified in
+   this section.
+
+   3111.12. A cable operator shall take timely measures to post an appropriate
+   message, including identifiable locations, geographic areas or neighborhoods
+   affected, on its telephone system to notify subscribers of system outages. The
+   message shall also provide instructions for subscribers whose converters or
+   navigation devices may not be functioning as a result of the system outage.
+
+   3111.13. A cable operator shall not charge a subscriber for a service call to
+   his or her address to perform repair or maintenance work, if the cause of the
+   work is the cable operator&#8217;s fault.
+
+   3111.14. For the purpose of automatic credits addressed in this section 3111,
+   a cable operator shall apply credits to accounts of all subscribers within an
+   identifiable location or geographical area.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 49 DCR 6797 (July 19, 2002).

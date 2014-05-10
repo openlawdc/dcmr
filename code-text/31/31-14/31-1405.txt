@@ -1,0 +1,53 @@
+                                  DC REGULATIONS
+
+PROHIBITIONS (§ 31-1405)
+
+1405.1. No LCS owner or operator shall provide sedan service in the District
+   except as required by this chapter, Chapter 12 of this title, and other
+   applicable laws.
+
+   1405.2. No DDS shall provide dispatch or payment services for sedan class
+   service in the District except as required by this chapter, Chapter 16 of this
+   title, and other applicable laws.
+
+   1405.3. No person shall provide sedan service in the District unless the fare,
+   including all rates and charges, comply with § 1402 and all other applicable
+   provisions of this chapter.
+
+   1405.4. No person providing sedan service in the District shall charge a
+   gratuity, regardless of how such amount is styled, that does not comply with
+   § 1402.1(f).
+
+   1405.5. No person shall participate in providing sedan service in the District
+   unless the passenger surcharge is collected from the passenger and received by
+   the District as required by § 1403.
+
+   1405.6. No person shall provide sedan service if the vehicle or the operator
+   is not on the DDS vehicle inventory at the time the digital dispatch was
+   initiated by the passenger.
+
+   1405.7. No owner or operator may alter or tamper with a component of a DPS
+   unit or make any change in the vehicle that prevents the DPS unit from
+   operating as required by this chapter.
+
+   1405.8. No operator may provide service using a DPS unit that has been
+   tampered with, broken, or altered.  The operation of a sedan with a tampered,
+   broken, or altered DPS shall give rise to a rebuttable presumption that the
+   operator knew of the tampering, breaking, or alteration.
+
+   1405.9. Sedan class service shall not be booked except through a digital
+   dispatch transmitted to the operator by a DDS using a digital payment system
+   with current operating authority to operate such system.
+
+   1405.10. No DDS shall allow its associated operators to access a passenger’s
+   payment information after the payment has been processed.
+
+   1405.11. Each operator shall pick up a passenger at the time and location
+   provided in the digital dispatch.
+
+   1405.12. No operator shall provide sedan service using a vehicle that does not
+   comply with all applicable provisions of Chapter 12.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 12410 (August 30, 2013).

@@ -1,0 +1,54 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 15-4304)
+
+4304.1. When used in this rulemaking, the following terms and phrases shall
+   have the following meaning:
+   
+   
+   
+   &#8220;Commission&#8221; means the Public Service Commission of the District
+   of Columbia.
+   
+   
+   
+   &#8220;Electric Utility&#8221; means the company that provides electric
+   distribution service and is regulated by the Public Service Commission of the
+   District of Columbia.
+   
+   
+   
+   &#8220;Liquid-immersed distribution transformer&#8221; means a transformer
+   that has an input voltage of 34,500 volts or less, an output voltage of 600
+   volts or less, uses oil or other liquid as a coolant, and is rated for
+   operation at a frequency of 60 Hertz.
+   
+   
+   
+   &#8220;Minimally efficient distribution transformer&#8221;, for reporting
+   purposes of this chapter, shall mean:
+   
+   
+   
+   (a)	For transformers purchased before January, 2010, a transformer meeting the
+   minimum efficiency specification established in Table 4-1 of NEMA Standards
+   Publication TP 1-2002, which is incorporated by reference; and
+   
+   
+   
+   (b)	For transformers purchased on or after January 1, 2010, a transformer
+   meeting the minimum efficiency standard established in 10 CFR Part 431, as
+   amended, which is incorporated by reference.
+   
+   
+   
+   &#8220;Transformer&#8221; means a device consisting of two or more coils of
+   insulated wire that is designed to transfer alternating current by
+   electromagnetic induction from one coil to another to change the original
+   voltage or current value.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 55 DCR 11319 (October 31, 2008),
+   incorporating by reference the text of Proposed Rulemaking published at 55 DCR
+   9740-9743 (September 12, 2008).

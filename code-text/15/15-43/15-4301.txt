@@ -1,0 +1,61 @@
+                                  DC REGULATIONS
+
+PURCHASE OF LIQUID-IMMERSED DISTRIBUTION TRANSFORMERS (§ 15-4301)
+
+4301.1. This regulation applies to the electric utility that provides electric
+   distribution service to the District of Columbia.
+
+   4301.2. After January 1, 2009, and subject to reasonable commercial
+   availability, the electric utility shall purchase liquid-immersed distribution
+   transformers using the life-cycle cost methodology specified in Section 2,
+   Efficiency Evaluation for Electric Utilities of NEMA Standards Publication TP
+   1-2002.
+
+   4301.3. Evaluation of Distribution Transformer Models:
+   
+   
+   
+   (a)	Within each capacity class or type of liquid-immersed distribution
+   transformers, a reasonable number of commercially available models shall be
+   evaluated and, except as provided in paragraph (b), the model in each such
+   class or type with the lowest total owning costs as determined by the
+   life-cycle cost methodology shall be selected for the purchase.
+   
+   
+   
+   (b)	If a utility is soliciting bids to supply multiple capacity classes or
+   types of liquid-immersed distribution transformers under a single contract,
+   models offered by a supplier in more than one capacity class or type may be
+   combined for purposes of life-cycle cost evaluation, provided that the
+   aggregation of models offered by a single supplier in such combined classes or
+   types with the lowest total owning cost as determined by the life-cycle cost
+   methodology conducted prior to contract award shall be selected for purchase.
+   
+   
+   
+   (c)	For purposes of this evaluation, all values for load losses and no-load
+   losses shall be determined through the methods specified in the &#8220;Uniform
+   Test Method for Measuring the Energy Consumption of Distribution
+   Transformers,&#8221; Appendix A to Subpart K of 10 CFR, Part 431, as amended,
+   which is incorporated by reference.
+   
+   
+   
+   (d)	For purposes of this evaluation, estimated values of energy and capacity
+   shall be based upon the most current year available at the time of any bid
+   solicitation. Nothing in this regulation shall require a utility to purchase
+   any liquid-immersed distribution transformer that fails to meet federal energy
+   efficiency standards specified in 10 CFR Part 431, as amended, which is
+   incorporated by reference.
+
+   4301.4. After January 1, 2010, and subject to reasonable commercial
+   availability, the electric utility shall purchase liquid-immersed distribution
+   transformers that meet or exceed the energy efficiency standards specified in
+   the Department of Energy&#8217;s (&#8220;DOE&#8221;) final rules in Part 431
+   of Title 10 of the Code of Federal Regulations.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 55 DCR 11319 (October 31, 2008),
+   incorporating by reference the text of Proposed Rulemaking published at 55 DCR
+   9740-9743 (September 12, 2008).

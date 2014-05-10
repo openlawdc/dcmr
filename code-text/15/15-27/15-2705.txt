@@ -1,0 +1,219 @@
+                                  DC REGULATIONS
+
+ABANDONMENT OF SERVICE (§ 15-2705)
+
+2705.1. Any CLEC certificated by the Commission that proposes to abandon the
+   provisioning of telecommunications services in the District of Columbia shall
+   file an application with the Commission no later than ninety (90) days prior
+   to the proposed date of abandonment of service.  This section 2705 shall apply
+   if a CLEC proposes to abandon the provisioning of telecommunications services
+   in the District of Columbia, either in whole or in part (including, but not
+   limited to, for a class of customers, such as residential customers or
+   business customers or for customers located in specified geographic areas). 
+   However, this section does not apply where a CLEC in the ordinary course of
+   business is proposing only to:
+   
+   
+   
+   (a) 	Terminate service to an individual customer for reasons uniquely
+   applicable to that customer (for instance, because the customer has failed to
+   pay charges due to the CLEC);
+   
+   
+   
+   (b) 	Withdraw a feature of a service (for instance, caller ID or call
+   waiting);
+   
+   
+   
+   (c) 	Limit availability of a service so that the service is available only to
+   the CLEC’s customers who already subscribe to that service; or
+   
+   
+   
+   (d) 	Change a rate, term or condition for a service.
+
+   2705.2. The abandonment of service application shall contain, in the following
+   order and specifically identify the following information:
+   
+   
+   
+   (a) 	The applicant’s name, address, telephone number, fax number, the name
+   under which the applicant is providing service in the District of Columbia,
+   the date and order number of the Commission order that authorized the
+   applicant to provide telecommunications services in the District of Columbia,
+   and the proposed abandonment of service date;
+   
+   
+   
+   (b)  	A complete explanation of the reasons for the proposed abandonment of
+   service, including, but not limited to, a statement as to whether the
+   applicant proposes to abandon the provisioning of telecommunications services
+   in the District of Columbia in whole, or only in part, and if only in part, a
+   description of the proposed abandonment (for instance, for a class of
+   customers, such as residential customers or business customers, or, customers
+   located in specified geographic areas);
+   
+   
+   
+   (c) 	A plan for the refund of any deposits collected from affected customers,
+   with accrued interest less any amounts due to the applicant;
+   
+   
+   
+   (d) 	If the applicant proposes to abandon the provisioning of
+   telecommunications services in the District of Columbia in whole, a
+   description of the arrangements made for payment of any outstanding taxes,
+   fees, or other amounts owed to the Commission or any other agency of the
+   District of Columbia;
+   
+   
+   
+   (e)  	A plan for the applicant to remove, maintain, or transfer any facilities
+   in the District of Columbia that would otherwise be abandoned;
+   
+   
+   
+   (f)  	A statement of the number of customers, classified by residential or
+   business customer, affected by the proposed abandonment of service;
+   
+   
+   
+   (g) 	A statement of the number of customers affected by the proposed
+   abandonment of service for whom the applicant receives universal service
+   support;
+   
+   
+   
+   (h)  	A statement of the date on which notice of the proposed abandonment of
+   service was or will be sent to affected customers;
+   
+   
+   
+   (i)  	A copy of the notice that was or will be sent to affected customers; and
+   
+   
+   
+   (j)  	An affidavit verifying that all of the information in the application is
+   true and correct.
+
+   2705.3. The applicant shall serve a copy of its abandonment of service
+   application on the Office of the People’s Counsel on the same day that the
+   application is filed with the Commission.
+
+   2705.4. Any CLEC that proposes to abandon service in the District of Columbia
+   shall notify each customer affected by the proposed abandonment in accordance
+   with the customer notice provisions of subsection 2706.5.  Notice to customers
+   shall be given in accordance with the customer notice provisions of subsection
+   2706.5 even if the proposed abandonment of service is not otherwise subject to
+   compliance with section 2706.
+
+   2705.5. The applicant shall return all customer deposits affected by the
+   proposed abandonment of service, with accrued interest less any amounts due to
+   the applicant within seventy-five (75) days of the abandonment of
+   certification application filing date.  Upon full payment of these deposits,
+   the applicant shall notify the Commission that all such deposits have been
+   paid.
+
+   2705.6. The applicant shall reimburse its customers affected by the proposed
+   abandonment of service for any carrier charges including, but not limited to,
+   service order charges and service installation charges directly associated
+   with the transfer of those customers to the incumbent local exchange carrier
+   or another CLEC and otherwise chargeable to the customers, as long as the
+   transfer occurs within thirty (30) days of the notification to the customer of
+   the applicant’s abandonment of service.  Except where the customer is
+   transferred to an Acquiring Carrier (as defined in subsection 2706.2) or to an
+   “acquiring carrier” (as such term is used in 47 C.F.R. § 64.1120), the
+   amount of the carrier charges that an applicant shall be required by this
+   subsection to reimburse to a customer shall not exceed:
+   
+   
+   
+   
+   
+   
+   
+   Fifty dollars ($50) per residence service line; and
+   
+   
+   
+   (b) 	One hundred dollars ($100) per business service line.
+
+   2705.7. The Commission may by order annually increase the maximum amount of
+   the carrier charges to be reimbursed by the applicant under subsection 2705.6
+   by a percentage amount equal to the percentage increase in the Consumer Price
+   Index – All Urban Consumers applicable to the District of Columbia as
+   determined by the United States Government.  Upon full payment of these
+   amounts, the applicant shall notify the Commission that all such amounts have
+   been paid.
+
+   2705.8. Within ninety (90) days after receiving the abandonment application,
+   the Commission shall either approve the application, reject the application,
+   or request supplemental information.
+
+   2705.9. If, within ninety (90) days after receiving the abandonment
+   application, the Commission does not either approve the application, reject
+   the application, or request supplemental information, the application shall be
+   deemed approved.
+
+   2705.10. If the Commission requests supplemental information, the applicant
+   has fifteen (15) days to provide the Commission with such supplemental
+   information.
+
+   2705.11. If the Commission requests supplemental information and, by the later
+   of thirty (30) days after receiving the supplemental information or ninety
+   (90) days after receiving the abandonment application, the Commission does not
+   either approve the application, reject the application, or request additional
+   supplemental information, the application shall be deemed approved.
+
+   2705.12. Approval of the abandonment of service application shall be subject
+   to compliance with the applicable provisions of section 2706 and the applicant
+   shall comply with the applicable provisions of section 2706.
+
+   2705.13. The Commission shall approve an abandonment of service application
+   if:
+   
+   
+   
+   (a)  	The CLEC has satisfied outstanding debts owed the Commission or any
+   agency of the District of Columbia government;
+   
+   
+   
+   (b) 	The applicant has complied with this section 2705, the applicable
+   provisions of section 2706, and all other applicable Commission rules and
+   requirements of applicable law;
+   
+   
+   
+   (c) 	The applicant has developed and implemented a comprehensive plan for
+   returning customer deposits to customers affected by the proposed abandonment
+   of service, with accrued interest less any amounts due to the applicant, and,
+   if the applicant proposes to abandon its provisioning of telecommunication
+   services in the District in whole, satisfying outstanding debts owed the
+   Commission and/or other District agencies;
+   
+   
+   
+   (d) 	The applicant has satisfied all switchover fees incurred by its customers
+   affected by the proposed abandonment of service as required by subsection
+   2705.6; and
+   
+   
+   
+   (e) 		The approval of the abandonment of service application would serve the
+   public interest.
+
+   2705.14. No CLEC shall abandon service in the District of Columbia without
+   Commission approval.  Upon receiving Commission approval, the applicant shall
+   void any existing interconnection agreements by informing the Commission and
+   any telecommunications service provider with which the applicant has signed an
+   interconnection agreement of the abandonment of service.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 48 DCR 4664 (May 25, 2001); as amended
+   by Final Rulemaking published at 51 DCR 10001 (October 29, 2004); as amended
+   by Final Rulemaking published at 52 DCR 724 (January 28, 2005); as amended by
+   Final Rulemaking published at 55 DCR 12144 (November 28, 2008); as amended by
+   Notice of Final Rulemaking published at 58 DCR 9020, 9023 (October 21, 2011).

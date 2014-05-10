@@ -1,0 +1,322 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 27-3399)
+
+3399.1. When used in this chapter, the following terms and phrases shall have
+   the meanings ascribed:
+   
+   
+   
+   Actual costs &#8211; amounts determined on the basis of costs incurred, as
+   distinguished from forecasted costs. Actual costs include standard costs
+   properly adjusted for applicable variances.
+   
+   
+   
+   Advance cost agreement &#8211; an agreement between the District and a
+   contractor concerning the treatment of special or unusual costs which are
+   expected to be incurred.
+   
+   
+   
+   Advertising costs &#8211; costs of advertising and directly associated costs
+   regardless of the medium employed, when the advertiser has control over the
+   form and content of what will appear, the media in which it will appear, and
+   when it will appear. Advertising media includes conventions, exhibits, free
+   goods, samples, magazines, newspapers, trade papers, direct mail, dealer
+   cards, window displays, outdoor advertising, and radio and television
+   programs.
+   
+   
+   
+   Allocate &#8211; to assign an item of cost or a group of items of cost to one
+   (1) or more cost objectives.
+   
+   
+   
+   Allowable costs &#8211; costs determined to be permissible based on
+   reasonableness, allocability, and generally accepted accounting principles and
+   practices appropriate to the particular circumstances.
+   
+   
+   
+   Bona fide employee &#8211; an employee who is employed in a specific position
+   for a specific purpose relating to promoting or securing business for the
+   contractor.
+   
+   
+   
+   Business unit &#8211; any segment of an organization or an entire business
+   organization that is not divided into segments.
+   
+   
+   
+   Consultant &#8211; a firm or individual with knowledge and special abilities
+   not generally available to an agency who renders services of a purely advisory
+   nature relating to governmental functions or agency administration and
+   management.
+   
+   
+   
+   Contingency costs &#8211; costs based on a possible future event or condition
+   arising from presently known or unknown causes, the outcome of which is not
+   determinable at the present time.
+   
+   
+   
+   Cost objective &#8211; a function, organizational subdivision, contract, or
+   other work unit for which cost data are desired and for which provision is
+   made to accumulate and measure the cost of processes, products, jobs, and
+   capitalized projects.
+   
+   
+   
+   Council &#8211; the Council of the District of Columbia.
+   
+   
+   
+   Deferred compensation &#8211; an award made by an employer to compensate an
+   employee in a future cost accounting period or periods for services rendered
+   in one (1) or more cost accounting periods before the date of the receipt of
+   compensation by the employee. This term does not include the amount of year
+   end accruals for salaries, wages, or bonuses that are to be paid within a
+   reasonable period of time after the end of a cost accounting period.
+   
+   
+   
+   Depreciation &#8211; a charge to current operations which distributes the cost
+   of a tangible capital asset, less estimated residual value, over the estimated
+   useful life of the asset in a systematic and logical manner. Useful life
+   refers to the prospective period of economic usefulness in a particular
+   contractor&#8217;s operations as distinguished from physical life, as
+   evidenced by the actual or estimated retirement and replacement practice of
+   the contractor.
+   
+   
+   
+   Direct cost &#8211; any cost that can be identified specifically with a
+   particular final cost objective or is incurred directly for a particular
+   contract.
+   
+   
+   
+   Directly associated cost &#8211; any cost which is generated solely as a
+   result of the incurrence of another cost, and which would not have been
+   incurred had the cost not been incurred.
+   
+   
+   
+   Director &#8211; the Director of the Office of Contracting and Procurement or
+   the District of Columbia Chief Procurement Officer.
+   
+   
+   
+   Established commercial or selling agency &#8211; a firm whose primary products
+   are activities designed to secure business for the contractor such as
+   technical, consulting, or demonstration services.
+   
+   
+   
+   Estimating costs &#8211; the process of forecasting a future result in terms
+   of cost based upon information available at the time.
+   
+   
+   
+   Expert &#8211; a person with excellent qualifications and a high degree of
+   attainment in a professional, scientific, technical, or other field, whose
+   knowledge and mastery of the principles, practices, problems, methods, and
+   techniques of his or her field or activity, or of a specialized area in the
+   field, are clearly superior to those usually possessed by ordinarily competent
+   persons in that activity, and whose attainment is such that he or she usually
+   is regarded as an authority or as a practitioner of unusual competence and
+   skill by other persons in the profession, occupation, or activity.
+   
+   
+   
+   Expressly unallowable cost &#8211; a particular item or type of cost which,
+   under the express provisions of an applicable law, regulation, or contract, is
+   specifically named and stated to be unallowable.
+   
+   
+   
+   Final cost objective &#8211; a cost objective that has allocated to it both
+   direct and indirect costs and, in the contractor&#8217;s accumulation system,
+   is one of the final accumulation points.
+   
+   
+   
+   Fiscal year &#8211; the accounting period for which annual financial
+   statements are regularly prepared.
+   
+   
+   
+   Fringe benefits &#8211; allowances and services provided by the contractor to
+   its employees as compensation in addition to regular wages and salaries.
+   
+   
+   
+   Indirect costs &#8211; any cost not directly identified with a single contract
+   but identified with two (2) or more final cost objectives or an intermediate
+   cost objective.
+   
+   
+   
+   Indirect cost pools &#8211; groupings of incurred costs identified with two
+   (2) or more cost objectives but not identified specifically with any final
+   cost objective.
+   
+   
+   
+   Insurance administration expenses &#8211; the contractor&#8217;s costs of
+   administering an insurance program which may include the cost of operating an
+   insurance or risk management department, processing claims, actuarial fees,
+   and service fees paid to insurance companies, trustees, or technical
+   consultants.
+   
+   
+   
+   Material costs &#8211; costs of items such as raw materials, parts,
+   sub-assemblies, components, and manufacturing supplies, whether purchased or
+   manufactured by the contractor, which may include such collateral items as
+   inbound transportation and intransit insurance.
+   
+   
+   
+   Normal cost &#8211; the annual cost attributable to years subsequent to a
+   particular valuation date under the actuarial cost method in use.
+   
+   
+   
+   Operating lease &#8211; the acquisition of real or personal property which is
+   considered normal property to the operations of the contractor by lease or
+   rental.
+   
+   
+   
+   Organization costs &#8211; costs such as incorporation fees and costs of
+   attorneys, accountants, brokers, promoters, organizers, management
+   consultants, and investment counselors, including employees of the contractor.
+   
+   
+   
+   Pension plan &#8211; a deferred compensation plan established and maintained
+   by one (1) or more employers to provide systematically for the payment of
+   benefits to plan participants after their retirements. The benefits are paid
+   for life or are payable for life at the option of the employees. Additional
+   benefits such as permanent and total disability, death payments, and
+   survivorship payments to beneficiaries of deceased employees may be an
+   integral part of a pension plan.
+   
+   
+   
+   Pension plan participant &#8211; any employee or former employee of an
+   employer, or any member or former member of an employee organization, who is
+   or may become eligible to receive a benefit from a pension plan that covers
+   employees of such employer or members of such organization and who have
+   satisfied the plan&#8217;s participation requirements. Beneficiaries receiving
+   benefits or who may be eligible to receive benefits are included in this term.
+   
+   
+   
+   Pre-contract costs &#8211; costs incurred before the effective date of the
+   contract directly pursuant to the negotiation and in anticipation of the
+   contract award when those costs are necessary to comply with the proposed
+   contract delivery schedule.
+   
+   
+   
+   Preparatory costs &#8211; an initial cost, such as those costs incurred for
+   initial plant rearrangement and alterations, management and personnel
+   organization, and production planning.
+   
+   
+   
+   Pricing &#8211; the process of establishing a reasonable amount or amounts to
+   be paid for goods or services.
+   
+   
+   
+   Profit center &#8211; the smallest organizationally independent segment of a
+   company charged by management with profit and loss responsibilities.
+   
+   
+   
+   Proposal &#8211; any offer or other submission used as a basis for pricing a
+   contract, contract modification, or termination settlement or for securing
+   payments thereunder.
+   
+   
+   
+   Rental costs &#8211; costs of renting or leasing real or personal property,
+   except automatic data processing equipment.
+   
+   
+   
+   Residual value &#8211; the proceeds, less removal and disposal costs, if any,
+   realized upon disposition of a tangible capital asset. It usually is measured
+   by the net proceeds from the sale or other disposition of the asset or its
+   fair market value if the asset is traded in on another asset. The estimated
+   residual value is a current forecast of the residual value.
+   
+   
+   
+   Selling costs &#8211; costs that arise in the marketing of the
+   contractor&#8217;s products and includes costs of sales promotions,
+   negotiation, liaison between District representatives and the
+   contractor&#8217;s personnel, and related activities.
+   
+   
+   
+   Service life &#8211; the period of usefulness of a tangible capital asset or
+   group of assets to its current owner. The period may be expressed in units of
+   time or output. The estimated service life of a tangible capital asset or
+   group of assets is a current forecast of its service life and is the period
+   over which depreciation cost is to be assigned.
+   
+   
+   
+   Special test equipment &#8211; single or multi-purpose integrated test units
+   engineered, designed, fabricated, or modified to accomplish special purpose
+   testing in performing a contract. It consists of items or assemblies of
+   equipment that are interconnected and interdependent so as to become a new
+   functional entity for special testing purposes. It does not include material,
+   special tooling, facilities, and plant equipment items used for general plant
+   testing purposes.
+   
+   
+   
+   Special tooling &#8211; jigs, dies, fixtures, molds, patterns, taps, gauges,
+   other equipment and manufacturing aids, all components of these items, and
+   replacement of these items, which are of such a specialized nature that,
+   without substantial modification or alteration, their use is limited to the
+   development or production of particular goods or parts thereof or to the
+   performance of particular services. It does not include material, special test
+   equipment, facilities, general or special machine tools, or similar capital
+   items.
+   
+   
+   
+   Standard cost &#8211; any cost computed with the use of pre-established
+   measures.
+   
+   
+   
+   Tangible capital asset &#8211; an asset that has physical substance, more than
+   minimal value, and is expected to be held by an enterprise for continued use
+   or possession beyond the current accounting period for the services it yields.
+   
+   
+   
+   Unallowable cost &#8211; any cost that, under the provisions of any pertinent
+   law, regulation, or contract, cannot be included in prices,
+   cost-reimbursements, or settlements under a District contract to which it is
+   allocable.
+   
+   
+   
+   Variance &#8211; the difference between a pre-established measure and an
+   actual measure.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 35 DCR 1679 (February 26, 1988).

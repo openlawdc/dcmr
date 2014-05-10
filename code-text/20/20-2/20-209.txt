@@ -1,0 +1,168 @@
+                                  DC REGULATIONS
+
+PERMIT REQUIREMENTS FOR NON-MAJOR STATIONARY SOURCES (MINOR NEW SOURCE REVIEW)
+(§ 20-209)
+
+209.1. Effective January 1, 2014, except as specified in § 209.2, the
+   requirements of this section are applicable to any source required to obtain a
+   permit under § 200 to construct a new stationary source, modify an existing
+   stationary source, or install or modify an air pollution control device on a
+   stationary source that results in collateral emission increases, for a project
+   that:
+   
+   
+   
+   (a)	Is not required to comply with the requirements of either § 204 or §
+   208; and
+   
+   
+   
+   (b)	Results in an increase of the potential to emit rate equal to or greater
+   than five tons per year (5 Tpy) from an individual unit of any of the
+   following:
+   
+   
+   
+   (1)	Total volatile organic compounds (VOCs);
+   
+   
+   
+   (2)	Nitrogen oxides (NOx);
+   
+   
+   
+   (3)	Sulfur dioxide (SO2);
+   
+   
+   
+   (4)	Particulate matter less than ten (10) microns in aerodynamic diameter
+   (PM10);
+   
+   
+   
+   (5)	Fine particulate matter less than two and a half (2.5) microns in
+   aerodynamic diameter (PM2.5); and
+   
+   
+   
+   (6)	An aggregate of any of the hazardous air pollutants (HAPs) listed in §
+   112(b) of the Clean Air Act.
+
+   209.2. Any source applying for a permit under § 200 not meeting the
+   applicability requirements specified in § 209.1 shall submit, with their
+   application, sufficient documentation to show that the proposed source does
+   not meet those applicability requirements.
+
+   209.3. Any source meeting the applicability requirements specified in § 209.1
+   shall, relative to each pollutant for which it meets the applicability
+   requirement, be controlled by operating emission control technologies or
+   pollution prevention methodologies that limit emissions to the atmosphere
+   meeting one (1) or more of the following requirements:
+   
+   
+   
+   (a)	The lowest achievable emission rate (LAER);
+   
+   
+   
+   (b)	The best available control technology (BACT);
+   
+   
+   
+   (c)	For an air contaminant that is a HAP, the requirements of a maximum
+   achievable control technology (MACT) or other standard resulting from a
+   residual risk determination promulgated under 40 C.F.R. part 63 or, where
+   applicable, a more stringent standard adopted under this title;
+   
+   
+   
+   (d)	An emission control technology or pollution prevention methodology
+   approved in advance by the Department for a similar source pursuant to this
+   section; or
+   
+   
+   
+   (e)	An emission control technology or pollution prevention methodology
+   approved by the Department, on a case-by-case basis, pursuant to § 209.4.
+
+   209.4. A case-by-case determination pursuant to § 209.3(e) shall be performed
+   by completing the following steps:
+   
+   
+   
+   (a)	Identify and evaluate a list of air pollution technologies and pollution
+   prevention methodologies that may be applied to the source including, but not
+   limited to, technologies and methodologies used for similar sources,
+   innovative control technologies, modification of the process or process
+   equipment, other pollution prevention measures, and combinations of the above
+   measures;
+   
+   
+   
+   (b)	Arrange the measures on the list in descending order of air pollution
+   control effectiveness; and
+   
+   
+   
+   (c)	Chose and propose the top-rated measure on the list not eliminated from
+   consideration as a result of one (1) of the following demonstrations:
+   
+   
+   
+   (1)	Where a demonstration can be and is made that this measure is technically
+   infeasible, based on physical, chemical, or engineering principles, and/or
+   technical difficulties that would prevent the successful application of the
+   measure;
+   
+   
+   
+   (2)	Where a demonstration can be and is made that this measure has adverse
+   environmental effects (for example effects on water or land, HAP emissions, or
+   increased environmental hazards) when compared with its air contaminant
+   emission reduction benefits, which would make use of this measure
+   unreasonable;
+   
+   
+   
+   (3)	Where a demonstration can be and is made that this measure should be
+   eliminated from consideration based on its calculated economic impacts using
+   the techniques in the latest edition of EPA’s Control Cost Manual, where the
+   total and incremental costs of the top measure are greater than the total and
+   incremental costs of the proposed measure(s) and that the extra costs, when
+   compared with the air contaminant emission reduction benefits resulting from
+   the top measure would make use of the top measure unreasonable; or
+   
+   
+   
+   (4)	Where a demonstration can be and is made that this measure should be
+   eliminated from consideration based on its energy impacts such as
+   establishment that it relies on fuels that are not reliably available; or that
+   the energy consumed by the top measure is greater than that consumed by the
+   proposed measure(s), and that the extra energy used, when compared with the
+   air contaminant emission reduction benefits resulting from the top measure
+   would make use of that measure unreasonable.
+
+   209.5. Any application submitted pursuant to the requirements of this section
+   shall contain the following:
+   
+   
+   
+   (a)	The control technology or pollution prevention methodology proposed to be
+   installed and operated to meet the requirements of § 209.3;
+   
+   
+   
+   (b)	The list, if this method was chosen, generated pursuant to § 209.4;
+   
+   
+   
+   (c)	Any demonstration(s) performed pursuant to § 209.4(c); and
+   
+   
+   
+   (d)	Any additional information that the Department requests in order to
+   complete an evaluation of the proposal.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 59 DCR 13044 (November 16, 2012).

@@ -1,0 +1,139 @@
+                                  DC REGULATIONS
+
+BILLING ERROR NOTIFICATION (§ 15-3706)
+
+3706.1. The natural gas utility and all natural gas service providers must
+   inform OE and  OPC when a billing error has affected 100 or more customers or
+   when the number of affected customers is equal to or more than two (2) percent
+   of the natural gas utility’s or natural gas service provider’s customer
+   base, whichever is fewer. The natural gas utility and natural gas service
+   providers with a customer base of fewer than 100 customers shall report errors
+   when two (2) or more customers are affected.
+
+   3706.2. The natural gas utility and all natural gas service providers shall
+   submit an initial billing error notification within one (1) business day of
+   discovering or being notified of the error.  After submitting the initial
+   notification, the natural gas utility and natural gas service providers must
+   submit a follow-up written report within 14 calendar days and a final written
+   report within 60 calendar days.
+
+   3706.3. The initial billing error notification shall be sent via e-mail to OE
+   and OPC.
+
+   3706.4. The initial billing error notification shall contain the following
+   information:
+   
+   
+   
+   	(a)	Type(s) of billing error(s) found;
+   
+   
+   
+   		(b)	Date and time the billing error(s) was discovered;
+   
+   
+   
+   		(c) 	How the natural gas utility service provider discovered the
+   					error(s); and
+   
+   
+   
+   		(d)	Approximate number of customers affected.
+
+   3706.5. The follow-up written report shall be filed with the Commission, with
+   a copy provided to OPC, and shall contain the following information:
+   
+   
+   
+   		(a)	Type(s) of billing error(s);
+   
+   
+   
+   		(b)	Date and time of the billing error(s);
+   
+   
+   
+   		(c)	Number of customers affected;
+   
+   
+   
+   		(d)	Cause of the error and status of any and all corrective action(s)
+   				taken; and
+   
+   
+   
+   (e)	Timeline for completing any and all other required corrective action(s)
+   which must include the provision of refunds and/or credits, no later than 60
+   days after the billing error(s) was discovered, as necessary to correct the
+   billing error(s).
+
+   3706.6. The final written report shall be filed with the Commission, with a
+   copy provided to OPC, and shall contain the following information:
+   
+   
+   
+   		(a)	Type(s) of billing error(s);
+   
+   
+   
+   		(b)	Date and time of billing error(s);
+   
+   
+   
+   		(c)	Number of customers affected and the dollar amount involved;
+   
+   
+   
+   		(d)	Duration of the billing error(s);
+   
+   
+   
+   		(e)	Corrective action(s) and preventative measure(s) taken; and
+   
+   
+   
+   		(f)	Lessons learned, if any.
+
+   3706.7. Upon receipt of the final written report, the Commission shall
+   determine whether any further investigation is necessary.
+
+   3706.8. No later than 60 days after the date the natural gas utility or
+   natural gas supplier discovers or is notified of the billing error(s), it
+   shall notify each affected customer of the following:
+   
+   
+   
+   (a)	The nature of the error;
+   
+   
+   
+   (b)	The amount by which the customer&#8217;s previous bill(s) were   
+   inaccurate; and
+   
+   
+   
+   (c)	If appropriate, the steps the natural gas utility or natural gas   service
+   provider will take to ensure that the customer receives a full refund if
+   overbilled or make payment if underbilled no later than the date specified in
+   Section 3706.5(e).
+   
+   
+   
+   The natural gas utility shall inform customers by letter or bill insert to
+   describe the nature of the billing error and the corrective action that the
+   company intends to implement.  If a refund or outstanding balance appears on a
+   customer’s billing statement, the gas utility shall provide a clear
+   description and explanation of the reason(s) for the error.
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Notice of Final Rulemaking published at 56 DCR 7646 (September 25,
+   2009), incorporating text of Proposed Rulemaking published at 56 DCR 1827,
+   1845 (February 27, 2009); as amended by Final Rulemaking published at 56 DCR
+   9562 (December 25, 2009), incorporating text of Proposed Rulemaking published
+   at 56 DCR 8599, 8600 (October 30, 2009); as amended by Notice of Final
+   Rulemaking published at 59 DCR 1601 (February 24, 2012).

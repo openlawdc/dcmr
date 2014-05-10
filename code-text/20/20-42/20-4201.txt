@@ -1,0 +1,551 @@
+                                  DC REGULATIONS
+
+RULES OF INTERPRETATION FOR FEDERAL REGULATIONS INCORPORATED BY REFERENCE (§
+20-4201)
+
+4201.1. The Hazardous Waste Management Regulations in 20 DCMR §§ 4260
+   through 4279 incorporate by reference the federal Resource Conservation and
+   Recovery Act regulations in 40 CFR Parts 260 through 266, 268, 270, 273, and
+   279, as well as the provisions of 40 CFR Part 124 pertaining to RCRA permits
+   (hereafter collectively referred to as the &#8220;RCRA regulations&#8221;),
+   promulgated by the United States Environmental Protection Agency (EPA).
+
+   4201.2. The incorporation by reference of the RCRA regulations in 20 DCMR §§
+   4260 through 4279 is subject to the general modifications in §§ 4200 through
+   4206, as well as the corrections in Appendix A to this chapter.
+
+   4201.3. Unless specified otherwise, whenever a provision in the Hazardous
+   Waste Management Regulations refers to Volume 40 of the Code of Federal
+   Regulations (40 CFR), the provision shall refer to the most recently updated
+   Volume 40 in publication and any amendments thereto.
+
+   4201.4. Unless specified otherwise, whenever a provision in the Hazardous
+   Waste Management Regulations refers to a volume of the Code of Federal
+   Regulations other than Volume 40, the provision shall refer to the most
+   recently updated volumes in publication and any amendments thereto.
+
+   4201.5. Federal regulations that are incorporated by reference in the
+   Hazardous Waste Management Regulations, or that are cross-referenced in the
+   federal regulations that are incorporated by reference, include any District
+   modifications to the federal regulations, such that whenever a District analog
+   to a federal regulation is more stringent, broader, or different than the
+   federal regulation, the District analog shall be substituted for the federal
+   regulation.
+
+   4201.6. The following table shows the correspondence between the RCRA
+   regulations and the Hazardous Waste Management Regulations:
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Federal Regulation
+   
+   
+   
+   
+   
+   
+   
+   Subject Matter
+   
+   
+   
+   
+   
+   
+   
+   District Regulation
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 260
+   
+   
+   
+   
+   
+   
+   
+   Hazardous Waste Management
+   
+   
+   
+   
+   
+   System: General Provisions
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4260
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 261
+   
+   
+   
+   
+   
+   
+   
+   Identification and Listing of
+   
+   
+   
+   
+   
+   Hazardous Waste
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4261
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 262
+   
+   
+   
+   
+   
+   
+   
+   Standards Applicable to Generators
+   
+   
+   
+   
+   
+   of Hazardous Waste
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4262
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 263
+   
+   
+   
+   
+   
+   
+   
+   Standards Applicable to Transporters of Hazardous Waste
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4263
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 264
+   
+   
+   
+   
+   
+   
+   
+   Standards for Owners and Operators of Hazardous Waste Treatment, Storage, and
+   Disposal Facilities
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4264
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 265
+   
+   
+   
+   
+   
+   
+   
+   Interim Status Standards for Owners and Operators of Hazardous Waste
+   Treatment, Storage, and Disposal Facilities
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4265
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 266
+   
+   
+   
+   
+   
+   
+   
+   Standards for the Management of Specific Hazardous Wastes and Specific Types
+   of Hazardous Waste Management Facilities
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4266
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 268
+   
+   
+   
+   
+   
+   
+   
+   Land Disposal Restrictions
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4268
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 270
+   
+   
+   
+   
+   
+   
+   
+   Hazardous Waste Permit Program
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4270
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 124
+   
+   
+   
+   
+   
+   
+   
+   Decision-Making Procedures for Hazardous Waste Permit Program
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4271
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 273
+   
+   
+   
+   
+   
+   
+   
+   Standards for Universal Waste Management
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4273
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   40 CFR Part 279
+   
+   
+   
+   
+   
+   
+   
+   Standards for the Management of Used Oil
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR § 4279
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   N/A
+   
+   
+   
+   
+   
+   
+   
+   Inspections, Enforcement, and
+   
+   
+   
+   
+   
+   Fee Schedule
+   
+   
+   
+   
+   
+   
+   
+   20 DCMR chapter 43
+
+   4201.7. In the incorporation by reference of the RCRA regulations, for all
+   instances in which the RCRA regulations contain a cross-reference to 40 CFR
+   Parts 124, 260 through 266, 268, 270, 273, or 279, the federal cross-reference
+   shall be replaced with the corresponding section in the District regulations
+   shown in the table in 20 DCMR § 4201.6.
+
+   4201.8. For purposes of interfacing with the RCRA regulations, the following
+   terms apply, unless specified otherwise or unless the context requires
+   otherwise:
+   
+   
+   
+   (a)	Except in those federal provisions that are not delegable by law, or that
+   have not been delegated by EPA, to the District of Columbia, the term
+   &#8220;Director&#8221; shall supplant the terms &#8220;Administrator,&#8221;
+   &#8220;Assistant Administrator,&#8221; &#8220;Assistant Administrator for
+   Solid Waste and Emergency Response,&#8221; &#8220;EPA Administrator,&#8221;
+   &#8220;Regional Administrator,&#8221; &#8220;Regional Administrator for the
+   Region in which the generator is located,&#8221; and &#8220;State
+   Director&#8221;;
+   
+   
+   
+   (b)	The terms &#8220;District of Columbia Department of the Environment&#8221;
+   or &#8220;Department&#8221; shall supplant the terms &#8220;United States
+   Environmental Protection Agency,&#8221; &#8220;U.S. Environmental Protection
+   Agency,&#8221; &#8220;EPA,&#8221; &#8220;Agency,&#8221; &#8220;EPA
+   Headquarters,&#8221; &#8220;EPA Regions,&#8221; &#8220;Regional Office,&#8221;
+   &#8220;EPA Regional Office,&#8221; and &#8220;appropriate Regional EPA
+   Office,&#8221; except as follows:
+   
+   
+   
+   (1)	In those federal provisions that are not delegable by law, or that have
+   not been delegated by EPA, to the District, the terms &#8220;District of
+   Columbia Department of the Environment&#8221; and &#8220;Department&#8221;
+   shall not be substituted for the federal terms;
+   
+   
+   
+   (2)	The abbreviation &#8220;EPA,&#8221; when used as an adjective in the terms
+   &#8220;EPA Acknowledgement of Consent,&#8221; &#8220;EPA form,&#8221;
+   &#8220;EPA guidance,&#8221; &#8220;EPA hazardous waste number,&#8221;
+   &#8220;EPA identification number,&#8221; &#8220;EPA publication,&#8221;
+   &#8220;EPA Region,&#8221; &#8220;EPA test methods,&#8221; or similar phrases,
+   shall not be supplanted and shall remain as in the Code of Federal
+   Regulations; and
+   
+   
+   
+   (3)	The terms &#8220;U.S. Environmental Protection Agency&#8221; or
+   &#8220;Environmental Protection Agency&#8221; shall not be supplanted when it
+   appears in a mailing or physical address;
+   
+   
+   
+   (c)	The terms &#8220;Department of Transportation&#8221; and &#8220;DOT&#8221;
+   shall mean the United States Department of Transportation;
+   
+   
+   
+   (d)	The term &#8220;notification requirements of § 3010 of RCRA&#8221; shall
+   mean the requirements, under § 3010 of RCRA, 42 USC § 6930, to notify the
+   Administrator or states having an EPA-authorized RCRA Subtitle C program,
+   including the District of Columbia, of the person&#8217;s regulated waste
+   activities (hazardous waste activities, universal waste activities, and used
+   oil management activities). The EPA-authorized state where the activity takes
+   place is the primary point of contact for submission of notifications;
+   
+   
+   
+   (e)	The term &#8220;RCRA permit,&#8221; &#8220;permit issued under subtitle C
+   of RCRA,&#8221; or &#8220;permit issued under RCRA § 3005&#8243; shall mean a
+   permit, as defined in 40 CFR § 270.2, issued by the Department or EPA to
+   implement the provisions of 40 CFR Parts 270, 271, and 124, including a
+   hazardous waste permit issued by the Department pursuant to 20 DCMR § 4270;
+   
+   
+   
+   (f)	The term &#8220;revocation and reissuance&#8221; in the federal regulation
+   is equivalent to the &#8220;suspension&#8221; and granting of a new permit
+   under §§ 4 and 10 of the District of Columbia Hazardous Waste Management Act
+   of 1977, effective March 28, 1978, as amended (D.C. Law 2-64; D.C. Official
+   Code §§ 8-1303 and 8-1309 (2001)), and the Hazardous Waste Management
+   Regulations; and
+   
+   
+   
+   (g)	The term &#8220;termination&#8221; in the RCRA regulations is equivalent
+   to the term &#8220;revocation&#8221; in §§ 4 and 10 of the District of
+   Columbia Hazardous Waste Management Act of 1977, D.C. Official Code §§
+   8-1303 and 8-1309, and the Hazardous Waste Management Regulations.
+
+   4201.9. The incorporation by reference of the RCRA regulations excludes all
+   site-specific provisions pertaining to Project XL (Excellence in Leadership)
+   facilities located in other states.
+   
+   
+   
+   	NOTE: The Code of Federal Regulations may be viewed online at
+   http://www.gpoaccess.gov or at certain public libraries; or purchased by
+   calling (202) 512-1800 or toll-free (866) 512-1800; by writing to the
+   Superintendent of Documents, U.S. Government Printing Office, attn: New
+   Orders, P.O. Box 371954, Pittsburgh, PA 15250-7954; or online, at
+   http://bookstore.gpo.gov.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 52 DCR 9653 (October 28, 2005); as
+   amended by Final Rulemaking published at 54 DCR 5586 (June 8, 2007).

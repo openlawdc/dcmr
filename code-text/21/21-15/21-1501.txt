@@ -1,0 +1,699 @@
+                                  DC REGULATIONS
+
+DISCHARGE STANDARDS AND SEWER USE REQUIREMENTS (§ 21-1501)
+
+It shall be unlawful to discharge into the wastewater system of the District
+except in accordance with this chapter.
+
+
+
+
+
+General Prohibitions. A User shall not introduce into the District’s
+wastewater system any pollutant which causes pass through or interference. These
+general prohibitions and the specific prohibitions in § 1501.4 apply to any
+User introducing pollutants into the District’s wastewater system whether or
+not the User is subject to National Pretreatment Standards or National, State,
+District or local pretreatment standards or requirements.
+
+
+
+
+
+
+
+Affirmative Defenses. A User shall have an affirmative defense in any action
+brought against it alleging a violation of the general prohibitions established
+in § 1501.2 and the specific prohibitions in § 1501.4(c)-(g) where the User
+can demonstrate that:
+
+
+
+(a) 	It did not know or have reason to know that its discharge, alone or in
+conjunction with a discharge or discharges from other sources, would cause pass
+through or interference; and
+
+
+
+(b)	One (1) of the following conditions:
+
+
+
+
+
+
+
+A local limit designed to prevent pass through and/or interference, as the case
+may be, was developed in accordance with paragraph 40 C.F.R. § 403.5(c) for
+each pollutant in the User&#8217;s discharge that caused pass through or
+interference, and the User was in compliance with each such local limit directly
+prior to and during the pass through or interference; or
+
+
+
+
+
+
+
+If a local limit designed to prevent pass through and/or interference, as the
+case may be, has not been developed in accordance with 40 C.F.R. § 403.5(c) for
+the pollutant(s) that caused the pass through or interference, the User&#8217;s
+discharge directly prior to and during the pass through or interference did not
+change substantially in nature or constituents from the User&#8217;s prior
+discharge activity when WASA was regularly in compliance with WASA&#8217;s
+National Pollutant Discharge Elimination System (NPDES) permit requirements and,
+in the case of interference, applicable requirements for beneficial reuse of
+biosolids.
+
+
+
+
+
+
+
+Specific Prohibitions: No User shall introduce the following pollutants into the
+District’s wastewater system:
+
+
+
+(a) 	Pollutants which create a fire or explosion hazard in the District&#8217;s
+wastewater system, including, but not limited to:
+
+
+
+
+
+
+
+Waste streams with a closed-cup flashpoint of less than one hundred forty
+degrees Fahrenheit (140° F) or  sixty degrees Centigrade (60° C) using test
+methods specified in 40 C.F.R. Chapter I, Subchapter N, Part 261.21;
+
+
+
+
+
+
+
+Waste streams causing two (2) readings on an explosion hazard meter at the point
+of discharge into the District’s wastewater system, or at any point in the
+District’s wastewater system, of more than five percent (5%) or any single
+reading over ten percent (10%) of the Lower Explosive Limit of the meter;
+
+
+
+
+
+
+
+Any liquids, solids, or gases, which by reason of their nature or quantity are,
+or may be, sufficient either alone or by interaction with other substances to
+create fire or explosion or to injure in any other way the wastewater system or
+the process or operation and maintenance of the wastewater system;
+
+
+
+
+
+
+
+Gasoline;
+
+
+
+
+
+
+
+Kerosene;
+
+
+
+
+
+
+
+Naphtha;
+
+
+
+
+
+
+
+Ethers;
+
+
+
+
+
+
+
+Alcohols;
+
+
+
+
+
+
+
+Ketones;
+
+
+
+
+
+
+
+Aldehydes;
+
+
+
+
+
+
+
+Peroxides;
+
+
+
+
+
+
+
+Chlorates;
+
+
+
+
+
+
+
+Perchlorates;
+
+
+
+
+
+
+
+Bromates;
+
+
+
+
+
+
+
+Carbides;
+
+
+
+
+
+
+
+Hydrides; and
+
+
+
+
+
+
+
+Sulfides;
+
+
+
+(b)	Pollutants which have a pH of less than five (5.0) or more than ten (10.0),
+except when a waiver to the upper pH limit is authorized in writing by WASA, or
+which have any corrosive property capable of damaging or creating a hazard to
+structures, equipment, processes, or personnel of the District&#8217;s
+wastewater system, including, but not limited to, acids, sulfides, concentrated
+chloride and fluoride compounds, and substances which will react with water to
+form acidic or alkaline products;
+
+(c) 	Solid or viscous substances in amounts which may cause, or contribute to
+obstruction of the flow in a sewer or otherwise interfere with the operation of
+the District’s wastewater system, including, but not limited to:
+
+
+
+
+
+
+
+Substances which may solidify or become viscous at temperatures above thirty-two
+degrees Fahrenheit (32° F) or zero degrees Centigrade (0° C);
+
+
+
+
+
+
+
+Solids having any linear dimensions greater than one inch (1 in.);
+
+
+
+
+
+
+
+Fats, oils, and grease;
+
+
+
+
+
+
+
+Incompletely shredded garbage;
+
+
+
+
+
+
+
+Animal remains;
+
+
+
+
+
+
+
+Blood;
+
+
+
+
+
+
+
+Feathers;
+
+
+
+
+
+
+
+Ashes;
+
+
+
+
+
+
+
+Cinders;
+
+
+
+
+
+
+
+Sand;
+
+
+
+
+
+
+
+Spent lime;
+
+
+
+
+
+
+
+Stone or marble dust;
+
+
+
+
+
+
+
+Metal;
+
+
+
+
+
+
+
+Glass;
+
+
+
+
+
+
+
+Straw;
+
+
+
+
+
+
+
+Shavings;
+
+
+
+
+
+
+
+Grass clippings;
+
+
+
+
+
+
+
+Rags;
+
+
+
+
+
+
+
+Spent grains;
+
+
+
+
+
+
+
+Spent hops;
+
+
+
+
+
+
+
+Waste paper;
+
+
+
+
+
+
+
+Wood;
+
+
+
+
+
+
+
+Plastic;
+
+
+
+
+
+
+
+Tar;
+
+
+
+
+
+
+
+Asphalt residues;
+
+
+
+
+
+
+
+Residues from refining or processing of fuel or lubricating oil;
+
+
+
+
+
+
+
+Mud;
+
+
+
+
+
+
+
+Glass grinding; and
+
+
+
+
+
+
+
+Polishing wastes;
+
+
+
+(d)	Any pollutant, including, but not limited to oxygen demanding pollutants,
+released in the discharge at a flow rate, or concentration, or a combination of
+both, which causes interference with or compromises the structural integrity of 
+the District&#8217;s wastewater system;
+
+
+
+(e)	Any wastewater with heat in such amounts as will inhibit the biological
+activity of processes in the District&#8217;s wastewater system resulting in
+interference. In no case shall wastewater be discharged by a User in
+temperatures in excess of one hundred forty degrees Fahrenheit (140° F) or
+sixty degrees Centigrade (60° C), nor shall wastewater be discharged which
+causes individually or in combination with other wastewater, the influent at the
+District&#8217;s wastewater treatment plant to have a temperature exceeding one
+hundred four degrees Fahrenheit (104° F) or forty degrees Centigrade (40° C),
+except where a variance from the one hundred forty degrees Fahrenheit (140° F)
+or sixty degrees Centigrade (60° C) discharge limit is authorized in writing by
+WASA;
+
+
+
+(f)	Any wastewater containing petroleum oil, non-biodegradable cutting oil, or
+products of mineral oil origin in amounts that will cause pass through or
+interference;
+
+
+
+(g)	Any wastewater containing pollutants which result in the presence of toxic,
+noxious or malodorous liquids, solids, gases, vapors, or fumes within the
+District’s wastewater system which alone or in interaction with other wastes,
+are capable of creating a public nuisance or hazard to humans or animals, are
+sufficient to cause acute worker health and safety problems, or are sufficient
+to cause interference or pass through;
+
+
+
+(h)	Any wastewater of objectionable color or tint not removed in the treatment
+process, including, but not limited to, dye wastes and vegetable tanning wastes;
+
+
+
+
+
+
+
+Any trucked or hauled pollutants, except at discharge points that WASA
+designates;
+
+
+
+(j)	Wastewater containing any radioactive wastes or isotopes of such half-life
+or concentration as may exceed limits that WASA establishes or applicable State
+or National standards, cause pass through or interference or otherwise adversely
+impact the District’s wastewater system or cause or contribute to pollution;
+
+
+
+(k)	Unless WASA specifically authorizes any substance including, but not limited
+to:
+
+
+
+
+
+
+
+Septic tank sludge;
+
+
+
+
+
+
+
+Restaurant grease;
+
+
+
+
+
+
+
+Waste from a fuel service station;
+
+
+
+
+
+
+
+Waste from a marine holding tank; and
+
+
+
+
+
+
+
+Waste from a portable toilet;
+
+
+
+(l)	Sludges, screenings, or other residues from the pretreatment of industrial
+wastes;
+
+
+
+(m)	Medical or infectious wastes except as WASA specifically authorizes in
+writing;
+
+
+
+(n)	Wastewater causing, alone or in conjunction with other sources, the effluent
+from Blue Plains to fail toxicity tests;
+
+
+
+(o)	Detergents, surface-active agents, or other substances which might cause
+excessive foaming in the District’s wastewater system;
+
+
+
+
+
+
+
+Any waste that if otherwise disposed of would be a hazardous waste, unless
+specifically authorized in writing by WASA; or
+
+
+
+
+
+
+
+Any substance which, alone or in conjunction with a discharge or discharges from
+other sources, causes or may cause, or contributes to, a violation of any
+requirement of the Blue Plains Title V permit issued pursuant to the Clean Air
+Act.
+
+
+
+
+
+
+
+
+
+Pharmaceutical waste shall not be discharged to the District’s wastewater
+system if they contain materials in amounts that will contribute to or result in
+wastewater concentrations that cause or contribute to pass through or
+interference.
+
+
+
+
+
+
+
+Health care facilities located in the District of Columbia shall not discharge
+pharmaceutical products or pharmaceutical wastes into the District’s
+wastewater system except in accordance with District laws and regulations.
+
+
+
+
+
+
+
+Excreta from individuals undergoing medical diagnosis or therapy with
+radioactive material shall be exempt from any limitations contained in this
+chapter.
+
+
+
+
+
+
+
+The following shall apply to discharges into the wastewater system:
+
+
+
+(a) 	No User shall discharge into the wastewater system arsenic, cadmium,
+copper, lead, mercury, molybdenum, nickel, silver, zinc, cyanide, oil and
+grease, or Polychlorinated Biphenyls (PCBs) in concentrations greater than those
+listed in Table I of this subsection;
+
+
+
+TABLE I
+
+
+
+SUBSTANCE
+
+DAILY MAXIMUM CONCENTRATION, mg/L
+
+
+
+Arsenic (T)
+
+0.23
+
+
+
+Cadmium (T)
+
+0.07
+
+
+
+Copper (T)
+
+2.3
+
+
+
+Lead (T)
+
+1.0
+
+
+
+Mercury (T)

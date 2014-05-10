@@ -1,0 +1,144 @@
+                                  DC REGULATIONS
+
+DEDUCTIONS WHEN INCOME IS APPORTIONABLE OR EXEMPT (§ 9-123)
+
+123.1. No deductions shall be allowed for expenses applicable to any income
+   not subject to or exempt from taxation under the Act.
+
+   123.2. Where part of any income is apportioned to the District, the deductions
+   applicable to that income and allowable as such under § 3(a) of Title 3 of
+   the Act shall be apportioned on the same basis as that used to apportion the
+   income, unless, in the opinion of the Deputy Chief Financial Officer, those
+   deductions should be allocated in whole or in part.
+
+   123.3. In the case of corporations, unincorporated businesses, and financial
+   institutions, the deductions provided for in § 3(a) of Title 3 shall be
+   allowable only to the extent that they are connected with income fairly
+   attributable to the trade of business carried on or engaged in within the
+   District and from District sources.
+
+   123.4. In the context of this section, interest expenses of a corporation,
+   financial institution, or unincorporated business shall be reduced by the
+   amount that the ratio of the average value of the assets producing nontaxable
+   income bears to the average value of the total assets of the corporation,
+   financial institution or unincorporated business.
+
+   123.5. Average values of assets shall be computed by one of the following
+   methods:
+   
+   
+   
+   (a)	By adding the values at the beginning and end of a taxable year and
+   dividing the result by 2;
+   
+   
+   
+   (b)	By using an average daily balance; or
+   
+   
+   
+   (c)	Any other method of computation the taxpayer can support with adequate
+   records that clearly reflect the average value of assets.
+   
+   
+   
+   Example:
+   
+   Average Value of Assets Producing Nontaxable Income
+   
+   
+   
+   $ 150,000
+   
+   
+   
+   Average Value of Total Assets
+   
+   
+   
+   1,500,000
+   
+   
+   
+   Interest Expenses
+   
+   
+   
+   400,000
+   
+   
+   
+   Interest Expenses Not Allowed
+   
+   
+   
+   
+   
+   
+   
+   $    150,000
+   
+   1,500,000
+   
+   
+   
+   ×
+   
+   
+   
+   $ 400,000
+   
+   
+   
+   $   40,000
+   
+   
+   
+   Interest Expenses Allowable
+   
+   
+   
+   $ 360,000
+
+   123.6. Administrative expense (such as salaries for officers or employees
+   whose duties include the management of or investing securities, the income
+   from which is not subject to taxation under the Act), shall be apportioned or
+   allocated in a manner that reflects that portion of salaries attributable to
+   taxable and nontaxable activities.
+   
+   
+   
+   Example:
+   
+   Officer and Employee Salaries
+   
+   $ 200,000
+   
+   
+   
+   Portion of working hours attributable to activities not taxable
+   
+   2%
+   
+   
+   
+   Salary expense required to be allocated to nontaxable activities (2% ×$
+   200.000)
+   
+   $ 4,000
+   
+   
+   
+   Salary expense apportionable to taxable activities
+   
+   $ 196,000
+   
+   
+   
+   
+   
+   	SOURCE: Commissioners&#8217; Order 56-1431 effective July 24, 1956, 16 DCRR
+   § 309.6: as amended by Final Rulemaking published 28 DCR 5393 (December 18,
+   1981), incorporating text of Proposed Rulemaking published at 28 DCR 4112
+   (September 18, 1981); and by Final Rulemaking published at 34 DCR 3846 (June
+   12, 1987).

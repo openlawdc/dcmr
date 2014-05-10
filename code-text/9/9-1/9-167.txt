@@ -1,0 +1,89 @@
+                                  DC REGULATIONS
+
+COMBINED REPORTING[COLON] TAXABLE YEAR; PART-YEAR MEMBERS (§ 9-167)
+
+167.1. Taxable year of the combined group. The combined group’s taxable year
+   is determined as follows:
+   
+   
+   
+   (a)	If two (2) or more members of a group file a federal consolidated return,
+   the group’s taxable year is the taxable year of the federal consolidated
+   group; and
+   
+   
+   
+   (b)	In all other cases, the group’s taxable year shall be the taxable year
+   of the designated agent.
+
+   167.2. 52 to 53 week tax years.  Where a member files federal income tax
+   returns on the basis of an annual period which varies from fifty-two (52) to
+   fifty-three (53) weeks, its taxable year shall be treated as beginning with
+   the first day of the calendar month beginning nearest to the first day of such
+   taxable year or ending with the last day of the calendar month ending nearest
+   to the last day of such taxable year.
+
+   167.3. Members with different taxable years. If the taxable year of a combined
+   group member differs from the taxable year of the combined group, the
+   designated agent shall include that member&#8217;s net income or loss and
+   apportionment factors in the combined report by using the pro rata method;
+   however the Chief Financial Officer may require use of the interim closing
+   method in certain instances.
+
+   167.4. Pro rata method.  Under the pro rata method, the income and
+   apportionment data of the member as adjusted to reflect the determination of
+   income under District law is assigned to the respective portion of the
+   combined group&#8217;s taxable year based on the ratio of months in common
+   with the tax year of the combined group.
+   
+   
+   
+   (a)	The income and apportionment data from the member&#8217;s recomputed
+   taxable years is then combined with the income and apportionment data of the
+   taxable year of the combined group, along with the income and apportionment
+   data of other members of the combined group for the same period, similarly
+   recomputed if necessary.  The combined group&#8217;s taxable income is then
+   apportioned to each of the taxable members of the combined group.
+   
+   
+   
+   (b)	In the event that the pro rata method requires the determination of income
+   and apportionment data of a member whose taxable year has not yet closed, and
+   the information cannot be obtained in time for the other members to file an
+   accurate return, the income and apportionment data for that period shall be
+   estimated based on available information.  If the use of actual income and
+   apportionment data results in a material misstatement of income apportioned to
+   the District by the combined group, the taxpayer members must file an amended
+   return to reflect the change.
+   
+   
+   
+   (c)	Material misstatement.  For the purpose of determining whether a
+   re-determination of income made with respect to the pro rata method results in
+   a material misstatement of income apportioned to the District by the combined
+   group, it is presumed that there is such material misstatement where the
+   aggregate tax liability of the combined group members that filed returns based
+   on a pro rata estimate is found to have understated the aggregate correct
+   liability for such members by the greater of ten thousand dollars ($10,000) or
+   ten percent (10%) or, where the change in the apportioned group income for any
+   one taxpayer member of the group increases or decreases by more than one
+   hundred thousand dollars ($100,000).
+
+   167.5. The pro-rata method shall be used in each subsequent taxable year
+   unless the interim closing method is required.
+
+   167.6. Part-year members.  If, during a combined group&#8217;s taxable year, a
+   member ceases to be a member of the combined group or a new person becomes a
+   member, the designated agent shall include that person&#8217;s items
+   attributable to the portion of the taxable year that the person was a member
+   in the combined report covering the combined group&#8217;s entire taxable
+   year.  For the portion of the taxable year when the person was not a member of
+   the combined group, the person shall file a separate return or file in the
+   combined report of another combined group, as applicable.
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 59 DCR 10875, 10892 (September 14,
+   2012).

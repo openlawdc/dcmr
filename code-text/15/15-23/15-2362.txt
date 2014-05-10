@@ -1,0 +1,28 @@
+                                  DC REGULATIONS
+
+LEAK TESTS (§ 15-2362)
+
+2362.1. The meter shall not leak when subjected to pressure and shall be
+   checked for leaks in the following manner:
+   
+   (a)	Immersion;
+   
+   (b)	Soap test; or
+   
+   (c)	A pressure drop test of a type acceptable to the Commission&#8217;s Office
+   of Engineering.
+
+   2362.2. Tinned steel case meters shall be subjected to an internal pressure of
+   at least two pounds (2 lbs.) per square inch gauge (psig) when testing for
+   leaks.
+
+   2362.3. Iron or aluminum case meters shall be tested at a pressure at least
+   fifty percent (50%) above operating pressure. The meters may be sample tested
+   in accordance with the plan described in § 2360.11. If one (1) or more meters
+   in the sample is found to leak, additional testing shall be done as described
+   in § 2360.11.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 35 DCR 7938, 7946 (November 4, 1988); as
+   amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).

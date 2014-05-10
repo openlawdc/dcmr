@@ -1,0 +1,23 @@
+                                  DC REGULATIONS
+
+SOUND LEVEL METER CALIBRATION (§ 20-2902)
+
+2902.1. A battery check shall be performed immediately before and after a
+   series of measurements at each test site.
+
+   2902.2. An external calibration shall be made immediately before a series of
+   measurements at each test site and, if necessary, the meter shall be adjusted
+   to read within two tenths (0.2) dB(A) of the level specified by the
+   calibration unit.
+
+   2902.3. Measurements may be assumed to be valid if a calibration check after a
+   series of measurements agrees to within five tenths (0.5) dB(A), otherwise
+   measurements shall not be used.
+
+   2902.4. Calibration checks also may be made immediately after the series of
+   measurements and at least one (1) time per hour during the measurement series
+   to ensure continuing accuracy of the equipment.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 26 DCR 1499, 1501 (September 28, 1979).

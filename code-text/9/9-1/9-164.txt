@@ -1,0 +1,205 @@
+                                  DC REGULATIONS
+
+COMBINED REPORTING[COLON] COMBINING SPECIAL APPORTIONMENT FORMULAS (§ 9-164)
+
+164.1. Combined groups which include some members which are required to use
+   the four (4)-factor apportionment formula and other members which are required
+   to use a special apportionment method are subject to apportionment as
+   described below:
+   
+   
+   
+   (a)  	Combined group members who use the four (4)-factor formula and those
+   that use special apportionment methods for purposes of allocation and
+   apportionment shall prepare a federal consolidated pro forma return consisting
+   of all combined group members, including the elimination of all intercompany
+   transactions, regardless of whether between or among combined group members
+   who use the four (4)-factor formula and/or those that use special
+   apportionment formulas;
+   
+   
+   
+   (b)  	Each member shall separately compute its District apportionment factor
+   numerators, determine its District apportionment factor based on the group’s
+   denominators, and then apply its factors to the group’s business income or
+   loss subject to apportionment to arrive at net income or loss apportioned to
+   the District; 
+   
+   (c)  	Each member shall compute its nonbusiness income separately subject to
+   the allocation rules;
+   
+   
+   
+   (d)  	All income or loss allocated and apportioned to the District by each
+   member shall be added together to arrive at District taxable income for each
+   member; and
+   
+   
+   
+   (e)  	Each member shall apply the appropriate District income tax rate to
+   determine the proper District tax due.
+
+   164.2. Example:  Financial Institutions
+   
+   
+   
+   DISCRIPTION
+   
+   
+   
+   COMBINED REPORT
+   
+   CORPORATION A
+   
+   FINANCIAL INSTITUTION
+   
+   
+   
+   Sales
+   
+   District
+   
+   $3,000,000
+   
+   $2,000,000
+   
+   $1,000,000
+   
+   
+   
+   Sales
+   
+   Everywhere
+   
+   $20,000,000
+   
+   $10,000,000
+   
+   $10,000,000
+   
+   
+   
+   District Weighted Sales Factor
+   
+   
+   
+   
+   
+   20.00%
+   
+   5.00%
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Property
+   
+   District
+   
+   $20,000
+   
+   $20,000
+   
+   
+   
+   
+   
+   Property
+   
+   Everywhere
+   
+   $250,000
+   
+   $250,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   8.00%
+   
+   
+   
+   
+   
+   Payroll
+   
+   District
+   
+   $30,000
+   
+   $20,000
+   
+   $10,000
+   
+   
+   
+   Payroll
+   
+   Everywhere
+   
+   $500,000
+   
+   $250,000
+   
+   $250,000
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   4.00%
+   
+   2.00%
+   
+   
+   
+   District Apportionment Factor
+   
+   
+   
+   
+   
+   8.00%
+   
+   3.50%
+   
+   
+   
+   
+   
+   * The receipt factor for financial institutions is not double-weighted.  See 9
+   DCMR § 129.  The
+   
+   sum of the factors (sales/receipts and payroll), excluding property, is
+   divided by two.
+   
+   
+   
+   
+   
+   
+   
+   SOURCE: Final Rulemaking published at 59 DCR 10875, 10889 (September 14,
+   2012).

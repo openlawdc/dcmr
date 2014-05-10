@@ -1,0 +1,151 @@
+                                  DC REGULATIONS
+
+CONSUMER PRODUCTS – LABELING OF CONTENTS (§ 20-732)
+
+732.1 	Each manufacturer of a consumer product subject to §§ 719 through 737
+   shall clearly display on each consumer product container or package, the day,
+   month, and year on which the product was manufactured, or a code indicating
+   such date.
+
+   732.2. A manufacturer who uses the following code to indicate the date of
+   manufacture shall not be subject to the requirements of § 732.1, if the code
+   is represented separately from other codes on the product container so that it
+   is easily recognizable:
+   
+   
+   
+   YY DDD = year year day day day
+   
+   
+   
+   where:
+   
+   
+   
+   “YY” 	= 	two digits representing the year in which the product was
+   manufactured; and
+   
+   
+   
+   “DDD” = 	three digits representing the day of the year on which the
+   product was manufactured, with “001”representing the first day of the
+   year, “002” representing the second day of the year, and so forth (such
+   as, the “Julian date”).
+
+   732.3. The date or date-code information shall be displayed on each consumer
+   product container or package no later than twelve (12) months before the
+   effective date of the applicable standard specified in the Table of Standards
+   in § 720.1.
+
+   732.4. The date or date-code information shall be located on the container or
+   inside the cover/cap so that it is readily observable or obtainable by simply
+   removing the cap/cover without irreversibly disassembling any part of the
+   container or packaging.
+
+   732.5. For the purposes of this section, information may be displayed on the
+   bottom of the container as long as it is clearly legible without removing any
+   product packaging.
+
+   732.6. The requirements of § 732.1 through 732.5 shall not apply to products
+   containing VOCs at one tenth of a percent (0.1%) by weight or less, or
+   products exempted from the definition of VOCs in §799.
+
+   732.7. If a manufacturer uses a code to indicate the date of manufacture for
+   any consumer product subject to § 720, and has not previously filed with the
+   Department a date code explanation for that product, the manufacturer shall
+   provide an explanation of the date portion of the code to the Department no
+   later than the effective date of the applicable standard specified in the
+   Table of Standards in § 720.1.
+
+   732.8. If a manufacturer changes any code indicating the date of manufacture
+   for any consumer product subject to § 732.7, an explanation of the modified
+   code must be submitted to the Department before any products displaying the
+   modified code are sold, supplied, or offered for sale in the District of
+   Columbia.
+
+   732.9. No person shall erase, alter, deface, or otherwise remove or make
+   illegible any date or code indicating the date of manufacture from any
+   regulated product container without the express authorization of the
+   manufacturer.
+
+   732.10. Date code explanations for codes indicating the date of manufacture
+   are public information and may not be claimed as confidential.
+
+   732.11. Notwithstanding the definition of the term “product category” in
+   § 799, if anywhere on the principal display panel of any consumer product
+   manufactured before January 1, 2012, or any FIFRA registered insecticide
+   manufactured before January 1, 2013, any representation is made that the
+   product may be used as, or is suitable for use as a consumer product for which
+   a lower VOC limit is specified in the Table of Standards in § 720.1, then the
+   lowest VOC limit shall apply. This requirement does not apply to general
+   purpose cleaners, antiperspirant or deodorant products, and insecticide
+   foggers.
+
+   732.12. Notwithstanding the definition of “product category” in § 799, if
+   anywhere on the container or packaging of any consumer product manufactured on
+   or after January 1, 2012, or any FIFRA registered insecticide manufactured on
+   or after January 1, 2013, or any sticker or label affixed thereto, any
+   representation is made that the product may be used, or is suitable for use as
+   a consumer product for which a lower VOC content limit is specified in the
+   Table of Standards in § 720.1, then the lowest VOC limit shall apply. This
+   requirement does not apply to general all purpose cleaners, antiperspirant or
+   deodorant, and insecticide foggers.
+
+   732.13. Both the manufacturer and responsible party for each aerosol adhesive,
+   adhesive remover, electronic cleaner, electrical cleaner, energized electrical
+   cleaner, and contact adhesive product subject to §§ 719 through 737 shall
+   comply with § 732.1 through 732.12 and §733 and ensure that all consumer
+   products clearly display the following information on the container for each
+   product which is manufactured on or after the effective date for the category
+   specified in the Table of Standards in § 720.1:
+   
+   
+   
+   		(a)	The product category as specified in § 720 or an abbreviation of the
+   category;
+   
+   
+   
+   		(b)	The VOC standard for the product as specified in the Table of Standards
+   in § 720.1, except for energized electrical cleaner, expressed as a
+   percentage of weight, unless the product is included in an alternative control
+   plan approved by the Department, as provided in § 732.12, and the product
+   exceeds the applicable VOC standard:
+   
+   
+   
+   			(1) 	If the product is included in an approved Alternative Control Plan
+   (ACP) pursuant to § 735, the product shall be labeled with the term “ACP”
+   or “ACP product”; or
+   
+   
+   
+   		(2)	If the product is classified as a special purpose spray adhesive, the
+   substrate and/or application or an abbreviation of the substrate/application
+   that qualifies the product as special purpose shall be displayed;
+   
+   
+   
+   (c)	An explanation of the abbreviation used pursuant to § 732.13(a) must be
+   filed with the Department before the abbreviation is used;
+   
+   
+   
+   		(d)	The information required in this section shall be displayed on the
+   product container such that it is readily observable without removing or
+   disassembling any portion of the product container or packaging. For the
+   purposes of this subsection, information may be displayed on the bottom of a
+   container as long as it is clearly legible without removing any product
+   packaging; and
+   
+   
+   
+   (e)	No person shall remove, alter, conceal, or deface the information required
+   in this section before final sale of the product.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 51 DCR 3879 (April 16, 2004); as
+   amended by Final Rulemaking published at 51 DCR 10781 (November 26, 2004); as
+   amended by Notice of Final Rulemaking published at 58 DCR 11286, 11320
+   (December 30, 2011).

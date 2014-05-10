@@ -1,0 +1,125 @@
+                                  DC REGULATIONS
+
+DIGITAL PAYMENT SYSTEMS &#8211; REQUIREMENTS (§ 31-1404)
+
+1404.1. Each digital payment system (DPS) approved by the Office as part of a
+   DDS’ initial, renewed, or amended certificate of operating authority under
+   Chapter 16 shall meet the requirements of this section.
+
+   1404.2. Equipment requirements.  Each DPS unit shall consist of any reasonable
+   combination of digital technologies that:
+   
+   
+   
+   	(a)	Allows the owner and operator to provide service in compliance with this
+   chapter and Chapter 12 of this title, and allows the DDS to comply with §§
+   1403.3 and 1404; and
+   
+   
+   
+   	(b)	Provides the passenger with a written or electronic receipt, before the
+   passenger exits the vehicle, containing:
+   
+   
+   
+   (1) 	The date and time of the trip;
+   
+   
+   
+   (2) 	The distance of the trip;
+   
+   
+   
+   (3) 	The vehicle’s tag number,
+   
+   
+   
+   (4) 	The name and customer service telephone number of the
+   
+   	DDS;
+   
+   
+   
+   (5) 	Information sufficient to allow the passenger to reference the
+   passenger’s DDS account or payment card used to pay the fare;
+   
+   
+   
+   (6) 	The total fare and a breakdown of the fare including all rates and
+   charges, and any gratuity; and
+   
+   
+   
+   (7) 	The following statement: “Sedan service in Washington, DC is regulated
+   by the DC Taxicab Commission, 2041 Martin 	Luther King Jr., Ave., SE, Suite
+   204, Washington, DC  20020, www.dctaxi.dc.gov, dctc3@dc.gov, 1-855-484-4966,
+   TTY 711”.
+
+   1404.3. Service and support requirements.  The DDS, using data from each DPS
+   unit, shall:
+   
+   
+   
+   		(a)	Transmit to the TCIS every twenty-four (24) hours via a single data feed
+   consistent in structure across all digital payment systems, the following
+   data:
+   
+   
+   
+   		(1)	The date;
+   
+   
+   
+   		(2)	The operator identification number and vehicle tag number in an
+   anonymous format established by the Office that allows the DDS to maintain a
+   record of the identity of the operator and the vehicle;
+   
+   
+   
+   		(3)	The time at the beginning of each tour of duty;
+   
+   
+   
+   		(4)	The distance of each trip;
+   
+   
+   
+   		(5)	The time of pickup and drop-off of each trip;
+   
+   
+   
+   		(6)	The geospatially-recorded place of pickup of each trip which may be
+   generalized to census tract level; and the geospatially-recorded place
+   drop-off of each trip which may be generalized to census tract level;
+   
+   
+   
+   		(7)	A unique trip number assigned by the DDS to each trip;
+   
+   
+   
+   		(8) 	The total fare and a breakdown of the fare including all rates and
+   charges and any gratuity;
+   
+   
+   
+   		(9)	The time at the end of the tour of duty;
+   
+   
+   
+   	(b)	Provide the Office with the information necessary to insure that the DDS
+   pays and the Office receives the sedan passenger surcharge for each sedan
+   trip;
+   
+   
+   
+   		(c)	Process each payment for each sedan trip, which shall not exceed the
+   fare allowed by this chapter; and
+   
+   
+   
+   	(d)	Ensure the timely transmission of an electronic receipt.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 12410 (August 30, 2013).

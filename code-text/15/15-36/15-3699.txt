@@ -1,0 +1,160 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 15-3699)
+
+3699.1. When used in this chapter, the following terms and phrases shall have
+   the meaning ascribed:
+   
+   
+   
+   Abandoned Calls &#8211; a call received from a customer that a customer
+   terminates after the customer selects the menu option and is placed in the
+   queue, but before the call is answered by the utility customer representative
+   or any other automated response system.
+   
+   
+   
+   Call Abandonment Rate &#8211; the annual number of calls to the
+   utility&#8217;s call center or business office that were abandoned, divided by
+   the total number of calls that the company received.
+   
+   
+   
+   Call Answering &#8211; a process whereby a utility representative, voice
+   response unit, or other automated operator system is ready to render
+   assistance or ready to accept information necessary to process a
+   customer&#8217;s call. An acknowledgement that the customer is waiting on the
+   line does not constitute an answer.
+   
+   
+   
+   Composite Performance Index (CPI) &#8211; a measure of feeder performance that
+   combines, in a single number, four measures of distribution feeder
+   performance: (1) number of interruptions, (2) number of customer hours of
+   interruption, (3) system average frequency of interruption, and (4) system
+   average interruption duration.
+   
+   
+   
+   Customer Average Interruption Duration Index (CAIDI) &#8211; a performance
+   index that measures the average time required to restore service to the
+   average customer experiencing a sustained interruption per sustained
+   interruption. The measure is calculated by dividing the sum of all customer
+   interruption durations (converted into hours) by the total number of customer
+   sustained interruptions.
+   
+   
+   
+   Electric Utility (or Utility) &#8211; the company that provides electric
+   distribution service and is regulated by the Public Service Commission of the
+   District of Columbia.
+   
+   
+   
+   Electricity Supplier &#8211; a person, including an aggregator, broker, or
+   marketer, who generates electricity; sells electricity; or purchases, brokers,
+   arranges or, markets electricity for sale to customers. The term excludes the
+   following: (A) building owners, lessees, or managers who manage the internal
+   distribution system serving such building and who supply electricity solely to
+   occupants of the building for use by the occupants; (13)(I) any person who
+   purchases electricity for its own use or for the use of its subsidiaries or
+   affiliates; or (II) any apartment building or office building manager who
+   aggregates electric service requirements for his or her building(s), and who
+   does not: (i) take title to the electricity; (ii) market electric services to
+   the individually-metered tenants of the building; or (iii) engage in the
+   resale of electric services to others; (C) property owners who supply small
+   amounts of power, at cost as an accommodation to lessors or licensees of the
+   property; and (D) a consolidator.
+   
+   
+   
+   Interruption duration &#8211; the period of time, truncated or rounded to the
+   nearest minute, during which a sustained interruption occurs.
+   
+   
+   
+   Major service outages &#8211; customer interruption occurrences and durations
+   during time periods when 10,000 or more of the electric utility&#8217;s
+   District of Columbia customers are without service and the restoration effort
+   due to this major service outage takes more than twenty-four (24) hours.
+   
+   
+   
+   Manhole fire &#8211; incident in which flame is visible at holes in the
+   manhole cover or around the cover&#8217;s edge and the cover remains seated in
+   its frame.
+   
+   
+   
+   Manhole explosion &#8211; incident in which a release of energy from the
+   manhole occurs and one or more manhole covers are dislodged from their
+   respective frames, or other debris, such as cement or dirt, is projected into
+   the air.
+   
+   
+   
+   Momentary interruption &#8211; loss of electric service of a duration limited
+   to the time required to restore electric service by automatic and
+   supervisory-controlled switching operation or by manual switching at a
+   location where an operator is immediately available. If the automatic,
+   supervisory-controlled or manual switching is not completed within five (5)
+   minutes of the initial loss of service, the interruption is considered a
+   sustained interruption.
+   
+   
+   
+   Non-major service outages &#8211; customer service outages caused by the
+   failure of devices such as breakers, fuses, feeder lines, substation
+   equipment, etc., lasting over eight (8) hours, regardless of how many
+   customers are affected; or customer service outages affecting over 100 but
+   less than 10,000 customers, regardless of duration.
+   
+   
+   
+   Outside assistance &#8211; resources not routinely used by a utility for
+   service restoration. Resources transferred among utility operating areas are
+   not considered outside assistance.
+   
+   
+   
+   Power quality &#8211; the characteristics of electric power received by the
+   customer, with the exception of sustained interruptions and momentary event
+   interruptions. Characteristics of electric power that detract from its quality
+   include waveform irregularities and voltage variations, either prolonged or
+   transient.
+   
+   
+   
+   Smoking manhole &#8211; a manhole incident in which smoke, but no visible
+   flame, is escaping from holes in the cover or around the cover&#8217;s edge.
+   
+   
+   
+   Sustained interruption &#8211; loss of electric service not classified as a
+   momentary interruption.
+   
+   
+   
+   System Average Interruption Duration Index (SAIDI) &#8211; a performance index
+   that measures the average time customers are interrupted and is calculated by
+   dividing the sum of all customer interruption durations (converted into hours)
+   by the total number of customers served.
+   
+   
+   
+   System Average Interruption Frequency Index (SAIFI) &#8211; a performance
+   index that measures the average frequency of interruptions per customer and is
+   calculated by dividing the total number of customer sustained interruptions by
+   the total number of customers served.
+   
+   
+   
+   Telephone service factor &#8211; the percentage of calls answered within a
+   specified amount of time. For example, if the service level time is set at
+   thirty (30) seconds and 70 percent of calls are answered in less than 30
+   seconds, then the telephone service factor is 70.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 54 DCR 9376 (September 28, 2007); as
+   amended by Final Rulemaking published at 55 DCR 1943 (February 29, 2008).

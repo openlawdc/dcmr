@@ -1,0 +1,162 @@
+                                  DC REGULATIONS
+
+TECHNICAL STANDARDS AND ADDITIONAL TECHNICAL REQUIREMENTS (§ 15-4008)
+
+4008.1. The technical standard to be used in evaluating all interconnection
+   requests under Level 1, Level 2, Level 3 and Level 4 reviews, unless otherwise
+   provided for in these procedures, is IEEE Standard 1547. Until IEEE 1547.2,
+   &#8220;Application Guide for IEEE 1547 Standard for Interconnecting
+   Distributed Resources with Electric Power Systems&#8221; is completed and
+   approved, the PJM Interconnection Planning Manual Attachment H, which is
+   available at www.pjm.com/committees/mrc/downloads/20060911-item-03-
+   attachment-h-to-manual-14b-2-to-10-mw.pdf, shall be used as a guide (but not a
+   requirement) to detail and illustrate the interconnection protection
+   requirements that are provided in IEEE 1547.
+
+   4008.2. When an interconnection request is for a small generator facility that
+   includes multiple energy production devices at a site for which the
+   interconnection customer seeks a single point of common coupling, the
+   interconnection request shall be evaluated on the basis of the aggregate
+   nameplate capacity of multiple devices.
+
+   4008.3. When an interconnection request is for an increase in capacity for an
+   existing small generator facility, the interconnection request shall be
+   evaluated on the basis of the new total nameplate capacity of the small
+   generator facility.
+
+   4008.4. An EDC shall maintain records of the following for a minimum of three
+   (3) years:
+   
+   
+   
+   (a)	The total number of and the nameplate capacity of the interconnection
+   requests received, approved and denied under Level 1, Level 2, Level 3 and
+   Level 4 reviews;
+   
+   
+   
+   (b)	The number of interconnection requests that were not processed within the
+   timelines established in this rule;
+   
+   
+   
+   (c)	The number of scoping meetings held and the number of feasibility studies,
+   impact studies, and facility studies performed and the fees charged for these
+   studies;
+   
+   
+   
+   (d)	The justifications for the actions taken to deny interconnection requests;
+   and
+   
+   
+   
+   (e)	Any special operating requirements required in interconnection agreements
+   that are not part of the EDC&#8217;s written and published operating
+   procedures applicable to small generator facilities.
+
+   4008.5. An EDC shall provide a report to the Commission containing the
+   information required in Section 4008.4, paragraphs (a)-(c) within ninety (90)
+   calendar days of the close of each year.
+
+   4008.6. An EDC shall designate a contact person and contact information on its
+   website and the Commission&#8217;s website for submission of all
+   interconnection requests and from whom information on the interconnection
+   request process and the EDC&#8217;s electric distribution system can be
+   obtained regarding a proposed project. The information shall include studies
+   and other materials useful to an understanding of the feasibility of
+   interconnecting a small generator facility at a particular point on the
+   EDC&#8217;s electric distribution system, except to the extent that providing
+   the materials would violate security requirements or confidentiality
+   agreements, or otherwise deemed contrary to District or federal
+   law/regulations. In appropriate circumstances, the EDC may require
+   confidentiality prior to release of information.
+
+   4008.7. When an interconnection request is deemed complete, a modification
+   other than a minor equipment modification that is not agreed to in writing by
+   the EDC, shall require submission of a new interconnection request.
+
+   4008.8. When an interconnection customer is not currently a customer of the
+   EDC at the proposed site, the interconnection customer, upon request from the
+   EDC, shall provide proof of site control evidenced by a property tax bill,
+   deed, lease agreement, or other legally binding contract.
+
+   4008.9. To minimize the cost of interconnecting multiple small generator
+   facilities, the EDC or the customer may propose a single point of common
+   coupling for multiple small generator facilities located at a single site. If
+   the interconnection customer rejects the EDC&#8217;s proposal for a single
+   point of common coupling, the interconnection customer shall pay the
+   additional cost, if any, of providing a separate point of common coupling for
+   each small generator facility. If the EDC rejects the customer&#8217;s
+   proposal for a single point of common coupling without providing a written
+   technical explanation, the EDC shall pay the additional cost, if any, of
+   providing a separate point of common coupling for each small generator
+   facility.
+
+   4008.10. Small generator facilities shall be capable of being isolated from
+   the EDC. For level 2-4 small generator facilities interconnecting to a primary
+   line, the isolation shall be by means of a lockable, visible-break isolation
+   device accessible by the EDC. For level 2-4 small generator facilities
+   interconnecting to a secondary line, the isolation shall be by means of a
+   lockable isolation device whose status is clearly indicated and is accessible
+   by the EDC. The isolation device shall be installed, owned and maintained by
+   the owner of the small generation facility and located between the small
+   generation facility and the point of common coupling. A draw-out type circuit
+   breaker with a provision for padlocking at the draw-out position can be
+   considered an isolation device for purposes of this requirement. Level 1
+   interconnections do not require an external isolation device.
+
+   4008.11. A level 2-4 interconnection customer may elect to provide the EDC
+   access to an isolation device that is contained in a building or area that may
+   be unoccupied and locked or not otherwise readily accessible to the EDC, by
+   installing a lockbox provided by the EDC that shall provide ready access to
+   the isolation device. The interconnection customer shall install the lockbox
+   in a location that is readily accessible by the EDC, and the interconnection
+   customer shall permit the EDC to affix a placard in a location of its choosing
+   that provides clear instructions to the EDC&#8217;s operating personnel on
+   access to the isolation device. In the event that the interconnection customer
+   fails to comply with the terms of this subsection and the EDC needs to gain
+   access to the isolation device, the EDC shall not be held liable for any
+   damages resulting from any necessary EDC action to isolate the interconnection
+   customer.
+
+   4008.12. Any metering necessitated by a small generator interconnection shall
+   be installed, operated and maintained in accordance with applicable tariffs.
+   Any such metering requirements shall be clearly identified as part of the
+   small generator interconnection agreement executed by the interconnection
+   customer and the EDC.
+
+   4008.13. The EDC shall design, procure, construct, install, and own any
+   Distribution Upgrades. The actual cost of the Distribution Upgrades, including
+   overheads, shall be directly assigned to the interconnection customer. The
+   interconnection customer may be entitled to financial contribution from any
+   other EDC customers who may in the future utilize the upgrades paid for by the
+   interconnection customer. Such contributions shall be governed by the rules,
+   regulations, and decisions of the Commission.
+
+   4008.14. EDC monitoring and control of small generator facilities shall be
+   permitted only if the nameplate rating is equal to or greater than 3 MW. Any
+   monitoring and control requirements shall be consistent with the EDC&#8217;s
+   written and published requirements and shall be clearly identified as part of
+   an interconnection agreement executed by the interconnection customer and the
+   EDC.
+
+   4008.15. The interconnection customer shall design its Small Generator
+   Facility to maintain a composite power delivery at continuous rated power
+   output at the Point of common coupling at a power factor within the power
+   factor range required by the EDC&#8217;s applicable tariff for a comparable
+   load customer. The EDC may also require the Interconnection Customer to follow
+   a voltage or VAR schedule if such schedules are applicable to similarly
+   situated generators in the control area on a comparable basis and have been
+   approved by the Commission. The specific requirements for meeting a voltage or
+   VAR schedule shall be clearly specified in Attachment 3 of the &#8220;District
+   of Columbia Small Generator Interconnection Rule Level 2-4 Standard Agreement
+   for Interconnection of Small Generator Facilities&#8221;. (Under no
+   circumstance shall these additional requirements for reactive power or voltage
+   support exceed the normal operating capabilities of the Small Generator
+   Facility.)
+   
+   
+   
+   	SOURCE: As amended by Final Rulemaking published at 56 DCR 1415, 1418
+   (February 13, 2009).

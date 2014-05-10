@@ -1,0 +1,197 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 15-2899)
+
+2899.1. When used in this chapter, the following terms and phrases shall have
+   the 	following meanings:
+   
+   
+   
+   Administrator or Fund Administrator &#8211; the person(s) or entity(ies)
+   responsible for administering the District of Columbia Universal Service Trust
+   Fund.
+   
+   
+   
+   Applicant &#8211; a local exchange carrier that has submitted a request for
+   funding from District of Columbia Universal Service Trust Fund.
+   
+   
+   
+   Application &#8211; the Request for DC USTF  Funding Application.
+   
+   
+   
+   Commission &#8211; the Public Service Commission of the District of Columbia.
+   
+   
+   
+   Competitive local exchange carrier (CLEC) &#8211; a provider of
+   telecommunications service that was not an incumbent local exchange carrier on
+   January 31, 1996 but that is now certified to provide local exchange
+   telecommunications service within the District.
+   
+   
+   
+   Customer or Subscriber &#8211; any person, firm, partnership, cooperative
+   corporation, corporation or lawful entity that receives telecommunications
+   services.
+   
+   
+   
+   District of Columbia Universal Service Trust Fund or DC USTF or Fund &#8211;
+   the fund established and required to be implemented by the Commission pursuant
+   to D.C. Code § 34-2003 (2010 Repl. &#038; 2011 Supp.)
+   
+   
+   
+   Eligible telecommunications carrier or ETC &#8211; any LEC that is designated
+   as an eligible telecommunications carrier pursuant to 47 U.S.C. § 214(e) and
+   15 DCMR 2806, et seq.
+   
+   
+   
+   Facilities &#8211; any physical components of the telecommunications network
+   that are used in the transmission or routing of the services designated for
+   support under 47 U.S.C. § 214(e)(1).
+   
+   
+   
+   FCC &#8211; the Federal Communications Commission.
+   
+   
+   
+   			Household – any individual or group of individuals who are living
+   together at
+   
+   			the same address as one economic unit.  An economic unit consists of all
+   adult
+   
+   			individuals contributing to and sharing in the income and expenses of a
+   
+   			household.  An adult is any person eighteen (18) years or older.  If an
+   adult has no
+   
+   			or minimal income, and lives with someone who provides financial support
+   for
+   
+   			that adult, both people shall be considered part of the same household. 
+   Children
+   
+   			under the age of eighteen (18) living with their parents or guardians are
+   
+   			considered to be part of the same household as their parents or guardians.
+   
+   
+   
+   Incumbent local exchange carrier or ILEC &#8211; the local exchange carrier
+   that provided local exchange telecommunications service in the District on the
+   date of enactment of the federal Telecommunications Act of 1996, 47 U.S.C.
+   §§ 151, et seq.
+   
+   
+   
+   Lifeline Service &#8211; the service or benefits established by federal and
+   District programs designed to keep low-income subscribers on the
+   telecommunications network.
+   
+   
+   
+   Local exchange telecommunications service &#8211; a switched
+   telecommunications service capable of originating and terminating calls within
+   the Washington Metropolitan local calling area.
+   
+   
+   
+   Local exchange carrier or LEC &#8211; any person or entity that is engaged in
+   the provision of local exchange telecommunications service or exchange access.
+    The term “local exchange carrier” does not include a person or entity
+   engaged in the provision of a commercial mobile service.
+   
+   
+   
+   Low-income senior &#8211; a person aged sixty-five (65) or older that
+   qualifies for Lifeline service.
+   
+   
+   
+   Network &#8211; a telecommunications service provider&#8217;s or
+   telecommunication carrier’s facilities used to originate and terminate
+   traffic.
+   
+   
+   
+   Nomadic VoIP &#8211; a VoIP service that may be used at multiple locations.
+   
+   
+   
+   Person &#8211; any individual, partnership, corporation, association,
+   joint-stock company, or any other entity.
+   
+   
+   
+   Telecommunications &#8211; the transmission, between or among points specified
+   by the user, of information of the user&#8217;s choosing, without change in
+   the form or content of the information as sent and received.
+   
+   
+   
+   Telecommunications Act of 1996 &#8211; the Federal legislation cited as 47
+   U.S.C. §§ 151, et seq.
+   
+   
+   
+   Telecommunications Relay Service or TRS &#8211; telephone transmission
+   services that provide the ability for an individual who has a hearing or
+   speech disability to engage in communication by wire or radio with a hearing
+   individual in a manner that is functionally equivalent to the ability of an
+   individual who does not have a hearing or speech disability to communicate
+   using voice communications services by wire or radio.  Such term includes
+   services that enable two-way communication between an individual who uses a
+   text telephone or other non-voice terminal device and an individual who does
+   not use such a device, speech-to-speech services, video relay services, and
+   non-English relay services.
+   
+   
+   
+   Telecommunications service &#8211; the offering of telecommunications for a
+   fee directly to the public or to such classes of users as to be effectively
+   available to the public, regardless of the facilities used.
+   
+   
+   
+   U.S.C. &#8211; United States Code.
+   
+   
+   
+   Universal Service &#8211; an evolving set of telecommunications services
+   determined to be essential for residential customers’ health and welfare,
+   and as such, must be available throughout the District of Columbia.
+   
+   
+   
+   Voice over Internet Protocol or VoIP &#8211; any service that enables real
+   time two way voice communications that originate or terminate from the
+   user’s location using Internet protocol or a successor protocol and uses a
+   broadband connection from the user’s location.  This term includes any
+   service that permits users to receive calls that originate on the public
+   switched telephone network and to terminate calls on the public switched
+   telephone network.
+   
+   
+   
+   VoIP service provider &#8211; any provider of Voice over Internet Protocol
+   service.
+   
+   
+   
+   
+   
+   
+   
+   	SOURCE: Notice of Final Rulemaking published at 50 DCR 8198 (October 3,
+   2003); as amended by Final Rulemaking published at 56 DCR 7644 (September 25,
+   2009); as amended by Notice of Final Rulemaking published at 58 DCR 8585, 8595
+   (October 7, 2011); as amended by Notice of Final Rulemaking published at 58
+   DCR 10343, 10346 (December 9, 2011); as amended by Final Rulemaking published
+   at 59 DCR 12141 (October 19, 2012).

@@ -1,0 +1,312 @@
+                                  DC REGULATIONS
+
+DEFINITIONS (§ 20-3399)
+
+3399.1. When used in this chapter, the following terms shall have the meanings
+   ascribed (some of the definitions were codified in the Acts, thus indicated as
+   [Statutory], and are reprinted below for regulatory efficiency):
+   
+   Abatement – a set of measures, except interim controls, that eliminates
+   lead-based paint hazards by either the removal of paint and dust, the
+   enclosure or encapsulation of lead-based paint, the replacement of painted
+   surfaces or fixtures, or the removal or covering of soil, and all preparation,
+   cleanup, disposal, and post-abatement clearance testing activities associated
+   with such measures. [Statutory]
+   
+   Accredited training provider – a training provider that has been approved by
+   the Mayor to provide training for individuals who conduct lead-based paint
+   activities. [Statutory]
+   
+   Business entity – a partnership, firm, company, association, corporation,
+   sole proprietorship, government, quasi-government entity, nonprofit
+   organization, or other business concern. [Statutory]
+   
+   Child-occupied facility – a building, or portion of a building, constructed
+   prior to 1978, which as part of its function receives children under the age
+   of six (6) on a regular basis, and is required to obtain a certificate of
+   occupancy as a precondition to performing that function. The term
+   &#8220;child-occupied facility&#8221; may include a preschool, kindergarten
+   classroom, and child development facility licensed under subchapter II of
+   Chapter 20 of Title 7 of the D.C. Official Code. The location of a
+   child-occupied facility as part of a larger structure does not make the entire
+   structure a child-occupied facility. Only the portion of the facility occupied
+   or regularly visited by children under age six (6) shall be considered the
+   child-occupied facility. [Statutory]
+   
+   Clearance examination – an evaluation of a property to determine whether the
+   property is free of any deteriorated lead-based paint and underlying
+   condition, or any lead-based paint hazard, underlying condition,
+   lead-contaminated dust, and lead-contaminated soil hazards, that is conducted
+   by a risk assessor, a lead-based paint inspector, or in accordance with
+   limitations specified by statute or by rule, a dust sampling technician.
+   [Statutory]
+   
+   Clearance report – a report issued by a risk assessor, a lead-based paint
+   inspector, or a dust sampling technician that finds that the area tested has
+   passed a clearance examination, and that specifies the steps taken to ensure
+   the absence of lead-based paint hazards, including confirmation that any
+   encapsulation performed as part of a lead hazard abatement strategy was
+   performed in accordance with the manufacturer&#8217;s specifications.
+   [Statutory]
+   
+   Containment – a system, process, or barrier used to contain lead-based paint
+   hazards inside a work area. [Statutory]
+   
+   Day – a calendar day. [Statutory]
+   
+   Demolition – the removal or destruction of a part of a building, such as the
+   walls within one or several units in a multifamily property, or the gutting of
+   an entire building that leaves the exterior shell of the structure in place.
+   
+   Deteriorated paint – paint that is cracking, flaking, chipping, peeling,
+   chalking, not intact, or otherwise separating from the substrate of a building
+   component, except that pinholes and hairline fractures attributable to the
+   settling of a building shall not be considered deteriorated paint. [Statutory]
+   
+   Director – the Director of the District Department of the Environment
+   (DDOE).
+   
+   Dust action level – the concentration of lead that constitutes a lead-based
+   paint hazard for dust and requires lead-based paint hazard elimination.
+   [Statutory]
+   
+   Dust sampling technician – an individual who:
+   
+   Has successfully completed an accredited training program;
+   
+   Has been certified by the District to perform a visual inspection of a
+   property to confirm that no deteriorated paint is visible at the property, and
+   to sample for the presence of lead in dust for the purposes of certain
+   clearance testing and lead dust hazard identification; and
+   
+   Provides a report explaining the results of the visual inspection and dust
+   sampling. [Statutory]
+   
+   Dwelling unit – a room or group of rooms that form a single independent
+   habitable unit for permanent occupation by one (1) or more individuals that
+   has living facilities with permanent provisions for living, sleeping, eating,
+   and sanitation. The term &#8220;dwelling unit&#8221; does not include:
+   
+   (a)	A unit within a hotel, motel, or seasonal or transient facility, unless
+   such unit is or will be occupied by a person at risk for a period exceeding
+   thirty (30) days;
+   
+   (b)	An area within the dwelling unit that is secured and accessible only to
+   authorized personnel;
+   
+   (c)	Housing for the elderly, or a dwelling unit designated exclusively for
+   persons with disabilities, unless a person at risk resides or is expected to
+   reside in the dwelling unit or visit the dwelling unit on a regular basis; or
+   
+   (d)	An unoccupied dwelling unit that is to be demolished; provided, that the
+   dwelling unit will remain unoccupied until demolition. [Statutory]
+   
+   Elevated blood lead level – the concentration of lead in a sample of whole
+   blood equal to or greater than ten micrograms of lead per deciliter (10
+   μg/dL) of blood, or such more stringent standard as may be established by the
+   U.S. Centers for Disease Control and Prevention as the appropriate level of
+   concern, or adopted by the Mayor by rule. [Statutory]
+   
+   Encapsulation – the application of a covering or coating that acts as a
+   barrier between the lead-based paint and the environment, and that relies for
+   its durability on adhesion between the encapsulant and the painted surface and
+   on the integrity of the existing bonds between paint layers and between the
+   paint and the substrate. [Statutory]
+   
+   Enclosure – the use of rigid, durable construction materials that are
+   mechanically fastened to the substrate to act as a barrier between lead-based
+   paint and the environment. [Statutory]
+   
+   EPA – the United States Environmental Protection Agency.
+   
+   Exterior surfaces – means:
+   
+   (a)	All surfaces that are attached to the outside of a property;
+   
+   (b)	All structures that are appurtenances to a property;
+   
+   (c)	Fences that are a part of the property; and
+   
+   (d)	For a property within a multi-unit dwelling, all painted surfaces in
+   stairways, hallways, entrance areas, recreation areas, laundry areas, and
+   garages that are common to individual dwelling units or located on the
+   property. [Statutory]
+   
+   Interim controls – a set of measures designed to temporarily reduce human
+   exposure or likely exposure to lead-based paint hazards, including specialized
+   cleaning, repairs, maintenance, painting, temporary containment, ongoing
+   monitoring of lead-based paint hazards or potential hazards, and the
+   establishment and operation of management and resident education programs.
+   
+   Lead-based paint – any paint or other surface coating containing lead or
+   lead in its compounds in any quantity exceeding one half percent (0.5%) of the
+   total weight of the material or more than one milligram per square centimeter
+   (1.0 mg/cm2), or such more stringent standards as may be specified in federal
+   law or regulations promulgated by EPA or the United States Department of
+   Housing and Urban Development (HUD), which shall be adopted by the Mayor by
+   rule. [Statutory]
+   
+   Lead-based paint activities – the identification, risk assessment,
+   inspection, abatement, use of interim controls, or elimination of lead-based
+   paint, lead-based paint hazards, lead-contaminated dust, and lead-contaminated
+   soil, and all planning, project designing, and supervision associated with any
+   of the these activities. [Statutory]
+   
+   Lead-based paint hazard – any condition that causes exposure to lead from
+   lead-contaminated dust, lead-contaminated soil, deteriorated lead-based paint
+   or presumed lead-based paint, or lead-based paint or presumed lead-based paint
+   that is disturbed without containment. [Statutory]
+   
+   Lead-based paint inspector or inspector – an individual who has been trained
+   by an accredited training provider and certified by the District to conduct
+   lead inspections. For the purpose of clearance testing, a lead-based paint
+   inspector also samples for the presence of lead in dust and in bare soil.
+   [Statutory]
+   
+   Lead-contaminated dust – surface dust based on a wipe sample that contains a
+   mass per area concentration of lead equal to or exceeding:
+   
+   (a)	For dust action levels or for the purpose of clearance examination:
+   
+   (1)	Forty micrograms per square foot (40 μg/sq. ft. on floors; or
+   
+   (2)	Two hundred fifty micrograms per square foot (250 μg/sq. ft.) on interior
+   windowsills;
+   
+   (b)	For the purpose of clearance examination:
+   
+   (1) 	Four hundred micrograms per square foot (400 μg/sq. ft. on window
+   troughs; or
+   
+   (2)	Eight hundred micrograms per square foot (800 μg/sq. ft on concrete or
+   other rough exterior surfaces; or
+   
+   (c)	Such more stringent standards as may be:
+   
+   (1)	Specified in federal law;
+   
+   (2)	Specified in regulations promulgated by the EPA or HUD; or
+   
+   (3) 	Adopted by DDOE by rule. [Statutory]
+   
+   Lead-contaminated soil – bare soil on real property that contains lead in
+   excess of four hundred parts per million (400 ppm), or such other more
+   stringent level specified in federal law or regulations promulgated by EPA or
+   HUD, and adopted by the Mayor by rule. [Statutory]
+   
+   Lead-disclosure form – the form developed by DDOE for a property owner to
+   disclose an owner&#8217;s knowledge of any lead-based paint or of any
+   lead-based paint hazards, and information about any pending actions ordered by
+   the Mayor pursuant to this law, to tenants, purchasers, or prospective tenants
+   or purchasers. [Statutory]
+   
+   Lead-free property – a property that contains no lead-contaminated soil, and
+   the interior and exterior surfaces do not contain any lead-based paint or
+   other surface coatings that contain lead equal to or in excess of one
+   milligram per square centimeter (1.0 mg/cm2). [Statutory]
+   
+   Lead-free unit – a unit for which the interior and exterior surfaces
+   appurtenant to the unit do not contain any lead-based paint or other surface
+   coatings that contain lead equal to or in excess of one milligram per square
+   centimeter (1.0 mg/cm2), and for which the approaches thereto remain
+   lead-safe. The Mayor, by rule, may establish a method to ensure that
+   approaches to lead-free units remain lead-safe. [Statutory]
+   
+   Lead project designer – an individual who has been trained by an accredited
+   training provider and certified by the District to review lead-based paint
+   inspection reports and risk assessment reports and to develop detailed plans
+   to abate lead-based paint and eliminate lead-based paint hazards.
+   
+   Lead-safe work practices – a prescribed set of activities that, taken
+   together, ensure that any work that disturbs a painted surface on a structure
+   constructed prior to 1978, generates a minimum of dust and debris, that any
+   dust or debris generated is contained within the immediate work area, that
+   access to the work area by non-workers is effectively limited, that the work
+   area is thoroughly cleaned so as to remove all lead-contaminated dust and
+   debris, and that all such dust and debris is disposed of in an appropriate
+   manner, all in accordance with the methods and standards established by DDOE
+   by rule consistent with applicable federal requirements, as they may be
+   amended. [Statutory]
+   
+   Owner – a person, firm, partnership, corporation, guardian, conservator,
+   receiver, trustee, executor, legal representative, registered agent, or the
+   federal government, who alone or jointly and severally with others, owns,
+   holds, or controls the whole or any part of the freehold or leasehold interest
+   to any property, with or without actual possession. [Statutory]
+   
+   Person at risk – a child under age six (6) years or a pregnant woman.
+   [Statutory]
+   
+   Presumed lead-based paint – paint or other surface coating affixed to a
+   component in or on a dwelling unit or child-occupied facility, constructed
+   prior to 1978. [Statutory]
+   
+   Raze – the complete destruction of an entire building.
+   
+   Regularly visits – a child under the age of six (6) years or a pregnant
+   woman who spends or is expected to spend any amount of time at a residential
+   dwelling unit, a single-family property, or a child-occupied facility, at
+   least two (2) different days within any week, provided that each visit lasts
+   at least three (3) hours and the combined annual visits last at least sixty
+   (60) hours in a given calendar year, and provided the property owner or the
+   administrator of the child-occupied facility is notified or otherwise aware of
+   such presence.
+   
+   Relocation expenses – reasonable expenses directly related to relocation to
+   temporary replacement housing that complies with the requirements of this
+   chapter, including:
+   
+   (a)	Moving and hauling expenses;
+   
+   (b)	Payment of a security deposit;
+   
+   (c)	The cost of replacement housing; provided, that the tenant continues to
+   pay the rent on the dwelling unit from which the tenant has been relocated;
+   and
+   
+   (d)	Installation and connection of utilities and appliances. [Statutory]
+   
+   Renovation – the modification of any existing structure or portion thereof
+   that results in the disturbance of painted surfaces, unless that activity is
+   performed as part of an abatement. The term &#8220;renovation&#8221; includes
+   the removal, modification, or repair of painted surfaces or painted
+   components, the removal of building components, weatherization projects, and
+   interim controls that disturb painted surfaces. [Statutory]
+   
+   Renovator – an individual who either performs or directs workers who perform
+   renovations. A certified renovator is a renovator who has successfully
+   completed a renovator course accredited by EPA or by the District of Columbia.
+   [Statutory]
+   
+   Risk assessment – an on-site investigation to determine and report the
+   existence, nature, severity, and location of conditions conducive to lead
+   poisoning, including:
+   
+   (a)	The gathering of information regarding the age and history of the housing
+   and occupancy by persons at risk;
+   
+   (b)	A visual inspection of the property;
+   
+   (c)	Dust wipe sampling, soil sampling, and paint testing, as appropriate;
+   
+   (d)	Other activity as may be appropriate;
+   
+   (e)	Provision of a report explaining the results of the investigation; and
+   
+   (f)	Any additional requirements as determined by the Mayor. [Statutory]
+   
+   Risk assessor – an individual who has been trained by an accredited training
+   program and certified by the District to conduct risk assessments. [Statutory]
+   
+   Underlying condition – the source of water intrusion or other problem that
+   is causing paint to deteriorate which may be damaging to the substrate of a
+   painted surface. [Statutory]
+   
+   Work area – the space that a certified risk assessor, abatement worker or
+   supervisor, a certified renovator or a certified project designer determines
+   is sufficient to contain all dust and debris generated by work that disturbs
+   paint.
+   
+   
+   
+   SOURCE: Final Rulemaking published at 60 DCR 10909 (July 26, 2013).

@@ -1,0 +1,596 @@
+                                  DC REGULATIONS
+
+REPORTING (§ 21-1508)
+
+General Reporting Requirements.  Industrial Users may be required to submit test
+results from samples collected of their discharged wastewater or other
+information requested by WASA on a routine and continuing basis.  The Industrial
+User shall bear the costs of such tests and reports.
+
+
+
+
+
+
+
+Baseline Monitoring Reports, ninety (90) Day Compliance Reports, and Periodic
+Compliance Reports (for both Categorical and Non-Categorical Industrial Users),
+shall be based upon data obtained through appropriate sampling and analysis
+performed during the period covered by the report and representative of
+conditions occurring during the reporting period.
+
+
+
+
+
+
+
+Periodic Compliance Reports (applicable to all Industrial Users).  The following
+governs the Periodic Compliance Reports applicable to all Industrial Users:
+
+
+
+
+
+
+
+Any Industrial User that is required to have a discharge permit and performs
+self-monitoring shall submit Periodic Compliance Reports to WASA at a frequency
+specified in the discharge permit, indicating the nature and concentration of
+pollutants in the discharge during that reporting period;
+
+
+
+
+
+
+
+At a minimum, Significant Industrial Users shall sample their discharge and
+submit Periodic Compliance Reports once every six (6) months, or as WASA
+requires;
+
+
+
+
+
+
+
+Categorical Industrial Users (except for Non-Significant Categorical Industrial
+Users) shall submit reports during the months of June and December, unless
+required more frequently in the Pretreatment Standard or an alternative schedule
+is established in writing by WASA; and
+
+
+
+
+
+
+
+All Periodic Compliance Reports shall include:
+
+
+
+
+
+
+
+A record of the concentrations (and mass if specified in the discharge permit)
+of the pollutants listed in the discharge permit that were measured and a record
+of all flow measurements or the average and maximum daily flow for the reporting
+period;
+
+
+
+
+
+Documentation to demonstrate compliance with the Best Management Practices (BMP)
+or the average and maximum daily flow for the reporting period, in cases where
+the discharge standards are based on compliance with BMPs;
+
+
+
+
+
+Flow data, reported on the basis of actual measurement except when WASA may
+allow for verifiable estimates of these flows if justified by cost or
+feasibility considerations;
+
+
+
+
+
+Sampling and analysis data collected at the permitted location when the
+Industrial User performs sampling and analysis more frequently than is required
+and follows the sampling and analysis procedures in this chapter;  and
+
+
+
+
+
+The certification statement provided in § 1508.10 signed by an authorized
+representative in accordance with § 1508.11.
+
+
+
+
+
+Reporting Violations (applicable to all Industrial Users).  The following
+applies to reporting violations applicable to all Industrial Users:
+
+
+
+
+
+
+
+If sampling performed by an Industrial User exceeds an effluent limit, the
+Industrial User shall notify WASA within twenty-four (24) hours of becoming
+aware of the exceedance;
+
+
+
+
+
+
+
+The Industrial User shall repeat the sampling and analysis for that parameter
+and submit the results of the repeat analysis to WASA within thirty (30) days
+after becoming aware of the violation; and
+
+
+
+
+
+
+
+If WASA performed the sampling and analysis in lieu of the Industrial User and a
+result exceeds an effluent limit, then WASA shall perform the repeat sampling
+and analysis for that parameter unless WASA requires the Industrial User to
+perform the repeat analysis.
+
+
+
+
+
+
+
+Baseline Monitoring Reports. All Categorical Industrial Users shall comply with
+the following requirements for Baseline Monitoring Reports:
+
+
+
+
+
+
+
+Existing Categorical Industrial Users currently discharging to or scheduled to
+discharge to the District’s wastewater system shall be required to submit to
+WASA a report which contains the information listed in paragraph (c) within
+either one hundred eighty (180) days after the effective date of a Categorical
+Pretreatment Standard or the final administrative decision on a category
+determination under 40 C.F.R. § 403.6(a)(4), whichever is later;
+
+
+
+
+
+New sources and sources that become Categorical Industrial Users subsequent to
+the promulgation of an applicable Categorical Pretreatment Standard shall be
+required to submit to WASA a report which contains the information listed in
+paragraph (c) at least ninety (90) days prior to commencement of their
+discharge. A new source shall also be required to report the methods of
+pretreatment it intends to use to meet applicable Categorical Pretreatment
+Standards.  New sources shall give estimates of anticipated flows and pollutants
+discharged;
+
+
+
+
+
+
+
+Baseline Monitoring Reports shall include the following:
+
+
+
+
+
+
+
+The name and address of the facility, and the name of the operator and owner;
+
+
+
+
+
+
+
+A list of environmental control permits (including but limited to, hazardous
+waste generator permit, underground storage tank registration, and pesticide
+operator license) held by the facility;
+
+
+
+
+
+
+
+A brief description of the nature of the industrial processes or operations,
+average rate of production, and North American Industrial Classification System
+or Standard Industrial Classification of the operation(s) carried out by the
+Industrial User.  This description should include a schematic process diagram
+which indicates points of discharge to the District’s wastewater system from
+the regulated processes;
+
+
+
+
+
+
+
+Measured average daily flow and the maximum daily flow in gallons per day for
+each of the regulated process streams and any other streams, as necessary, to
+allow use of the combined waste stream formula set out in 40 C.F.R. § 403.6(e).
+ WASA may allow for verifiable estimates of these flows where justified by cost
+or feasibility considerations;
+
+
+
+
+
+
+
+The Categorical Pretreatment Standards applicable to each regulated process, if
+known;
+
+
+
+
+
+
+
+The results of sampling and analysis of at least one (1) representative sample
+identifying the nature and concentration (and/or mass where required by the
+Pretreatment Standard or WASA) of regulated pollutants in the discharge from
+each regulated process, which shall comply with the following:
+
+
+
+
+
+
+
+Both daily maximum and daily average concentrations (or mass, where required)
+shall be reported; and
+
+
+
+
+
+
+
+The sample shall be representative of daily operations and collected and
+analyzed in accordance with procedures listed in § 1507.6;
+
+
+
+
+
+
+
+WASA may allow historical data to be used if information is sufficient to
+determine the need for industrial pretreatment measures.  Submitted data shall
+include:
+
+
+
+
+
+
+
+The time, date, and place of sampling;
+
+
+
+
+
+
+
+Methods of analysis; and
+
+
+
+
+
+
+
+Certification that sampling and analysis is representative of normal work cycles
+and expected pollutant discharges to the District’s wastewater system;
+
+
+
+
+
+
+
+In cases where the Pretreatment Standard requires compliance with a Best
+Management Practice or pollution prevention alternative, the Industrial User
+shall submit documentation as required by WASA or the applicable Standards to
+determine compliance with the Standard;
+
+
+
+
+
+
+
+Certification.  A statement reviewed by the Industrial User’s authorized
+representative and certified to by a qualified professional, indicating whether
+pretreatment standards are being met on a consistent basis, and, if not, whether
+additional Operation and Maintenance (O&#038;M) and/or additional pretreatment,
+is required to meet the pretreatment standards and requirements;
+
+
+
+
+
+
+
+Compliance schedule.  If additional pretreatment and/or O&#038;M is required to
+meet the pretreatment standards, the shortest schedule by which the Industrial
+User will provide such additional pretreatment and/or O&#038;M.  The completion
+date in this schedule shall not be later than the compliance date established
+for the applicable pretreatment standard.  A compliance schedule pursuant to
+this section shall meet the requirements set out in 40 C.F.R. § 403.12 (c); and
+
+
+
+
+
+
+
+All baseline monitoring reports shall include the certification statement
+provided in § 1508.10 and shall be signed by an authorized representative in
+accordance with § 1508.11.
+
+
+
+
+
+
+
+Compliance Schedule Progress Reports (applicable to Industrial Users subject to
+a compliance schedule).  Not later than fourteen (14) days following each date
+in a schedule and the final date for compliance, the Industrial User shall
+submit a progress report to WASA including, at a minimum, whether or not the
+Industrial User complied with the compliance deadlines and, if not, the date on
+which the Industrial User expects to comply with the compliance deadlines, the
+reason for delay, and the steps being taken by the Industrial User to return to
+the established compliance schedule.  In no event shall more than nine (9)
+months elapse between such progress reports to WASA.
+
+
+
+
+
+
+
+Ninety (90) Day Compliance Reports shall be submitted under the following
+conditions:
+
+
+
+
+
+
+
+Final Compliance Reports shall be submitted by existing Industrial Users within
+ninety (90) days following the date for final compliance with the applicable
+pretreatment standards in a compliance schedule;
+
+
+
+
+
+
+
+Final Compliance Reports shall be submitted by Categorical Industrial Users
+within ninety (90) days following the date for final compliance with the
+applicable Categorical Pretreatment Standards;
+
+
+
+
+
+
+
+Initial Compliance Reports shall be submitted by New Source Categorical
+Industrial Users within ninety (90) days following commencement of the discharge
+to the District’s wastewater system; and
+
+
+
+
+
+
+
+Both the ninety (90) Day Final and Initial Compliance Reports shall include the
+information described in § 1508.5(c)(4) – (11).
+
+
+
+
+
+
+
+Pretreatment Facilities Operation and Maintenance Certification.  In addition to
+the certification requirements associated with the discharge monitoring reports,
+WASA may request that Industrial Users submit a list of their pretreatment
+facilities and a certification stating that their pretreatment facilities are
+being properly operated and maintained.  If WASA makes the request, the
+following certification statement shall be signed by an authorized
+representative in accordance with § 1508.11 and submitted to WASA:
+
+
+
+Based on my inquiry of the person or persons directly responsible for operating
+and maintaining the pretreatment facilities, I certify under penalty of law
+that, to the best of my knowledge and belief that during the period from
+[specify month, day, year] to [specify month, day, year], the facility described
+as [specify facility name] located at [provide address] has properly operated
+and maintained all pretreatment facilities in accordance with manufacturers’
+recommendations and District and WASA regulations.  This certification is based
+on the following information: [provide supporting documentation that may
+include, but is not limited to, the following: operating logs; cleaning,
+inspection, and/or maintenance records; preventive maintenance work orders;
+equipment calibration records; and equipment repair or replacement records].  I
+am aware that there are significant penalties for submitting false information,
+including the possibility of having to pay a fine and imprisonment for knowingly
+doing so.
+
+
+
+
+
+
+
+Annual Certification by Non-Significant Categorical Industrial Users.  A
+facility determined to be a Non-Significant Categorical Industrial User pursuant
+to 40 C.F.R. § 403.3(v)(2) shall annually submit the following certification
+statement, signed by an authorized representative in accordance with § 1508.11:
+
+
+
+Based on my inquiry of the person or persons directly responsible for managing
+compliance with the Categorical Pretreatment Standards under 40 C.F.R. Parts
+405-471 [specify applicable section], I certify under penalty of law that, to
+the best of my knowledge and belief that during the period from [specify month,
+day, year] to [specify month, day, year]:  (a) The facility described as
+[specify facility name] located at [provide address] met the definition of a
+Non-Significant Categorical Industrial User as described in 40 C.F.R. §
+403.3(v)(2); (b) the facility complied with all applicable pretreatment
+standards and requirements during this period; and (c) the facility never
+discharged more than 100 gallons of total categorical wastewater on any given
+day during this reporting period.  This compliance certification is based on the
+following information [provide supporting documentation].  I am aware that there
+are significant penalties for submitting false information, including the
+possibility of having to pay a fine and imprisonment for knowingly doing so.
+
+
+
+
+
+
+
+General Certification Statement. Industrial Users shall include the following
+certification statement in the submission of all applications, reports, waiver
+requests, notices to WASA (except for Pretreatment Facilities Operation and
+Maintenance Certification, and annual certification by Non-Significant
+Categorical Industrial Users):
+
+
+
+I certify under penalty of law that this document and all attachments were
+prepared under my direction or supervision in accordance with a system designed
+to assure that qualified personnel properly gather and evaluate the information
+submitted. Based on my inquiry of the person or persons who manage the system,
+or those persons directly responsible for gathering the information, the
+information submitted is, to the best of my knowledge and belief, true,
+accurate, and complete. I am aware that there are significant penalties for
+submitting false information, including the possibility of having to pay a fine
+and imprisonment for knowing violations.
+
+
+
+
+
+
+
+Signature Requirements.  All applications, reports, certifications, and notices
+shall be signed as follows:
+
+
+
+
+
+
+
+By a responsible corporate officer, if the Industrial User is a corporation;
+
+
+
+
+
+
+
+By a general partner or proprietor if the Industrial User is a partnership or
+sole proprietorship, respectively;
+
+
+
+
+
+
+
+By a duly authorized representative of the individual designated in paragraphs
+(a) and (b) of this subsection if:
+
+
+
+
+
+
+
+The authorization is made in writing by the individual described in paragraphs
+(a) or (b);
+
+
+
+
+
+
+
+The authorization specifies either an individual or a position having
+responsibility for the overall operation of the facility from which the
+industrial discharge originates, such as the position of plant manager, general
+manager, facility manager, operator of a well, or well field superintendent, or
+a position of equivalent responsibility, or having overall responsibility for
+environmental matters for the company; and
+
+
+
+
+
+
+
+The written authorization is submitted to WASA; and
+
+
+
+
+
+
+
+If an authorization under paragraph (c) of this subsection is no longer accurate
+because a different individual or position has responsibility for the overall
+operation of the facility, or overall responsibility for environmental matters
+for the company, a new authorization satisfying the requirements of paragraph
+(c) of this subsection shall be submitted to WASA prior to or together with any
+reports to be signed by an authorized representative.
+
+
+
+
+
+
+
+A written report or certification received by WASA after a specified due date
+shall be deemed a late report or certification and the Industrial User shall be
+subject to enforcement action in accordance with § 1513.
+
+
+
+	SOURCE: Final Rulemaking published at 33 DCR 6194, 6201 (October 10, 1986); as
+amended by Final Rulemaking published at 47 DCR 2948 (April 28, 2000); as
+amended by Notice of Final Rulemaking published at 59 DCR 1021, 1052 (February
+10, 2012).

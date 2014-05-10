@@ -1,0 +1,196 @@
+                                  DC REGULATIONS
+
+MAJOR SOURCE AND CASE-BY-CASE REASONABLY AVAILABLE CONTROL TECHNOLOGY (RACT) (§
+20-715)
+
+Calculation of source emissions of VOCs to determine applicability of a
+   regulation of this section shall be based on the following:
+   
+   
+   
+   (a)	The theoretical potential to emit (design capacity or maximum production
+   and maximum potential operating hours) before add-on controls; and
+   
+   
+   
+   (b)	The sum of all emissions from individual emission sources within the same
+   control techniques guideline (CTG) category, except for petroleum/gasoline
+   marketing, in which emissions from storage tanks, terminals, and loading racks
+   within the same plant or site shall be summed.
+   
+   
+   
+   
+   
+   
+   
+   Major Source and Case-by-Case Reasonably Available Control Technology (RACT)
+   shall be applied if the theoretical potential plant-wide emissions are, or
+   have ever been, greater than or equal to twenty-five tons per year (25 tpy).
+   
+   
+   
+   715.3 	For sources for which there is no control technique guideline (CTG),
+   the requirements of this section shall apply in addition to the following:
+   
+   
+   
+   
+   
+   
+   
+   Theoretical potential emissions from all processes within a plant shall be
+   summed to determine applicability of RACT;
+   
+   
+   
+   
+   
+   
+   
+   RACT shall be evaluated for all processes in the plant if theoretical
+   potential emissions as determined by this section are greater than or equal to
+   twenty-five tons per year (25 tpy); and
+   
+   
+   
+   
+   
+   
+   
+   RACT is not applicable if physical or operational limitations on the capacity
+   of the source to emit are federally enforceable.
+
+   715.4. Any person to which § 715.1 through 715.3 applies shall propose RACT
+   based on a source-specific RACT analysis, in accordance with § 715.5 through
+   715.7.
+
+   715.5. To propose source-specific RACT, any person shall:
+   
+   
+   
+   
+   
+   
+   
+   Notify the Department of their request for a source-specific RACT
+   determination with the application for a permit;
+   
+   
+   
+   
+   
+   
+   
+   Provide associated monitoring, testing, certification, recordkeeping, and
+   reporting procedures in accordance with 20 DCMR chapter 5;
+   
+   
+   
+   
+   
+   
+   
+   Provide a schedule for achieving compliance with the proposed RACT as
+   expeditiously as practicable; and
+   
+   
+   
+   
+   
+   
+   
+   Submit the proposed RACT to the Department for approval.
+
+   715.6. Any person who prepares and submits a source-specific RACT analysis
+   shall include and provide the Department:
+   
+   (a)	A ranking of the available control options for the affected source in
+   descending order of control effectiveness;
+   
+   (b) 	An evaluation of the technical feasibility of the available control
+   options identified in § 715.6(a) based on physical, chemical, and engineering
+   principles, where a determination of technical infeasibility shall identify
+   technical difficulties which would preclude the successful use of the control
+   option on the affected source;
+   
+   (c) 	A ranking list of the technically feasible control options in order of
+   overall control effectiveness for VOC emissions that presents the array of
+   control options and shall include, at a minimum, the following information:
+   
+   (1) 	The baseline emissions of VOCs before implementation of each control
+   option;
+   
+   (2) 	The estimated emission reduction potential or the estimated control
+   efficiency of each control option;
+   
+   (3) 	The estimated emissions after the application of each control option; and
+   
+   (4) 	The economic impacts of each control option, including both overall cost
+   effectiveness and incremental cost effectiveness;
+   
+   (d) 	An evaluation of cost effectiveness of each control option consistent
+   with the “OAQPS Control Cost Manual” (Sixth Edition), EPA/452/B-02-001,
+   January 2002, and subsequent revisions, conducted in accordance with the
+   following requirements:
+   
+   (1) 	The cost effectiveness shall be evaluated in terms of dollars per ton of
+   VOC emissions reduction;
+   
+   (2) 	The cost effectiveness shall be calculated on average and incremental
+   bases for each option, with average cost effectiveness calculated as the
+   annualized cost of the control option divided by the baseline emissions rate
+   minus the control option emission rate, as shown by the following formula:
+   
+   Average cost effectiveness ($/ton removed) =Control option total annualized
+   cost ($/yr) / [Baseline emission rate – Control option rate (tons/yr)]
+   
+   (3) 	For purposes of this paragraph, baseline emission rate represents the
+   maximum emissions before the implementation of the control option, and the
+   baseline emissions rate shall be established using either test results or
+   approved emission factors and historic operating data;
+   
+   (4) 	For purposes of this paragraph, the incremental cost effectiveness
+   calculation compares the costs and emission level of a control option to those
+   of the next most stringent option, as shown by the following formula:
+   
+   Incremental Cost (dollars) per incremental ton removed = [Control option total
+   annualized cost ($/yr) – Total annualized cost of next most stringent
+   control option ($/yr)] / [Next most stringent control option emission rate
+   (ton/yr) – control option emission rate (ton/yr)];
+   
+   
+   
+   
+   
+   A recommendation of a RACT emission limitation, equipment standard, or control
+   technology for each affected emission source or unit; and
+   
+   
+   
+   
+   
+   
+   
+   Additional information requested by the Department that is necessary for the
+   evaluation of the RACT proposal.
+
+   715.7. The Department will:
+   
+   
+   
+   (a)	Approve, deny, or modify each RACT proposal and will approve each
+   source-specific RACT determination; and
+   
+   
+   
+   (b)	Incorporate each approved RACT determination in a permit and submit the
+   RACT determination to the EPA for approval as a revision to the SIP.
+   
+   
+   
+   	SOURCE: Section 3 of the Air Pollution Control Act of 1984 National Ambient
+   Air Quality Standards Attainment Amendment Act of 1993, D.C. Law 10-24, 40 DCR
+   5474, 5487 (July 30, 1993); as Final Rulemaking published at 51 DCR 3877
+   (April 16, 2004); as amended by Notice of Final Rulemaking published at 58 DCR
+   11286, 11295 (December 30, 2011).

@@ -1,0 +1,76 @@
+                                  DC REGULATIONS
+
+NEW PIPING FOR UST SYSTEMS (§ 20-5704)
+
+5704.1. The piping that routinely contains regulated substances and is in
+   contact with earthen materials shall be properly designed, constructed, and
+   protected from corrosion in accordance with a code of practice developed by a
+   nationally recognized association or independent testing laboratory, as
+   specified by the Director.
+
+   5704.2. Except as provided in § 5704.7, underground storage tank system
+   piping shall be constructed of:
+   
+   
+   
+   (a)	Fiberglass-reinforced plastic;
+   
+   
+   
+   (b)	Steel and shall be cathodically protected in accordance with the
+   requirements of § 5901; or
+   
+   
+   
+   (c)	Other materials approved by the Director in accordance with § 5704.8.
+
+   5704.3. Steel UST piping shall be cathodically protected by being coated with
+   a suitable dielectric material, and, in addition:
+   
+   
+   
+   (a)	Field-installed cathodic protection systems shall be designed by a
+   corrosion expert; and
+   
+   
+   
+   (b)	Impressed current cathodic protection systems shall be designed to allow
+   determination of current operating status as required by § 5901.6.
+
+   5704.4. Each cathodic protection system shall be operated and maintained in
+   accordance with § 5901.
+
+   5704.5. Except as provided in § 5704.7, underground piping for hazardous
+   substance USTs, and pressurized underground piping and non-safe suction piping
+   for all petroleum USTs, shall be equipped with secondary containment features
+   that are designed and constructed in compliance with the requirements of §
+   5701.4 of this chapter.
+   
+   
+   
+   
+   
+   
+   
+   Suction piping that does not comply with the requirements of § 6004.8 (a)
+   through (e), shall be considered non-safe suction piping.
+
+   5704.6. For the purposes of this section, &#8220;pressurized underground
+   piping&#8221; includes pressurized supply lines, return lines, and remote fill
+   lines.
+
+   5704.7. Secondary containment shall not be required for vent pipes, Stage II
+   vapor recovery pipes, vertical fill pipes, or piping for hazardous substance
+   USTs used for industrial use.
+
+   5704.8. Other materials and construction techniques may be used for UST piping
+   if the piping construction and corrosion protection are determined by the
+   Director to be designed to prevent the release or threatened release of any
+   stored regulated substance in a manner that is no less protective of human
+   health and the environment than the other provisions of this section.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 40 DCR 7835, 7857 (November 12, 1993);
+   as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999); as
+   amended by Final Rulemaking published at 56 DCR 6678 (August 21, 2009).

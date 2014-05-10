@@ -1,0 +1,300 @@
+                                  DC REGULATIONS
+
+INTAGLIO, FLEXOGRAPHIC, AND ROTOGRAVURE PRINTING (§ 20-710)
+
+710.1 	Except as provided in § 710.2, it shall be prohibited to operate:
+   
+   
+   
+   	(a)	Any intaglio printing unit or perform any intaglio printing operation,
+   except in compliance with the requirements of this section; or
+   
+   
+   
+   	(b)	After January 1, 2012, any individual flexographic or rotogravure package
+   printing press with the theoretical potential to emit from the dryer before
+   controls of at least twenty-five tons per year (25 tpy) of VOC from inks,
+   coatings and adhesives combined, except in compliance with the applicable
+   requirements of this section, where any flexographic or rotogravure package
+   printing press that becomes or is currently subject to § 710.1(b) will remain
+   subject to the applicable requirements of this section even if its theoretical
+   potential to emit has fallen or later falls below the applicability threshold.
+   
+   
+   
+   710.2 	If part or all of any printing operation involving VOC emissions is not
+   specifically controlled by the requirements of this section, then the
+   VOC-related emission operation or part of the operation shall be governed by
+   the other requirements of this subtitle.
+   
+   
+   
+   710.3 	This section shall apply only to the emissions of VOCs; all provisions
+   of this subtitle other than those restricting the emissions of VOCs apply to
+   the operations regulated by this section.
+   
+   
+   
+   
+   
+   
+   
+    	The use of inks, wiping solutions, and fountain solutions in
+   
+   connection with printing units shall comply with the limits on the percentage
+   content of VOCs of the inks, wiping solutions and fountain solutions for the
+   respective types of printing units and be subject to § 710.5 through 710.8.
+
+   710.5. The VOC content of ink shall not exceed the following percentages after
+   December 31, 1987:
+   
+   
+   
+   
+   
+   
+   
+   Heatset intaglio, thirty percent (30%);
+   
+   
+   
+   
+   
+   
+   
+   Non-heatset paper-wipe intaglio, five percent (5%);
+   
+   
+   
+   
+   
+   
+   
+   Non-heatset cylinder-wipe intaglio, twelve percent (12%);
+   
+   
+   
+   
+   
+   
+   
+   Flexography, sixty-five percent (65%), except for any individual flexographic
+   package printing press with the theoretical potential to emit from the dryer
+   prior to controls of at least twenty-five tons per year (25 tpy) of VOC
+   (petroleum ink oil) from inks, coatings, and adhesives combined, which are
+   subject to the following:
+   
+   
+   
+   (1) 	Sixty-five percent (65%) overall control for a press that was first
+   installed before March 14, 1995, and that is controlled by an add-on air
+   pollution control device (APCD) whose first installation was before January 1,
+   2012;
+   
+   
+   
+   (2)	Seventy percent (70%) overall control for a press that was first installed
+   before March 14, 1995, and that is controlled by an add-on APCD whose first
+   installation was on or after January 1, 2012;
+   
+   
+   
+   (3)	Seventy-five percent (75%) overall control for a press that was first
+   installed on or after March 14, 1995, and that is controlled by an add-on APCD
+   whose first installation was before January 1, 2012; and
+   
+   
+   
+   (4)	Eighty percent (80%) overall control for a press that was first installed
+   on or after March 14, 1995, and that is controlled by an add-on APCD whose
+   first installation was on or after January 1, 2012; and
+   
+   
+   
+   
+   
+   
+   
+   Gravure, twelve percent (12%), except for any individual rotogravure package
+   printing press with the theoretical potential to emit from the dryer before
+   controls of at least twenty-five tons per year (25 tpy) of VOC (petroleum ink
+   oil) from inks, coatings, and adhesives combined, which are subject to the
+   following:
+   
+   
+   
+   (1) 	Sixty-five percent (65%) overall control for a press that was first
+   installed before March 14, 1995, and that is controlled by an add-on APCD
+   whose first installation was before January 1, 2012;
+   
+   
+   
+   (2)	Seventy percent (70%) overall control for a press that was first installed
+   before March 14, 1995, and that is controlled by an add-on APCD whose first
+   installation was on or after January 1, 2012;
+   
+   
+   
+   (3)	Seventy-five percent (75%) overall control for a press that was first
+   installed on or after March 14, 1995, and that is controlled by an add-on APCD
+   whose first installation was before January 1, 2012; and
+   
+   
+   
+   (4)	Eighty percent (80%) overall control for a press that was first installed
+   on or after March 14, 1995, and that is controlled by an add-on APCD whose
+   first installation was on or after January 1, 2012.
+
+   710.6. For § 710.5(d)(1)-(4) and (e)(1)-(4), calculation of the source’s
+   theoretical potential to emit shall be pursuant to § 715.1.
+
+   710.7. As an alternative to § 710.5(d)(1)-(4) and (e)(1)-(4), the following
+   equivalent VOC content limits can be met:
+   
+   
+   
+   
+   
+   
+   
+   Eight tenths of a kilogram (0.8 kg) VOC/kilogram (kg) solids applied; or
+   
+   
+   
+   
+   
+   
+   
+   Sixteen tenths of a kilogram (0.16 kg) VOC/kilogram (kg) materials applied.
+
+   710.8. The VOC content of wiping solution shall not exceed the following
+   percentages after December 31, 1987:
+   
+   
+   
+   
+   
+   
+   
+   Heatset intaglio, one percent (1%); and
+   
+   
+   
+   
+   
+   
+   
+   Non-heatset cylinder-wipe intaglio, one percent (1%).
+   
+   
+   
+   710.9 		For § 710.5 through 710.8:
+   
+   
+   
+   
+   
+   
+   
+   The percentage VOC content is by weight and applies to the inks and solutions
+   as contained in the storage wells (fountains) of the printing unit, and does
+   not include water;
+   
+   
+   
+   
+   
+   
+   
+   The percentage VOC content shall be determined in accordance with Procedure B
+   of test method ASTM D-2369-81; where, in lieu of testing the formulated inks
+   and solutions, the individual components of the formulations may be tested and
+   the VOC content of the formulations may be calculated there from; and
+   
+   
+   
+   
+   
+   
+   
+   The percentage water content shall be determined in accordance with test
+   method ASTM D-3792-79.
+
+   710.10. Ink usage in connection with all forms of intaglio printing shall be
+   minimized to the extent feasible by routing the inking cylinders or other
+   techniques.
+   
+   
+   
+   710.11 	Alternate VOC emission reduction systems may be used to attain
+   compliance with § 710.5 through 710.8 in place of the specific requirements
+   stated in those sections provided that:
+   
+   
+   
+   (a) 	The alternate VOC reduction system(s) is demonstrated to have at least
+   equivalent results in limiting emissions of VOCs as would the application of
+   the requirements of those sections; and
+   
+   
+   
+   (b) 	The alternate system(s) shall be approved by the Department.
+
+   710.12. All containers holding or conveying VOC-containing materials shall be
+   open only when necessary and openings shall be restricted to the extent
+   feasible.
+
+   710.13. The leaking of any solvent or solvent-containing materials from any
+   printing unit or associated equipment shall be prohibited.
+
+   710.14. The storage or disposal of any solvent or solvent-containing material,
+   including waste material, in a manner that will cause or allow its evaporation
+   into the atmosphere shall be prohibited.
+
+   710.15. To the greatest extent feasible, persons operating printing units and
+   associated equipment shall minimize their use of VOC-containing materials by
+   restricting wasteful usage and by replacing the material with emulsions or
+   other materials.
+
+   710.16. For establishments to which § 710.5 through 710.8 apply, but within
+   which one (1) or more printing units is demonstrated to be unable to comply or
+   cannot feasibly comply, any person owning or operating the establishment may
+   bring it into compliance by reducing VOC emissions from other printing units
+   within the establishment as follows:
+   
+   
+   
+   (a) 	In a ratio of five (5) units of reduced emissions for each one (1) unit
+   of excess emissions for operations during the months of April, May, June,
+   July, August, and September;
+   
+   
+   
+   (b) 	In a ratio of one (1) unit of reduced emissions for each one (1) unit of
+   excess emissions for operations during the months of October, November,
+   December, January, February and March; and
+   
+   
+   
+   (c)	Provided, that:
+   
+   
+   
+   (1) 	The owner or operator demonstrates to the Department that the reduction
+   ratio is met by the proposed trade;
+   
+   
+   
+   (2) 	The Department approves the proposed trade; and
+   
+   
+   
+   (3) 	The proposed trade is legally enforceable against the owner and operator
+   of the establishment.
+   
+   
+   
+   	SOURCE: Section 3 of the District of Columbia Air Pollution Control Act of
+   1984, D.C. Law 5-165, § 710, 32 DCR 565, 640 (February 1. 1985), as amended
+   by Final Rulemaking published at 36 DCR 2554, 2555 (April 14, 1989); as
+   amended by 58 DCR 11286, 11289 (December 30, 2011).

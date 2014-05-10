@@ -1,0 +1,48 @@
+                                  DC REGULATIONS
+
+CREATION AND TRACKING OF RENEWABLE ENERGY CREDITS (§ 15-2903)
+
+2903.1. RECs shall be created and tracked through the PJM Environmental
+   Information Service GATS (PJM-EIS GATS) beginning January 1, 2006. The
+   accumulation of RECs derived from generation occurring prior to the date of
+   January 1, 2006, is not permissible.
+
+   2903.2. Behind-the-Meter generators with a capacity of less than ten kilowatts
+   (10 kW) may submit engineering based estimates of their output if the
+   generator is not directly metered by a revenue grade utility meter.  For solar
+   thermal energy systems that do not generate electricity:
+   
+   
+   
+   (a)	If the output is to be estimated, the Commission will provide PJM-EIS with
+   the output in kilowatt-hour savings for the system, based on SRCC’s
+   estimated annual system performance of OG-300 certified systems; or
+   
+   
+   
+   (b)	If the solar thermal energy system uses an energy meter that meets the
+   performance standards established by OIML, then the solar thermal energy
+   produced by the system shall be credited with one kilowatt hour (1 kWh) of
+   electricity generated for each three thousand four hundred twelve British
+   thermal units (3,412 BTUs) produced by the solar thermal energy system.
+
+   2903.3. RECs created by behind-the-meter generators must be recorded in GATS
+   at least once each calendar year in order to be eligible for compliance.
+
+   2903.4. RECs shall be valid for a three (3)-year period from the date of
+   generation beginning January 1, 2006, except where precluded by statute. The
+   last business day of January of each year shall be the deadline for the
+   creation of RECs for the previous year, subject to further changes in GATS
+   provisions.
+
+   2903.5. A REC shall be retired after it is used to comply with any
+   state&#8217;s Renewable Energy Portfolio requirement.
+
+   2903.6. Retroactively created RECs must be created and tracked through PJM-EIS
+   GATS.
+   
+   
+   
+   	SOURCE: Notice of Final Rulemaking published at 55 DCR 000561 (January 18,
+   2008); as amended by Notice of Final Rulemaking published at 59 DCR 2313, 2321
+   (March 23, 2012).

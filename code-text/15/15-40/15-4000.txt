@@ -1,0 +1,31 @@
+                                  DC REGULATIONS
+
+PURPOSE AND APPLICABILITY (§ 15-4000)
+
+4000.1. This Chapter establishes the District of Columbia Small Generator
+   Interconnection Rules (&#8220;DSGIR&#8221;) which apply to facilities
+   satisfying the following criteria:
+   
+   
+   
+   (a)	The total nameplate capacity of the small generator facility is equal to
+   or less than 10 megawatts (&#8220;MW&#8221;).
+   
+   
+   
+   (b)	The small generator facility is not subject to the interconnection
+   requirements of PJM Interconnection.
+   
+   
+   
+   (c)	The small generator facility is designed to operate in parallel with the
+   electric distribution system.
+   
+   
+   
+   	AUTHORITY: D.C. Code §§ 2-505; 34-802
+   
+   
+   
+   	SOURCE: As amended by Final Rulemaking published at 56 DCR 1415, 1418
+   (February 13, 2009).

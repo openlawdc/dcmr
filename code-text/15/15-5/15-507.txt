@@ -1,0 +1,110 @@
+                                  DC REGULATIONS
+
+FUEL PROCUREMENT REPORTING REQUIREMENTS (§ 15-507)
+
+507.1. The company shall, on the prescribed forms, file monthly with the
+   Commission a &#8220;Monthly Report on Costs and Quality of Fuels Delivered to
+   Electric Plants&#8221; and a &#8220;Monthly Fuel Price Summary Date
+   Report.&#8221;
+
+   507.2. The Monthly Report on Costs and Quality of Fuels Delivered to Electric
+   Plants shall contain the following information with respect to each plant:
+   
+   
+   
+   (a)	Type of plant (steam or gas turbine);
+   
+   
+   
+   (b)	Type of purchase (contract or spot);
+   
+   
+   
+   (c)	Contract expiration within twenty-four (24) months (Yes or No);
+   
+   
+   
+   (d)	Fuel type (#2 oil, #6 oil, bituminous coal, etc.);
+   
+   
+   
+   (e)	Coal mines (Type and District);
+   
+   
+   
+   (f)	Source (county or area where coal originated; and for oil, refinery or
+   port of entry, etc.);
+   
+   
+   
+   (g)	Quantify received (M gallons, M tons, etc.);
+   
+   
+   
+   (h)	Quality received;
+   
+   	- average BTU content
+   
+   	- % sulfur content
+   
+   	- % ash content
+   
+   
+   
+   (i)	Cost in ￠/million BTU (delivered);
+   
+   
+   
+   (j)	Cost of fuel FOB (free on board) Source and transportation charges, stated
+   separately for each fuel delivery; and
+   
+   
+   
+   (k)	Premiums and Penalties.
+   
+   	- Source
+   
+   	- Company Plant
+   
+   	- Month(s)
+   
+   	- Tons (Gallons)
+   
+   	- Premiums (+), Penalties (-) &#8211; Adjusted ￠MMBTU
+
+   507.3. The Monthly Fuel Price Summary Report shall contain the following
+   information by plant type and fuel quality:
+   
+   
+   
+   (a)	Fuel type (coal or oil);
+   
+   
+   
+   (b)	Cost and quality per sulfur content range of fuels delivered (cent /MMBTU)
+   (Steam Generation); and
+   
+   	- .51% to 1.00%
+   
+   	- 1.01% to 1.5% (coal)
+   
+   	- 1.01% to 2.0% (oil)
+   
+   	- 1.51% to 2.0% (coal)
+   
+   	- 2.01% to 3.0% (oil)
+   
+   
+   
+   (c)	Average contract and spot price of fuels delivered (Turbine and
+   Combustion).
+
+   507.4. In addition to the reporting requirements of §§507.2 and 507.3, the
+   company shall regularly file with the Commission a copy of each of its
+   intermediate and long-term fuel supply contracts within ninety (90) days
+   following their execution. In complying with this requirement, the company may
+   identify contract data by code.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 29 DCR 5130, 5132 (November 19, 1982).

@@ -1,0 +1,75 @@
+                                  DC REGULATIONS
+
+ON-LINE LOTTERY TICKET VALIDATION (§ 30-605)
+
+605.1. In addition to the validation requirements of § 603, an on-line game
+   ticket shall not be valid unless all of the following conditions are met:
+   
+   
+   
+   (a)	The ticket validation number shall be presented and shall correspond in
+   its entirety, using the computer validation file, to the selected numbers
+   printed on the ticket for the date printed on the ticket;
+   
+   
+   
+    (b) 	For the POWERBALL®, MEGA MILLIONS®, Hot Lotto TM, Sizzler and Rolling
+   Cash 5 games, the player selected numbers on the ticket shall be in individual
+   groups of prescribed numbers each associated with a single letter
+   &#8220;A,&#8221; &#8220;B,&#8221; &#8220;C,&#8221; &#8220;D,&#8221; or
+   &#8220;E&#8221;;
+   
+   
+   
+   (c)	For the Quick CashTM game, the player selected numbers on the ticket shall
+   be in individual groups of prescribed numbers each associated with a single
+   letter &#8220;A,&#8221; &#8220;B,&#8221; and &#8220;C.&#8221; The requisite
+   number and the associated letters constitute a single lettered game board
+   play;
+   
+   
+   
+   (d)	For the DC Daily 6TM game, the player selected numbers on the ticket shall
+   be in individual groups of prescribed numbers each associated with a single
+   letter &#8220;A&#8221; and &#8220;B.&#8221; The requisite number and the
+   associated letters constitute a single lettered game board play;
+   
+   
+   
+   (e)	The ticket data shall have been recorded on the central computer system on
+   magnetic tape or disk prior to the drawing, and the ticket data shall match
+   this computer record in every respect;
+   
+   
+   
+   (f)	The player selected numbers, the validation number data and the drawing
+   data of an apparent winning lottery ticket shall appear on the official file
+   of winning tickets, and a ticket with that exact data shall not have been
+   previously paid; and
+   
+   
+   
+    (g) 	The MEGA MILLIONS® tickets meets all the rules for validation pursuant
+   to the MUSL MEGA MILLIONS Product Group Rules.
+
+   605.2. If multiple wagers have been placed by a single player or group of
+   players acting in concert on the same numbers or combination of numbers for a
+   single drawing in an on-line game, and the Executive Director has determined
+   that no such numbers or combination of numbers appears in the winners file in
+   the central computer system for the drawing in question, the Executive
+   Director may reject each claim for wagers without validating each and every
+   ticket which is the subject of the claim.
+   
+   
+   
+   	SOURCE: Final Rulemaking published at 39 DCR 7439, 7446 (October 2, 1992); as
+   amended by Final Rulemaking at 51 DCR 2400 (March 5, 2004); as amended by
+   Final Rulemaking at 53 DCR 295 (January 13, 2006); as amended by Final
+   Rulemaking at 55 DCR 6370 (June 6, 2008); as amended by Final Rulemaking
+   published at 57 DCR 974 (January 22, 2010).
+   
+   
+   
+   	HISTORICAL NOTE: Prior to October 2, 1992, the D.C. Lottery and Charitable
+   Games Control Board published Final Rulemaking at 29 DCR 2202, 2211 (May 28,
+   1982).
