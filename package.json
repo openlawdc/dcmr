@@ -12,6 +12,8 @@
     "get": "~1.2.1",
     "underscore": "~1.4.1",
     "url":"*",
-    "request": "~2.11.4"
+    "request": "~2.11.4",
+    "readdir-recursive":"*",
+    "elementtree":"*"
   }
 }
