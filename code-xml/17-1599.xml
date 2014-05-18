@@ -1,0 +1,101 @@
+<level>
+  <type>section</type>
+  <num>17-1599</num>
+  <heading>DEFINITIONS (§ 17-1599)</heading>
+  <level>
+    <num>1599.1.</num>
+    <text>As used in this chapter, the following terms have the meaning ascribed:</text>
+    <text>Board &amp;#8211; The District of Columbia Board of Professional Engineering.</text>
+    <text>Department &amp;#8211; Unless otherwise defined, the Department of Consumer and Regulatory Affairs.</text>
+    <text>Digital Signature &amp;#8211; An electronic authentication process attached to or logically associated with an electronic document utilizing technology that meets the National Institute of Standards and Technology (NIST) standards for security and
+      privacy to provide the same degree of assurance and certainty as the traditional &amp;#8220;paper and ink&amp;#8221; method of signatures.</text>
+    <text>Director &amp;#8211; The Director of the Department of Consumer and Regulatory Affairs. Engineering:</text>
+    <level>
+      <num>(a)</num>
+      <text>Engineer &amp;#8211; A person who is qualified to practice engineering by reason of special knowledge and use of the mathematical, physical, and engineering sciences and the principles and methods of engineering analysis and design, acquired by
+        engineering education and engineering experience.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Professional Engineer &amp;#8211; A person who has been duly licensed as a professional engineer by the Board. The Board may designate a professional engineer, based on education, experience, and examination, as being licensed in a specific discipline
+        or branch of engineering signifying the area in which the engineer has demonstrated competence.</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Engineer Intern &amp;#8211; A person who has qualified for, taken, and passed an examination in the fundamental engineering subjects, as provided in these Rules.</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Practice of Engineering &amp;#8211; Any service or creative work, the adequate performance of which requires engineering education, training, and experience in the application of special knowledge of the mathematical, physical, and engineering sciences
+        to such services or creative work as consultation, investigation, expert technical testimony, evaluation, planning, design and design coordination of engineering works and systems, planning the use of land, air, and water, teaching of advanced
+        engineering subjects, performing engineering surveys and studies, and the review of construction for the purpose of monitoring compliance with drawings and specifications; any of which embraces such services or work, either public or private,
+        in connection with any utilities, structures, buildings, machines, equipment, processes, work systems, projects, communication systems, transportation systems, and industrial or consumer products, or equipment of control systems, communications,
+        mechanical, electrical, hydraulic, pneumatic, chemical, environmental, or thermal nature, insofar as they involve safeguarding life, health, or property, and including such other professional services as may be necessary to the planning, progress,
+        and completion of any engineering services. Said practice includes the doing of such architectural work, as is incidental to the practice of engineering.</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Design coordination &amp;#8211; The review and coordination of those technical submissions prepared by others, including as appropriate and without limitation, &amp;#8220;consulting engineers, architects, landscape architects, surveyors or land
+        surveyors, and other professionals working under the direction of the engineer.</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Engineering surveys &amp;#8211; All survey activities required to support the sound conception, planning, design, construction, maintenance, and operation of engineered projects, but exclude the surveying of real property for the establishment of
+        land boundaries, rights-of-way, easements, configuration or contours of the Earth&amp;#8217;s surface, and the dependent or independent surveys or resurveys of the public land survey system.</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Consulting Engineer &amp;#8211; A professional engineer whose principal occupation is the independent practice of engineering; whose livelihood is obtained by offering engineering services to the public; who is devoid of public, commercial, and
+        product affiliation that might tend to imply a conflict of interest; and who is cognizant of his or her public and legal responsibilities, and is capable of discharging them.</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>A graduate of an engineering curriculum &amp;#8211; An individual who has been awarded a baccalaureate degree in engineering from an engineering program accredited by the Engineering Accreditation Commission of the Accreditation Board for Engineering
+        Technology (EAC/ABET), or a program that has been approved by the Board.</text>
+    </level>
+    <text>Inactive Licensee &amp;#8211; A licensee who is not engaged in engineering or land surveying practice that requires licensure in this jurisdiction may be granted inactive status. No inactive licensee may practice in this jurisdiction unless otherwise
+      exempted in this chapter.</text>
+    <text>Land Surveying:</text>
+    <text>Professional Surveyor or Land Surveyor &amp;#8211; A person who has been duly licensed as a professional surveyor or land surveyor by the Board, and engaged in the practice of land surveying.</text>
+    <level>
+      <num>(a)</num>
+      <text>Land Surveyor Intern &amp;#8211; A person who has qualified for, taken, and has passed an examination in the fundamental surveyor intern subjects, as provided by these Rules.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Practice of Surveying or Land Surveying &amp;#8211; Providing professional services such as consultation, investigation, testimony evaluation, expert technical testimony, planning, mapping, assembling, and interpreting reliable scientific measurements
+        and information relative to the location, size, shape, or physical features of the earth, existing or proposed improvements on the earth, the space above the earth, or any part of the earth, and utilization and development of these facts and interpretation
+        into an orderly survey map, plan, report, description, or project. The practice of surveying or land surveying includes, but is not limited to, any one or more of the following:</text>
+    </level>
+    <text>1. Determining the configuration or contour of the earth&amp;#8217;s surface or the position of fixed objects thereon by measuring lines and angles and applying the principles of mathematics or photogrammetry.</text>
+    <text>2. Performing geodetic surveying which includes surveying for determination of the size and shape of the earth utilizing angular and linear measurements through spatially oriented spherical geometry.</text>
+    <text>3. Determining, by the use of principles of surveying, the position for any survey control (non-boundary) monument or reference point; or setting, resetting, or replacing any such monument or reference point.</text>
+    <text>4. Creating, preparing, or modifying electronic or computerized data, including land information systems, and geographic information systems, relative to the performance of the activities in the above described items (1) through (3).</text>
+    <text>5. Locating, relocating, establishing, reestablishing, laying out, or retracing any property line or boundary of any tract of land or any road, right of way, easement, alignment, or elevation of any of the fixed works embraced within the practice
+      of engineering.</text>
+    <text>6. Making any survey for the subdivision of any tract of land.</text>
+    <text>7. Determining, by the use of principles of land surveying, the position for any survey monument or reference point; or setting, resetting, or replacing any such monument or reference point.</text>
+    <text>8. Creating, preparing, or modifying electronic or computerized data, including land information systems, and geographic information systems, relative to the performance of the activities in the above described items (5) through (7).</text>
+    <level>
+      <num>(d)</num>
+      <text>A Graduate of a Land Surveying Curriculum &amp;#8211; An individual who has been awarded a baccalaureate degree in land surveying from a program approved by the Board.</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>A Graduate of a Related Curriculum &amp;#8211; An individual who has been awarded a baccalaureate degree in areas in which land surveying courses may be taught along with mathematics and the physical sciences from a program approved by the Board.</text>
+    </level>
+    <text>Responsible Charge &amp;#8211; Direct control and personal supervision of engineering work or surveying or land surveying.</text>
+    <text>Rules of Professional Responsibility for Professional Engineers and Professional Surveyors or Land Surveyors &amp;#8211; These Rules.</text>
+    <text>Seal &amp;#8211; A symbol, image, or list of information that may be found in the form of a rubber stamp, embossed seal, computer-generated data, or other form.</text>
+    <text>Signature &amp;#8211; A handwritten message identification containing the name of the person who applied it.</text>
+    <text>State &amp;#8211; Any jurisdiction, territory, or possession of the United States and the District of Columbia.</text>
+    <text>Written Examination &amp;#8211; An examination administered in any format, including paper-and-pencil or on computer.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 54 DCR 8783 (September 7, 2007).</text>
+    </level>
+  </level>
+</level>

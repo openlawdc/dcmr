@@ -1,0 +1,26 @@
+<level>
+  <type>section</type>
+  <num>29-4899</num>
+  <heading>DEFINITIONS (§ 29-4899)</heading>
+  <level>
+    <num>4899.1.</num>
+    <text>For the purposes of this chapter, the following terms shall have the meanings ascribed:</text>
+    <text>Base year &amp;#8211; the standardized year on which rates for all hospitals for inpatient hospital services are calculated to derive a prospective reimbursement rate.</text>
+    <text>Department of Health Care Finance &amp;#8211; the executive agency of the District government responsible for administering the Medicaid program within the District of Columbia effective October 1, 2008.</text>
+    <text>Diagnosis Related Group (DRG) &amp;#8211; a patient classification system that reflects clinically cohesive groupings of inpatient hospitalizations utilizing similar hospital resources.</text>
+    <text>Direct Medical Education Costs &amp;#8211; the total direct medical education (DME) amount on line 25 of schedule E-4 (or its successor) of the Medicare cost report divided by total inpatient days (including nursery days) multiplied by the number
+      of Medicaid days (including nursery days). Costs shall be determined consistent with Medicare per resident amounts and capped residency counts.</text>
+    <text>High-cost outliers &amp;#8211; claims with costs exceeding two point five (2.5) standard deviations from the mean Medicaid cost for each APDRG classification.</text>
+    <text>Low-cost outliers &amp;#8211; claims with costs less than twenty-five percent (25%) of the average cost for each APDRG classification.</text>
+    <text>Service intensity weights &amp;#8211; A numerical value which reflects the relative resource requirements for the DRG to which it is assigned.</text>
+    <text>TEFRA Target Rate &amp;#8211; The rate ceiling for hospitals that are not reimbursed on a prospective payment system.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Emergency and Proposed Rulemaking published at 57 DCR 2691 (March 26, 2010) [EXPIRED]; as amended by Notice of Emergency and Proposed Rulemaking published at 57 DCR 6837 (July 10, 2010) [EXPIRED]; as amended by Notice of Final Rulemaking
+        published at 58 DCR 4323, 4334 (May 20, 2011); as amended by Final Rulemaking published at 59 DCR 15078 (December 28, 2012).</text>
+    </level>
+  </level>
+</level>

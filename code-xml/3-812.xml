@@ -1,0 +1,170 @@
+<level>
+  <type>section</type>
+  <num>3-812</num>
+  <heading>POST-ELECTION MANUAL AUDIT (§ 3-812)</heading>
+  <level>
+    <num>812.1.</num>
+    <text>A manual audit conducted pursuant to this section shall conform to the rules of this chapter.</text>
+  </level>
+  <level>
+    <num>812.2.</num>
+    <text>After each Primary, General, and Special election, the Executive Director shall conduct a public manual audit of at least:</text>
+    <level>
+      <num>(a)</num>
+      <text>All ballots cast, including absentee ballots, in one precinct per Ward or at least five percent of all precincts participating in an election, whichever number is greater;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Five percent (5%) of Special Ballots cast and counted; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Five percent (5%) of ballots cast at early voting centers.</text>
+    </level>
+  </level>
+  <level>
+    <num>812.3.</num>
+    <text>The manual audit shall entail counting of ballots cast on the machines selected for the audit and comparing the results of this count with the results shown by the results tape produced by the machine used to tabulate those ballots during the election.</text>
+  </level>
+  <level>
+    <num>812.4.</num>
+    <text>The Executive Director shall take appropriate measures to ensure that spoiled or defective ballots are not tallied as valid ballots in the manual audit process, except that a damaged or illegible VVPAT may be recreated pursuant to § 808.3 and deemed
+      valid.</text>
+  </level>
+  <level>
+    <num>812.5.</num>
+    <text>The manual audit shall be:</text>
+    <level>
+      <num>(a)</num>
+      <text>Announced no later than three (3) business days after the tabulation has been completed, but no fewer than twenty-four (24) hours in advance of the audit; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Conducted in public view such that members of the public are able to verify the tally, but are unable either to touch ballots and other official materials or to interfere in any way with the manual audit process.</text>
+    </level>
+  </level>
+  <level>
+    <num>812.6</num>
+    <text>812.6 At least one precinct from each ward shall be selected for participation in the audit. The precincts audited shall be selected randomly from each ward, such that each precinct in a ward shall have an equal chance of being selected for the manual
+      audit.</text>
+  </level>
+  <level>
+    <num>812.7</num>
+    <text>812.7 The Executive Director may select additional precincts in his or her discretion.</text>
+  </level>
+  <level>
+    <num>812.8</num>
+    <text>812.8 The contests subject to the manual audit shall be publicly selected at random and shall include:</text>
+    <level>
+      <num>(a)</num>
+      <text>At least one (1) District-wide contest (office or ballot question); and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>At least two (2) ward-wide contests.</text>
+    </level>
+  </level>
+  <level>
+    <num>812.9.</num>
+    <text>If there is no District-wide contest in an election, the Executive Director shall select sufficient ward-wide contests to adequately verify machine results.</text>
+  </level>
+  <level>
+    <num>812.10.</num>
+    <text>In addition to the randomly-selected contests described in § 812.8, the Executive Director shall select at least one additional contest for audit. Additional contest(s) audited may be selected due to allegations of voting equipment anomalies, requests
+      from candidates, random sampling, or other factors at the discretion of the Executive Director. If additional contest audits are performed as a result of a candidate request, the Board shall determine whether such audit is material to the outcome
+      of the election and may impose a fee paid by the requesting candidate to the Board. The amount of the fee imposed shall not be greater than the actual cost of conducting the audit for the additional contest. The Board’s rejection of a request for
+      an audit shall not preclude a candidate from petitioning for a recount pursuant to § 815.</text>
+  </level>
+  <level>
+    <num>812.11.</num>
+    <text>Individuals performing the manual audit shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Not be assigned to tally the results from a precinct in which that individual served as a poll worker on Election Day; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Not at any time before or during the manual audit be informed of the corresponding machine tally results.</text>
+    </level>
+  </level>
+  <level>
+    <num>812.12.</num>
+    <text>Individuals performing the manual audit shall be assembled into teams of at least four individuals such that there will be one person to call the ballot result, at least two persons to tally the ballot result, and at least one person to witness the
+      process.</text>
+  </level>
+  <level>
+    <num>812.13.</num>
+    <text>Each audit team shall be provided with a set of ballots associated with a machine that has been selected for the audit and advised as to which contest they are responsible for auditing.</text>
+  </level>
+  <level>
+    <num>812.14.</num>
+    <text>The audit team shall make a record of vote marking errors, including the nature of the marking error, and how the vote was interpreted, if voter intent could be determined pursuant to the rules specified in § 803.</text>
+    <level>
+      <num>(a)</num>
+      <text>Votes which were not properly marked, but that the audit team was able to determine voter intent, pursuant to the rules specified in § 803, shall be counted.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Votes which were not properly marked and the audit team could not determine voter intent, pursuant to the rules specified in § 803, shall not be counted.</text>
+    </level>
+  </level>
+  <level>
+    <num>812.15.</num>
+    <text>If the initial manual audit reveals a discrepancy between the machine result and the manual audit tally result which yields an error rate greater than one quarter (0.25) of a percent of votes cast in the contest being audited, or twenty percent (20%)
+      of the margin of victory (whichever is less), and such discrepancy is not attributed to marking errors, a second manual shall be conducted by the same team.</text>
+  </level>
+  <level>
+    <num>812.16.</num>
+    <text>If the second manual audit confirms the discrepancy described in subsection 812.15, the Board shall randomly-select another precinct in each ward in which the contest appeared on the ballot and audit:</text>
+    <level>
+      <num>(a)</num>
+      <text>All ballots cast, including absentee ballots, in one precinct per Ward or at least five percent of all precincts participating in an election, whichever number is greater;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Five (5) per cent of Special Ballots cast and counted; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Five (5) per cent of ballots cast at early voting centers.</text>
+    </level>
+  </level>
+  <level>
+    <num>812.17.</num>
+    <text>If the additional precinct manual audit confirms the discrepancy described in subsection 812.15, the Board shall audit all ballots cast in the contest.</text>
+  </level>
+  <level>
+    <num>812.18.</num>
+    <text>The results derived from the manual audits shall be considered the true and correct results of the election contests at issue.</text>
+  </level>
+  <level>
+    <num>812.19.</num>
+    <text>All machines found to have an error rate greater than that referenced in subsection 812.15 shall be examined and repaired before they may be used in future elections.</text>
+  </level>
+  <level>
+    <num>812.20.</num>
+    <text>The Executive Director or his or her designee shall include a report, which shall be made public on its website, on the results of the manual audit before the certification of the official election results. Such report shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Identify any discrepancies between the machine count and the manual tally;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Describe how each of these discrepancies was resolved; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Describe further investigations or actions to be taken, if any.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 27 D.C. Reg. 1836 (May 2, 1980), incorporating the text of Proposed Rulemaking published at 27 D.C. Reg. 1222, 1247 (March 21, 1980); as amended by Final Rulemaking published at 29 D.C. Reg. 2575 (June 18, 1982); renumbered
+        by Final Rulemaking published at 31 D.C. Reg. 2129, 2130 (May 4, 1984); and further amended by Final Rulemaking published at 31 D.C. Reg. 4524, 4526 (September 14, 1984); as amended by Final Rulemaking published at 51 D.C. Reg. 7431-7432 (July
+        30, 2004); as amended by Final Rulemaking published at 51 D.C. Reg. 5069-5070 (May 14, 2004); as amended by Notice of Emergency and Proposed Rulemaking published at 57 DCR 7705 (August 20, 2010)[EXPIRED]; as amended by Notice of Final Rulemaking
+        published at 57 DCR 11149, 11161 (November 26, 2010).</text>
+    </level>
+  </level>
+</level>

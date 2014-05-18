@@ -1,0 +1,254 @@
+<level>
+  <type>section</type>
+  <num>29-992</num>
+  <heading>REIMBURSEMENT TO FEE-FOR-SERVICE PROVIDERS FOR SELECTED FREQUENT PROCEDURES (§9-992)</heading>
+  <level>
+    <num>992.1.</num>
+    <text>The Department shall reimburse a fee-for-service provider for the following frequent procedures or services:</text>
+    <text>Selected Frequent Procedures</text>
+    <text>Procedure Code</text>
+    <text>Price</text>
+    <text>Microbial Identification, Nucleic Acid</text>
+    <text>87178</text>
+    <text>$14.18</text>
+    <text>Initial Medical Visit &amp;#8211; DHS</text>
+    <text>90020 Y4</text>
+  </level>
+  <level>
+    <num>94.64</num>
+    <text>94.64</text>
+    <text>Followup Medical Visit &amp;#8211; DHS</text>
+    <text>90060 Y4</text>
+  </level>
+  <level>
+    <num>94.64</num>
+    <text>94.64</text>
+    <text>Individual Medical Psychotherapy</text>
+    <text>90844</text>
+  </level>
+  <level>
+    <num>37.80</num>
+    <text>37.80</text>
+    <text>Hemodialysis Procedure w/single</text>
+    <text>90935</text>
+  </level>
+  <level>
+    <num>115.20</num>
+    <text>115.20</text>
+    <text>FRSDC/All Inclusive Dialysis Service</text>
+    <text>90955 YD</text>
+  </level>
+  <level>
+    <num>162.00</num>
+    <text>162.00</text>
+    <text>Echocardiography/realtime w/IMA</text>
+    <text>93307</text>
+  </level>
+  <level>
+    <num>112.50</num>
+    <text>112.50</text>
+    <text>Office Visit, new patient</text>
+    <text>99205</text>
+  </level>
+  <level>
+    <num>58.50</num>
+    <text>58.50</text>
+    <text>Brief Consult/Nurse or non-MD visit</text>
+    <text>99211 Y4</text>
+  </level>
+  <level>
+    <num>94.64</num>
+    <text>94.64</text>
+    <text>Brief Consult/Nurse or non-MD visit</text>
+    <text>99211 Y5</text>
+  </level>
+  <level>
+    <num>94.64</num>
+    <text>94.64</text>
+    <text>Office visit, established patient</text>
+    <text>99212</text>
+  </level>
+  <level>
+    <num>18.00</num>
+    <text>18.00</text>
+    <text>Office visit, established patient</text>
+    <text>99213</text>
+  </level>
+  <level>
+    <num>18.00</num>
+    <text>18.00</text>
+    <text>Office visit, established patient</text>
+    <text>99214</text>
+  </level>
+  <level>
+    <num>27.00</num>
+    <text>27.00</text>
+    <text>Office visit, established patient</text>
+    <text>99215</text>
+  </level>
+  <level>
+    <num>40.50</num>
+    <text>40.50</text>
+    <text>Initial Hospital Care</text>
+    <text>99221</text>
+  </level>
+  <level>
+    <num>31.50</num>
+    <text>31.50</text>
+    <text>Initial Hospital Care</text>
+    <text>99222</text>
+  </level>
+  <level>
+    <num>36.00</num>
+    <text>36.00</text>
+    <text>Initial Hospital Care</text>
+    <text>99223</text>
+  </level>
+  <level>
+    <num>40.50</num>
+    <text>40.50</text>
+    <text>Subsequent Hospital Care, H/P LowCom</text>
+    <text>99231</text>
+  </level>
+  <level>
+    <num>16.20</num>
+    <text>16.20</text>
+    <text>Subsequent Hospital Care</text>
+    <text>99232</text>
+  </level>
+  <level>
+    <num>16.20</num>
+    <text>16.20</text>
+    <text>Subsequent Hospital Care/Day</text>
+    <text>99233</text>
+  </level>
+  <level>
+    <num>33.30</num>
+    <text>33.30</text>
+    <text>Initial Inpatient Consultation</text>
+    <text>99254</text>
+  </level>
+  <level>
+    <num>54.00</num>
+    <text>54.00</text>
+    <text>Emergency Department Visit</text>
+    <text>99282</text>
+  </level>
+  <level>
+    <num>17.42</num>
+    <text>17.42</text>
+    <text>Emergency Department Visit</text>
+    <text>99283</text>
+  </level>
+  <level>
+    <num>25.71</num>
+    <text>25.71</text>
+    <text>Emergency Department Visit</text>
+    <text>99284</text>
+  </level>
+  <level>
+    <num>39.13</num>
+    <text>39.13</text>
+    <text>Critical Care Evaluation and Monitoring</text>
+    <text>99291</text>
+  </level>
+  <level>
+    <num>50.40</num>
+    <text>50.40</text>
+    <text>Periodic Preventive Medicine Re-evaluation</text>
+    <text>99392</text>
+  </level>
+  <level>
+    <num>23.40</num>
+    <text>23.40</text>
+    <text>Community Health Care Clinic visit</text>
+    <text>99502</text>
+  </level>
+  <level>
+    <num>68.98</num>
+    <text>68.98</text>
+    <text>Individual Psychotherapy, Psychiatrist/FSMHC</text>
+    <text>H5010 Y3</text>
+  </level>
+  <level>
+    <num>67.50</num>
+    <text>67.50</text>
+    <text>Individual Psychotherabpy, Mental Health Professional</text>
+    <text>H5015</text>
+  </level>
+  <level>
+    <num>58.50</num>
+    <text>58.50</text>
+    <text>Psychotherapy Group</text>
+    <text>H5020</text>
+  </level>
+  <level>
+    <num>27.00</num>
+    <text>27.00</text>
+    <text>Group Therapy (MD or MHP)</text>
+    <text>H5030</text>
+  </level>
+  <level>
+    <num>36.00</num>
+    <text>36.00</text>
+    <text>Comprehensive Evaluation</text>
+    <text>H5040</text>
+  </level>
+  <level>
+    <num>180.00</num>
+    <text>180.00</text>
+    <text>Single VC Service made by Provider</text>
+    <text>Y2344</text>
+  </level>
+  <level>
+    <num>17.87</num>
+    <text>17.87</text>
+    <text>Bifocal VC Serv. made by Provider</text>
+    <text>Y2345</text>
+  </level>
+  <level>
+    <num>20.75</num>
+    <text>20.75</text>
+    <text>Prescription/Medication Assessment.FSMHC</text>
+    <text>Y3907</text>
+  </level>
+  <level>
+    <num>31.50</num>
+    <text>31.50</text>
+    <text>Family Therapy/MHP/FSMHC</text>
+    <text>Y3908</text>
+  </level>
+  <level>
+    <num>54.00</num>
+    <text>54.00</text>
+    <text>Partial Day Programs/Adults</text>
+    <text>Y5909</text>
+  </level>
+  <level>
+    <num>105.30</num>
+    <text>105.30</text>
+    <text>Children’s Program</text>
+    <text>Y6909</text>
+  </level>
+  <level>
+    <num>108.00</num>
+    <text>108.00</text>
+    <text>Extended Therapy</text>
+    <text>Y7909</text>
+  </level>
+  <level>
+    <num>108.00</num>
+    <text>108.00</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>AUTHORITY</heading>
+      <text>The authority for this section is D.C. Code, 2001 Ed. §1-307.02; and Reorganization Plan No. 4 of 1996, 3 D.C. Code, 2001 Ed. at 413.</text>
+    </level>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 44 DCR 5495 (September 26, 1997); as amended by Final Rulemaking published at 45 DCR 5224 (August 7, 1998).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,24 @@
+<level>
+  <type>section</type>
+  <num>16-1012</num>
+  <heading>EXEMPT TRANSACTIONS (§ 16-1012)</heading>
+  <level>
+    <num>1012.1.</num>
+    <text>The chapter shall not apply to transactions involving the sale or purchase of any of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Coins that change substantially in relation to the precious metal content of those coins;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Medallion form bullion; or</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Bullion with a recognizable hallmark, fineness stamp, and weight delineation.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

@@ -1,0 +1,60 @@
+<level>
+  <type>section</type>
+  <num>20-2906</num>
+  <heading>DATA AND REPORTS (§ 20-2906)</heading>
+  <level>
+    <num>2906.1.</num>
+    <text>The operator shall be required to fill out all pertinent information on the noise data form for field measurements.</text>
+  </level>
+  <level>
+    <num>2906.2.</num>
+    <text>For each set of readings, the following information shall be required:</text>
+    <level>
+      <num>(a)</num>
+      <text>Date, time, location, operator&amp;#8217;s name;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Wind speed and direction;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>All instrumentation models and identifying numbers;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>A sketch of the site, including measurements points, noise sources, buildings, etc.;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Measurement of noise peaks and steady levels to the nearest decibel, and durations;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>A description of special techniques employed;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>A description of the noise, noting especially if there is an apparent pure tone or impulsive content;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>The meter damping used (fast or slow); and</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Measurement of ambient and description of ambient if obvious (highway, dogs, etc.).</text>
+    </level>
+  </level>
+  <level>
+    <num>2906.3.</num>
+    <text>If the ambient level is four to ten (4-10) dB(A) below the level found with the source operating, corrections shall be made to obtain the source noise level. The corrections shall be shown.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 26 DCR 1499, 1504 (September 28, 1979).</text>
+    </level>
+  </level>
+</level>

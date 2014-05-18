@@ -1,0 +1,98 @@
+<level>
+  <type>section</type>
+  <num>15-507</num>
+  <heading>FUEL PROCUREMENT REPORTING REQUIREMENTS (§ 15-507)</heading>
+  <level>
+    <num>507.1.</num>
+    <text>The company shall, on the prescribed forms, file monthly with the Commission a &amp;#8220;Monthly Report on Costs and Quality of Fuels Delivered to Electric Plants&amp;#8221; and a &amp;#8220;Monthly Fuel Price Summary Date Report.&amp;#8221;</text>
+  </level>
+  <level>
+    <num>507.2.</num>
+    <text>The Monthly Report on Costs and Quality of Fuels Delivered to Electric Plants shall contain the following information with respect to each plant:</text>
+    <level>
+      <num>(a)</num>
+      <text>Type of plant (steam or gas turbine);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Type of purchase (contract or spot);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Contract expiration within twenty-four (24) months (Yes or No);</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Fuel type (#2 oil, #6 oil, bituminous coal, etc.);</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Coal mines (Type and District);</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Source (county or area where coal originated; and for oil, refinery or port of entry, etc.);</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Quantify received (M gallons, M tons, etc.);</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Quality received;</text>
+    </level>
+    <text>- average BTU content</text>
+    <text>- % sulfur content</text>
+    <text>- % ash content</text>
+    <level>
+      <num>(i)</num>
+      <text>Cost in ￠/million BTU (delivered);</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Cost of fuel FOB (free on board) Source and transportation charges, stated separately for each fuel delivery; and</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Premiums and Penalties.</text>
+    </level>
+    <text>- Source</text>
+    <text>- Company Plant</text>
+    <text>- Month(s)</text>
+    <text>- Tons (Gallons)</text>
+    <text>- Premiums (+), Penalties (-) &amp;#8211; Adjusted ￠MMBTU</text>
+  </level>
+  <level>
+    <num>507.3.</num>
+    <text>The Monthly Fuel Price Summary Report shall contain the following information by plant type and fuel quality:</text>
+    <level>
+      <num>(a)</num>
+      <text>Fuel type (coal or oil);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Cost and quality per sulfur content range of fuels delivered (cent /MMBTU) (Steam Generation); and</text>
+    </level>
+    <text>- .51% to 1.00%</text>
+    <text>- 1.01% to 1.5% (coal)</text>
+    <text>- 1.01% to 2.0% (oil)</text>
+    <text>- 1.51% to 2.0% (coal)</text>
+    <text>- 2.01% to 3.0% (oil)</text>
+    <level>
+      <num>(c)</num>
+      <text>Average contract and spot price of fuels delivered (Turbine and Combustion).</text>
+    </level>
+  </level>
+  <level>
+    <num>507.4.</num>
+    <text>In addition to the reporting requirements of §§507.2 and 507.3, the company shall regularly file with the Commission a copy of each of its intermediate and long-term fuel supply contracts within ninety (90) days following their execution. In complying
+      with this requirement, the company may identify contract data by code.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 29 DCR 5130, 5132 (November 19, 1982).</text>
+    </level>
+  </level>
+</level>

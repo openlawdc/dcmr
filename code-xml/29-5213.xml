@@ -1,0 +1,190 @@
+<level>
+  <type>section</type>
+  <num>29-5213</num>
+  <heading>REIMBURSEMENT (§ 29-5213)
+    <text>Medicaid reimbursement for MHRS shall be determined as follows:</text>
+    <text>SERVICE</text>
+    <text>CODE</text>
+    <text>BILLABLE UNIT</text>
+    <text>OF SERVICE</text>
+    <text>RATE</text>
+    <text>Diagnostic/</text>
+    <text>Assessment</text>
+    <text>T1023HE</text>
+    <text>An assessment,</text>
+    <text>at least 3 hours in duration</text>
+    <text>$240.00</text>
+    <text>H0002</text>
+    <text>An assessment, 40 – 50 minutes in duration to determine eligibility for admission to a mental health treatment program</text>
+    <text>$85.00</text>
+    <text>Medication/</text>
+    <text>Somatic Treatment</text>
+    <text>H0034</text>
+    <text>15 minutes</text>
+    <text>$39.29 – Individual (ages 22 and over)</text>
+    <text>H0034HA</text>
+    <text>15 minutes</text>
+    <text>$42.86– Individual (ages 0 – 21)</text>
+    <text>H0034HQ</text>
+    <text>15 minutes</text>
+    <text>$21.26 – Group</text>
+    <text>Counseling</text>
+    <text>H0004</text>
+    <text>15 minutes</text>
+    <text>$19.50 – Individual On-Site</text>
+    <text>(ages 22 and over)</text>
+    <text>H0004HA</text>
+    <text>15 minutes</text>
+    <text>$20.31 – Individual On-Site</text>
+    <text>(ages 0 – 21)</text>
+    <text>H0004HQ</text>
+    <text>15 minutes</text>
+    <text>$10.45 – Group</text>
+    <text>H0004HR</text>
+    <text>15 minutes</text>
+    <text>$19.50 – Family with Consumer On-Site (ages 22 and over)</text>
+    <text>H0004HS</text>
+    <text>15 minutes</text>
+    <text>$19.50 – Family without Consumer On-Site (ages 22 and over)</text>
+    <text>H0004HAHR</text>
+    <text>15 minutes</text>
+    <text>$20.31 – Family with Consumer On-Site (ages 0 – 21)</text>
+    <text>H0004HAHS</text>
+    <text>15 minutes</text>
+    <text>$20.31 – Family without Consumer On-Site (ages 0 &amp;#8211; 21)</text>
+    <text>H0004HE</text>
+    <text>15 minutes</text>
+    <text>$23.19 – Individual Off-Site (all ages)</text>
+    <text>Community Support</text>
+    <text>H0036</text>
+    <text>15 minutes</text>
+    <text>$19.19 – Individual</text>
+    <text>H0036HQ</text>
+    <text>15 minutes</text>
+    <text>$8.67 – Group</text>
+    <text>H0036UK</text>
+    <text>15 minutes</text>
+    <text>$19.19 – Collateral</text>
+    <text>H0036AM</text>
+    <text>15 minutes</text>
+    <text>$19.19 – Physician Team Member</text>
+    <text>H0038</text>
+    <text>H0038HQ</text>
+    <text>H0036HR</text>
+    <text>H0036HS</text>
+    <text>H0036U1</text>
+    <text>15 minutes</text>
+    <text>15 minutes</text>
+    <text>15 minutes</text>
+    <text>15 minutes</text>
+    <text>15 minutes</text>
+    <text>$19.19 – Self-Help Peer Support</text>
+    <text>$8.67 –Self-Help Peer Support Group</text>
+    <text>$19.19 – Family with Consumer</text>
+    <text>$19.19 – Family without Consumer</text>
+    <text>$19.19 – Community Residence Facility</text>
+    <text>H2023</text>
+    <text>15 minutes</text>
+    <text>$16.25 – Supported Employment (Therapeutic)</text>
+    <text>Crisis/</text>
+    <text>Emergency</text>
+    <text>H2011</text>
+    <text>15 minutes</text>
+    <text>$33.57</text>
+    <text>Day Services</text>
+    <text>H0025</text>
+    <text>One day, at least 3 hours in duration</text>
+    <text>$144.77</text>
+    <text>Intensive Day Treatment</text>
+    <text>H2012</text>
+    <text>One day, at least 5 hours in duration</text>
+    <text>$164.61</text>
+    <text>Community- Based Intervention (Level I – Multi-Systemic Therapy)</text>
+    <text>H2033</text>
+    <text>15 minutes</text>
+    <text>$57.42</text>
+    <text>Community- Based Intervention (Level II and Level III)</text>
+    <text>H2022</text>
+    <text>15 minutes</text>
+    <text>$31.35</text>
+    <text>Community-Based Intervention (Level IV – Functional Family Therapy)</text>
+    <text>H2033HU</text>
+    <text>15 minutes</text>
+    <text>$57.42</text>
+    <text>Assertive Community</text>
+    <text>H0039</text>
+    <text>15 minutes</text>
+    <text>$31.57 – Individual</text>
+    <text>Treatment</text>
+    <text>H0039HQ</text>
+    <text>15 minutes</text>
+    <text>$11.07 – Group</text>
+  </heading>
+  <level>
+    <num>5213.2.</num>
+    <text>DMH shall be responsible for payment of the District&amp;#8217;s share or the local match for all MHRS in accordance with the terms and conditions set forth in the Memorandum of Understanding between MAA and DMH. MAA shall claim the federal share
+      of financial participation for all MHRS services.</text>
+  </level>
+  <level>
+    <num>5213.3.</num>
+    <text>Providers shall not bill the client or any member of the client&amp;#8217;s family for MHRS services. DMH shall bill all known third-party payors prior to billing the Medicaid Program.</text>
+  </level>
+  <level>
+    <num>5213.4.</num>
+    <text>Medicaid reimbursement for MHRS is not available for:</text>
+    <level>
+      <num>(a)</num>
+      <text>Room and board costs;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Inpatient services (including hospital, nursing facility services, intermediate care facility for persons with mental retardation services, and Institutions for Mental Diseases services);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Transportation services;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Vocational services;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>School and educational services;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Services rendered by parents or other family members;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Socialization services;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Screening and prevention services (other than those provided under Early and Periodic, Screening Diagnostic Treatment requirements);</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Services which are not medically necessary, or included in an approved Individualized Recovery Plan for adults or an Individualized Plan of Care for children and youth;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Services which are not provided and documented in accordance with DMH-established MHRS service-specific standards; and</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Services furnished to a person other than the Medicaid client when those services are not directed exclusively to the well-being and benefit of the Medicaid client.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 49 DCR 4860 (May 24, 2002); as amended by Final Rulemaking published at 56 DCR 4098 (May 22, 2009); as amended by Final Rulemaking published at 56 DCR 6991 (August 28, 2009); as amended by Notice of Final Rulemaking
+        published at 57 DCR 10521 (November 12, 2010); as amended by Notice of Emergency and Proposed Rulemaking published at 58 DCR 865 (January 28, 2011) [EXPIRED]; as amended by Notice of Emergency and Proposed Rulemaking published at 58 DCR 4675 (May
+        27, 2011) [EXPIRED]; as amended by Notice of Final Rulemaking published at 58 DCR 8230 (September 23, 2011); as amended by Notice of Emergency and Proposed Rulemaking published at 58 DCR 9292 (October 28, 2011) [EXPIRED]; as amended by Notice
+        of Final Rulemaking published at 59 DCR 1208 (February 17, 2012); as amended by Final Rulemaking published at 59 DCR 12366 (October 26, 2012); as amended by Final Rulemaking published at 60 DCR 11214 (August 2, 2013).</text>
+    </level>
+  </level>
+</level>

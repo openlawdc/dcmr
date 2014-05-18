@@ -1,0 +1,67 @@
+<level>
+  <type>section</type>
+  <num>29-6504</num>
+  <heading>RESIDENT CLASSIFICATION SYSTEM (§ 29-6504)</heading>
+  <level>
+    <num>6504.1.</num>
+    <text>MAA shall use the 34-group resident classification system developed by CMS known as the Resource Utilization Groups III (RUGS III), Version 5.12 or successor updates.</text>
+  </level>
+  <level>
+    <num>6504.2.</num>
+    <text>MAA shall use the Case Mix Indices known as the standard data set BO1 developed by CMS or successor updates to this version. The BO1 scores shall be normalized by dividing the BO1 case mix scores by the District-wide Average Case Mix Index.</text>
+  </level>
+  <level>
+    <num>6504.3.</num>
+    <text>MAA shall assign a case mix index (CMI) to each resident in the nursing facility on the picture date in accordance with the RUGS III classification system and corresponding BO1 normalized case mix index score based upon the resident assessment conducted
+      pursuant to section 6503.</text>
+  </level>
+  <level>
+    <num>6504.4.</num>
+    <text>Each resident assessed under RUGS III shall be assigned the highest numeric CMI score for which the resident qualifies. Assessments that cannot be classified to a RUGS III category due to errors shall be assigned the lowest numeric CMI score.</text>
+  </level>
+  <level>
+    <num>6504.5.</num>
+    <text>The most recent valid MDS assessment in the District&amp;#8217;s MDS database for those residents that are present in the nursing facility on the picture date shall be included in the CMI calculations. Residents who are discharged on the picture date
+      shall not be included in the CMI calculations. Residents who are on paid bedhold leave on the picture date and are expected to return to the facility shall be included in the CMI calculations.</text>
+  </level>
+  <level>
+    <num>6504.6.</num>
+    <text>MAA shall issue to each nursing facility a draft report no later than ninety (90) days following each picture date with the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>The RUGS III classification and CMI score for each resident on the picture date;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Identifying information (resident&amp;#8217;s name, social security number, Medicaid identification number and date of birth) for each resident; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The payer status for each resident (Medicaid or Non-Medicaid).</text>
+    </level>
+  </level>
+  <level>
+    <num>6504.7.</num>
+    <text>Each nursing facility shall have thirty (30) days after receipt of the report issued pursuant to subsection 6504.6 to submit corrections of identifying information or payer status for each resident listed in the report. The nursing facility shall
+      also submit documentation in support of each correction.</text>
+  </level>
+  <level>
+    <num>6504.8.</num>
+    <text>No nursing facility shall make any corrections to the RUGS III classification or CMI score.</text>
+  </level>
+  <level>
+    <num>6504.9.</num>
+    <text>Corrections submitted and determined by MAA to be appropriate shall be included in the final report of the CMI scores used in establishing the nursing facility&amp;#8217;s reimbursement rate.</text>
+  </level>
+  <level>
+    <num>6504.10.</num>
+    <text>MAA shall not make any corrections to the report for information received from the nursing facility after the thirty (30) day period set forth in subsection 6504.7.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 53 DCR 1370 (February 24, 2006).</text>
+    </level>
+  </level>
+</level>

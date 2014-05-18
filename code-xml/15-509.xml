@@ -1,0 +1,93 @@
+<level>
+  <type>section</type>
+  <num>15-509</num>
+  <heading>INTERCHANGE ACTIVITY REPORTING REQUIREMENTS (§ 15-509)</heading>
+  <level>
+    <num>509.1.</num>
+    <text>The company shall, on the prescribed form, file monthly with the Commission an &amp;#8220;Interchange Report.&amp;#8221;</text>
+  </level>
+  <level>
+    <num>509.2.</num>
+    <text>The report shall contain the following information for the most recent month for which this data is available and the same month one (1) year earlier, and totals for each data item over the previous twelve (12) months:</text>
+    <level>
+      <num>(a)</num>
+      <text>Charges for energy received;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Credits for energy delivered;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Other charges;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Total charges to PEPCO;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Other credits;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Total credits to PEPCO;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Facilities Agreements;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Net interchange;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>KWH energy received;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>KWH energy delivered;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Net KWH interchange; and</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Interchange energy delivered by generating stations.</text>
+    </level>
+  </level>
+  <level>
+    <num>509.3.</num>
+    <text>The company shall state (on a separate sheet, if necessary) the basis upon which it determines the cost of fuel for energy and capacity delivered into or received from transactions in interchange.</text>
+  </level>
+  <level>
+    <num>509.4.</num>
+    <text>The company shall also include in the report or state separately the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Information on the timing of interchange purchases (date, hour(s), and duration);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Identify the capacity purchased and associated charges; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Identify the energy purchased and associated charges.</text>
+    </level>
+  </level>
+  <level>
+    <num>509.5.</num>
+    <text>The company shall append to the report specified under §509.1, a statement setting forth the running rate for the Pennsylvania, New Jersey, and Maryland (PJM) Interconnection. The company shall also provide its marginal cost of energy on an hourly
+      basis for the period covered by the report.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 29 DCR 5130, 5134 (November 19, 1982).</text>
+    </level>
+  </level>
+</level>

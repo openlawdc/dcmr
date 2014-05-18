@@ -1,0 +1,80 @@
+<level>
+  <type>section</type>
+  <num>20-606</num>
+  <heading>VISIBLE EMISSIONS (§ 20-606)</heading>
+  <level>
+    <num>606.1</num>
+    <text>606.1 Except as otherwise provided in these air quality regulations, visible emissions shall not be emitted into the outdoor atmosphere from stationary sources (excluding fuel-burning equipment placed in initial operation before January 1, 1977);
+      provided, that discharges not exceeding forty percent (40%) opacity (unaveraged) shall be permitted for two (2) minutes in any sixty (60) minute period and for an aggregate of twelve (12) minutes in any twenty-four hour (24 hr.) period during start-up,
+      cleaning, soot blowing, adjustment of combustion controls, or malfunction of equipment.</text>
+  </level>
+  <level>
+    <num>606.2</num>
+    <text>606.2 Except as otherwise provided in these air quality regulations, visible emissions whose opacity is in excess of ten percent (10%) (unaveraged), at any time shall not be emitted into the outdoor atmosphere, from any fuel-burning equipment placed
+      in initial operation before January 1, 1977; provided, that:</text>
+    <level>
+      <num>(a)</num>
+      <text>Opacity not in excess of forty percent (40%) (unaveraged) shall be permitted for two (2) minutes in any sixty (60) minute period and for an aggregate of twelve (12) minutes in any twenty-four hour (24 hr.) period other than during start-up of equipment;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>During start-up of equipment, opacity not in excess of forty percent (40%) (averaged over six (6) minutes) shall be permitted for an aggregate of five (5) times per start-up; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>In addition to the emissions permitted under § 606.2(a), during shutdown of equipment, opacity not in excess of fifteen percent (15%) (unaveraged) shall be allowed and in addition, opacity not in excess of thirty percent (30%) (averaged over three
+        (3) minutes) shall be permitted for an aggregate of three (3) times per shutdown.</text>
+    </level>
+  </level>
+  <level>
+    <num>606.3.</num>
+    <text>As an exception to § 606.1, the owner or operator of a stationary source may obtain a permit pursuant to chapters 2 or 3 of this title allowing visible emissions not exceeding ten percent (10%) opacity if the owner or operator can demonstrate that
+      the source meets the following criteria:</text>
+    <level>
+      <num>(a)</num>
+      <text>The source meets all applicable particulate matter standards at the increased visible emissions limit;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Visible emissions at the increased visible emissions limit are not an indication of improper operation of the equipment;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The particulate emissions at the increased visible emissions limit will not create a violation of any National Ambient Air Quality Standard; and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The source cannot modify operations or install control equipment to meet a lower opacity standard without incurring unreasonable expense.</text>
+    </level>
+  </level>
+  <level>
+    <num>606.4</num>
+    <text>606.4 At all times, including periods of start-up and malfunction, owners and operators of stationary sources and fuel-burning equipment shall, to the extent practicable, maintain and operate stationary sources and fuel-burning equipment, including
+      associated air pollution control equipment, in a manner consistent with good air pollution control practices for minimizing emissions.</text>
+  </level>
+  <level>
+    <num>606.5</num>
+    <text>606.5 Violation of standards set forth in this section, as a result of unavoidable malfunction, despite the conscientious employment of control practices, shall constitute an affirmative defense on which the discharger shall bear the burden of proof.
+      Periods of malfunction shall cease to be unavoidable malfunctions if reasonable steps are not taken to eliminate the malfunction within a reasonable time.</text>
+  </level>
+  <level>
+    <num>606.6</num>
+    <text>606.6 Owners and operators of stationary sources and fuel-burning equipment shall ensure that persons actually participating in the maintenance and operation of sources and equipment are adequately trained and supervised so as to minimize the production
+      of emissions during operation.</text>
+  </level>
+  <level>
+    <num>606.7</num>
+    <text>606.7 Where the presence of uncombined water is the only reason for failure of an emission to meet the requirements of this section, this section shall not be applicable.</text>
+  </level>
+  <level>
+    <num>606.8</num>
+    <text>606.8 The provisions of this section shall not apply to visible emissions from interior fire places, or from sources set forth in § 604.2, or when steam is used to blow oil from a burner as the last phase of shutting down the burner.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Section 3 of the District of Columbia Air Pollution Control Act of 1984, D.C. Law 5-165, § 606, 32 DCR 565, 612 (February 1, 1985); as amended by Final Rulemaking published at 59 DCR 12890 (November 9, 2012).</text>
+    </level>
+  </level>
+</level>

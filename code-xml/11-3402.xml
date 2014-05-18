@@ -1,0 +1,183 @@
+<level>
+  <type>section</type>
+  <num>11-3402</num>
+  <heading>CALCULATION OF GREEN AREA RATIO (§ 11-3402)</heading>
+  <level>
+    <num>3402.1.</num>
+    <text>The GAR shall be calculated using the following formula:</text>
+    <text>(area of landscape element 1 x multiplier)+</text>
+    <text>GAR = (area of landscape element 2 x multiplier)+…</text>
+    <text>Lot Area</text>
+  </level>
+  <level>
+    <num>3402.1</num>
+    <text>3402.1 For the purposes of the above formula and the remainder of this chapter:</text>
+    <text>The term “landscape element” refers to one of the elements listed in the table in § 3402.9, and will be hereafter referred to as “landscape element” or “element”;</text>
+    <text>The term “multiplier” refers to the number listed in the Table in § 3402.9 that corresponds to a “landscape element”; and</text>
+    <text>The “area of landscape element” shall be the square feet of a landscape element, unless the element is a tree or large shrub, in which case “area of landscape element” refers to the element’s equivalent square footage as indicated in § 3402.7.</text>
+  </level>
+  <level>
+    <num>3402.3</num>
+    <text>3402.3 The process for calculating a property’s GAR under the formula is as follows:</text>
+    <text>The area of each landscape element is multiplied by its corresponding multiplier;</text>
+    <text>The resulting numbers for all landscape elements are added together;</text>
+    <text>The resulting point total is then divided by the total land area of the lot; and</text>
+    <text>The product of the equation equals the property’s GAR.</text>
+  </level>
+  <level>
+    <num>3402.4.</num>
+    <text>The total points for all permeable paving and enhanced tree growth credits may not count for more than one-third (1/3) of the GAR score for a lot.</text>
+  </level>
+  <level>
+    <num>3402.5.</num>
+    <text>If multiple landscape elements occupy the same area, for example groundcover under a tree or trees and shrubs on an intensive green roof, the full square footage or equivalent square footage of each element may be counted.</text>
+  </level>
+  <level>
+    <num>3402.6.</num>
+    <text>A landscape element must meet the eligibility conditions of § 3403.</text>
+  </level>
+  <level>
+    <num>3402.7.</num>
+    <text>Equivalent square feet of tree canopy and large shrubs are identified in the table below.</text>
+    <text>GREEN AREA RATIO LANDSCAPE ELEMENTS</text>
+    <text>EQUIVALENT SQUARE FOOTAGE</text>
+    <text>Plants, not including grasses, at least 2 feet tall at maturity</text>
+    <text>9 s.f. per plant</text>
+    <text>Tree canopy for trees 2.5 inches to 6 inches in diameter</text>
+    <text>50 s.f. per tree</text>
+    <text>Tree canopy for trees 6 inches to 12 inches in diameter</text>
+    <text>250 s.f. per tree</text>
+    <text>Tree canopy for trees 12 inches to 18 inches in diameter</text>
+    <text>600 s.f. per tree</text>
+    <text>Tree canopy for trees 18 inches to 24 inches in diameter</text>
+    <text>1300 s.f. per tree</text>
+    <text>Tree canopy for trees larger than 24 inches in diameter</text>
+    <text>2000 s.f. per tree</text>
+  </level>
+  <level>
+    <num>3402.8.</num>
+    <text>Landscape elements of the GAR shall be measured in the following ways:</text>
+    <text>All trees shall be measured for diameter at a height four feet, six inches (4 ft. 6 in.) above grade when planted and the square footage equivalent based on diameter shall be as established in the table in § 3402.7;</text>
+    <text>For vegetated walls, use the vertical square footage of the portion of the wall covered by vegetation; and</text>
+    <text>For all other elements other than trees, large shrubs, perennials, and vegetated walls, square footage is determined by the area of a horizontal plane that is over the element.</text>
+  </level>
+  <level>
+    <num>3402.9.</num>
+    <text>Eligible landscape elements are identified in the table below:</text>
+    <text>GREEN AREA RATIO LANDSCAPE ELEMENTS</text>
+    <text>MULTIPLIER</text>
+    <text>Landscaped area (select one of the following for each area)</text>
+    <text>Landscaped areas with a soil depth of less than 24 inches</text>
+  </level>
+  <level>
+    <num>0.3</num>
+    <text>0.3</text>
+    <text>Landscaped areas with a soil depth of 24 inches or more</text>
+  </level>
+  <level>
+    <num>0.6</num>
+    <text>0.6</text>
+    <text>Bioretention facilities</text>
+  </level>
+  <level>
+    <num>0.4</num>
+    <text>0.4</text>
+    <text>Plantings</text>
+    <text>Ground covers, or other plants less than 2 feet tall at maturity</text>
+  </level>
+  <level>
+    <num>0.2</num>
+    <text>0.2</text>
+    <text>Plants , not including grasses, at least 2 feet tall at maturity</text>
+  </level>
+  <level>
+    <num>0.3</num>
+    <text>0.3</text>
+    <text>Tree canopy for all trees 2.5 inches to 6 inches in diameter</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5</text>
+    <text>Tree canopy for new trees 6 inches in diameter or larger</text>
+  </level>
+  <level>
+    <num>0.6</num>
+    <text>0.6</text>
+    <text>Tree canopy for preservation of existing trees 6 inches to 24 inches in diameter</text>
+  </level>
+  <level>
+    <num>0.7</num>
+    <text>0.7</text>
+    <text>Tree canopy for preservation of existing trees 24 inches diameter or larger</text>
+  </level>
+  <level>
+    <num>0.8</num>
+    <text>0.8</text>
+    <text>Vegetated wall, plantings on a vertical surface</text>
+  </level>
+  <level>
+    <num>0.6</num>
+    <text>0.6</text>
+    <text>Vegetated roofs</text>
+    <text>Extensive vegetated roof over at least 2 inches but less than 8 inches of growth medium</text>
+  </level>
+  <level>
+    <num>0.6</num>
+    <text>0.6</text>
+    <text>Intensive vegetated roof over at least 8 inches of growth medium</text>
+  </level>
+  <level>
+    <num>0.8</num>
+    <text>0.8</text>
+    <text>Permeable paving</text>
+    <text>Permeable paving over at least 6 inches and less than 2 feet of soil or gravel</text>
+  </level>
+  <level>
+    <num>0.4</num>
+    <text>0.4</text>
+    <text>Permeable paving over at least 2 feet of soil or gravel</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5</text>
+    <text>Other</text>
+    <text>Enhanced tree growth systems</text>
+  </level>
+  <level>
+    <num>0.4</num>
+    <text>0.4</text>
+    <text>Renewable energy generation (area of)</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5</text>
+    <text>Water features (using at least 50% recycled water)</text>
+  </level>
+  <level>
+    <num>0.2</num>
+    <text>0.2</text>
+    <text>Bonuses</text>
+    <text>Native plant species listed in §3403.9</text>
+  </level>
+  <level>
+    <num>0.1</num>
+    <text>0.1</text>
+    <text>Landscaping in food cultivation</text>
+  </level>
+  <level>
+    <num>0.1</num>
+    <text>0.1</text>
+    <text>Harvested stormwater irrigation</text>
+  </level>
+  <level>
+    <num>0.1</num>
+    <text>0.1</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 60 DCR 10077 (July 12, 2013).</text>
+    </level>
+  </level>
+</level>

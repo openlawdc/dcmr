@@ -1,0 +1,57 @@
+<level>
+  <type>section</type>
+  <num>20-2701</num>
+  <heading>MAXIMUM SOUND LEVELS (§ 20-2701)</heading>
+  <level>
+    <num>2701.1.</num>
+    <text>Except for person engaged in the noise-producing activities that are subject §§ 2702 through 2704, and §§ 2800 through 2807 of this subtitle, no person shall cause, suffer, or permit any sound that emanates from an operation, activity, or noise source
+      under his or her control to exceed the maximum permissible sound level established in the following table as applicable for the time of day or night and the zoning location where the noise originates. For the purposes of this subsection, the source
+      level shall be measured at the property line of the property on which the noise source is located or as close as is practicable if there is an obstruction. Sound levels shall be measured according to the test procedures prescribed by the administering
+      agency established under § 2700:</text>
+    <text>ZONE</text>
+    <text>MAXIMUM NOISE LEVEL</text>
+    <text>Daytime</text>
+    <text>Nighttime</text>
+    <text>Commercial or light- manufacturing zone</text>
+    <text>65 dB(A)</text>
+    <text>60 dB(A)</text>
+    <text>Industrial zone</text>
+    <text>70 dB(A)</text>
+    <text>65 dB(A)</text>
+    <text>Residential, special</text>
+    <text>purpose, or waterfront zone</text>
+    <text>60 db(A)</text>
+    <text>55 db(A)</text>
+  </level>
+  <level>
+    <num>2701.2.</num>
+    <text>For the purposes of this section, the sound level shall be measured at the property line of the property on which the noise source is located, or as close as is practicable if there is an obstruction.</text>
+  </level>
+  <level>
+    <num>2701.3.</num>
+    <text>Sound levels shall be measured according to the test procedures prescribed by the administering agency established under § 2700.3 of this subtitle.</text>
+  </level>
+  <level>
+    <num>2701.4.</num>
+    <text>If a sound can be measured in a contiguous noise zone that has a more restrictive noise limitation than that from which the noise emanates, the sound level measurement at the zone line shall not exceed that established for the more restrictive zone.</text>
+  </level>
+  <level>
+    <num>2701.5.</num>
+    <text>If the sound emanates from a source within an area for which the maximum permissible sound level has not been established, the maximum level shall be sixty (60) dB (A).</text>
+  </level>
+  <level>
+    <num>2701.6.</num>
+    <text>Unless restricted by another section of Chapters 27 and 28 of this subtitle, sounds emanating from a street or highway shall not exceed the most restrictive sound level established for the property bordering the street or highway.</text>
+  </level>
+  <level>
+    <num>2701.7.</num>
+    <text>Noise emanating from inside a motor vehicle shall be measured at a distance of not less than fifty feet (50 ft.) from the vehicle.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Section 5 of the District of Columbia Noise Control Act of 1977, D.C. Law 2-53, 24 DCR 5293 (December 30, 1977); as amended by §2 of the Noise Control Amendment Act of 1996, D.C. Law 11-161, 43 DCR 3727 (July 19, 1996).</text>
+    </level>
+  </level>
+</level>

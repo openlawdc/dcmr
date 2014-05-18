@@ -1,0 +1,21 @@
+<level>
+  <type>section</type>
+  <num>14-6502</num>
+  <heading>REPAIR PROCEDURE (§ 14-6502)</heading>
+  <level>
+    <num>6502.1.</num>
+    <text>Upon receipt of a repair request from a tenant, or in the case of an DCHA initiated repair, DCHA shall inspect the unit to determine the repair required.</text>
+    <text>If the repair cannot be completed during the first visit, repairs shall be scheduled for a later time.</text>
+  </level>
+  <level>
+    <num>6502.2.</num>
+    <text>When repair work is completed, the tenant shall be required to sign a DCHA form indicating that the work was performed and indicating whether the repair work was satisfactory, or unsatisfactory.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Final Rulemaking published at 33 DCR 7973, 8027 (December 26, 1986).</text>
+    </level>
+  </level>
+</level>

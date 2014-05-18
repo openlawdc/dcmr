@@ -1,0 +1,398 @@
+<level>
+  <type>section</type>
+  <num>11-2405</num>
+  <heading>PUD STANDARDS (§ 11-2405)</heading>
+  <level>
+    <num>2405.1.</num>
+    <text>No building or structure shall exceed the maximum height permitted in the least restrictive zone district within the project area as indicated in the following table; provided, that the Commission may authorize minor deviations for good cause pursuant
+      to § 2405.3:</text>
+    <text>ZONE DISTRICT</text>
+    <text>MAXIMUM HEIGHT(feet)</text>
+    <text>R-1-A, R-1-B, R-2, R-3, C-1, W-0</text>
+    <text>40</text>
+    <text>R-4, R-5-A, R-5-B, W-1, W-2, C-M-1</text>
+    <text>60</text>
+    <text>C-2-A</text>
+    <text>65</text>
+    <text>R-5-C, SP-1</text>
+    <text>75</text>
+    <text>R-5-D, R-5-E, SP-2, C-2-B,</text>
+    <text>90</text>
+    <text>C-2-C, C-3-A, C-3-B, W-3,</text>
+    <text>C-M-2, C-M-3, M</text>
+    <text>CR</text>
+    <text>110</text>
+    <text>C-3-C, C4, C-5 (PAD)</text>
+    <text>130</text>
+    <text>C-5 (PAD) (Where permitted by the Building Height Act of 1910, D.C. Official Code § 6-601.05(b) (formerly codified at D.C. Code §5-405(b) (1994 Repl.)), along the north side of Pennsylvania Avenue)</text>
+    <text>160</text>
+  </level>
+  <level>
+    <num>2405.2.</num>
+    <text>The floor area ratio of all buildings shall not exceed the aggregate of the floor area ratios as permitted in the several zone districts included within the project area; provided, that the Commission may authorize minor deviations for good cause
+      pursuant to § 2405.3:</text>
+    <text>FLOOR AREA RATIO (FAR)</text>
+    <text>ZONE DISTRICT</text>
+    <text>RESIDENCE</text>
+    <text>COMMERCIAL,INCLUDINGHOTELS ANDMOTELS</text>
+    <text>TOTAL</text>
+    <text>R-1-A, R-1-B, R-2</text>
+  </level>
+  <level>
+    <num>0.4</num>
+    <text>0.4</text>
+  </level>
+  <level>
+    <num>0.4</num>
+    <text>0.4</text>
+    <text>R-3</text>
+  </level>
+  <level>
+    <num>0.6</num>
+    <text>0.6</text>
+  </level>
+  <level>
+    <num>0.6</num>
+    <text>0.6</text>
+    <text>R-4, R-5-A</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+    <text>R-5-B</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+    <text>R-5-C</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+    <text>R-5-D</text>
+  </level>
+  <level>
+    <num>4.5</num>
+    <text>4.5</text>
+  </level>
+  <level>
+    <num>4.5</num>
+    <text>4.5</text>
+    <text>R-5-E</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+    <text>SP-1</text>
+  </level>
+  <level>
+    <num>4.5</num>
+    <text>4.5</text>
+  </level>
+  <level>
+    <num>3.5</num>
+    <text>3.5</text>
+  </level>
+  <level>
+    <num>4.5</num>
+    <text>4.5</text>
+    <text>SP-2</text>
+  </level>
+  <level>
+    <num>6.5</num>
+    <text>6.5</text>
+  </level>
+  <level>
+    <num>4.5</num>
+    <text>4.5</text>
+  </level>
+  <level>
+    <num>6.5</num>
+    <text>6.5</text>
+    <text>CR</text>
+  </level>
+  <level>
+    <num>8.0</num>
+    <text>8.0</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+  </level>
+  <level>
+    <num>8.0</num>
+    <text>8.0</text>
+    <text>C-1</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+    <text>C-2-A</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+    <text>C-2-B</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+    <text>C-2-C</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+  </level>
+  <level>
+    <num>2.5</num>
+    <text>2.5</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+    <text>C-3-A</text>
+  </level>
+  <level>
+    <num>4.5</num>
+    <text>4.5</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+  </level>
+  <level>
+    <num>4.5</num>
+    <text>4.5</text>
+    <text>C-3-B</text>
+  </level>
+  <level>
+    <num>5.5</num>
+    <text>5.5</text>
+  </level>
+  <level>
+    <num>4.5</num>
+    <text>4.5</text>
+  </level>
+  <level>
+    <num>5.5</num>
+    <text>5.5</text>
+    <text>C-3-C</text>
+  </level>
+  <level>
+    <num>8.0</num>
+    <text>8.0</text>
+  </level>
+  <level>
+    <num>8.0</num>
+    <text>8.0</text>
+  </level>
+  <level>
+    <num>8.0</num>
+    <text>8.0</text>
+    <text>C-4</text>
+  </level>
+  <level>
+    <num>10.5</num>
+    <text>10.5</text>
+  </level>
+  <level>
+    <num>10.5</num>
+    <text>10.5</text>
+  </level>
+  <level>
+    <num>10.5</num>
+    <text>10.5</text>
+    <text>C-4</text>
+    <text>(facing a street at least</text>
+  </level>
+  <level>
+    <num>11.0</num>
+    <text>11.0</text>
+  </level>
+  <level>
+    <num>11.0</num>
+    <text>11.0</text>
+  </level>
+  <level>
+    <num>11.0</num>
+    <text>11.0</text>
+    <text>110 ft. wide)</text>
+    <text>C-5 (PAD)</text>
+  </level>
+  <level>
+    <num>12.0</num>
+    <text>12.0</text>
+  </level>
+  <level>
+    <num>12.0</num>
+    <text>12.0</text>
+  </level>
+  <level>
+    <num>12.0</num>
+    <text>12.0</text>
+    <text>W-1</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+    <text>W-2</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+    <text>W-3</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+    <text>C-M-1</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+    <text>C-M-2</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+    <text>C-M-3, M</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+    <text>W-0</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5</text>
+  </level>
+  <level>
+    <num>2405.3.</num>
+    <text>The Commission may authorize the following increases; provided, that the increase is essential to the successful functioning of the project and consistent with the purpose and evaluation standards of this chapter, or with respect to FAR, is for the
+      purpose of a convention headquarters hotel on square 370:</text>
+    <level>
+      <num>(a)</num>
+      <text>not more than five percent (5%) in the maximum height; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>not more than five percent (5%) in the maximum floor area ratio.</text>
+    </level>
+  </level>
+  <level>
+    <num>2405.4.</num>
+    <text>The percentage of lot occupancy shall be as otherwise prescribed in this title. However, the Commission shall have the option to approve a lot occupancy greater or lesser than the normal requirement, depending upon the exact circumstances of the particular
+      project.</text>
+  </level>
+  <level>
+    <num>2405.5.</num>
+    <text>Yards and courts shall be provided as otherwise prescribed in this title. However, the Commission shall have the option to approve yards or courts greater or lesser than the normal requirements, depending upon the exact circumstances of the particular
+      project.</text>
+  </level>
+  <level>
+    <num>2405.6.</num>
+    <text>Off-street parking spaces and loading berth facilities shall be provided as otherwise prescribed in this title. However, the Commission may reduce or increase the amount of such facilities depending on the uses and the location of the project.</text>
+  </level>
+  <level>
+    <num>2405.7.</num>
+    <text>Notwithstanding the other prerogatives of the Commission in approving uses in PUDs, the Commission shall reserve the option to approve any use that is permitted as a special exception and that would otherwise require the approval of the Board of Zoning
+      Adjustment.</text>
+  </level>
+  <level>
+    <num>2405.8.</num>
+    <text>Approval of the Board shall not be required for any such use approved by the Commission under § 2405.7, and the Commission shall not be required to apply the special exception standards normally applied by the Board.</text>
+  </level>
+  <level>
+    <num>2405.9.</num>
+    <text>Any additional density (whether residential or non-residential) or development rights granted through a PUD, including PUD-related map amendments, cannot be transferred as part of a combined lot development.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 42 DCR 6613, 6619 (December 1, 1995); as amended by Final Rulemaking published at 47 DCR 9741-43 (December 8, 2000), incorporating by reference the text of Proposed Rulemaking published at 47 DCR 8335,8515-16 (October
+        20, 2000); and Final Rulemaking published at 49 DCR 2742, 2747 (March 22, 2002); as amended by Final Rulemaking published at 51 DCR 3440(April 2, 2004); as amended by Final Rulemaking published at 52 DCR 6358 (July 8, 2005); as amended by Final
+        Rulemaking published at 59 DCR 15094 (December 28, 2012).</text>
+    </level>
+  </level>
+</level>

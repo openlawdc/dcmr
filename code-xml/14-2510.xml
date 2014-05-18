@@ -1,0 +1,62 @@
+<level>
+  <type>section</type>
+  <num>14-2510</num>
+  <heading>DETERMINATION OF INCOME LIMITS (§ 14-2510)</heading>
+  <level>
+    <num>2510.1.</num>
+    <text>The Department shall establish income limits for very low income, lower income and moderate income households in accordance with the requirements of this section, and consistent with the definitions of these households in § 2599 of this chapter.</text>
+  </level>
+  <level>
+    <num>2510.2.</num>
+    <text>The Department shall use the methods described under § 2510.3 and § 2510.5 to determine income limits.</text>
+  </level>
+  <level>
+    <num>2510.3.</num>
+    <text>The Department shall take the median income for the Washington, D.C. Metropolitan Statistical Area established periodically by the Secretary of the U.S. Department of Housing and Urban Development (HUD) and calculate the income limits as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>Fifty percent (50%) of the median income for very low income households;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Eighty percent (80%) of the median income for lower income households; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>One hundred ten percent (110%) of the median income for moderate income households.</text>
+    </level>
+  </level>
+  <level>
+    <num>2510.4.</num>
+    <text>The amounts calculated shall be applied to a four (4) person household size in each income category, and using these amounts as a base number, the following percentage adjustments shall be calculated to adjust the income limits by family size:</text>
+    <text>PERCENTAGE ADJUSTMENTS</text>
+    <text>Person in</text>
+    <text>Household 1 2 3 4 5 6 7 8</text>
+    <text>Very Low</text>
+    <text>Income 70 80 90 Base 108 116 124 132</text>
+    <text>Lower</text>
+    <text>Income 70 80 90 Base 106.25 112.5 118.75 125</text>
+    <text>Moderate</text>
+    <text>Income 70 80 90 Base 106.25 106.25 106.25 106.25</text>
+  </level>
+  <level>
+    <num>2510.5.</num>
+    <text>The base amounts and the amounts determined by the percentage adjustments shall be rounded to the nearest fifty dollars ($50).</text>
+  </level>
+  <level>
+    <num>2510.6.</num>
+    <text>The amounts calculated by the Department in accordance with § 2510.2 through § 2510.5 shall be published as a notice.</text>
+  </level>
+  <level>
+    <num>2510.7.</num>
+    <text>The income limits established shall be periodically reviewed and revised as needed by the Department to stay current with the incomes of households in the Washington area. This review and revision shall be generally done on an annual basis; provided,
+      that the current median income established by the Secretary of the U.S. Department of Housing and Urban Development for the Washington, D.C. Metropolitan Statistical Area is available.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Final Rulemaking published at 34 DCR 4394, 4397 (July 10, 1987).</text>
+    </level>
+  </level>
+</level>

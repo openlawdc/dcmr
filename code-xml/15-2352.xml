@@ -1,0 +1,42 @@
+<level>
+  <type>section</type>
+  <num>15-2352</num>
+  <heading>METERING TESTS (§ 15-2352)</heading>
+  <level>
+    <num>2352.1.</num>
+    <text>Only authorized representatives of a gas corporation shall remove and set meters. Each gas corporation shall keep a record of the dates that each meter is set in and removed from service.</text>
+  </level>
+  <level>
+    <num>2352.2.</num>
+    <text>The test of any meter or associated devices, or both, shall consist of a comparison of its accuracy with the accuracy of the standards prescribed by the National Bureau of Standards or other methods specified in this chapter.</text>
+  </level>
+  <level>
+    <num>2352.3.</num>
+    <text>Testing equipment shall be of sufficient capacity and ranges to test meters or associated devices, or both, under the conditions specified in § 2360.</text>
+  </level>
+  <level>
+    <num>2352.4.</num>
+    <text>Bell provers may be used to test diaphragm, rotary, and turbine type meters. A prover that is used to test rotary and turbine type meters shall be properly automated and have a satisfactory readout. The test shall consist of passing a specific volume
+      of air through the prover and the meter. The accuracy or proof is either read or calculated from the prover scale or the readout.</text>
+  </level>
+  <level>
+    <num>2352.5.</num>
+    <text>Approved working standards other than bell provers may be used to test diaphragm, rotary, and turbine type meters.</text>
+  </level>
+  <level>
+    <num>2352.6.</num>
+    <text>The meter to be tested shall be connected to the approved working standard so that the same volume of air, either under pressure or vacuum, passes through both.</text>
+  </level>
+  <level>
+    <num>2352.7.</num>
+    <text>The uncorrected accuracy shall be calculated or read directly from the readout on the working standard. Corrections shall be made for pressure and temperature differentials between the meter under test and the working standard to determine the corrected
+      accuracy.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7938, 7939 (November 4, 1988); as amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).</text>
+    </level>
+  </level>
+</level>

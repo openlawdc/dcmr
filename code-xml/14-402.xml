@@ -1,0 +1,56 @@
+<level>
+  <type>section</type>
+  <num>14-402</num>
+  <heading>OCCUPANCY REQUIREMENTS (§ 14-402)</heading>
+  <level>
+    <num>402.1.</num>
+    <text>Each dwelling unit shall contain the following minimum amount of floor area in order to comply with the occupancy requirements of this subtitle:</text>
+    <level>
+      <num>(a)</num>
+      <text>At least one hundred thirty square feet (130 ft.2) of floor area in habitable rooms for the first occupant of the dwelling unit;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>At least ninety square feet (90 ft.2) of additional floor area in habitable rooms for each additional occupant of the dwelling unit up to a total of seven (7) occupants; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>At least seventy-five square feet (75 ft.2) of additional floor area in habitable rooms for each additional occupant of the dwelling unit if the dwelling unit is to be occupied by more than seven (7) persons.</text>
+    </level>
+  </level>
+  <level>
+    <num>402.2.</num>
+    <text>Each room used for sleeping purposes by not more than one (1) occupant shall be a habitable room containing at least seventy square feet (70 ft.2) of habitable room area.</text>
+  </level>
+  <level>
+    <num>402.3.</num>
+    <text>Each room used for sleeping by two (2) or more occupants shall be a habitable room containing at least fifty square feet (50 ft.2) of habitable room area for each occupant.</text>
+  </level>
+  <level>
+    <num>402.4.</num>
+    <text>No sleeping facilities shall be permitted in any room in which there is located any of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>A furnace;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>A space heater using an open flame, unless that space heater is effectively flue connected;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>A domestic water heater; or</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>A gas meter.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>The Housing Regulations of the District of Columbia, 5G DCRR §§ 2305, 2306, Commissioners’ Order 55-1503 (August 11, 1955).</text>
+    </level>
+  </level>
+</level>

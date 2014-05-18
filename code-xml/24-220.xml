@@ -1,0 +1,40 @@
+<level>
+  <type>section</type>
+  <num>24-220</num>
+  <heading>TAX SALES (§ 24-220)</heading>
+  <level>
+    <num>220.1.</num>
+    <text>Delinquent rent and charges shall be collected in the same manner as delinquent real estate taxes.</text>
+  </level>
+  <level>
+    <num>220.2.</num>
+    <text>If any tax remains unpaid after two (2) years from the date it is levied, the Director of Finance and Revenue shall send to the property owner a notice of intent to advertise the property for tax sale.</text>
+  </level>
+  <level>
+    <num>220.3.</num>
+    <text>The notice required by §220.2 shall state, as a minimum, the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>The date of the tax sale;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The square and lot number of the property to be sold;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The amount of tax due; and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The last date on which the tax may be paid before the property will be advertised for sale.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Article 43, §4(g) of the Police Regulations (May 1981).</text>
+    </level>
+  </level>
+</level>

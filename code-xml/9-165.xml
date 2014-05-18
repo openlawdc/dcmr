@@ -1,0 +1,130 @@
+<level>
+  <type>section</type>
+  <num>9-165</num>
+  <heading>COMBINED REPORTING[COLON] NET OPERATING LOSSES (§ 9-165)</heading>
+  <level>
+    <num>165.1.</num>
+    <text>Post-apportioned net operating loss carryforwards. A combined group member may carry forward its District apportioned net operating loss to the extent the carryforward and offset is consistent with the requirements and limitations of D.C. Official
+      Code § 47-1803.03(a)(14). A District apportioned net operating loss carryforward is an attribute of the separate entity rather than of the combined group. A combined group member may not share all or a portion of its net operating loss carryforward
+      with other members of the combined group or as an offset against the total income of the combined group. A District apportioned net operating loss carryforwards shall be allowed to offset only the District taxable income of the combined group member
+      that created the net operating loss.</text>
+  </level>
+  <level>
+    <num>165.2.</num>
+    <text>Pre-combination net operating loss carryforwards. Each member of a combined group shall have its own net operating loss carryforward deduction (before apportionment) for loss years prior to 2000 and District apportioned net operating loss deduction
+      (after apportionment) for loss years 2000 and thereafter where:</text>
+    <level>
+      <num>(a)</num>
+      <text>Such member filed a separate District franchise tax return for tax years beginning before January 1, 2011; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Such member was included in a District consolidated return for tax years beginning before January 1, 2011, in which case, the net operating loss shall be determined on a separate entity basis by using the prorated amount of the consolidated net
+        operating loss assigned to the District consolidated member if that member had a loss.</text>
+    </level>
+  </level>
+  <level>
+    <num>165.3.</num>
+    <text>Example: Applying an NOL in a Combined Report.</text>
+    <text>Corp. X</text>
+    <text>Corp. Y</text>
+    <text>Corp. Z</text>
+    <text>Combined</text>
+    <text>Unitary business income (loss) subject to apportionment</text>
+    <text>(400,000)</text>
+    <text>(10,000)</text>
+    <text>60,000</text>
+    <text>(350,000)</text>
+    <text>Apportionment percentages</text>
+    <text>5%</text>
+    <text>1%</text>
+    <text>3%</text>
+    <text>9%</text>
+    <text>Loss apportioned to D.C. (combined loss x apportionment %)</text>
+    <text>(17,500)</text>
+    <text>(3,500)</text>
+    <text>(10,500)</text>
+    <text>(31,500)</text>
+    <text>Nonbusiness items wholly attributable to D.C.</text>
+    <text>50,000</text>
+    <text>(2,500)</text>
+    <text>0</text>
+    <text>D.C. net income (loss)</text>
+    <text>32,500</text>
+    <text>(6,000)</text>
+    <text>(10,500)</text>
+    <text>NOL available to be carried forward (100% of loss)</text>
+    <text>0</text>
+    <text>(6,000)</text>
+    <text>(10,500)</text>
+    <text>Corp. X</text>
+    <text>Corp. Y</text>
+    <text>Corp. Z</text>
+    <text>Combined</text>
+    <text>Unitary business income (loss) subject to apportionment</text>
+    <text>50,000</text>
+    <text>80,000</text>
+    <text>(5,000)</text>
+    <text>125,000</text>
+    <text>Apportionment percentages</text>
+    <text>6%</text>
+    <text>4%</text>
+    <text>4%</text>
+    <text>14%</text>
+    <text>Income apportioned to D.C. (Combined income x apportionment %)</text>
+    <text>7,500</text>
+    <text>5,000</text>
+    <text>5,000</text>
+    <text>17,500</text>
+    <text>Non-business items wholly attributable to D.C.</text>
+    <text>2,500</text>
+    <text>(10,000)</text>
+    <text>0</text>
+    <text>D.C. net income (loss)</text>
+    <text>10,000</text>
+    <text>(5,000)</text>
+    <text>5,000</text>
+    <text>Application of NOL carryforward from Year 1</text>
+    <text>0</text>
+    <text>0</text>
+    <text>(5,000)</text>
+    <text>D.C. net income (loss)</text>
+    <text>10,000</text>
+    <text>(5,000)</text>
+    <text>0</text>
+    <text>NOL available to be carried forward (100% of loss)</text>
+    <text>0</text>
+    <text>(5,000)</text>
+    <text>0</text>
+    <text>Corp. X</text>
+    <text>Corp. Y</text>
+    <text>Corp. Z</text>
+    <text>Remaining NOL from Year 1</text>
+    <text>0</text>
+    <text>(6,000)</text>
+    <text>(5,500)</text>
+    <text>Loss in Year 2</text>
+    <text>0</text>
+    <text>(5,000)</text>
+    <text>0</text>
+    <text>NOL available to be carried forward</text>
+    <text>0</text>
+    <text>(11,000)</text>
+    <text>(5,500)</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>YEAR 1</heading>
+      <text></text>
+    </level>
+    <level>
+      <heading>YEAR 2</heading>
+      <text></text>
+    </level>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 59 DCR 10875, 10890 (September 14, 2012).</text>
+    </level>
+  </level>
+</level>

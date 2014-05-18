@@ -1,0 +1,56 @@
+<level>
+  <type>section</type>
+  <num>20-5502</num>
+  <heading>PARTIAL APPLICABILITY OF UST REGULATIONS TO PARTICULAR UST SYSTEMS (§ 20-5502)</heading>
+  <level>
+    <num>5502.1.</num>
+    <text>The following UST systems are required to comply only with the provisions of this section and with the provisions of Chapter 62:</text>
+    <level>
+      <num>(a)</num>
+      <text>Wastewater treatment tank systems not regulated under § 307(b) or § 402 of the Clean Water Act, 33 USC § 1151 et seq.;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Any UST system containing any radioactive material that is regulated under the Atomic Energy Act of 1954, 42 USC § 2011 et seq.;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Any UST system that is part of any emergency generator system at nuclear power generation facilities regulated by the Nuclear Regulatory Commission under 10 CFR Part 50, Appendix A;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Any airport or heliport hydrant fuel distribution system; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>UST systems with field-constructed tanks.</text>
+    </level>
+  </level>
+  <level>
+    <num>5502.2.</num>
+    <text>No person may install an UST system identified in § 5502.1 for the purpose of storing any regulated substance unless that UST system:</text>
+    <level>
+      <num>(a)</num>
+      <text>Will prevent releases due to corrosion or structural failure for the operational life of the UST system;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Is cathodically protected against corrosion, constructed of noncorrodible material, steel clad with a noncorrodible material, or designed to prevent the release or threatened release of any stored regulated substance; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Is constructed or lined with material that is compatible with the stored regulated substance.</text>
+    </level>
+  </level>
+  <level>
+    <num>5502.3.</num>
+    <text>In the event of a suspected or confirmed release from a UST system listed in § 5502.1, the owner or operator shall comply with all of the provisions of Chapter 56 except §§ 5600.7(d), 5601 and 5604.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 40 DCR 7835, 7840 (November 12, 1993); as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999).</text>
+    </level>
+  </level>
+</level>

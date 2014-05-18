@@ -1,0 +1,106 @@
+<level>
+  <type>section</type>
+  <num>9-164</num>
+  <heading>COMBINED REPORTING[COLON] COMBINING SPECIAL APPORTIONMENT FORMULAS (§ 9-164)</heading>
+  <level>
+    <num>164.1.</num>
+    <text>Combined groups which include some members which are required to use the four (4)-factor apportionment formula and other members which are required to use a special apportionment method are subject to apportionment as described below:</text>
+    <level>
+      <num>(a)</num>
+      <text>Combined group members who use the four (4)-factor formula and those that use special apportionment methods for purposes of allocation and apportionment shall prepare a federal consolidated pro forma return consisting of all combined group members,
+        including the elimination of all intercompany transactions, regardless of whether between or among combined group members who use the four (4)-factor formula and/or those that use special apportionment formulas;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Each member shall separately compute its District apportionment factor numerators, determine its District apportionment factor based on the group’s denominators, and then apply its factors to the group’s business income or loss subject to apportionment
+        to arrive at net income or loss apportioned to the District;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Each member shall compute its nonbusiness income separately subject to the allocation rules;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>All income or loss allocated and apportioned to the District by each member shall be added together to arrive at District taxable income for each member; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Each member shall apply the appropriate District income tax rate to determine the proper District tax due.</text>
+    </level>
+  </level>
+  <level>
+    <num>164.2.</num>
+    <text>Example: Financial Institutions</text>
+    <text>DISCRIPTION</text>
+    <text>COMBINED REPORT</text>
+    <text>CORPORATION A</text>
+    <text>FINANCIAL INSTITUTION</text>
+    <text>Sales</text>
+    <text>District</text>
+    <text>$3,000,000</text>
+    <text>$2,000,000</text>
+    <text>$1,000,000</text>
+    <text>Sales</text>
+    <text>Everywhere</text>
+    <text>$20,000,000</text>
+    <text>$10,000,000</text>
+    <text>$10,000,000</text>
+    <text>District Weighted Sales Factor</text>
+  </level>
+  <level>
+    <num>20.00</num>
+    <text>20.00%</text>
+  </level>
+  <level>
+    <num>5.00</num>
+    <text>5.00%</text>
+    <text>Property</text>
+    <text>District</text>
+    <text>$20,000</text>
+    <text>$20,000</text>
+    <text>Property</text>
+    <text>Everywhere</text>
+    <text>$250,000</text>
+    <text>$250,000</text>
+  </level>
+  <level>
+    <num>8.00</num>
+    <text>8.00%</text>
+    <text>Payroll</text>
+    <text>District</text>
+    <text>$30,000</text>
+    <text>$20,000</text>
+    <text>$10,000</text>
+    <text>Payroll</text>
+    <text>Everywhere</text>
+    <text>$500,000</text>
+    <text>$250,000</text>
+    <text>$250,000</text>
+  </level>
+  <level>
+    <num>4.00</num>
+    <text>4.00%</text>
+  </level>
+  <level>
+    <num>2.00</num>
+    <text>2.00%</text>
+    <text>District Apportionment Factor</text>
+  </level>
+  <level>
+    <num>8.00</num>
+    <text>8.00%</text>
+  </level>
+  <level>
+    <num>3.50</num>
+    <text>3.50%</text>
+    <text>* The receipt factor for financial institutions is not double-weighted. See 9 DCMR § 129. The</text>
+    <text>sum of the factors (sales/receipts and payroll), excluding property, is divided by two.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 59 DCR 10875, 10889 (September 14, 2012).</text>
+    </level>
+  </level>
+</level>

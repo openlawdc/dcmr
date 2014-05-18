@@ -1,0 +1,222 @@
+<level>
+  <type>section</type>
+  <num>20-744</num>
+  <heading>ADHESIVES AND SEALANTS – VOC STANDARDS (§ 20-744)</heading>
+  <level>
+    <num>744.1</num>
+    <text>744.1 On and after January 1, 2012, no person shall sell, supply, offer for sale in the District of Columbia any adhesive, sealant, adhesive primer, or sealant primer manufactured on or after January 1, 2012, or manufacture for sale in the District
+      of Columbia any adhesive, sealant, adhesive primer or sealant primer in excess of the applicable VOC content limits specified in the Table of Standards in § 744.2, except as provided in §§ 744.5 and 745.</text>
+  </level>
+  <level>
+    <num>744.2.</num>
+    <text>No person shall use or apply any adhesive, sealant, adhesive primer, or sealant primer manufactured on and after January 1, 2012, within the District of Columbia in excess of the applicable VOC content limits specified in the following Table of Standards,
+      except as provided in §§ 744.5 and 745:</text>
+    <text>Table of Standards. VOC Content Limits for Adhesives, Sealants, Adhesive Primers, Sealant Primers and Adhesives Applied to Particular Substrates.</text>
+    <text>Adhesive, sealant, adhesive primer or sealant primer category</text>
+    <text>VOC content limit (grams VOC per liter*)</text>
+    <text>VOC Limits</text>
+    <text>(g/L)</text>
+    <text>ABS welding</text>
+    <text>400</text>
+    <text>Ceramic tile installation</text>
+    <text>130</text>
+    <text>Computer diskette jacket manufacturing</text>
+    <text>850</text>
+    <text>Contact or contact bond</text>
+    <text>250</text>
+    <text>Cove base installation</text>
+    <text>150</text>
+    <text>CPVC welding</text>
+    <text>490</text>
+    <text>Indoor floor covering installation</text>
+    <text>150</text>
+    <text>Metal to urethane/rubber molding or casting</text>
+    <text>850</text>
+    <text>Motor vehicle</text>
+    <text>250</text>
+    <text>Motor vehicle weatherstrip</text>
+    <text>750</text>
+    <text>Multi-purpose construction</text>
+    <text>200</text>
+    <text>Non-membrane roof installation/repair</text>
+    <text>300</text>
+    <text>Outdoor floor covering installation</text>
+    <text>250</text>
+    <text>Plastic cement welding (except ABS, PVC or CPVC)</text>
+    <text>510</text>
+    <text>PVC welding</text>
+    <text>510</text>
+    <text>Single-ply roof membrane installation/repair</text>
+    <text>250</text>
+    <text>Structural glazing</text>
+    <text>100</text>
+    <text>Thin metal laminating</text>
+    <text>780</text>
+    <text>Tire retread</text>
+    <text>100</text>
+    <text>Perimeter bonded sheet vinyl flooring installation</text>
+    <text>660</text>
+    <text>Waterproof resorcinol glue</text>
+    <text>170</text>
+    <text>Sheet-applied rubber installation</text>
+    <text>850</text>
+    <text>VOC Limits in (g/L)</text>
+    <text>Architectural</text>
+    <text>250</text>
+    <text>Marine deck</text>
+    <text>760</text>
+    <text>Non-membrane roof installation / repair</text>
+    <text>300</text>
+    <text>Roadway</text>
+    <text>250</text>
+    <text>Single-ply roof membrane</text>
+    <text>450</text>
+    <text>Other</text>
+    <text>420</text>
+    <text>VOC Limits in (g/L)</text>
+    <text>Automotive glass</text>
+    <text>700</text>
+    <text>Motor vehicle glass bonding</text>
+    <text>900</text>
+    <text>Plastic cement welding</text>
+    <text>650</text>
+    <text>Single-ply roof membrane</text>
+    <text>250</text>
+    <text>Traffic marking tape</text>
+    <text>150</text>
+    <text>Other</text>
+    <text>250</text>
+    <text>VOC Limits in (g/L)</text>
+    <text>Architectural – non-porous material</text>
+    <text>250</text>
+    <text>Architectural – porous material</text>
+    <text>775</text>
+    <text>Marine deck</text>
+    <text>760</text>
+    <text>Other</text>
+    <text>750</text>
+    <text>VOC Limits in (g/L)</text>
+    <text>Flexible vinyl</text>
+    <text>250</text>
+    <text>Fiberglass</text>
+    <text>200</text>
+    <text>Reinforced plastic composite</text>
+    <text>200</text>
+    <text>Metal</text>
+    <text>30</text>
+    <text>Porous material (other than wood)</text>
+    <text>120</text>
+    <text>Rubber</text>
+    <text>250</text>
+    <text>Wood</text>
+    <text>30</text>
+    <text>Other substrates</text>
+    <text>250</text>
+    <text>* The VOC content is determined as the weight of VOCs,</text>
+    <text>less water and exempt compounds as specified in §747.</text>
+  </level>
+  <level>
+    <num>744.3.</num>
+    <text>The VOC content limits in the Table of Standards in § 744.2 for adhesives applied to particular substrates (such as, Category 5), shall apply as follows:</text>
+    <text>If an operator uses an adhesive or sealant subject to a specific VOC content limit for such adhesive or sealant in the Table of Standards in § 744.2, such specific limit applies rather than an adhesive-to-substrate limit; and</text>
+    <text>If an adhesive is used to bond dissimilar substrates together, the applicable substrate category with the highest VOC content shall be the limit for such use.</text>
+  </level>
+  <level>
+    <num>744.4</num>
+    <text>744.4 Except as provided in §§ 744.5 and 745, any person subject to §§ 743 to 749 using a surface preparation or cleanup solvent shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Except as provided in paragraph (b) of this section for single-ply roofing, not use materials containing VOCs for surface preparation, unless the VOC content of the surface preparation solvent is less than seventy grams per liter (70 g./L);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>If a surface preparation solvent is used in applying single-ply roofing, not use materials for surface preparation containing VOCs, unless the composite vapor pressure of the surface preparation solvent, excluding water and exempt compounds, does
+        not exceed forty-five millimeters of mercury (45 mm. Hg) at twenty degrees Celsius (20º C) or sixty-eight degrees Fahrenheit (68° F);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Except as provided in paragraph (d) of this section, not use materials containing VOCs for the removal of adhesives, sealants, or adhesive or sealant primers from surfaces, other than spray application equipment, unless the composite vapor pressure
+        of the solvent used, excluding water and exempt compounds, is less than forty-five millimeters of mercury (45 mm. Hg) at twenty degrees Celsius (20º C) or sixty-eight degrees Fahrenheit (68° F); and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Remove an adhesive, sealant, adhesive primer, or sealant primer from the parts of spray application equipment by:</text>
+    </level>
+    <text>An enclosed cleaning system, or an equivalent cleaning system as determined by the SCAQMD’s “General Test Method for Determining Solvent Losses from Spray Gun Cleaning Systems,” dated October 3, 1989;</text>
+    <text>Using a solvent with a VOC content of seventy grams (70 g) of VOC per liter of material, or less; or</text>
+    <text>Soaking parts containing dried adhesive in a solvent as long as the composite vapor pressure, excluding water and exempt compounds, of the solvent is nine and one half millimeters of mercury (9.5 mm. Hg) at twenty degrees Celsius (20º C) or sixty-eight
+      degrees Fahrenheit (68° F) or less and is kept in a closed container, which shall be closed except when depositing or removing parts of materials from the container.</text>
+  </level>
+  <level>
+    <num>744.5.</num>
+    <text>A person using an adhesive, sealant, adhesive primer, or sealant primer subject to §§ 743 to 749 may comply with § 744.2 and 744.4 using add-on air pollution control equipment if such equipment meets the following requirements:</text>
+    <text>The VOC emissions from the use of all adhesives, sealants, adhesive primers, or sealant primers subject to §§ 743 to 749 are reduced by an overall capture and control efficiency of at least eighty-five percent (85%) by weight;</text>
+    <text>The combustion temperature is continuously monitored if a thermal incinerator is operated;</text>
+    <text>Inlet and exhaust gas temperatures are continuously monitored if a catalytic incinerator is operated;</text>
+    <text>Control device efficiency is continuously monitored when a carbon absorber or control device other than a thermal or catalytic incinerator is operated; and</text>
+    <text>Operation records sufficient to demonstrate compliance with the requirements of this section are maintained as required by § 746.</text>
+  </level>
+  <level>
+    <num>744.6</num>
+    <text>744.6 Any person using adhesives, sealants, adhesive primers, sealant primers, or surface preparation or cleanup solvents subject to §§ 743 to 749 shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Store or dispose of all absorbent materials, such as cloth or paper, which are moistened with adhesives, sealants, primers, or solvents subject to §§ 743 to 749, in non-absorbent containers that shall be closed except when placing materials in or
+        removing materials from the container;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Store all VOC-containing adhesives, sealants, adhesive primers, sealant primers, surface preparation and cleanup solvents, and related waste materials in closed containers;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Ensure that mixing and storage containers used for VOC-containing adhesives, sealants, adhesive primers, sealant primers, surface preparation and cleanup solvents, and related waste materials are kept closed at all times except when depositing or
+        removing these materials;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Minimize spills of VOC-containing adhesives, sealants, adhesive primers, sealant primers, surface preparation and cleanup solvents, and related waste materials;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Convey VOC-containing adhesives, sealants, adhesive primers, sealant primers, surface preparation and cleanup solvents, and related waste materials from one location to another in closed containers or pipes; and</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Minimize VOC emission from cleaning of application, storage, mixing, and conveying equipment by ensuring that equipment cleaning is performed without atomizing the cleaning solvent and all spent solvent is captured in closed containers.</text>
+    </level>
+  </level>
+  <level>
+    <num>744.7.</num>
+    <text>No person shall solicit, require the use or specify the application of any adhesive, sealant, adhesive primer, sealant primer, surface preparation or cleanup solvent if such use or application results in a violation of the provisions of 20 DCMR chapter
+      7. The prohibition of this subdivision shall apply to all written or oral contracts under which any adhesive, sealant, adhesive primer, sealant primer, and surface preparation or cleanup solvent subject to §§ 743 to 749 is to be used at any location
+      in the District of Columbia.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>CATEGORY 1</heading>
+      <text>ADHESIVES</text>
+    </level>
+    <level>
+      <heading>CATEGORY 2</heading>
+      <text>SEALANTS</text>
+    </level>
+    <level>
+      <heading>CATEGORY 3</heading>
+      <text>ADHESIVE PRIMERS</text>
+    </level>
+    <level>
+      <heading>CATEGORY 4</heading>
+      <text>SEALANT PRIMERS</text>
+    </level>
+    <level>
+      <heading>CATEGORY 5</heading>
+      <text>ADHESIVES APPLIED TO PARTICULAR SUBSTRATES</text>
+    </level>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 51 DCR 3879 (April 16, 2004); as amended by Final Rulemaking published at 51 DCR 10781 (November 26, 2004); as amended by Notice of Final Rulemaking published at 58 DCR 11286, 11351 (December 30, 2011).</text>
+    </level>
+  </level>
+</level>

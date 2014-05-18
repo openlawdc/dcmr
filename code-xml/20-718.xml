@@ -1,0 +1,235 @@
+<level>
+  <type>section</type>
+  <num>20-718</num>
+  <heading>MOBILE EQUIPMENT REPAIR AND REFINISHING (§ 20-718)</heading>
+  <level>
+    <num>718.1.</num>
+    <text>This section applies to any person who sells, supplies, offers for sale, manufactures or applies repair and refinishing or color-matched coatings for or to mobile equipment or mobile equipment components on or after January 1, 2005 in the District
+      of Columbia, except as provided in § 718.2.</text>
+  </level>
+  <level>
+    <num>718.2.</num>
+    <text>This section does not apply where:</text>
+    <level>
+      <num>(a)</num>
+      <text>The surface coating process is subject to other federal requirements, including, but not limited to, miscellaneous metal parts finishing requirements relating to surface coating processes;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The surface coating process is at an automobile assembly plant; or</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The person applies the coatings in a non-commercial facility and does not receive compensation for the application of the coatings.</text>
+    </level>
+  </level>
+  <level>
+    <num>718.3.</num>
+    <text>Repair and refinishing coatings that contain volatile organic compounds (VOCs) in excess of the limits specified in Table I, including any VOC containing materials added to the original coating supplied by the manufacturer, shall not be applied to
+      mobile equipment or mobile equipment components:</text>
+    <text>Table I. Allowable Content of VOCs in Mobile Equipment Repair and Refinishing Coatings (as applied)</text>
+    <text>Coating Type</text>
+    <text>Weight</text>
+    <text>Limit*</text>
+    <text>(Pounds per gallon)</text>
+    <text>(Grams per liter)</text>
+    <text>Automotive pretreatment primer</text>
+  </level>
+  <level>
+    <num>6.5</num>
+    <text>6.5</text>
+    <text>780</text>
+    <text>Automotive primer-surfacer</text>
+  </level>
+  <level>
+    <num>4.8</num>
+    <text>4.8</text>
+    <text>575</text>
+    <text>Automotive primer-sealer</text>
+  </level>
+  <level>
+    <num>4.6</num>
+    <text>4.6</text>
+    <text>550</text>
+    <text>Automotive topcoat:</text>
+    <text>single stage-topcoat</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+    <text>600</text>
+    <text>2 stage basecoat/clearcoat</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+    <text>600</text>
+    <text>3 or 4-stage basecoat/clearcoat</text>
+  </level>
+  <level>
+    <num>5.2</num>
+    <text>5.2</text>
+    <text>625</text>
+    <text>Automotive multi-colored topcoat</text>
+  </level>
+  <level>
+    <num>5.7</num>
+    <text>5.7</text>
+    <text>680</text>
+    <text>Automotive specialty coating</text>
+  </level>
+  <level>
+    <num>7.0</num>
+    <text>7.0</text>
+    <text>840</text>
+    <text>*Weight of VOC per Volume of Coating (minus water and non-VOC solvents)</text>
+  </level>
+  <level>
+    <num>718.4.</num>
+    <text>A person who sells, supplies, offers for sale or manufactures mobile equipment repair and refinishing coatings subject to this section shall provide documentation with the product concerning the VOC content of the coatings, in pounds per gallon, calculated
+      in accordance with the equations provided in this section:</text>
+    <level>
+      <num>(a)</num>
+      <text>The mass of VOC per combined volume of VOC and coating solids, less water and exempt compounds shall be calculated, in pounds per gallon, by the following equation. To convert from grams per liter to pounds per gallon (lb/gal), multiply the result
+        (VOC content) by 8.345 × 10-3 (lb/gal/g/l):</text>
+    </level>
+    <text>VOC</text>
+    <text>=</text>
+    <text>(Wv &amp;#8211; Ww &amp;#8211; Wec )</text>
+    <text>(V &amp;#8211; Vw – Vec)</text>
+    <text>where:</text>
+    <text>VOC = VOC content in grams per liter (g/l) of coating less water and non VOC solvents;</text>
+    <text>Wv = Mass of total volatiles, in grams;</text>
+    <text>Ww = Mass of water, in grams;</text>
+    <text>Wec = Mass of exempt compounds, in grams;</text>
+    <text>V = Volume of coating, in liters;</text>
+    <text>Vw = Volume of water, in liters; and</text>
+    <text>Vec = Volume of exempt compounds, in liters; and</text>
+    <level>
+      <num>(b)</num>
+      <text>The VOC content of a multi-stage topcoat shall be calculated by the following equation:</text>
+    </level>
+    <text>VOCmulti =</text>
+    <text>M</text>
+    <text>VOCbc +∑VOCmci + 2(VOCcc)</text>
+    <text>i=0</text>
+    <text>M +3</text>
+    <text>where:</text>
+    <text>VOCmulti = VOC content of multistage topcoat, g/l;</text>
+    <text>VOCbc = VOC content of basecoat, g/l;</text>
+    <text>VOCmci = VOC content of the midcoat(s), g/l;</text>
+    <text>VOCcc = VOC content of the clear coat, g/l; and</text>
+    <text>M = Number of midcoats.</text>
+  </level>
+  <level>
+    <num>718.5.</num>
+    <text>A person at a facility subject to the provisions of this section shall use one or more of the following application techniques to apply any repair and refinishing coatings listed in Table I in § 718.3:</text>
+    <level>
+      <num>(a)</num>
+      <text>Flow/curtain coating;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Dip coating;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Roller coating;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Brush coating;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Cotton-tipped swab application;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Electrodeposition coating;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>High volume low pressure (HVLP) spraying;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Electrostatic spray;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Airless spray; or</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Other coating application methods that the person has demonstrated and the Mayor has determined achieve emission reductions equivalent to HVLP or electrostatic spray application methods.</text>
+    </level>
+  </level>
+  <level>
+    <num>718.6.</num>
+    <text>The following are exempt from the application equipment requirements listed in §§ 718.7 and 718.8:</text>
+    <level>
+      <num>(a)</num>
+      <text>The use of airbrush application methods for stenciling, lettering, and other identification markings;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The application of coatings sold in nonrefillable aerosol containers; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The application of automotive touch-up repair finish materials.</text>
+    </level>
+  </level>
+  <level>
+    <num>718.7.</num>
+    <text>Spray guns used to apply mobile equipment repair and refinishing coatings shall be cleaned by any of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Use of an enclosed spray gun cleaning system that is kept closed when not in use;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Use of an unatomized discharge of solvent into a paint waste container that is kept closed when not in use;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Disassembly of the spray gun and cleaning in a vat that is kept closed when not in use; or</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Use of an atomized spray into a paint waste container that is fitted with a device designed to capture atomized solvent emissions.</text>
+    </level>
+  </level>
+  <level>
+    <num>718.8.</num>
+    <text>The owner and operator of a facility, subject to the provisions of this section, shall comply with the following housekeeping, pollution prevention and training measures:</text>
+    <level>
+      <num>(a)</num>
+      <text>Store fresh and used coatings, solvent, and cleaning solvents in nonabsorbent, nonleaking containers;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Close all repairing and refinishing coating containers at all times except when filling or emptying;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Store cloth and paper, or other absorbent applicators, moistened with coatings, solvents, or cleaning solvents in closed, nonabsorbent, nonleaking containers;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Minimize spills during the handling and transfer of coatings, solvents, and cleaning solvents; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Ensure that a person who applies mobile equipment repair and refinishing coatings is trained in the proper use and handling of the mobile equipment repair and refinishing coatings, solvents and waste products.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 51 DCR 3879 (April 16, 2004); as amended by Final Rulemaking published at 51 DCR 10781 (November 26, 2004).</text>
+    </level>
+  </level>
+</level>

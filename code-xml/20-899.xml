@@ -1,0 +1,55 @@
+<level>
+  <type>section</type>
+  <num>20-899</num>
+  <heading>DEFINITIONS AND ABBREVIATIONS (§ 20-899)</heading>
+  <level>
+    <num>899.1.</num>
+    <text>When used in this chapter, the following terms shall have the meanings ascribed:</text>
+    <text>Asbestos abatement &amp;#8211; the removal, encapsulation, enclosure, disposal, or transportation of asbestos or material that contains asbestos.</text>
+    <text>Asbestos worker &amp;#8211; a person who is engaged in asbestos abatement.</text>
+    <text>Business entity &amp;#8211; a partnership, firm, association, corporation, or sole proprietorship that is engaged in asbestos abatement.</text>
+    <text>Emergency renovation operation &amp;#8211; a renovation operation that was not planned but results from a sudden, unexpected event that, if not immediately attended to, presents a safety or public health hazard, is necessary to protect equipment from
+      damage, or is necessary to avoid imposing an unreasonable financial burden. This term includes operations necessitated by non-routine failures of equipment.</text>
+    <text>Encapsulate &amp;#8211; the coating, binding, or resurfacing of a wall, ceiling, pipe, or other structure to prevent friable asbestos or material that contains asbestos from becoming airborne.</text>
+    <text>High-efficiency particulate air (HEPA) filter &amp;#8211; a filter capable of trapping and retaining at least ninety-nine and ninety-seven hundredths percent (99.97%) of all monodispersed particles three tenths (0.3) micrometers ([mu] m) in diameter
+      or larger.</text>
+    <text>Negative pressure system &amp;#8211; equipment that ensures that the static pressure in an enclosed work area is lower than that of the environment outside the containment barriers.</text>
+    <text>Person &amp;#8211; an individual or non-business entity, including a District of Columbia government employee.</text>
+  </level>
+  <level>
+    <num>899.2.</num>
+    <text>When used in this chapter, the following abbreviations shall have the meanings ascribed:</text>
+    <text>RACM &amp;#8211; Regulated asbestos-containing material</text>
+    <text>APPENDIX 8-1</text>
+    <text>EMISSION LIMITS FOR NITROGEN OXIDE</text>
+    <text>Emission limits for nitrogen oxide in fossil-fuel-fired steam generating units of more than one hundred million (100,000,000) British Thermal Units (BTU.) per hour heat input are as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>Two tenths (0.2) lb. per million BTU heat input (0.36 g. per million cal.) maximum two (2) hour average, expressed in NO2, when gaseous fossil fuel is burned:</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Three tenths (0.3) lb. per million BTU heat input (0.54 g. per million cal.) maximum two (2) hour average, express as NO2, when liquid fossil fuel is burned;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Seven tenths (0.7) lb. per million BTU heat input (1.26 g.per million cal.) maximum two (2) hour average. expressed NO2, when solid fossil fuel (except lignite) is burned; and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>When different fossil fuels are burned simultaneously in any combination the applicable standard shall be determined by proration, according to the following formula:</text>
+    </level>
+    <text>x(0.2)+y(0.3)+z(0.7)</text>
+    <text>x+y+z</text>
+    <text>x is the percent of total heat input derived from gaseous fossil fuel;</text>
+    <text>y is the percent of total heat input derived from liquid fossil fuel; and</text>
+    <text>z is the percent of total heat input derived from solid fossil fuel.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Section 3 of the District of Columbia Air Pollution Control Act of 1984, D.C. Law 5-165. 32 DCR 565, 649 (February 1, 1985); as amended by Final Rulemaking published at 45 DCR 20-23 (Jan 2, 1998).</text>
+    </level>
+  </level>
+</level>

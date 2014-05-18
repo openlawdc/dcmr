@@ -1,0 +1,172 @@
+<level>
+  <type>section</type>
+  <num>20-599</num>
+  <heading>DEFINITIONS AND ABBREVIATIONS (§ 20-599)</heading>
+  <level>
+    <num>599.1.</num>
+    <text>The meanings ascribed to the definitions and abbreviations appearing in §§ 199.1 and 199.2 respectively of Chapter 1 shall apply to the terms and abbreviations in this chapter.</text>
+    <text>APPENDIX 5-1</text>
+    <text>TEST METHODS FOR SOURCES OF VOLATILE ORGANIC COMPOUNDS</text>
+    <text>Source Category</text>
+    <text>EPA Document No.</text>
+    <text>Control Option</text>
+    <text>Test Method1</text>
+    <text>Bulk gasoline terminals</text>
+    <text>EPA-450/2-77-026</text>
+    <text>Add-on2</text>
+    <text>Methods 25A, 25B, 2A, 2B</text>
+    <text>Leak tests per methods in EPA-450/2-78-051</text>
+    <text>Bulk plants</text>
+    <text>EPA-450/2-77-035</text>
+    <text>Vapor balance system3 equipment specifications and operating procedures</text>
+    <text>Equipment inspection per methods in EPA-450/2-77-035, page 6-3</text>
+    <text>Cutback asphalt</text>
+    <text>EPA-450/2-77-037</text>
+    <text>Water emulsion</text>
+    <text>Emulsion solvent content</text>
+    <text>Direct observation by inspector</text>
+    <text>ASTM Distillation Test D-244</text>
+    <text>Degreasing</text>
+    <text>Not Applicable</text>
+    <text>Low volatility VOC solvents</text>
+    <text>Low or no VOC content solvents</text>
+    <text>ASTM Method D-2879-86</text>
+    <text>Method 24</text>
+    <text>Degreasing</text>
+    <text>EPA-450/2-77-022</text>
+    <text>Equipment specifications and operating procedures</text>
+    <text>Per methods in EPA-450/2-77-022, pages 3-31, 3-33, 3-35, and 7-1 to 7-7</text>
+    <text>Add-on2</text>
+    <text>External floating roof tanks</text>
+    <text>EPA-450/2-78-047</text>
+    <text>Inspection, maintenance and monitoring</text>
+    <text>Per methods in EPA-450/2-78-047, pages 5-1 to 5-4</text>
+    <text>Fixed-roof tanks</text>
+    <text>EPA-450/2-77-036</text>
+    <text>Internal floating roof4 equipment specifications and maintenance requirements</text>
+    <text>Per methods in</text>
+    <text>EPA-450/2-77-036, page 6-2</text>
+    <text>Add-on2</text>
+    <text>Method 25</text>
+    <text>Gasoline tank trucks</text>
+    <text>EPA-450/2-78-051</text>
+    <text>Pressure-vacuum test</text>
+    <text>Inspection, maintenance and monitoring</text>
+    <text>Method 27 or methods in EPA-450/2-78-051, Appendix B</text>
+    <text>Leak tests per methods in EPA-450/2-78-051 Appendix B</text>
+    <text>Graphic arts: rotogravure and flexography</text>
+    <text>EPA-450/2-78-033</text>
+    <text>Low solvent inks, high solids inks</text>
+    <text>Method 24 or 24A</text>
+    <text>Add on2</text>
+    <text>Method 25</text>
+    <text>Graphic Arts: Offset Lithography</text>
+    <text>Not Applicable</text>
+    <text>Add-on2</text>
+    <text>Low volatility VOC cleaning solutions</text>
+    <text>Low VOC content cleaning solutions</text>
+    <text>Dampening solution</text>
+    <text>Method 25 or 25A</text>
+    <text>ASTM Method D-2879-86</text>
+    <text>Method 24</text>
+    <text>Method 415.1</text>
+    <text>Manufacture of high density polyethylene, polypropylene and polystyrene</text>
+    <text>EPA-450/3-83-008</text>
+    <text>Add on2</text>
+    <text>Method 18, 25 or 25A</text>
+    <text>Natural gas/gasoline processing plants</text>
+    <text>EPA-450/3-83-007</text>
+    <text>Inspection, maintenance and monitoring</text>
+    <text>Method 21</text>
+    <text>Petroleum dry cleaners</text>
+    <text>EPA-450/3-82-009</text>
+    <text>Operation and maintenance</text>
+    <text>Per methods in EPA-450/3-82-009, Appendix E</text>
+    <text>Add-on2</text>
+    <text>Method 25</text>
+    <text>Petroleum refinery equipment leaks</text>
+    <text>EPA-450/2-78-036</text>
+    <text>Inspection, maintenance and monitoring</text>
+    <text>Method 21</text>
+    <text>Petroleum refinery vacuum producing systems, wastewater separators and process unit turnarounds</text>
+    <text>EPA-450/2-77-025</text>
+    <text>Equipment specifications and operating procedures</text>
+    <text>Per methods in EPA-450/2-77-025, page 6-2</text>
+    <text>Perchloroethylene dry cleaners</text>
+    <text>EPA-450/2-78-050</text>
+    <text>Operation and maintenance</text>
+    <text>Per methods in EPA-450/2-78-050, pages 6-1 to 6-4</text>
+    <text>Add-on2</text>
+    <text>Pharmaceutical manufacture</text>
+    <text>EPA-450/2-78-029</text>
+    <text>Operation and maintenance</text>
+    <text>Per methods in</text>
+    <text>EPA-450/2-78-029, page 7-2</text>
+    <text>Add-on2</text>
+    <text>Method 25</text>
+    <text>Rubber tire manufacture</text>
+    <text>EPA-450/2-78-030</text>
+    <text>Add-on2</text>
+    <text>Method 25</text>
+    <text>Service stations-Stage I</text>
+    <text>Design criteria document</text>
+    <text>Vapor balance system3 equipment specifications operating and procedures</text>
+    <text>Equipment inspection per methods in Design Criteria Document, pages 3 to 6</text>
+    <text>Leak tests per methods in EPA-450/2-78-051</text>
+    <text>Surface coating of cans, metal coils, paper, fabric, and automobiles and light-duty trucks</text>
+    <text>EPA-450/2-77-008</text>
+    <text>Low solvent coatings</text>
+    <text>Method 24</text>
+    <text>Add-on2</text>
+    <text>Method 25 or methods in EPA-450/2-78-041</text>
+    <text>Surface coating of flatwood paneling</text>
+    <text>EPA-450/2-78-032</text>
+    <text>Low solvent coatings</text>
+    <text>Method 24 or methods in EPA-450/2-78-032, page 5-1</text>
+    <text>Add-on2</text>
+    <text>Method 25</text>
+    <text>Surface coating of large appliances</text>
+    <text>EPA-450/2-77-034</text>
+    <text>Low solvent coatings</text>
+    <text>Method 24 or methods in EPA-450/2-77-034 pages 5-1 to 5-4</text>
+    <text>Add-on2</text>
+    <text>Method 25 or methods in EPA-450/2-78-041</text>
+    <text>Surface coating of magnetic wire</text>
+    <text>EPA-450/2-77-033</text>
+    <text>Add-on2</text>
+    <text>Method 25 or methods in EPA-450/2-78-041</text>
+    <text>Surface coating of metal furniture</text>
+    <text>EPA-450/2-77-032</text>
+    <text>Low solvent coatings</text>
+    <text>Method 24 or methods in EPA-450/2-77-032, pages 5-1 to 5-5</text>
+    <text>Add-on2</text>
+    <text>Method 25 or methods in EPA-450/2-78-041</text>
+    <text>Surface coating of miscellaneous metal parts and products</text>
+    <text>EPA-450/2-78-015</text>
+    <text>Low solvent coatings</text>
+    <text>Method 24 or methods in EPA-450/2-78-015, page 6-1</text>
+    <text>Add-on2</text>
+    <text>Method 25</text>
+    <text>Synthetic organic chemicals</text>
+    <text>manufacturing industry (SOCMI) equipment leaks</text>
+    <text>EPA-450/3-83-006</text>
+    <text>Inspection, maintenance and monitoring</text>
+    <text>Method 21</text>
+    <text>Synthetic organic chemicals manufacturing industry (SOCMI) air oxidation unit processes</text>
+    <text>Add-on2</text>
+    <text>Method 18</text>
+    <text>Volatile organic liquid storage vessels</text>
+    <text>Inspection, maintenance and monitoring</text>
+    <text>1Methods refer to those found in Appendix A to Part 60 of Title 40 of the Code of Federal Regulations unless otherwise noted.</text>
+    <text>2Add-on refers to emission control equipment, e.g. incineration, carbon adsorption, refrigeration, refrigeration/compression/absorption, etc.</text>
+    <text>3Visual inspection except for leaks.</text>
+    <text>4Visual inspections only.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Section 2 of the Air Pollution Control Act of 1984 National Ambient Air Quality Standards Attainment Amendment Act of 1993, D.C. Law 10-24, 40 DCR 5474, 5479 (July 30, 1993); as amended by Final Rulemaking published at 45 DCR 7037 (October 2, 1998).</text>
+    </level>
+  </level>
+</level>

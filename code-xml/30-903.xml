@@ -1,0 +1,43 @@
+<level>
+  <type>section</type>
+  <num>30-903</num>
+  <heading>PRIZE STRUCTURE FOR THE LUCKY NUMBERS GAME (§ 30-903)</heading>
+  <level>
+    <num>903.1.</num>
+    <text>Based on a fifty cents (50¢) bet, the prize structure for the Lucky Numbers game shall be as follows:</text>
+    <text>Bet Types</text>
+    <text>Payout</text>
+    <text>Comment</text>
+    <text>Straight</text>
+    <text>$250</text>
+    <text>Six-Way Combination</text>
+    <text>250</text>
+    <text>Three-Way Combination</text>
+    <text>250</text>
+    <text>Straight/Six-Way Box</text>
+    <text>290</text>
+    <text>If straight hits</text>
+    <text>40</text>
+    <text>If box portion only hits</text>
+    <text>Straight/Three-Way .Box</text>
+    <text>330</text>
+    <text>If straight hits</text>
+    <text>80</text>
+    <text>If box portion only hits</text>
+    <text>Six-Way Box</text>
+    <text>40</text>
+    <text>Three-Way Box</text>
+    <text>80</text>
+    <text>Front Pair</text>
+    <text>25</text>
+    <text>Back Pair</text>
+    <text>25</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 39 DCR 7439, 7453 (October 2, 1992).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,164 @@
+<level>
+  <type>section</type>
+  <num>9-3702</num>
+  <heading>COMPUTATION OF TAX (§ 9-3702)</heading>
+  <level>
+    <num>3702.1.</num>
+    <text>The amount of the federal credit shall be construed to take full advantage of the maximum state death tax credit allowable under the laws of the United States.</text>
+  </level>
+  <level>
+    <num>3702.2.</num>
+    <text>In determining the maximum amount of the allowable federal credit, it shall be presumed that the maximum allowable federal credit determined in accordance with §2011(b) of the Internal Revenue Code subject to the limitations of §§ 2011(e) and (f)
+      was claimed and that all other requirements of § 2011 were satisfied. Failure to claim the maximum amount of the federal credit on the federal estate tax return shall not affect the amount of the District estate tax due.</text>
+  </level>
+  <level>
+    <num>3702.3.</num>
+    <text>For resident decedents owning no real or tangible personal property located outside the District, the District estate tax shall equal the federal credit (determined in accordance with the Act and §§ 3702.1 and 3702.2 of this chapter.</text>
+    <text>Example: The decedent was domiciled in the District with all of the decedent&amp;#8217;s property located in the District. The value of the decedent&amp;#8217;s total gross estate is nine hundred twenty thousand dollars ($920,000) and the allowable
+      deductions are one hundred seventy thousand dollars ($170,000). The allowable credit for state death taxes (&amp;#8220;federal credit&amp;#8217;) is twenty thousand and four hundred dollars ($20,400). Consequently, the District estate tax due is
+      twenty thousand and four hundred dollars ($20,400).</text>
+    <text>Value</text>
+    <text>Decedent&amp;#8217;s Property:</text>
+    <text>D.C. real property</text>
+    <text>$500.000</text>
+    <text>Tangible personal property</text>
+    <text>135,000</text>
+    <text>Intangible personal property</text>
+    <text>285,000</text>
+    <text>Total gross estate</text>
+    <text>$920,000</text>
+    <text>Total allowable deductions</text>
+    <text>170,000</text>
+    <text>Taxable estate</text>
+    <text>750,000</text>
+    <text>Gross federal estate tax</text>
+    <text>248,300</text>
+    <text>Allowable unified credit</text>
+    <text>192,800</text>
+    <text>Allowable credit for state death taxes</text>
+    <text>20,400</text>
+    <text>(&amp;#8220;federal credit&amp;#8221;)</text>
+    <text>District estate tax due</text>
+    <text>20,400</text>
+  </level>
+  <level>
+    <num>3702.4.</num>
+    <text>For resident decedents owning property located outside the District, the District estate tax shall equal the federal credit (determined in accordance with the Act and §§ 3702.1 and 3702.2) reduced by the lessor of one of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>The amount of death tax paid to any other state that qualifies for the credit; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>An amount computed under the following formula:</text>
+    </level>
+    <text>Federal credit</text>
+    <text>X</text>
+    <text>Value of the gross estate subject to death tax in the other state (applying District law)</text>
+    <text>The value of the decedent&amp;#8217;s gross estate</text>
+    <text>Example: The decedent resided in the District but owned a summer beach house in Maryland. The value of her gross estate is one million four hundred fifteen thousand dollars ($1,415,000) and the allowable deductions are four hundred fifteen thousand
+      dollars ($415,000). The allowable credit for state death taxes (&amp;#8220;federal credit&amp;#8221;) is thirty-three thousand two hundred dollars ($ 33,200). The District estate tax will be thirty-three thousand two hundred dollars ($33,200) reduced
+      by the lesser of the tax actually paid by the estate to Maryland or the amount allowed by statute. In this case, the thirty-three thousand two hundred dollars ($33,200) is reduced by the statutory amount of eleven thousand six hundred fourteen dollars
+      ($11,614). The District estate tax is twenty-one thousand five hundred eighty-six dollars ($21,586).</text>
+    <text>Decedent&amp;#8217;s Property:</text>
+    <text>Value</text>
+    <text>D.C. real property</text>
+    <text>$600,000</text>
+    <text>Tangible personal property</text>
+    <text>135,000</text>
+    <text>Intangible personal property</text>
+    <text>185,000</text>
+    <text>Maryland real property</text>
+    <text>400,000</text>
+    <text>Maryland tangible personal property</text>
+    <text>95,000</text>
+    <text>Total gross estate</text>
+    <text>$1,415,000</text>
+    <text>Total allowable deductions</text>
+    <text>415,000</text>
+    <text>Taxable estate</text>
+    <text>1,000,000</text>
+    <text>Gross federal estate tax</text>
+    <text>345,800</text>
+    <text>Allowable unified credit</text>
+    <text>192,800</text>
+    <text>Allowable credit for state death taxes (&amp;#8220;federal credit&amp;#8221;)</text>
+    <text>33,200</text>
+    <text>Potential District estate tax</text>
+    <text>33,200</text>
+    <text>District estate tax computed by reducing</text>
+    <text>$33,200 by the lesser of:</text>
+    <level>
+      <num>(1)</num>
+      <text>Eleven thousand six hundred twenty dollars ($11,600) (the amount of death tax paid to Maryland); or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Eleven thousand six hundred fourteen dollars ($11,614) determined as follows:</text>
+    </level>
+    <text>Federal credit</text>
+    <text>X</text>
+    <text>Value of the gross estate subject to death taxation in Maryland (applying District law)</text>
+    <text>The value of the decedent&amp;#8217;s gross estate</text>
+    <text>$33,200</text>
+    <text>X</text>
+    <text>$495,000</text>
+    <text>$1,415,000</text>
+    <text>District estate tax ($33,200 &amp;#8211; $11,614)</text>
+    <text>$21,586</text>
+  </level>
+  <level>
+    <num>3702.5.</num>
+    <text>The District estate tax shall be imposed on the estate of a nonresident decedent to the extent that the decedent&amp;#8217;s property has a taxable situs in the District. The tax is computed under the following formula:</text>
+    <text>Federal credit</text>
+    <text>X</text>
+    <text>Value of that part of decedent&amp;#8217;s gross estate subject to tax by the District</text>
+    <text>The value of the decedent&amp;#8217;s gross estate</text>
+    <text>Example: The decedent was domiciled in the State of Maryland and conducted business as a sole proprietor in the District of Columbia. The decedent gross estate totals three million four hundred thirty-five thousand dollars ($3,435,000) and allowable
+      deductions total seven hundred thirty-five thousand dollars ($735,000). Under the statute, the District estate tax is one hundred nineteen thousand eight hundred and twelve dollars ($119,812).</text>
+    <text>Decedent&amp;#8217;s Property:</text>
+    <text>Value</text>
+    <text>Maryland real property</text>
+    <text>$545,000</text>
+    <text>Tangible personal property located in Maryland</text>
+    <text>135,000</text>
+    <text>Non-business intangible personal property</text>
+    <text>105,000</text>
+    <text>D.C. real property used in business</text>
+    <text>2,000,000</text>
+    <text>Commercial bank accounts located in Maryland related to business</text>
+    <text>500,000</text>
+    <text>Business tangible personal property located in the District</text>
+    <text>150,000</text>
+    <text>Total gross estate</text>
+    <text>$3,435,000</text>
+    <text>Total allowable deductions</text>
+    <text>735,000</text>
+    <text>Taxable estate</text>
+    <text>2,700,000</text>
+    <text>Gross federal estate tax</text>
+    <text>1,125,800</text>
+    <text>Allowable unified credit</text>
+    <text>192,800</text>
+    <text>Allowable credit for state death taxes (&amp;#8220;federal credit&amp;#8221;)</text>
+    <text>155,600</text>
+    <text>District estate tax computed under the following formula:</text>
+    <text>Federal credit</text>
+    <text>×</text>
+    <text>Value of that part of decedent&amp;#8217;s gross estate subject to tax by the District</text>
+    <text>The value of the decedent&amp;#8217;s gross estate</text>
+    <text>$ 155,600</text>
+    <text>×</text>
+    <text>$ 2,650,000</text>
+    <text>$ 3,435,000</text>
+    <text>District estate tax</text>
+    <text>$ 120,041</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 2353, 2354 (April 1, 1988).</text>
+    </level>
+  </level>
+</level>

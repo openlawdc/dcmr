@@ -1,0 +1,46 @@
+<level>
+  <type>section</type>
+  <num>20-906</num>
+  <heading>CLEAN FUEL FLEET VEHICLE ACQUISITION REQUIREMENTS (§ 20-906)</heading>
+  <level>
+    <num>906.1.</num>
+    <text>Of the new covered fleet vehicles purchased each year by a covered fleet operator beginning in Model Year 1998 and thereafter, at least a specified percentage of the vehicles shall be clean-fuel vehicles, as provided in this section. The vehicles
+      shall operate on clean fuels when operating in the covered area. The required new vehicle purchase percentages for each vehicle type shall be those set forth in table 9-1 of this subsection:</text>
+    <text>Table 9-1</text>
+    <text>CFFV PURCHASE REQUIREMENTS</text>
+    <text>VEHICLE CLASS</text>
+    <text>MODEL YEAR 1998</text>
+    <text>MODEL YEAR 1999</text>
+    <text>MODEL YEAR 2000 plus</text>
+    <text>LDVs and LDTs under 6.000 lbs. GVWR</text>
+    <text>30%</text>
+    <text>50%</text>
+    <text>70%</text>
+    <text>LDT 6.000 lbs GVWR or higher but not over 8.500 lbs. GVWR</text>
+    <text>30%</text>
+    <text>50%</text>
+    <text>70%</text>
+    <text>HDVs over 8,500 lbs. and below 26,000 lbs. GVWR</text>
+    <text>50%</text>
+    <text>50%</text>
+    <text>50%</text>
+  </level>
+  <level>
+    <num>906.2.</num>
+    <text>Any clean-fuel vehicle purchased pursuant to the requirements of § 906.1 of this chapter shall meet the emission standard for its respective vehicle class and category as contained in § 906.3 and as may be amended by the Mayor to the extent necessary
+      to conform with revised emission standards promulgated after the date of enactment of the Clean Air Act by the Environmental Protection Agency.</text>
+  </level>
+  <level>
+    <num>906.3.</num>
+    <text>The emission tables are as follows:</text>
+    <text>Table 9-2</text>
+    <text>CFFV EMISSION STANDARDS FOR LOW EMISSION VEHICLES (LEVs) &amp;#8211; LDVs AND LDTs</text>
+    <text>LDV, LDT</text>
+    <text>LDT ≤6000</text>
+    <text>LDT &gt; 6000</text>
+    <text>LDT &gt; 6000</text>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

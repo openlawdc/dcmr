@@ -1,0 +1,563 @@
+<level>
+  <type>section</type>
+  <num>18-312</num>
+  <heading>IGNITION INTERLOCK PROVIDERS (§ 18-312)</heading>
+  <level>
+    <num>312.1.</num>
+    <text>All ignition interlock providers must be certified by the Department in accordance with the requirements of this section.</text>
+  </level>
+  <level>
+    <num>312.2.</num>
+    <text>Providers shall be responsible for device installation, user training, service, and maintenance.</text>
+  </level>
+  <level>
+    <num>312.3.</num>
+    <text>All devices offered in the District shall meet the Model specifications for Breath Alcohol Ignition Interlock Devices from the National Highway Traffic Safety Administration, 57 FR 11772&amp;#8211;11787 (1992).</text>
+  </level>
+  <level>
+    <num>312.4.</num>
+    <text>A provider shall certify that the devices for which certification is sought:</text>
+    <level>
+      <num>(a)</num>
+      <text>Do not impede the safe operation of the vehicle;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Minimize opportunities to bypass devices;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Correlate accurately with established measure of blood alcohol levels;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Work accurately and reliably in an unsupervised environment;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Require a proper and accurate measure of blood alcohol levels;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Resist tampering and provide evidence of attempted tampering;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Are difficult to circumvent and require premeditation to circumvent;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Minimize inconvenience to a sober user;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Are manufactured by a party responsible for installation, user training, service, and maintenance;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Operate reliably over the range of motor vehicle environments or motor vehicle manufacturing standards;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Are manufactured by a party adequately insured for product liability;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Provide the option for an electronic log of the driver&amp;#8217;s experience with the device; and</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>Meet the requirements for certification set forth in the specifications for the devices.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.5.</num>
+    <text>An application for certification shall include:</text>
+    <level>
+      <num>(a)</num>
+      <text>The name and address of the provider;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The name and model number of each type of device to be used by the provider;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>A detailed description of each device including instructions for its installation and operation;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Technical specifications descriptive of each device&amp;#8217;s accuracy, security, data collection and recording, tamper detection, and environmental features;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>A description of the provider&amp;#8217;s present or planned provisions for distribution of the device in the District, including all locations where the device may be purchased, installed, serviced, repaired, calibrated, inspected, and monitored;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>A certificate from an insurance company licensed in the District evidencing that the provider holds product liability insurance; and</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>A certified copy of the drawings, schematics, and wiring protocols for each device and its components, to be treated by the District as confidential commercial information not subject to public disclosure.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.6.</num>
+    <text>The ignition interlock device shall correlate with an alcohol concentration recommended in the specifications contained in 57 FR 11772-11787 (1992), with the accuracy provided for in the specifications, but may not be higher than 0.025 percent.</text>
+  </level>
+  <level>
+    <num>312.7.</num>
+    <text>A correlation coefficient of 0.90 is considered reliable. Ninety times out of 100, the ignition interlock device shall respond to, detect, and interlock when an individual has an alcohol concentration of 0.025 percent or higher.</text>
+  </level>
+  <level>
+    <num>312.8.</num>
+    <text>In the event of a customer complaint, the provider shall correct any error in operation or misuse with additional instructions, or exchange the device with another in the event of a component failure, within 48 hours of notification of the complaint.</text>
+  </level>
+  <level>
+    <num>312.9.</num>
+    <text>Breath test devices shall use breath specimens that are alveolar air samples (&amp;#8220;deep lung air&amp;#8221;) in accordance with established forensic alcohol standards meeting the specifications contained in 57 FR 11772&amp;#8211;11787 (1992).</text>
+  </level>
+  <level>
+    <num>312.10.</num>
+    <text>The ignition interlock device shall be calibrated for proper use and accuracy semiannually, or more frequently as the circumstances may require.</text>
+  </level>
+  <level>
+    <num>312.11.</num>
+    <text>The device, the installation of the device, and the monitoring of the device, including the transmission of data to the Department, shall provide for the security features set forth in the specifications in 57 FR 11772&amp;#8211;11787 (1992).</text>
+  </level>
+  <level>
+    <num>312.12.</num>
+    <text>The device shall be resistant to environmental conditions including shock and vibration as normally found in a motor vehicle and shall operate accurately over a temperature range of &amp;#8211;20 to 100 degrees (F) and an altitude range between 0
+      to 2,500 feet.</text>
+  </level>
+  <level>
+    <num>312.13.</num>
+    <text>The device shall have the following design features:</text>
+    <level>
+      <num>(a)</num>
+      <text>Be designed to permit a restart (grace period) of a vehicle&amp;#8217;s ignition within 120 seconds after the ignition has been shut off, without requiring a further test;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Automatically purge residual alcohol before allowing subsequent tests;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Be required to be stowed out of the way before starting the vehicle;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Be designed so that a second breath test is performed once a vehicle has been underway for at least 5 minutes but not more than 30 minutes;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Cause the vehicle to stop functioning and signal, by activating horns and/or lights, when the device is activated while vehicle has been underway; and</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Have an onboard datalogger, which shall be:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Capable of being downloaded in an installation facility or in the field through mobile means;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Encrypted with the software programs allowing access to the data stored in the device; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Kept secure and protected from public access.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.14.</num>
+    <text>The provider shall carry product liability insurance with minimum liability limits of 1 million dollars ($ 1,000,000) per occurrence, with 3 million dollars ($ 3,000,000) aggregate total. The liability covered shall include defects in product design
+      and materials as well as in the work of manufacture, calibration, installation, and removal of devices. The proof of insurance shall include a statement from the insurance company that 30 days&amp;#8217; notice will be given to the Department before
+      cancellation of the insurance.</text>
+  </level>
+  <level>
+    <num>312.15.</num>
+    <text>The provider shall submit to the Department a statement that the provider is entirely responsible for product liability and shall defend and indemnify the District and the testing laboratory that has verified that the device meets the Department&amp;#8217;s
+      standards and requirements.</text>
+  </level>
+  <level>
+    <num>312.16.</num>
+    <text>A provider is responsible for ensuring that proper installation procedures are adhered to, including, but not limited to, the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Devices shall be installed within a building or from a mobile unit fully equipped for adequate installation;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Customers or other unauthorized persons must not be allowed to witness the installation of the device;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Each provider shall develop detailed and written instructions for installation of its device in accordance with the guidelines adopted by the Department;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The installer shall screen the vehicle for acceptable mechanical and electrical conditions, in accordance with the provider&amp;#8217;s instructions;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Conditions that would interfere with the function of the device (for example, low battery or alternator voltage, stalling frequently enough to require additional breath tests, etc.) shall be corrected to an acceptable level;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Installations shall be made in a workmanlike manner in accordance with accepted trade standards, and according to the instructions provided by the manufacturer;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>After a device is installed, the vehicle shall be checked to see that the installation was performed properly and that it does not interfere with the normal operation of the vehicle after it has been started;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Each installation shall include all of the tamper resistant features required by the provider and the Department;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>The provider shall be responsible for ensuring physical anti-tamper securities, which include, but are not limited to:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>A unique and easily identifiable wire, covering, or sheathing over all wires used to install the device, which are not inside a secured enclosure;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A unique and easily identifiable covering, seal, epoxy, or resin at all exposed electrical connections for the device;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Connections to the vehicle, which shall be under the dash or in an inconspicuous area of the vehicle;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>A unique and easily identifiable tamper seal, epoxy, or resin at all openings (except the breath and exhaust ports) of the hand-held unit, control, and support units; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Depending on the level of electronic anti-tampering security of a device, additional anti-tamper measures, such as the use of a special mark, seal, paint, epoxy, resin, or other material to mark points likely to be accessed when attempting to bypass
+        or tamper with the device (for example, battery post terminals, wire to started solenoid, wire to ignition, dash screws).</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>The provider is responsible for ensuring electronic anti-tampering securities including, but not limited to, the following:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>The device shall detect when the vehicle has been started without a breath test being passed, and shall either display the tamper or record it, or both, in a way that allows for the retrieval of information at a later date;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The device shall retain its tamper detection capabilities when disconnected from the vehicle&amp;#8217;s power supply, or record that it was disconnected. Devices that lose their memory of tamper events when disconnected from a power source shall
+        have an indicator or interrupt device;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The device shall continuously record the time and date for each of the following vehicle and device operations:</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Breath test fail;</text>
+    </level>
+    <text>(ii) Breath test pass;</text>
+    <text>(iii) Alcohol level of breath test; and</text>
+    <text>(iv) Any attempt to tamper with the device.</text>
+    <level>
+      <num>(4)</num>
+      <text>When a device detects a condition that would be considered tampering, the device shall activate an indicator or interrupt device.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.17.</num>
+    <text>At the time of device installation, the device shall be checked to make sure that it is functioning properly and accurately. Self-diagnostic features shall also be checked.</text>
+  </level>
+  <level>
+    <num>312.18.</num>
+    <text>Tamper inspections shall be conducted any time that the device is given routine inspection, maintenance, or repair by the provider. Tamper inspections shall include the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Inspect all external wiring insulation, connection, and sheathing for the device and where the device connects to the vehicle;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Record or document any electronic indications of tampering;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Inspect all tamper seals for breaks, tears, or other evidence of tampering. Document and photograph any evidence of tampering;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Check device for proper operation to ensure tamper detection capabilities;</text>
+    </level>
+  </level>
+  <level>
+    <num>312.19.</num>
+    <text>The Department or its designees shall have the right to inspect installation and servicing of the devices.</text>
+  </level>
+  <level>
+    <num>312.20.</num>
+    <text>The provider shall provide the customer with the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Written instructions on how to clean and care for the device;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Written instructions on what type of vehicle malfunctions or repairs may affect the device, and what to do when such repairs are necessary;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Written notice about how the device may be affected by high altitudes;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Written and hands-on training on how to use the device. This shall include all persons authorized to use the vehicle that has had the device installed; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>An adequate supply of disposable mouthpieces with saliva traps.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.21.</num>
+    <text>The provider shall provide an emergency 24-hour phone number that a driver may use to receive assistance. Assistance may include technical information, tow service, or road service. Emergency assistance related to the failure of a device shall be
+      provided within 24 hours for vehicles located in or near an area with an installation repair facility. The device shall be made functional within 48 hours from when the call for assistance is made.</text>
+  </level>
+  <level>
+    <num>312.22.</num>
+    <text>Providers shall ensure the following with respect to personnel who install, calibrate, perform tamper inspections, or perform reporting duties, or all of these:</text>
+    <level>
+      <num>(a)</num>
+      <text>Personnel shall have the training and skill necessary to install, troubleshoot, and check for proper operation of the device, and to screen the vehicle for acceptable conditions;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Personnel may not have been convicted of a crime substantially related to the qualifications, functions, and duties related to the installation and inspection of the devices. This may include, but is not limited to, the following:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Convictions for any alcohol or drug-related offense within the last three (3) years;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Convictions of more than one (1) alcohol or drug-related offense overall;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Convictions of probation violation;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Conviction for perjury; or</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>License suspension or revocation for a violation of motor vehicle safety laws.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.23.</num>
+    <text>Persons who can show acceptable evidence of rehabilitation may be considered for the positions in § 312.22.</text>
+  </level>
+  <level>
+    <num>312.24.</num>
+    <text>A device must be tested prior to certification.</text>
+  </level>
+  <level>
+    <num>312.25.</num>
+    <text>Facilities, which may include mobile or satellite units, where interlock devices are installed, serviced, monitored, or removed shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Be in an area where customers are not allowed to watch the installation, calibration, or removal of a device;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Be open during normal business hours with after hours service capability;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Be established to service the geographical location and volume of individuals who qualify for and are admitted into the program;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Have records maintained for 5 years; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Have and use the required tools, test equipment, and manuals needed to screen vehicles for acceptable mechanical and electrical conditions to install devices.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.26.</num>
+    <text>The tools, test equipment, and manuals required under § 312.25 (e) include, but are not limited to, the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Tools necessary to ensure electrical connections are made in a workmanlike manner in accordance with accepted trade standards (for example, properly soldered or mechanically crimped with high quality connectors);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Heat gun if heat shrink tubing or heat set labels are used;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Volt/ohmmeter;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Test light;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Battery testing equipment and servicing tools (for example, load tester, terminal cleaning tools, battery filler, etc.); and</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Electrical wiring diagrams or reference guide, or both, for electrical systems on import and domestic vehicles, 20 years old or less, necessary for the installation and operation of the device.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.27.</num>
+    <text>Testing shall be performed under the specifications set forth in 57 FR 11772&amp;#8211;11787 (1992) by an entity approved by the Department for the purpose of establishing the accuracy and reliability of candidate devices.</text>
+  </level>
+  <level>
+    <num>312.28</num>
+    <text>312.28 The provider must submit to the Department a notarized letter, affidavit, or both, from a Department-approved testing laboratory certifying that the device by model, class, or both, meets or exceeds all requirements set forth in 57 FR 11772&amp;#8211;11787
+      (1992). The affidavit shall also include:</text>
+    <level>
+      <num>(a)</num>
+      <text>The name, address, and phone number of the testing laboratory;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>A description of the tests performed;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Copies of the date and results of the testing procedures; and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The names and qualifications of the individuals performing the tests.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.29.</num>
+    <text>The provider shall submit to the Department:</text>
+    <level>
+      <num>(a)</num>
+      <text>Annually, a certified statement that the manufacturing of the model or type of device originally certified has not been modified or altered in any way to require laboratory retesting.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Annually, a summary of all complaints received and corrective actions taken by the provider for each mode or type of certified device;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Semiannually, a report that the devices were checked for proper use and accuracy, detailing any necessary adjustments;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>A report on any device denied certification in another state, whether the denial of certification occurs before or after certification by the Department; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Any other available information upon request.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.30.</num>
+    <text>The reports required under § 312.29 shall be categorized by:</text>
+    <level>
+      <num>(a)</num>
+      <text>Customer error of operation;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Faulty automotive equipment other than the device;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Apparent misuse or attempts to circumvent the device causing damage; and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Device failure due to material defect, design defect, or workmanship errors in construction, installation, or calibration.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.31.</num>
+    <text>A denial of certification for an ignition interlock model in another state may be cause for de-certification or denial of certification for the same model in the District.</text>
+  </level>
+  <level>
+    <num>312.32.</num>
+    <text>All costs of obtaining certification of an ignition interlock device shall be borne by the provider.</text>
+  </level>
+  <level>
+    <num>312.33.</num>
+    <text>When notified in writing by the Department, the approved provider shall remove the device and return the vehicle to normal operating condition. All severed wires shall be permanently reconnected and insulated with heat shrink tubing or its equivalent.</text>
+  </level>
+  <level>
+    <num>312.34.</num>
+    <text>Whenever a device is removed for repair and cannot immediately be reinstalled, a substitute device shall be used.</text>
+  </level>
+  <level>
+    <num>312.35.</num>
+    <text>The Department may revoke approval of a device, and remove it from the list of acceptable devices, upon any of the following grounds:</text>
+    <level>
+      <num>(a)</num>
+      <text>Evidence of repeated failures due to gross defects in design, materials, or workmanship during manufacture;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Termination of provider&amp;#8217;s liability insurance;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Notification that the provider is no longer in business;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Voluntary request of provider;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Any findings that the provider is not in compliance with the provisions of this chapter; or</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>A reasonable belief that the device was inaccurately represented to meet the performance standards.</text>
+    </level>
+  </level>
+  <level>
+    <num>312.36.</num>
+    <text>The effective date of revocation shall be 15 days after notification is sent to the provider via first class mail, except in cases where the Department determines immediate revocation is necessary for the safety and welfare of the public.</text>
+  </level>
+  <level>
+    <num>312.37.</num>
+    <text>Within 15 days of revocation, providers may request, in writing, review of revocation.</text>
+  </level>
+  <level>
+    <num>312.38.</num>
+    <text>Upon revocation or voluntary surrender of an approval, a provider shall be responsible for removal of all like devices from customers&amp;#8217; vehicles.</text>
+  </level>
+  <level>
+    <num>312.39.</num>
+    <text>A provider shall be responsible for any costs connected with removal of its revoked devices from customers&amp;#8217; vehicles and the installation of new devices from the Department&amp;#8217;s list of approved devices.</text>
+  </level>
+  <level>
+    <num>312.40.</num>
+    <text>A provider must allocate 2% of its monthly gross leasing revenue in a fund for indigents, to be made available for indigents applying to the program.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking at 53 DCR 7222(September 1, 2006).</text>
+    </level>
+  </level>
+</level>

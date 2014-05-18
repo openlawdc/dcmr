@@ -1,0 +1,79 @@
+<level>
+  <type>section</type>
+  <num>30-902</num>
+  <heading>DESCRIPTION OF THE LUCKY NUMBERS GAME (§ 30-902)</heading>
+  <level>
+    <num>902.1.</num>
+    <text>The Agency may operate a three-digit daily numbers game using a fixed payout (&amp;#8220;Lucky Numbers&amp;#8221;).</text>
+  </level>
+  <level>
+    <num>902.2.</num>
+    <text>Lucky Numbers is a daily three-digit game in which the player may wager fifty cents (50¢) or one dollar ($ 1) on any one of the following bet types:</text>
+    <level>
+      <num>(a)</num>
+      <text>Straight: A wager whereby a winning result is achieved only when the three (3) digit number specified by the player matches in exact order with the official winning number drawn by the Agency for that drawing event;</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;123&amp;#8243; then only the bets placed on &amp;#8220;123&amp;#8243; in that exact order will be winners.</text>
+    <level>
+      <num>(b)</num>
+      <text>Six-Way Combination: A wager whereby a winning result is achieved when any combination of three (3) different digits specified by the player matches the official winning number drawn by the Agency for that drawing event. This is the equivalent of
+        six (6) straight wagers on a single ticket at six (6) times the base cost;</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;123&amp;#8243; then any combination bet placed on &amp;#8220;123,&amp;#8221; (i.e. &amp;#8220;132,&amp;#8221;, &amp;#8220;231,&amp;#8221; &amp;#8220;213,&amp;#8221; &amp;#8220;321,&amp;#8221; or &amp;#8220;312&amp;#8243;)
+      will be a winner of a straight bet.</text>
+    <level>
+      <num>(c)</num>
+      <text>Three-Way Combination: A wager whereby a winning result is achieved when any combination of three (3) digits (with any two (2) of the three (3) digits being the same) specified by the player matches the official winning number drawn by the Agency
+        for that drawing event. This is the equivalent of three (3) straight wagers on a single ticket at three (3) times the base cost;</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;711,&amp;#8221; then any combination bet placed on &amp;#8220;711,&amp;#8221; (i.e. &amp;#8220;117,&amp;#8221; or &amp;#8220;171&amp;#8243;) will be a winner of a straight bet.</text>
+    <level>
+      <num>(d)</num>
+      <text>Straight/Six-Way Box (on one ticket): A wager whereby the player can place a straight bet and a six-way box bet for the same number on a single ticket. The player can win on both the straight and box bets when the three (3) digits specified by the
+        player match in exact order the official winning number drawn by the Agency for that drawing event. The player can win on the box portion when any other combination of the three (3) digits selected by the player matches the winning number drawn
+        by the Agency for that drawing event. Wagers are limited to fifty cents (50¢) on the straight and fifty cents (50¢) on the box portion for a total of one dollar ($1) per ticket;</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;123,&amp;#8221; then only the bets placed on &amp;#8220;123&amp;#8243; in that exact order will be winners on both portions of the ticket. However, boxed bets placed on &amp;#8220;132&amp;#8243; (i.e.,
+      &amp;#8220;231,&amp;#8221; &amp;#8220;213,&amp;#8221; &amp;#8220;321,&amp;#8221; or &amp;#8220;312&amp;#8243;) will be winners in the box portion only.</text>
+    <level>
+      <num>(e)</num>
+      <text>Straight/Three-Way Box (on one ticket): A wager whereby the player can place a straight bet and a three-way box bet for the same number on a single ticket. The player can win on both the straight and box bets when the three digits specified by the
+        player match in exact order with the official winning number drawn by the Agency for that drawing event. The player can win on the box portion when any other combination of the three (3) digits (with any two (2) of the three (3) digits being the
+        same) selected by the player matches the winning number drawn by the Agency for that drawing event. Wagers are limited to fifty cents (50¢) on the straight portion and fifty cents (50¢) on the box portion for a total of one dollar ($1) per ticket;</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;311,&amp;#8221; then only bets placed on &amp;#8220;311&amp;#8243; in that exact order will be winners on both portions of the ticket. However, bets placed on &amp;#8220;113&amp;#8243; or &amp;#8220;131&amp;#8243;
+      will be winners in the box portion only.</text>
+    <level>
+      <num>(f)</num>
+      <text>Six-Way Box: A wager whereby a winning result is achieved when any combination of three (3) different digits specified by the player matches the official winning number drawn by the Agency for that drawing event. This is the equivalent of six (6)
+        wagers for a single-unit ticket cost;</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;123&amp;#8243; then all box bets placed on &amp;#8220;123&amp;#8243; (i.e. &amp;#8220;132,&amp;#8221; &amp;#8220;231,&amp;#8221; &amp;#8220;213,&amp;#8221; &amp;#8220;321,&amp;#8221; or &amp;#8220;312&amp;#8243;)
+      will be winners.</text>
+    <level>
+      <num>(g)</num>
+      <text>Three-Way Box: A wager whereby a winning result is achieved when any combination of three digits (with any two (2) of the three (3) digits being the same) specified by the player matches the official winning number drawn by the Agency for that drawing
+        event. This is the equivalent of three (3) wagers for a single-unit ticket cost;</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;711,&amp;#8221; then all box bets placed on &amp;#8220;711&amp;#8243; (i.e. &amp;#8220;117,&amp;#8221; or &amp;#8220;171&amp;#8243;) will be winners.</text>
+    <level>
+      <num>(h)</num>
+      <text>Back Pair: A wager whereby a winning result is achieved when the last two (2) digits specified by the player match in exact order with the last two (2) digits of the official winning number drawn by the Agency for that drawing event. This is the
+        equivalent of ten (10) wagers for a single-unit ticket cost; and</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;123,&amp;#8221; then only bets placed on &amp;#8220;X23&amp;#8243; will be winners.</text>
+    <level>
+      <num>(i)</num>
+      <text>Front Pair: A wager whereby a winning result is achieved when the first two (2) digits specified by the player match in exact order the first two (2) digits of the official winning number drawn by the Agency for that drawing event. This is the equivalent
+        of ten (10) wagers for a single-unit ticket cost.</text>
+    </level>
+    <text>For example, if the winning number is &amp;#8220;123,&amp;#8221; then only bets placed on &amp;#8220;12X&amp;#8221; will be winners.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 39 DCR 7439, 7453 (October 2, 1992).</text>
+    </level>
+  </level>
+</level>

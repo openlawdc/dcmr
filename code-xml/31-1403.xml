@@ -1,0 +1,84 @@
+<level>
+  <type>section</type>
+  <num>31-1403</num>
+  <heading>PASSENGER SURCHARGE AND INVENTORY REQUIREMENTS FOR SEDAN CLASS SERVICE (§1-1403)</heading>
+  <level>
+    <num>1403.1.</num>
+    <text>Each DDS that dispatches sedans shall ensure that the sedan passenger surcharge is collected from the passenger and paid to the District for each trip, and shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Remit a payment to the District as directed by the Office at the end of each seven (7) day period reflecting the sum of all sedan passenger surcharges owed to the Office for trips made during such period, based on the trip data provided during such
+        period, and sending contemporaneously via email a report to the Office certifying its payment and providing a basis for the amount thereof; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Cooperate with the Office in the event of a discrepancy between a payment and the trip data from the digital payment system, provided however, that if the DDS and Office are unable to agree on a resolution of a dispute within thirty (30) days, the
+        Office may, in its discretion, make a claim against the security bond to satisfy the amount of the discrepancy.</text>
+    </level>
+  </level>
+  <level>
+    <num>1403.2.</num>
+    <text>The bond paid to the Office at the time of application under § 1604.3 for an initial, renewed, or amended certificate of operating authority under Chapter 16 that includes approval of such digital payment system shall be returned to the DDS within
+      thirty (30) days following an event that causes the digital payment system to no longer be approved; provided, however, that the bond shall not be returned while there remains a discrepancy in the amount owed for sedan passenger surcharges, or during
+      such time that the bond is required to be maintained with the Office pursuant to Chapter 4 of this title in connection with the operation of a payment service provider for taxicabs.</text>
+  </level>
+  <level>
+    <num>1403.3.</num>
+    <text>Each DDS that dispatches sedans shall maintain with the Office an accurate and current inventory of the vehicles and operators associated with the DDS to use its digital payment system, including:</text>
+    <level>
+      <num>(a)</num>
+      <text>For each vehicle:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>The name of and contact information for the owner (LCS organization or independent owner/operator);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The vehicle’s vehicle identification number (VIN), make, model, and year of manufacture;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>A certification that the vehicle is in compliance with Chapter 9 (Insurance Requirements) of this title;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>An indication of whether the vehicle is wheelchair accessible;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>An indication of whether the vehicle is in active use; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>For each operator:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>His or her name and contact information;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>His or her District of Columbia Taxicab Commission (DCTC) operator license number;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>An indication of whether he or she is actively using the digital payment system (DPS); and</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>If the operator is associated with an LCS organization, its name and contact information.</text>
+    </level>
+  </level>
+  <level>
+    <num>1403.4.</num>
+    <text>Each DDS shall file its initial inventory at the time it applies for an initial, amended, or renewed certificate of operating authority under § 1604.2(f).</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 60 DCR 12410 (August 30, 2013).</text>
+    </level>
+  </level>
+</level>

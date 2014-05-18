@@ -1,0 +1,232 @@
+<level>
+  <type>section</type>
+  <num>20-770</num>
+  <heading>MISCELLANEOUS INDUSTRIAL SOLVENT CLEANING OPERATIONS (§ 20-770)</heading>
+  <level>
+    <num>770.1.</num>
+    <text>Except as provided in § 770.9, after January 1, 2012, any person who:</text>
+    <level>
+      <num>(a)</num>
+      <text>Uses any industrial cleaning solvent in a solvent cleaning operation in or on the premises of a factory or a shop as part of a manufacturing, production, or repairing process where the facility emits at least fifteen pounds (15 lb.) of VOC emissions
+        in any one (1) day from all solvent cleaning operations shall be subject to this section through § 770.10(a);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Sells, supplies, offers for sale, or manufactures any industrial cleaning solvent for use in the District of Columbia shall be subject to this section through § 770.10(a); or</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Uses any industrial cleaning solvent in a solvent cleaning operation in or on the premises of a factory or a shop as part of a manufacturing, production, or repairing process where the facility emits less than fifteen pounds (15 lb.) of VOC emissions
+        in any one (1) day from all solvent cleaning operations shall be subject to § 770.10(b).</text>
+    </level>
+  </level>
+  <level>
+    <num>770.2.</num>
+    <text>Any solvent cleaning operation that becomes or is currently subject to the provisions of this section by exceeding the applicability threshold in § 770.1(a) will remain subject to these provisions even if its throughput or emissions have fallen or
+      later fall below the applicability threshold.</text>
+  </level>
+  <level>
+    <num>770.3.</num>
+    <text>For purposes of § 770 and any of the definitions in § 799 applicable to § 770, the District incorporates by reference rules and test methods from the California Air Resource Board (CARB), the South Coast Air Quality Management District (SCAQMD), and
+      the American Society for Testing and Materials (ASTM), where specifically cited.</text>
+  </level>
+  <level>
+    <num>770.4.</num>
+    <text>Each part of § 770 shall be deemed severable, and if any part is held to be invalid, the remainder shall continue in full force.</text>
+  </level>
+  <level>
+    <num>770.5.</num>
+    <text>On and after January 1, 2012, no person may use any industrial cleaning solvent in a solvent cleaning operation unless:</text>
+    <level>
+      <num>(a)</num>
+      <text>The person uses an industrial cleaning solvent that meets at least one of the following limitations:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>A content limit of fifty grams (50 g.) VOC per liter as applied including water and exempt compounds; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A composite vapor pressure of less than or equal to eight millimeters of mercury (8 mm. Hg) at twenty degrees Celsius (20° C) or sixty-eight degrees Fahrenheit (68° F); or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The person controls VOC emissions from the solvent cleaning operation with an emission control system with an overall control efficiency of at least eight-five percent (85%).</text>
+    </level>
+  </level>
+  <level>
+    <num>770.6.</num>
+    <text>The VOC content of industrial cleaning solvents shall be determined by:</text>
+    <level>
+      <num>(a)</num>
+      <text>EPA Reference Method 24 (Code of Federal Regulations, Title 40, Part 60, Appendix A), where the exempt compounds&amp;#8217; content shall be determined by the South Coast Air Quality Management District&amp;#8217;s (SCAQMD) Method 303 (Determination
+        of Exempt Compounds) contained in the SCAQMD &amp;#8220;Laboratory Methods of Analysis for Enforcement Samples&amp;#8221; manual; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>SCAQMD Method 304 [Determination of Volatile Organic Compounds (VOC) in Various Materials] contained in the SCAQMD &amp;#8220;Laboratory Methods of Analysis for Enforcement Samples&amp;#8221; manual; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>For the purposes of (a) and (b), exempt perfluorocarbon compounds will be analyzed as exempt compounds for compliance with § 770.4, only when manufacturers specify which individual compounds are used in the solvent formulation and identify the EPA
+        and the District approved test methods used to quantify the amount of each exempt compound.</text>
+    </level>
+  </level>
+  <level>
+    <num>770.7.</num>
+    <text>The vapor pressure of the industrial cleaning solvent shall be determined using the following methods:</text>
+    <level>
+      <num>(a)</num>
+      <text>If the solvent subject to § 770.5 is composed of only one (1) VOC, the vapor pressure shall be determined by ASTM Method D-2879-86 or from a published source such as: Boublik, T., V. Fried and E. Hala, “The Vapor Pressure of Pure Substances,” Elsevier
+        Scientific Publishing Company, New York (1973), or Perry’s Chemical Engineer’s Handbook, McGraw-Hill Book Company (1984), or CRC Handbook of Chemistry and Physics, Chemical Rubber Publishing Company (1986-87), or Lange’s Handbook of Chemistry,
+        John A. Dean, editor, McGraw-Hill Book Company (1985);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>If the industrial cleaning solvent subject to § 770.5 is composed of VOCs and non-VOCs, the vapor pressure shall be determined by the following equation:</text>
+    </level>
+    <text>P =</text>
+    <text>where:</text>
+    <text>P = Total vapor pressure of the VOC component of the solvent at twenty degrees Celsius (20° C) or sixty-eight degrees Fahrenheit (68º F), in millimeters of mercury (mm. Hg),</text>
+    <text>n = Number of VOCs in the solvent,</text>
+    <text>i = Subscript denoting an individual VOC,</text>
+    <text>Pi = Vapor pressure of the “i”th VOC at twenty degrees Celsius (20° C) or sixty-eight degrees Fahrenheit (68º F) determined pursuant to § 709.8(a), in mm Hg, and</text>
+    <text>Xi = Mole fraction of the “i”th VOC of the total solvent; or</text>
+    <level>
+      <num>(c)</num>
+      <text>If the industrial cleaning solvent subject to § 770.5 is composed of only VOCs, the vapor pressure shall be determined by ASTM Method D-2879-86 or by the equation in § 770.7(b).</text>
+    </level>
+  </level>
+  <level>
+    <num>770.8.</num>
+    <text>A person who sells or offers for sale any solvent containing VOCs for use in a solvent cleaning operation shall provide the following written information to the purchaser:</text>
+    <level>
+      <num>(a)</num>
+      <text>The name and address of the solvent supplier;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The type of solvent including the product or vendor identification number; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The vapor pressure of the solvent measured in millimeters of mercury (mm. Hg) at twenty degrees Celsius (20o C) or sixty-eight degrees Fahrenheit (68° F); or</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The VOC content in grams per liter including exempt compounds.</text>
+    </level>
+  </level>
+  <level>
+    <num>770.9.</num>
+    <text>Subsections 770.1 through 770.8 shall not apply on or after January 1, 2012, to any person who owns, operates, or leases:</text>
+    <level>
+      <num>(a)</num>
+      <text>Any cold cleaning machine, batch vapor cleaning machine, in-line vapor cleaning machine, airless cleaning machine, air-tight cleaning machine, or other solvent cleaning machine subject to §§ 763 to 769;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Cleaning and surface preparation operations at sources subject to §§ 710, 714, 716, 718, and 743 through 749;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Products used to clean electrical and electronic components;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Products used to clean high precision optics;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Products used to clean numismatic dies;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Products used to strip cured inks, coatings, and adhesives;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Cleaning products used for janitorial purposes, including graffiti remover products;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Products used to clean resin, coating, ink, and adhesive mixing, molding, and application equipment;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Cleaning and surface preparation operations in research and development laboratories;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Cleaning and surface preparation operations in medical device or pharmaceutical products manufacturing;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Cleaning and surface preparation operations related to performance of quality assurance testing or performance testing of coatings, inks, or adhesives;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Cleaning and surface preparation operations related to the application of coatings, inks, and adhesives to flexible packaging from presses, press parts, and areas around presses, including off-line cleaning;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>Parts washers or cold cleaners for purposes other than removing inks, coatings, and adhesives from flexible package printing presses.</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>Cleaning and surface preparation operations related to application of coatings subject to regulation under §§ 773 to 778 (AIM) to the extent the coatings are used as architectural and industrial maintenance coatings;</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>Printing operations using electron beam inks or ultraviolet inks;</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>Cleaning and surface preparation operations related to screen printing;</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>Cleaning and surface preparation operations related to specialty flexographic printing; or</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>Cleaning and surface preparation operations related to magnet wire coating operations.</text>
+    </level>
+  </level>
+  <level>
+    <num>770.10.</num>
+    <text>Any person subject to:</text>
+    <level>
+      <num>(a)</num>
+      <text>Subsections 770.1(a) or (b) shall keep records as may be necessary to determine emissions and compliance with the applicable limitation or control requirement as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>The records shall include, but not be limited, to the information specified in § 770.7 or an invoice, bill of sale, certificate that corresponds to a number of sales, Material Safety Data Sheet (MSDS), or other appropriate documentation acceptable
+        to the Department that may be used to comply with this section;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The records shall provide sufficient data and calculations to clearly demonstrate that the emission limitations or control requirements are met;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Data or information required to determine compliance with an applicable limitation shall be recorded and maintained in a time frame consistent with the averaging period of the standard; and</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The records shall be retained at least two (2) years and shall be made available to the Department on request; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Subsection 770.1(c) shall maintain records that clearly demonstrate to the Department that the facility’s emissions are below the applicability threshold.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Final Rulemaking published at 58 DCR 11286, 11391 (December 30, 2011).</text>
+    </level>
+  </level>
+</level>

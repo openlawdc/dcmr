@@ -1,0 +1,84 @@
+<level>
+  <type>section</type>
+  <num>20-704</num>
+  <heading>STAGE I VAPOR RECOVERY (§ 20-704)</heading>
+  <level>
+    <num>704.1.</num>
+    <text>The transfer of volatile organic compounds or gasoline from any delivery vessel into any stationary storage container with a capacity greater than two hundred fifty (250) gallons shall occur only if the container is equipped with a submerged fill
+      pipe and the displaced vapors from the storage container are processed by a system that prevents release to the atmosphere of no less than ninety percent (90%) by weight of organic compounds in the vapors displaced from the stationary container
+      location.</text>
+  </level>
+  <level>
+    <num>704.2.</num>
+    <text>The vapor recovery portion of the system shall include either or both of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>A vapor return line from the storage container to the delivery vessel and a system that will ensure that the vapor return line is connected before gasoline can be transferred into the container; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>A refrigeration-condensation system or equivalent designed to recover no less than ninety percent (90%) by weight of the organic compounds in the displaced vapor.</text>
+    </level>
+  </level>
+  <level>
+    <num>704.3.</num>
+    <text>If a vapor-tight return system is used to meet the requirements of § 704, the system shall be constructed as to be adapted to retrofit with an absorption system, refrigeration-condensation system, or equivalent vapor removal system, and constructed
+      to anticipate compliance with § 705.</text>
+  </level>
+  <level>
+    <num>704.4.</num>
+    <text>A delivery vessel shall be subject to the following conditions:</text>
+    <level>
+      <num>(a)</num>
+      <text>It may be refilled only at facilities equipped with a vapor recovery system or the equivalent which can recover at least ninety percent (90%) by weight of the organic compounds in the vapor displaced from the delivery vessel during refilling;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>It shall be leak tested, by any competent person, at least once each year in accordance with the procedures prescribed in Appendix A of &amp;#8220;Control of Volatile Organic Compound Leaks from Gasoline Tank Trucks and Vapor Collection Systems,&amp;#8221;
+        published by EPA, December 1978, publication numbers EPA-450/2-78-051 and OAQPS No. 119;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The standard for passing the leak test referred to in § 704.4(b) is that a pressure change of no more than three inches (3 in.) of water column occur in five (5) minutes when the delivery vessel has been pressurized to eighteen inches (18 in.) of
+        water column and has been evacuated to six inches (6 in.) of water column;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Any delivery vessel that fails to pass the leak test shall be immediately taken out of service and shall be kept out of service until a subsequent test demonstrates compliance with the standards for passing the test;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Whenever a delivery vehicle is in use, a clear and unequivocal certificate shall be posted, by the person responsible for conducting the test, in a conspicuous location on the delivery vessel identifying the particular delivery vessel tested and
+        indicating compliance with the testing standards; and</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>It shall be loaded or unloaded only if affirmative action has been taken to ensure that the delivery vessel has a clear and unequivocal certificate indicating that it has been leak tested within the past year in accordance with § 704.4(b) and that
+        the last leak test showed compliance with the standards in § 704.4(c).</text>
+    </level>
+  </level>
+  <level>
+    <num>704.5.</num>
+    <text>The provisions of § 704 shall not apply to the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Any container having a capacity of less than two thousand (2,000) gallons installed prior to March 1, 1974; Provided, that the containers are equipped with submerged fill pipes; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Any transfers made to storage tanks equipped with floating roofs or their equivalent.</text>
+    </level>
+  </level>
+  <level>
+    <num>704.6.</num>
+    <text>The operation or maintenance of any delivery vessel, or of any part of any liquid delivery system, or vapor collection or recovery system used or designed to be used in connection with the loading or unloading of the delivery vessel, shall be performed
+      in a manner that is vapor-tight or in a manner so that there is no avoidable visible liquid leakage or liquid spillage.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Section 3 of the District of Columbia Air Pollution Control Act of 1984, D.C. Law 5-165, § 704, 32 DCR 565, 624 (February 1, 1985)</text>
+    </level>
+  </level>
+</level>

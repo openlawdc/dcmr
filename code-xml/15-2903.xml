@@ -1,0 +1,47 @@
+<level>
+  <type>section</type>
+  <num>15-2903</num>
+  <heading>CREATION AND TRACKING OF RENEWABLE ENERGY CREDITS (§ 15-2903)</heading>
+  <level>
+    <num>2903.1.</num>
+    <text>RECs shall be created and tracked through the PJM Environmental Information Service GATS (PJM-EIS GATS) beginning January 1, 2006. The accumulation of RECs derived from generation occurring prior to the date of January 1, 2006, is not permissible.</text>
+  </level>
+  <level>
+    <num>2903.2.</num>
+    <text>Behind-the-Meter generators with a capacity of less than ten kilowatts (10 kW) may submit engineering based estimates of their output if the generator is not directly metered by a revenue grade utility meter. For solar thermal energy systems that
+      do not generate electricity:</text>
+    <level>
+      <num>(a)</num>
+      <text>If the output is to be estimated, the Commission will provide PJM-EIS with the output in kilowatt-hour savings for the system, based on SRCC’s estimated annual system performance of OG-300 certified systems; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>If the solar thermal energy system uses an energy meter that meets the performance standards established by OIML, then the solar thermal energy produced by the system shall be credited with one kilowatt hour (1 kWh) of electricity generated for
+        each three thousand four hundred twelve British thermal units (3,412 BTUs) produced by the solar thermal energy system.</text>
+    </level>
+  </level>
+  <level>
+    <num>2903.3.</num>
+    <text>RECs created by behind-the-meter generators must be recorded in GATS at least once each calendar year in order to be eligible for compliance.</text>
+  </level>
+  <level>
+    <num>2903.4.</num>
+    <text>RECs shall be valid for a three (3)-year period from the date of generation beginning January 1, 2006, except where precluded by statute. The last business day of January of each year shall be the deadline for the creation of RECs for the previous
+      year, subject to further changes in GATS provisions.</text>
+  </level>
+  <level>
+    <num>2903.5.</num>
+    <text>A REC shall be retired after it is used to comply with any state&amp;#8217;s Renewable Energy Portfolio requirement.</text>
+  </level>
+  <level>
+    <num>2903.6.</num>
+    <text>Retroactively created RECs must be created and tracked through PJM-EIS GATS.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Final Rulemaking published at 55 DCR 000561 (January 18, 2008); as amended by Notice of Final Rulemaking published at 59 DCR 2313, 2321 (March 23, 2012).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,158 @@
+<level>
+  <type>section</type>
+  <num>24-535</num>
+  <heading>VENDING LOCATIONS[COLON] MOBILE ROADWAY VENDING LOCATIONS[COLON] ADDITIONALOCATIONS (§ 24-535)</heading>
+  <level>
+    <num>535.1.</num>
+    <text>A MRV vehicle operating outside of a designated MRV location established pursuant to § 534 shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Vend in a legal parking space that meets the requirements of § 535.2;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Pay all parking meter fees; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Obey all posted time restrictions.</text>
+    </level>
+  </level>
+  <level>
+    <num>535.2.</num>
+    <text>A MRV vehicle operating outside of a designated MRV location or an Ice Cream Roadway vendor operating under § 543 shall not park and vend:</text>
+    <level>
+      <num>(a)</num>
+      <text>Within areas under the exclusive jurisdiction of the United States Park Police, the United States Capitol Police, or any other agency of the United States government;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Within a designated loading zone, entrance zone, parking space designated for diplomatic parking, valet parking, or other curbside zone restricted for certain vehicles or uses;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Where the adjacent unobstructed sidewalk is less than six feet (6 ft.) wide; provided, that for purposes of this subsection:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>An obstruction shall not include objects such as trees, tree boxes, parking meters, bicycle racks, individual newspaper boxes, utility poles, or other similar objects that would not restrict safe pedestrian passage of the sidewalk permeable or point
+        obstruction, such as a parking meter, is not considered an obstruction; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>An obstruction shall include impermeable structures, such as sidewalk cafes, benches, retaining walls, fenced or raised planters, bicycle racks, rows of newspaper boxes, Capital Bikeshare stations, bus shelters, or other similar objects, that are
+        immediately adjacent or parallel to the curb and would restrict safe pedestrian passage on the sidewalk.</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Along the length of a Metrobus Stop Zone, a commuter bus zone, an intercity bus zone, or other curbside zone specifically designated and demarcated as being for transit use;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Within forty feet (40 ft.) of the driveway entrance to a police or fire station, or within twenty feet (20 ft.) of any other driveway;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Within twenty feet (20 ft.) of an alley;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Within forty feet (40 ft.) of any crosswalk;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Ten feet (10 ft.) of a fire hydrant;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Any of the locations enumerated in § 535.3;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Any location that is not a legal parking space;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Any location that is immediately adjacent to a duly permitted sidewalk café;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Five feet (5 ft.) from a building’s marked fire control room; and</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>Within an area designated as a Stationary Roadway Vending Location.</text>
+    </level>
+  </level>
+  <level>
+    <num>535.3.</num>
+    <text>A MRV vehicle operating under this section shall not vend at the following locations:</text>
+    <level>
+      <num>(a)</num>
+      <text>Constitution Avenue NE/NW between 23rd Street, NW, and 2nd Street, NE;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Independence Avenue SE/SW between 23rd Street, NW, and 2nd Street, NE;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>17th Street, NW/SW, between Independence Avenue, SW, and H Street, NW;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>15th Street, NW/SW, between Independence Avenue, SW, and H Street, NW;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>14th Street, NW/SW, between Constitution Avenue, NW, and Independence Avenue, SW;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>7th Street, NW/SW, between Constitution Avenue, NW, and Independence Avenue, SW;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>4th Street, NW/SW, between Constitution Avenue, NW, and Independence Avenue, SW;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>3rd Street, NW/SW, between Constitution Avenue, NW, and Independence Avenue, SW;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>1st Street, NE/SE, between Constitution Avenue, NE, and Independence Avenue, SE;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>East Capitol Street, NE, between 1st Street, NE, and 2nd Street, NE;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Madison Drive, NW, between 15th Street, NW, and 3rd Street, NW;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Jefferson Drive, SW, between 15th Street, SW, and 3rd Street, SW;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>Pennsylvania Avenue, NW, between 15th Street, NW, and 1st Street, NW;</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>Maryland Avenue, SW, between Independence Avenue, SW, and 1st Street, SW; and</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>1st Street, NW/SW, between Constitution Avenue, NW, and Independence Avenue, SW.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 60 DCR 13055 (September 20, 2013).</text>
+    </level>
+  </level>
+</level>

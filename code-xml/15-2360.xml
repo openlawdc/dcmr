@@ -1,0 +1,81 @@
+<level>
+  <type>section</type>
+  <num>15-2360</num>
+  <heading>PREINSTALLATION ACCURACIES (§ 15-2360)</heading>
+  <level>
+    <num>2360.1.</num>
+    <text>All tolerances shall be interpreted as maximum permissible variation from the condition of zero (0) error. In making adjustments, no advantage of the prescribed tolerance limits shall be taken to set meters fast.</text>
+  </level>
+  <level>
+    <num>2360.2.</num>
+    <text>In the reading and recording of data the following standards shall apply:</text>
+    <level>
+      <num>(a)</num>
+      <text>In any test or calibration, the devices or instruments used in the test or calibration shall be read to the maximum degree of readability;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The degree of accuracy achieved in the calculations involved in determining the accuracy of a meter, prover, device, or instrument in any test or calibration shall be consistent with the purpose for which the resultant accuracy is to be used; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The final accuracy or proof shall be recorded to the nearest one half percent (0.5%).</text>
+    </level>
+  </level>
+  <level>
+    <num>2360.3.</num>
+    <text>The overall accuracy or proof of a meter and an associated device, which affects the meter readings for billing purposes, shall not be more than one half percent (0.5%) fast or more than one and a half percent (1.5%) slow.</text>
+  </level>
+  <level>
+    <num>2360.4.</num>
+    <text>Diaphragm meters shall not be placed or left in service unless found upon testing to comply with the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>The meter shall not be more than one half percent (0.5%) fast nor more than one and a half percent (1.5%) slow at check flow or at full rated flow;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The proof at full rated flow shall not differ from the proof at check flow by more than one percent (1%); and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>When air is used for testing meters, the rate of flow shall be adjusted to compensate for the difference in the specific gravity of air and the specific gravity of gas.</text>
+    </level>
+  </level>
+  <level>
+    <num>2360.5.</num>
+    <text>Rotary tube meters shall be tested at not less than fifteen percent (15%) of full rated flow. A gas corporation shall not install a rotary meter which is more than one half percent (0.5%) fast or more than one and a half percent (1.5%) slow at the
+      points of test.</text>
+  </level>
+  <level>
+    <num>2360.6.</num>
+    <text>Turbine type meters shall be tested at not less fifteen percent (15%) of full rated flow. The meters shall not be more than one half percent (0.5%) fast or more than one and half percent (1.5%) slow at the points of test.</text>
+  </level>
+  <level>
+    <num>2360.7.</num>
+    <text>Pressure correcting devices shall not be more than one half percent (0.5%) fast or more than one and a half percent (1.5%) slow in the pressure range for which the instrument is intended to be used.</text>
+  </level>
+  <level>
+    <num>2360.8.</num>
+    <text>Temperature correcting devices shall not be more than one half percent (0.5%) fast or more than one and a half percent (1.5%) slow at the points at which they are tested.</text>
+  </level>
+  <level>
+    <num>2360.9.</num>
+    <text>Timing devices shall not have an error of more than one fourth of one percent (0.25%).</text>
+  </level>
+  <level>
+    <num>2360.10.</num>
+    <text>Before a meter may be installed for revenue billing purposes the gas corporation shall inspect and test the meter, and adjust it if necessary, so that its proof is within the tolerances specified in this section.</text>
+  </level>
+  <level>
+    <num>2360.11.</num>
+    <text>New meters in Group I, as specified in § 2370.4, may be sample tested for proof in accordance with a gas corporation’s sample plan of testing, acceptable to the Commission.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7938, 7944 (November 4, 1988); as amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,669 @@
+<level>
+  <type>section</type>
+  <num>23-800</num>
+  <heading>ABRA CIVIL PENALTY SCHEDULE (§ 23-800)
+    <text>Section</text>
+    <text>Description</text>
+    <text>Violation</text>
+    <text>Warning</text>
+    <text>25-102(a)</text>
+    <text>Selling Alcoholic Beverages Without a License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-102(b)</text>
+    <text>Wholesaler/Manufacturer Sale to Non-licensed Person for Resale</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-102(c)</text>
+    <text>Failure to Obtain Importation Permit</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-102(d)</text>
+    <text>Permitting Consumption of Alcoholic Beverage Without a License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-110</text>
+    <text>Violating Terms of Manufacturer&amp;#8217;s License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-111</text>
+    <text>Violating Terms of Wholesaler&amp;#8217;s License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-112(a)-(c)</text>
+    <text>Violating Terms of Off-Premise Retailer&amp;#8217;s License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-112(e)(1)</text>
+    <text>Failure to File a Statement of Expenditures</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-113(a)(2)(A)(ii)</text>
+    <text>Knowingly Allowing Patron to Exit the Premises with an Open Container</text>
+    <text>Secondary</text>
+    <text>N</text>
+    <text>25-113(a)(3)</text>
+    <text>Selling or Serving Alcohol in a Closed Container</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-113(b)(1)</text>
+    <text>Failure to Keep Kitchen Open Two Hours Before Closing</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-113(b)(2)(A)</text>
+    <text>Failure of Restaurant to File a Quarterly Statement</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-113(d)(1)</text>
+    <text>Failure to Submit a Security Plan</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-113(e)(4)(A)</text>
+    <text>Failure of Hotel to File a Quarterly Statement</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-113(i)(l)(4)</text>
+    <text>Failure by Caterer to File and Maintain Records for Inspection</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-113(j)(3)</text>
+    <text>Failure to Obtain Board Approval for Off-Site Storage</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-113(j)(3)</text>
+    <text>Failure to Maintain Records on Premises</text>
+    <text>Primary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-113(a)(b)</text>
+    <text>Failure to Obtain Entertainment Endorsement</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-113(a)(c)</text>
+    <text>Failure to Obtain a Summer Garden or a Sidewalk Café Endorsement</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-114(a)</text>
+    <text>Violating Terms of Arena C/X License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-115(a)</text>
+    <text>Violating Terms of Temporary License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-116</text>
+    <text>Violating Terms of Solicitor&amp;#8217;s License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-117</text>
+    <text>Violating Terms of Brew Pub Permit</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-118</text>
+    <text>Failure to Obtain Tasting Permit, or Exceeding Scope of Tasting Permit</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-119</text>
+    <text>Importing Alcohol Without Permit</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-121</text>
+    <text>Providing Alcohol Awareness Training Without Board Approval</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-123</text>
+    <text>Violating Terms of Farm Winery License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-341</text>
+    <text>Violating Ward 4 Moratorium</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-342</text>
+    <text>Violating Ward 7 Special Restrictions</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-343</text>
+    <text>Violating Ward 8 Special Restrictions</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-344</text>
+    <text>Violating Mt. Pleasant Special Restrictions</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-345</text>
+    <text>Violating Ward 2 Restrictions</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-346</text>
+    <text>Violating Ward 6 Restrictions</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-371</text>
+    <text>Allowing Nude Dancing Without a License</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-372</text>
+    <text>Violating Restrictions on Nude Dancing Performances</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-405</text>
+    <text>Transfer of Ownership Without Board Approval</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-423(d)</text>
+    <text>Failure to Maintain Posted Notices (Placards)</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-501</text>
+    <text>Failure to Pay Annual Fee</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-701</text>
+    <text>Board-Approved Manager Required</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-701(b)</text>
+    <text>Failure to Notify Board of ABC Manager’s Conviction</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-702</text>
+    <text>Failure to Notify Board of Employee’s Conviction</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-711(a)</text>
+    <text>Failure to Post and Carry Licenses</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-711(b)</text>
+    <text>Failure to Post Lettering on Front Windows or Door</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-711(c)</text>
+    <text>Failure of Temporary License Holder to Have License Available</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-711(d)</text>
+    <text>Failure of Solicitor to Carry License</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-711(e)</text>
+    <text>Failure of Manager to Carry License</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-712</text>
+    <text>Failure to Post Signs: Warning Re: Pregnancy</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-713</text>
+    <text>Failure to Post Signs: Legal Drinking Age/Valid ID</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-721</text>
+    <text>Sale and Delivery Outside of Allowed Hours for Manufacturer &amp;#038; Wholesaler</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-722</text>
+    <text>Sale and Delivery Outside of Allowed Hours &amp;#8211; Off Premises Licensees</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-723(b)</text>
+    <text>Sale and Delivery Outside of Allowed Hours &amp;#8211; On-Premises Licensees</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-723(d)</text>
+    <text>Daylight Savings Time Operation Without Notice</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-724</text>
+    <text>Operating After Board Restricted Hours</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-725</text>
+    <text>Noise from Licensed Establishment</text>
+    <text>Secondary</text>
+    <text>N</text>
+    <text>25-726</text>
+    <text>Control of Litter, Trash, Garbage, and Proper Disposal of Refuse, Including Cooking Oils</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-731</text>
+    <text>Credit and Delinquency</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-733</text>
+    <text>Delivery and Payment Records and Reports</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-734</text>
+    <text>Sale by Retailer on Credit</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-735</text>
+    <text>Gifts and Loans from Manufacturer</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-736</text>
+    <text>Gifts and Loans from Wholesaler</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-741(a)</text>
+    <text>Providing Go-Cups at A &amp;#038; B Licensed Establishments</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-741(b)</text>
+    <text>Serving Back-up Drinks to Customers</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-742</text>
+    <text>Solicitation of Drinks by Employee</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-743</text>
+    <text>Tie-in Purchases Prohibited</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-751</text>
+    <text>Limitations on Container Size</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-752</text>
+    <text>Containers to be Labeled</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-753</text>
+    <text>Keg Registration Required</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-754</text>
+    <text>Violating Beverage Storage Restrictions</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-761</text>
+    <text>Structural Requirements</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-762(b)(1)</text>
+    <text>Failure to Obtain Approval to Increase Occupancy or the Use of Interior Space</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-762(b)(2)</text>
+    <text>Failure to Obtain Approval to Expand Exterior Public or Private Space Including Summer Gardens or Sidewalk Cafes</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-762(b)(3)</text>
+    <text>Failure to Obtain Approval to Expand to Another Floor, Roof, or Deck</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-762(b)(4)</text>
+    <text>Failure to Obtain Approval to Provide For or Expand Entertainment Area</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-762(b)(5)</text>
+    <text>Failure to Obtain Approval to Diminish or Expand Dining or Food Prep Area</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-762(b)(6)</text>
+    <text>Failure to Obtain Approval to Provide Permanent Space for Dancing</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-762(b)(7)</text>
+    <text>Failure to Obtain Approval to Change Exterior Design</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-762(b)(8)</text>
+    <text>Failure to Obtain Approval to Provide Music or Entertainment if None Previously.</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-762(b)(9)</text>
+    <text>Failure to Obtain Approval to Change from Recorded to Live Music or Live Entertainment or Change the Kind of Music or Entertainment Provided</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-762 (b)(10)</text>
+    <text>Failure to Obtain Approval to Change Entertainment to Include Nude Performances</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-762(b)(11)</text>
+    <text>Failure to Obtain Approval to Change From Full Menu to Snack Menu</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-762(b)(12)</text>
+    <text>Failure to Obtain Approval to Change On-Premises to Carry-out</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-762(b)(12)</text>
+    <text>Failure to Obtain Approval to Change On-Premises to Add Carry Out</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-762(b)(13)</text>
+    <text>Failure to Obtain Approval to Extend Hours of Operation</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-762(b)(14)</text>
+    <text>Failure to Obtain Approval to Provide New Mechanical or Electronic Entertainment</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-762(b)(15)</text>
+    <text>Failure to Obtain Approval to Change Trade Name or Corp Name With Ownership Change</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-762(b)(16)</text>
+    <text>Failure to Obtain Approval to Change Booth Size</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-762(b)(17)</text>
+    <text>Failure to Obtain Approval to Reduce Number of Toilet Facilities</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-762(b)(18)</text>
+    <text>Failure to Obtain Approval to Increase Number of Vessels Under On-Premises</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-763</text>
+    <text>Restrictions on Use of Signs</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-764</text>
+    <text>Advertisements Related to Alcohol</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-765</text>
+    <text>Advertisements on Windows and Doors</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-766</text>
+    <text>Prohibited Statements</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-771</text>
+    <text>Reporting by Manufacturers</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-772</text>
+    <text>Unlawful Importation of Beverages</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-781</text>
+    <text>Sale to Minors or Intoxicated Persons &amp;#8211; Egregious</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-781</text>
+    <text>Sale to Minors or Intoxicated Persons &amp;#8211; Non-egregious</text>
+    <text>Primary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>25-782(a)</text>
+    <text>Restrictions on Minors Entrance into Class A</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-782(d)</text>
+    <text>Denying Admittance to Someone of Legal Drinking Age</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-783(a)</text>
+    <text>Sale to Someone Who Fails to Produce a Valid ID</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-783(b)</text>
+    <text>Failure to Take Reasonable Steps to Ascertain Legal Age</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-784(a)</text>
+    <text>Prohibit Persons Under 21 From Sell, Give, Furnish or Distribute, Except as Provided in 25-784(b)</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-784(b)</text>
+    <text>18-20 Person May Sell, Serve or Deliver, But May Not Bartend</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-791(a)</text>
+    <text>Failure to Surrender License Into Safekeeping</text>
+    <text>Secondary</text>
+    <text>Y – Mandatory</text>
+    <text>25-797(a)</text>
+    <text>Failure to Control Licensed Establishment</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-797(b)</text>
+    <text>Allowing Third Party or Promoter to Provide Security</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-802</text>
+    <text>Failure to Allow Examination of Premises, Books and Records</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-823(1)</text>
+    <text>Violation of Any Law Outside of Title 25 of the District of Columbia Code or Title 23 of the District of Columbia Municipal Regulations</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-823(2)</text>
+    <text>Allowing Establishment to be Used for an Unlawful or Disorderly Purpose</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-823(3)</text>
+    <text>Failure by Owner or ABC Manager to Superintend Licensed Business</text>
+    <text>Secondary</text>
+    <text>N</text>
+    <text>25-823(4)</text>
+    <text>Allowing Employees or Agents to Engage in Prostitution, Sexual Acts, or Sexual Contact</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-823(5)</text>
+    <text>Failure to Allow/Delays ABRA or MPD to Inspect Premises or Books and Records, or Otherwise Interferes With an Investigation</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-823(6)</text>
+    <text>Failure to Follow Settlement Agreement</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>25-823(6)</text>
+    <text>Failure to Follow Security Plan</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>25-823(6)</text>
+    <text>Failure to Follow a Board Order</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-828(c)</text>
+    <text>Licensee Defaces Notice of Suspension Placard</text>
+    <text>Secondary</text>
+    <text>N</text>
+    <text>25-830(i)</text>
+    <text>Selling or Serving Alcohol on a Suspended or Expired License or License Held in Safekeeping</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>25-830(j)</text>
+    <text>Failure to Comply with Either of the Food Requirements</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 205.2</text>
+    <text>Failure to Obtain Storage Permit</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 206.2</text>
+    <text>Retailer&amp;#8217;s Class DR or DT With Common Dining Area Fails to Sell Alcoholic Beverages in Containers Identifiable With Business</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 206.4</text>
+    <text>Off-premise Retailer Class A or Class B failed to Inform Board in Application of Table Use</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 208.19</text>
+    <text>Submission of Knowingly False or Misleading Affidavit</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>23 DCMR 600.1</text>
+    <text>Change Trade Name without Board Approval</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 600.1</text>
+    <text>Change Corporate Name Without Board Approval</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 600.3</text>
+    <text>Area Identified by Trade Name Inaccessible to Patrons</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 601</text>
+    <text>Failure to Notify Board of Change in Ownership, Corporate Officers, or Partners</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 702.3</text>
+    <text>Private Club Open to Public</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 705.9</text>
+    <text>Retailer&amp;#8217;s Class C, D, F, G, or Caterer Permits the Consumption of Alcoholic Beverages After Hours</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>23 DCMR 706</text>
+    <text>Remaining Open Without Securing Beverages or Having an ABC Manager or Owner Present</text>
+    <text>Secondary</text>
+    <text>N</text>
+    <text>23-707.1</text>
+    <text>Licensee or Board Approved Manager on Licensed Premises During Hours of Sale, Service or Consumption</text>
+    <text>Secondary</text>
+    <text>N</text>
+    <text>23 DCMR 710.2</text>
+    <text>Minimum Charge Greater Than Value of Food or Beverage</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 710.4</text>
+    <text>Failure to Post Sign Indicating Minimum Charge</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 712</text>
+    <text>Hosting a Pub Crawl Without Board Approval or in a Manner Other Than as Approved by the Board</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 717.1</text>
+    <text>Permitting Alcoholic Beverages Brought by Consumer to be Removed From Premises</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 717.2</text>
+    <text>Corking Fee</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 719.1</text>
+    <text>Sign re: Drinking and Driving</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 900</text>
+    <text>Primary American Source of Supply</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 901</text>
+    <text>Beer Labeling</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 902</text>
+    <text>Open Container or Package in Vehicle</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>23 DCMR 905</text>
+    <text>Discriminatory Admittance Requirements</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 1002</text>
+    <text>Cover Charge Without Entertainment Endorsement</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 1204</text>
+    <text>Failure to Keep and Maintain Delivery Slips</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 1206</text>
+    <text>Failure of Manufacturer Class A to Submit Monthly Report</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 1207.1</text>
+    <text>Failure to File Quarterly Statements</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 1207.5</text>
+    <text>Failure to File Annual Reports</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 1208</text>
+    <text>Failure of the Licensee to Keep or Maintain its Books, Records, or Invoices.</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 1303</text>
+    <text>Failure to Properly Transport Alcoholic Beverages in a Vehicle</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 2000.1</text>
+    <text>The Selling, Delivering, or Serving of Alcoholic Beverages at a Catered Event Where Snack Items Are the Only Food Products Served by the Caterer</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>23 DCMR 2000.2</text>
+    <text>Caterer or Designated Manager on Premises of Event</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 2000.3</text>
+    <text>Submission of False or Misleading Affidavit</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>23 DCMR 2002.1</text>
+    <text>Purchase of Alcoholic Beverages by Caterers</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 2002.2</text>
+    <text>Failure to Maintain Caterer Records</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>23 DCMR 2003.1</text>
+    <text>Improper Storage of Alcoholic Beverages by Caterer</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 2004.1</text>
+    <text>Importation and Transportation of Alcoholic Beverages by Caterer</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 2004.2</text>
+    <text>Removal of Unsealed Container by Caterer</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 2004.3</text>
+    <text>Storage of Unopened Alcoholic Beverage by Caterer</text>
+    <text>Primary</text>
+    <text>Y</text>
+    <text>23 DCMR 2005.1</text>
+    <text>Caterer: No ABC Manager Present</text>
+    <text>Secondary</text>
+    <text>N</text>
+    <text>23 DCMR 2005.2</text>
+    <text>Caterer: No License Available for Public Inspection</text>
+    <text>Secondary</text>
+    <text>Y</text>
+    <text>23 DCMR 2006.1</text>
+    <text>Failure to File Caterer Report</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+    <text>23 DCMR 2006.2</text>
+    <text>Caterer: False or Misleading Information in Report</text>
+    <text>Primary</text>
+    <text>N</text>
+    <text>23 DCMR 2006.5</text>
+    <text>Caterer: Failure to Timely File Report</text>
+    <text>Secondary</text>
+    <text>Y &amp;#8211; Mandatory</text>
+  </heading>
+  <level>
+    <num>800.1</num>
+    <text>800.1 The penalties contained under this section shall become effective 5 days after publication in the District of Columbia Register.</text>
+  </level>
+  <level>
+    <num>800.2.</num>
+    <text>None of the descriptions contained in Subsection 800.2 shall be construed to expand, limit, or define any specific violation.</text>
+  </level>
+  <level>
+    <num>800.3.</num>
+    <text>Whether violations are classified as primary tier or secondary tier shall be determined with reference to the ABRA civil penalty schedule in effect when the violation was committed.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 51 DCR 4309 (April 30, 2004); as amended by Final Rulemaking published at 55 DCR 12991 (December 26, 2008); as amended by Final Rulemaking published at 60 DCR 13044 (September 20, 2013).</text>
+    </level>
+  </level>
+</level>

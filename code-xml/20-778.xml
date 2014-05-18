@@ -1,0 +1,132 @@
+<level>
+  <type>section</type>
+  <num>20-778</num>
+  <heading>ARCHITECTURAL AND INDUSTRIAL MAINTENANCE COATING – TESTING REQUIREMENTS (§0-778)</heading>
+  <level>
+    <num>778.1.</num>
+    <text>For the purpose of determining compliance with the VOC content limits in the Table of Standards in § 774.10, the VOC content of a coating shall be determined by using the procedures described below in paragraphs (a) or (b), as appropriate. The VOC
+      content of a tint base shall be determined without colorant that is added after the tint base is manufactured as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>With the exception of low solids coatings, determine the VOC content in grams of VOC per liter of coating thinned to the manufacturer&amp;#8217;s maximum recommendation, excluding the volume of any water and exempt compounds. Determine the VOC content
+        using the following equation:</text>
+    </level>
+    <text>VOC Content = (Ws Ww Wec)</text>
+    <text>(Vm Vw Vec)</text>
+    <text>where:</text>
+    <text>VOC content = grams of VOC per liter of coating;</text>
+    <text>Ws = weight of volatiles, in grams;</text>
+    <text>Ww = weight of water, in grams;</text>
+    <text>Wec = weight of exempt compounds, in grams;</text>
+    <text>Vm = volume of coating, in liters;</text>
+    <text>Vw = volume of water, in liters; and</text>
+    <text>Vec = volume of exempt compounds, in liters; or</text>
+    <level>
+      <num>(b)</num>
+      <text>For low solids coatings, determine the VOC content in units of grams of VOC per liter of coating thinned to the manufacturer&amp;#8217;s maximum recommendation, including the volume of any water and exempt compounds. Determine the VOC content using
+        the following equation:</text>
+    </level>
+    <text>VOC Content (ls) = (Ws Ww Wec)</text>
+    <text>(Vm)</text>
+    <text>where:</text>
+    <text>VOC Content (ls) = the VOC content of a low solids coating in grams per liter of coating;</text>
+    <text>Ws = weight of volatile, in grams;</text>
+    <text>Ww = weight of water, in grams;</text>
+    <text>Wec = weight of exempt compounds, in grams; and</text>
+    <text>Vm = volume of coating, in liters.</text>
+  </level>
+  <level>
+    <num>778.2</num>
+    <text>778.2 To determine the physical properties of a coating in order to perform the calculations in §778.1, the reference method for VOC content is U.S. EPA Method 24, except as provided in § 778.3 and 778.4. An alternative method to determine the VOC
+      content of coatings is SCAQMD Method 30491 (Revised February 1996), adopted by reference in § 778.5(j). The exempt compounds content shall be determined by SCAQMD Method 30391 (Revised August 1996), adopted by reference in § 778.5(h)(3). To determine
+      the VOC content of a coating, the manufacturer may use U.S. EPA Method 24, or an alternative method, as provided in § 778.3, formulation data, or any other reasonable means for predicting that the coating has been formulated as intended including
+      but not limited to quality assurance checks and record keeping. However, if there are any inconsistencies between the results of a Method 24 test and any other means for determining VOC content, the Method 24 results will govern, except when an
+      alternative method is approved as specified in § 778.3. The Department may require the manufacturer to conduct a Method 24 analysis.</text>
+  </level>
+  <level>
+    <num>778.3.</num>
+    <text>Alternative test methods may be used if they are demonstrated to provide results that are acceptable for purposes of determining compliance with § 778.2, and have been reviewed and approved in writing by the Department and the U.S. EPA.</text>
+  </level>
+  <level>
+    <num>778.4</num>
+    <text>778.4 Analysis of methacrylate multicomponent coatings used as traffic marking coatings shall be conducted according to a modification of U.S. EPA Method 24 in 40 C.F.R. Part 59, Subpart D, Appendix A. This method has not been approved for methacrylate
+      multi-component coatings used for purposes other than traffic marking coatings or other classes of multi-component coatings.</text>
+  </level>
+  <level>
+    <num>778.5</num>
+    <text>778.5 The following test methods are incorporated by reference herein, and shall be used to test coatings subject to the provisions of §§ 773 through 778:</text>
+    <level>
+      <num>(a)</num>
+      <text>The flame spread index of a fire-retardant coating shall be determined by the ASTM Designation E 8499, Standard Test Method for Surface Burning Characteristics of Building Materials, (see § 799, fireretardant coating);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The fireresistance rating of a fireresistive coating shall be determined by ASTM Designation E 11998, Standard Test Methods for Fire Tests of Building Construction Materials, (see § 799, fireresistive coating);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The gloss of a coating shall be determined by ASTM Designation D 52389 (1999), Standard Test Method for Specular Gloss, (see § 799, flat coating, nonflat coating, nonflat high gloss coating, and quick dry enamel);</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The metallic content of a coating shall be determined by SCAQMD Method 31895, Determination of Weight Percent Elemental Metal in Coatings by XRay Diffraction, SCAQMD Laboratory Methods of Analysis for Enforcement Samples, (see § 799, metallic pigmented
+        coating);</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>The acid content of a coating shall be determined by ASTM Designation D 161396, Standard Test Method for Acidity in Volatile Solvents and Chemical Intermediates Used in Paint, Varnish, Lacquer and Related Products (see § 799, pretreatment wash primer);</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>The settotouch, dryhard, drytotouch, and drytorecoat times of a coating shall be determined by ASTM Designation D 164095, Standard Methods for Drying, Curing, or Film Formation of Organic Coatings at Room Temperature, (see § 799, quick dry enamel
+        and quickdry primer, sealer, and undercoater). The tack free time of a quickdry enamel coating shall be determined by the Mechanical Test Method of ASTM Designation D 164095;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>The chalkiness of a surface shall be determined using ASTM Designation D 421498, Standard Test Methods for Evaluating the Degree of Chalking of Exterior Paint Films, (see § 799, specialty primer, sealer, and undercoater);</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>The following compounds are exempt from the test methods above and shall be analyzed by the following alternative methods:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Compounds that are cyclic, branched, or linear, completely methylated siloxanes, shall be analyzed as exempt compounds for compliance with § 778 by BAAQMD Method 43, Determination of Volatile Methylsiloxanes in SolventBased Coatings, Inks, and Related
+        Materials, BAAQMD Manual of Procedures, Volume III, adopted November 6, 1996, (see § 778.2);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Parachlorobenzotrifluoride shall be analyzed as an exempt compound for compliance with § 778 by BAAQMD Method 41, Determination of Volatile Organic Compounds in SolventBased Coatings and Related Materials Containing Parachlorobenzotrifluoride, BAAQMD
+        Manual of Procedures, Volume III, adopted December 20, 1995, (see § 778.2); and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Compounds exempt under U.S. EPA Method 24, which shall be analyzed by SCAQMD Method 30391 (Revised 1993), Determination of Exempt Compounds, SCAQMD Laboratory Methods of Analysis for Enforcement Samples, (see § 778.2);</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>The VOC content of a coating shall be determined by U.S. EPA Method 24 as it exists in 40 CFR Part 60, Appendix A, Determination of Volatile Matter Content, Water Content, Density, Volume Solids, and Weight Solids of Surface Coatings, (see § 778.2);</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Alternatively, the VOC content of coatings may be analyzed by either U.S. EPA Method 24 or SCAQMD Method 30491 (Revised 1996), Determination of Volatile Organic Compounds (VOC) in Various Materials, SCAQMD Laboratory Methods of Analysis for Enforcement
+        Samples (see § 778.2);</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>The VOC content of methacrylate multicomponent coatings used as traffic marking coatings shall be analyzed by the procedures in 40 CFR Part 59, Subpart D, Appendix A, Determination of Volatile Matter Content of Methacrylate Multicomponent Coatings
+        Used as Traffic Marking Coatings, (September 11, 1998), (see § 778.4); and</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>The VOC content of stone consolidants shall by analyzed by ASTM E2167-01, “Standard Guide for Selection and Use of Stone Consolidants” (see § 799, Stone Consolidant).</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Final Rulemaking published at 58 DCR 11286, 11405 (December 30, 2011).</text>
+    </level>
+  </level>
+</level>

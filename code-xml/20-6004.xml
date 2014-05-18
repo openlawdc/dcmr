@@ -1,0 +1,75 @@
+<level>
+  <type>section</type>
+  <num>20-6004</num>
+  <heading>PETROLEUM UST SYSTEM PIPING (§ 20-6004)</heading>
+  <level>
+    <num>6004.1.</num>
+    <text>The owner or operator of a petroleum UST system shall regularly monitor all underground piping that contains or conveys regulated substances for releases, in accordance with the provisions of this section.</text>
+  </level>
+  <level>
+    <num>6004.2.</num>
+    <text>Each method of release detection for petroleum UST system piping, excluding heating oil tanks, shall meet the requirements of this section</text>
+  </level>
+  <level>
+    <num>6004.3.</num>
+    <text>Underground piping that conveys regulated substances under pressure shall be equipped with an automatic line leak detector.</text>
+  </level>
+  <level>
+    <num>6004.4.</num>
+    <text>Automatic line leak detectors which alert the operator to the presence of a leak by restricting or shutting off the flow of regulated substances through piping or triggering an audible or visual alarm may be used only if they detect leaks of three
+      gallons per hour (3 gal/hr) at ten pounds per square inch (10 lbs/in) line pressure within one (1) hour. The owner or operator shall conduct an annual test of the operation of the leak detector, in accordance with the manufacturer&amp;#8217;s requirements.</text>
+  </level>
+  <level>
+    <num>6004.5</num>
+    <text>6004.5 Underground piping that conveys regulated substances under pressure shall have an annual line tightness test conducted in accordance with §6004.7 or have monthly monitoring conducted in accordance with §6004.9.</text>
+  </level>
+  <level>
+    <num>6004.6.</num>
+    <text>Underground piping that conveys regulated substances under suction except those covered under 6004.8 shall either have a line tightness test conducted at least every three (3) years, in accordance with § 6004.7, or use a monthly monitoring method
+      conducted in accordance with § 6004.9</text>
+  </level>
+  <level>
+    <num>6004.7.</num>
+    <text>Periodic line tightness testing of piping may be conducted only if it can detect a one-tenth gallon per hour (0.1 gal/hr) leak rate at one and one-half (1.5) times the operating pressure and includes testing of return lines as applicable.</text>
+  </level>
+  <level>
+    <num>6004.8.</num>
+    <text>No release detection shall be required for suction piping that is designed and constructed to meet the following standards:</text>
+    <level>
+      <num>(a)</num>
+      <text>The below-grade piping operates at less than atmospheric pre sure;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The below-grade piping is sloped so that the contents of the pipe will drain back into the storage tank if the suction is released;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Only one (1) check valve is included in each suction line;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The check valve is located directly below and as close as practical to the suction pump; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>A method, satisfactory to the Director, is provided that allows compliance with the provisions of subparagraphs (b) through (d) of this subsection to be readily determined.</text>
+    </level>
+  </level>
+  <level>
+    <num>6004.9.</num>
+    <text>Any of the methods for release detection for tanks set forth in §§ 6009 through 6011 of this chapter may be used for piping, in accordance with the provisions of the applicable section, if the method used is designed to detect a release from any portion
+      of the underground piping that contains or conveys regulated substances.</text>
+  </level>
+  <level>
+    <num>6004.10.</num>
+    <text>Secondary containment systems on underground piping installed or replaced after February 8, 2007 shall be checked for evidence of a release at least once every thirty (30) days using interstitial monitoring.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 40 DCR 7835, 7870 (November 12, 1993); as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999); as amended by Final Rulemaking published at 56 DCR 6678 (August 21, 2009).</text>
+    </level>
+  </level>
+</level>

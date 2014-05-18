@@ -1,0 +1,36 @@
+<level>
+  <type>section</type>
+  <num>14-7114</num>
+  <heading>RATINGS (§ 14-7114)</heading>
+  <level>
+    <num>7114.1.</num>
+    <text>Ratings shall be as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>Outstanding;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Exceptional;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Fully successful;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Partially successful; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Unacceptable.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Final Rulemaking published at 42 DCR 6914, 6925 (December 8, 1995).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,26 @@
+<level>
+  <type>section</type>
+  <num>29-9203</num>
+  <heading>CLAIMS RECOUPMENT OR RECONCILIATION (§ 29-9203)</heading>
+  <level>
+    <num>9203.1.</num>
+    <text>For those beneficiaries dually-eligible for Medicare and Medicaid, the District’s Medicaid PPC payment adjustment policy shall also apply to those claims denied under Medicare’s preventable conditions policy.</text>
+  </level>
+  <level>
+    <num>9203.2</num>
+    <text>9203.2 A Medicaid provider shall be subject to reimbursement recoupment or</text>
+    <text>reconciliation based on the Medicaid Provider Preventable Conditions Payment Adjustment Policy. A determination of overpayments and/or underpayments shall be based on one (1) or more of the following factors:</text>
+    <text>Whether the procedure or diagnosis underlying the claim is a PPC;</text>
+    <text>Whether the condition results in the assignment of a case to a DRG that has a higher payment when present as a secondary diagnosis;</text>
+    <text>Whether the claim resulting from the service was priced correctly;</text>
+    <text>Whether the provider properly coded the claim by using the present on admission (POA) indicator field; and</text>
+    <text>Whether the claim duplicates a previously paid claim.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 59 DCR 14960 (December 21, 2012).</text>
+    </level>
+  </level>
+</level>

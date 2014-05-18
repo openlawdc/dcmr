@@ -1,0 +1,44 @@
+<level>
+  <type>section</type>
+  <num>20-2901</num>
+  <heading>EQUIPMENT (§ 20-2901)</heading>
+  <level>
+    <num>2901.1.</num>
+    <text>Sound-level meters and microphones shall meet Type II specifications per ANSI S1.4-1971.</text>
+  </level>
+  <level>
+    <num>2901.2.</num>
+    <text>Each sound-level meter shall be qualified annually.</text>
+  </level>
+  <level>
+    <num>2901.3.</num>
+    <text>Each sound-level meter and microphone device shall meet the following specifications:</text>
+    <level>
+      <num>(a)</num>
+      <text>External calibration devices with a known sound pressure level output at a single known frequency between two hundred (200) Hz and one thousand (1,000) Hz, as specified by the manufacturer;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Windscreen with insertion loss less than five tenths (0.5) dB(A) below eight (8) kHz;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Stopwatch, capable of cumulative operation and accurate to two percent (2%) or better;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Wind speed indicator with at least twenty percent (20%) accuracy at twelve miles per hour (12 mph); and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Earphones with impedance meeting the sound level meter manufacturer&amp;#8217;s specifications.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 26 DCR 1499, 1501 (September 28, 1979).</text>
+    </level>
+  </level>
+</level>

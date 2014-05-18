@@ -1,0 +1,28 @@
+<level>
+  <type>section</type>
+  <num>3-1907</num>
+  <heading>DATE OF ELECTION AND BALLOT FORMAT (§ 3-1907)</heading>
+  <level>
+    <num>1907.1.</num>
+    <text>If the Council does not specify an election date in the Resolution, the Advisory Referendum shall be presented to voters at the next primary, general, or citywide special election conducted at least fifty-four (54) days after the Board of Elections
+      and Ethics certifies the short title and summary statement for the ballot.</text>
+  </level>
+  <level>
+    <num>1907.2.</num>
+    <text>The Board shall prepare the ballot presented to voters, which shall include the official designation, certified short title, and certified summary statement, which shall appear on the election ballot in substantially the following form:</text>
+    <text>ADVISORY REFERENDUM</text>
+    <text>Short Title</text>
+    <text>(Insert Short Title of the Advisory Referendum) Summary Statement</text>
+    <text>(Insert Summary Statement)</text>
+    <text>Shall the voters of the District of Columbia advise the Council to approve or reject this proposal?</text>
+    <text>YES, to approve</text>
+    <text>NO, to reject</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 40 D.C. Reg. 7083, 7092-93 (October 8, 1993).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,42 @@
+<level>
+  <type>section</type>
+  <num>1-3200</num>
+  <heading>SCHEDULE OF FEES (§ 1-3200)</heading>
+  <level>
+    <num>3200.1</num>
+    <text>3200.1 The following fees are established for permits authorizing theccupation of public space for motion picture, television, and other mediaroductions (“film permits”):</text>
+    <text>Permit</text>
+    <text>Fee</text>
+    <text>Permit Application</text>
+    <text>Processing Fee</text>
+    <text>$30 (one-time fee per project)</text>
+    <text>Film Permit (less than 10 total cast and crew)</text>
+    <text>$150 first day</text>
+    <text>$50 each additional day</text>
+    <text>$500 cap</text>
+    <text>Film Permit (10 – 39 total cast and crew)</text>
+    <text>$300 first day</text>
+    <text>$100 each additional day</text>
+    <text>$1,500 cap</text>
+    <text>Film Permit (40 – 69 total cast and crew)</text>
+    <text>$450 first day</text>
+    <text>$150 each additional day</text>
+    <text>$3,000 cap</text>
+    <text>Film Permit (more than 70 total cast and crew)</text>
+    <text>$600 first day</text>
+    <text>$200 each additional day</text>
+    <text>$4,500 cap</text>
+    <text>Still Photography Film Permit</text>
+    <text>$150 (flat fee per-project)</text>
+    <text>Student Film Permit</text>
+    <text>No fee (with proof of enrollment in accredited film program)</text>
+    <text>2</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 57 DCR 1715 (February 26, 2010).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,32 @@
+<level>
+  <type>section</type>
+  <num>7-2005</num>
+  <heading>FIRE SAFETY (§ 7-2005)</heading>
+  <level>
+    <num>2005.1.</num>
+    <text>Each agency shall comply with the following fire safety program requirements:</text>
+    <level>
+      <num>(a)</num>
+      <text>Development of fire evacuation plans for all city owned and leased facilites;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Appointment and training of appropriate staff for fire evacuation programs;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Posting of fire evacuation plan diagrams at appropriate locations;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Conducting annual fire safety training; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Conducing bimonthly fire safety inspections.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

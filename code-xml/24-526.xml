@@ -1,0 +1,319 @@
+<level>
+  <type>section</type>
+  <num>24-526</num>
+  <heading>VENDING LOCATIONS[COLON] CENTRAL VENDING ZONE (§ 24-526)</heading>
+  <level>
+    <num>526.1.</num>
+    <text>The Central Vending Zone shall have the following boundaries:</text>
+    <level>
+      <num>(a)</num>
+      <text>Beginning at the northeast corner of Massachusetts Avenue, NW, at 11th Street, NW;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>East along the north curb of L Street, NW, to the west curb of mid-block alley between 9th Street, NW, and 10th Street, NW;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>North along the center of the alley to the south curb of M Street, NW;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>East along the south curb of M Street, NW, to the west curb of 9th Street, NW;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>North along the west curb of 9th Street, NW, to the north curb of N Street, NW;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>East along the north curb of N Street, NW, to the east curb of 6th Street, NW;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>South along the east curb of 6th Street, NW, to the north curb of Massachusetts Avenue, NW;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>East along the north curb of Massachusetts Avenue, NW, to the west curb of North Capitol Street, NW;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>North along the west curb of North Capitol Street, NW, to the north curb of Q Street, NW;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>East along the north curb of Q Street, NE, to the west curb of Eckington Place, NE;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>North along the west curb of Eckington Place, NE, to the north curb of R Street, NE;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>East along the north curb of R Street, NE, in a straight line to the north curb of New York Avenue, NE;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>East along the north curb of New York Avenue, NE, to the east curb of 9th Street, NE;</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>South along the east curb of 9th Street, NE, to the east curb of Brentwood Parkway, NE;</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>South along the east curb of Brentwood Parkway, NE, to the east curb of 6th Street, NE;</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>South along the east curb of 6th Street, NE, to the south curb of M Street, NE;</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>West along the south curb of M Street, NE, to the east curb of 5th Street, NE;</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>South along the east curb of 5th Street, NE, to the south curb of H Street, NE;</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>West along the south curb of H Street, NE, to the east curb of 3rd Street, NE;</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>South along the east curb of 3rd Street, NE, to the north curb of Independence Avenue, SE;</text>
+    </level>
+    <level>
+      <num>(u)</num>
+      <text>West along the north curb of Independence Avenue, SE, to the east curb of 2nd Street, SE;</text>
+    </level>
+    <level>
+      <num>(v)</num>
+      <text>South along the east curb of 2nd Street, SE, to the south curb of C Street, SE;</text>
+    </level>
+    <level>
+      <num>(w)</num>
+      <text>West along the south curb of C Street, SE, to the east curb of 1st Street, SE;</text>
+    </level>
+    <level>
+      <num>(x)</num>
+      <text>South along the east curb of 1st Street, SE, to the south curb of D Street, SE;</text>
+    </level>
+    <level>
+      <num>(y)</num>
+      <text>West along the south curb of D Street, SE, to the east curb of New Jersey Avenue, SE;</text>
+    </level>
+    <level>
+      <num>(z)</num>
+      <text>South along the east curb of New Jersey Avenue, SE, to the south curb of Interstate 695;</text>
+    </level>
+    <text>(aa) East along the south curb of Interstate 695 to east curb of Water Street, SE;</text>
+    <text>(bb) South from the east curb of Water Street, SE, in a straight line to the west bank of the Anacostia River, SE;</text>
+    <text>(cc) West along the north bank of the Anacostia River, SE, to the east curb of 11th Street, SE;</text>
+    <text>(dd) South along the east curb of 11th Street, SE, to the east curb of Martin Luther King, Jr. Avenue, SE;</text>
+    <text>(ee) South along the east curb of Martin Luther King, Jr. Avenue, SE, to the north curb of Suitland Parkway, SE;</text>
+    <text>(ff) North along Suitland Parkway, SE, to the South Capitol Street Bridge;</text>
+    <text>(gg) West along the South Capitol Street Bridge to the east bank of the Anacostia River, SE;</text>
+    <text>(hh) South along the west bank of the Anacostia River, SE, to the east bank of the Potomac River, SW;</text>
+    <text>(ii) North along the east bank of the Potomac River, SW, to the west curb of the Potomac Parkway to Rock Creek Parkway;</text>
+    <text>(jj) North along Rock Creek Parkway in a straight line to the north curb of N Street, NW;</text>
+    <text>(kk) East along the north curb of N Street, NW, to the west curb of New Hampshire Avenue, NW;</text>
+    <text>(ll) Northeast along the west curb of New Hampshire Avenue, NW, to the west curb of 20th Street, NW;</text>
+    <text>(mm) North along the west curb of 20th Street, NW, to the north curb of P Street, NW;</text>
+    <text>(nn) East along the north curb of P Street, NW, to west curb of Dupont Circle, NW;</text>
+    <text>(oo) North along the west curb of Dupont Circle, NW, to the north curb of Massachusetts Avenue, NW; and</text>
+    <text>(pp) East along the north curb of Massachusetts Avenue, NW, to the northeast corner of Massachusetts Avenue, NW and 11th Street, NW.</text>
+  </level>
+  <level>
+    <num>526.2.</num>
+    <text>The following streets in the Central Vending Zone shall be exempt from the requirement that a minimum ten foot (10 ft.) clear passageway be maintained; provided, that each of the following vending sites shall maintain a seven foot (7 ft.) clear passageway:</text>
+    <level>
+      <num>(a)</num>
+      <text>East and west sides of 19th Street, NW, between Constitution Avenue, NW and C Street, NW;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>East and west sides of 20th Street, NW, between Constitution Avenue, NW and C Street, NW; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>East and west sides of 21st Street, NW, between Constitution Avenue, NW and C Street, NW.</text>
+    </level>
+  </level>
+  <level>
+    <num>526.3.</num>
+    <text>Except for Vending Locations approved as part of a Vending Development Zone under § 570, no sidewalk Vending Locations shall be designated on the following streets in the Central Vending Zone:</text>
+    <level>
+      <num>(a)</num>
+      <text>East side of 2nd Street, NE, between K Street, NE, and East Capitol Street;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>East side of 10th Street, NW, between E Street, NW, and Pennsylvania Avenue, NW (Federal Bureau of Investigation building);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>East side of 12th Street, NW, between Constitution Avenue, NW, and Pennsylvania Avenue, NW (Internal Revenue Service building (southern half of block), and Old Post Office building (northern half of block));</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>East side of 12th Street, NW, between I Street, NW, and K Street, NW;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>East side of 12th Street, NW, between New York Avenue, NW, and G Street, NW;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>East side of 13th Street, NW, between L Street, NW, and Massachusetts Avenue, NW;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>East side of 14th Street, NW, between Constitution Avenue, NW, and D Street, NW (John A. Wilson Building, Ronald Reagan Building and International Trade Center, and Commerce Department building);</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>East side of 22nd Street, NW, between F Street, NW, and G Street, NW;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>East side of 24th Street, NW, between Pennsylvania Avenue, NW, and L Street, NW;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>East side of 24th Street, NW, between Virginia Avenue, NW, and G Street, NW;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>East side of 25th Street, NW, between H Street, NW, and I Street, NW;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>East side of 26th Street, NW, between I Street, NW, and K Street, NW;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>East and west sides of Delaware Avenue, SW, between M Street, SW, and H Street, SW;</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>East and west sides of Half Street, SE, between M Street, SE, and I Street, SE;</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>East and west sides of Half Street, SW, between M Street, SW, and I Street, SW;</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>East and west sides of New Hampshire Avenue, NW, between Virginia Avenue, NW, and I Street, NW;</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>East and west sides of 1st Street, SW, between Independence Avenue, SW, and C Street, SW;</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>East and west sides of 1st Street, SW, between M Street, SW, and mid- block between M Street and N Street, SW;</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>East and west sides of 2nd Street, SE, between M Street, SE, and D Street, SE;</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>East and west sides of 3rd Street, SW, between M Street, SW, and I Street, SW;</text>
+    </level>
+    <level>
+      <num>(u)</num>
+      <text>East and west sides of 5th Street, NW, between H Street, NW, and K Street, NW;</text>
+    </level>
+    <level>
+      <num>(v)</num>
+      <text>East and west sides of 6th Street, SW, between M Street, SW, and G Street, SW;</text>
+    </level>
+    <level>
+      <num>(w)</num>
+      <text>East and west sides of 8th Street, NW, between E Street, NW, and D Street, NW;</text>
+    </level>
+    <level>
+      <num>(x)</num>
+      <text>East and west sides of 9th Street, NW, between G Street, NW, and H Street, NW;</text>
+    </level>
+    <level>
+      <num>(y)</num>
+      <text>East and west sides of 21st Street, NW, between C Street, NW, and E Street, NW (State Department building);</text>
+    </level>
+    <level>
+      <num>(z)</num>
+      <text>East and west sides of 23rd Street, NW, between C Street, NW, and E Street, NW (State Department building);</text>
+    </level>
+    <text>(aa) East and west sides of 23rd Street, NW, between L Street, NW, and Washington Circle, NW;</text>
+    <text>(bb) East and west sides of 25th Street, NW, between I Street, NW, and K Street, NW;</text>
+    <text>(cc) East and west sides of 25th Street, NW, between L Street, NW, and M Street, NW;</text>
+    <text>(dd) East and west sides of 6th Street, NW, between F Street, NW, and H Street, NW;</text>
+    <text>(ee) East and west sides of 7th Street, NW, between F Street, NW, and H Street, NW;</text>
+    <text>(ff) East and west sides of 3rd Street, NW, between F Street, NW, and G Street, NW;</text>
+    <text>(gg) East and west sides of 4th Street, NW, between F Street, NW, and G Street, NW;</text>
+    <text>(hh) North side of D Street, NW, between 3rd Street, NW, and 4th Street, NW;</text>
+    <text>(ii) North side of D Street, NW, between 5th Street, NW, and 9th Street, NW;</text>
+    <text>(jj) North side of E Street, NW, between 1st Street, NW, and 2nd Street, NW;</text>
+    <text>(kk) North side of E Street, NW, between 3rd Street, NW, and 4th Street, NW;</text>
+    <text>(ll) North side of F Street, NW, between 21st Street, NW, and 22nd Street, NW;</text>
+    <text>(mm) North side of N Street, NW, between 21st Street, NW, and New Hampshire Avenue, NW;</text>
+    <text>(nn) North side of Pennsylvania Avenue, NW, between 9th Street, NW, and 10th Street, NW;</text>
+    <text>(oo) North side of Virginia Avenue, NW, between 23rd Street, NW, and 24th Street, NW;</text>
+    <text>(pp) North and south sides of C Street, SE, between South Capitol Street, SE, and 3rd Street, SE;</text>
+    <text>(qq) North and south sides of C Street, SW, between 6th Street, SW, and South Capitol Street, SW;</text>
+    <text>(rr) North and south sides of C Street, NW, between 21st Street, NW, and 23rd Street, NW;</text>
+    <text>(ss) North and south sides of Connecticut Avenue, NW, between N Street, NW, and Dupont Circle, NW;</text>
+    <text>(tt) North and south sides of D Street SE/SW between 4th Street, SW, and 3rd Street, SE;</text>
+    <text>(uu) North and south sides of E Street, SW, between South Capitol Street and Interstate 395;</text>
+    <text>(vv) North and south sides of E Street, SW, between 2nd Street, SW, and 7th Street, SW;</text>
+    <text>(ww) North and south sides of E Street, NW, between 5th Street, NW, and 14th Street, NW;</text>
+    <text>(xx) North and south sides of E Street, NW, between 21st Street, NW, and 23rd Street, NW;</text>
+    <text>(yy) North and south sides of F Street, NW, between New Jersey Avenue, NW, and North Capitol Street, NW;</text>
+    <text>(zz) North and south sides of H Street, NW, between 6th Street, NW, and Massachusetts Avenue, NW;</text>
+    <text>(aaa) North and south sides of H Street, NW, between New Hampshire Avenue, NW, and 24th Street, NW;</text>
+    <text>(bbb) North and south sides of I Street, SE, in a straight line between 3rd Street, SE, and South Capitol Street, SE;</text>
+    <text>(ccc) North and south sides of I Street, SW, between 7th Street, SW, and South Capitol Street, SW;</text>
+    <text>(ddd) North and south sides of I Street, NW, between 13th Street, NW, and 16th Street, NW;</text>
+    <text>(eee) North and south sides of I Street, NW, between 26th Street, NW, and New Hampshire Avenue, NW;</text>
+    <text>(fff) North and south sides of Jefferson Place, NW, between 18th Street, NW, and 19th Street, NW;</text>
+    <text>(ggg) North and south sides of K Street SE/SW between Half Street, SW, and 3rd Street, SE;</text>
+    <text>(hhh) North and south sides of K Street, SW, between Wesley Place, SW, and Delaware Avenue, SW;</text>
+    <text>(iii) North and south sides of K Street, NW, between 25th Street, NW, and 26th Street, NW;</text>
+    <text>(jjj) North and south sides of L Street SE/SW in a straight line between 3rd Street, SW, and 3rd Street, SE;</text>
+    <text>(kkk) North and south sides of L Street, NW, between 24th Street, NW, and 25th Street, NW;</text>
+    <text>(lll) North and south sides of M Street, NW, between 21st Street, NW, and Connecticut Avenue, NW;</text>
+    <text>(mmm) North and south sides of M Street, NW, between 23rd Street, NW, and 28th Street, NW;</text>
+    <text>(nnn) North and south sides of Massachusetts Avenue, NW, between Thomas Circle, NW, and 11th Street, NW;</text>
+    <text>(ooo) North and south sides of N Street, NW, between 18th Street, NW, and Bataan Street, NW;</text>
+    <text>(ppp) North and south sides of N Street, NW, between 21st Street, NW, and 25th Street, NW;</text>
+    <text>(qqq) North and south sides of Sunderland Place, NW, between 19th Street, NW, and 20th Street, NW;</text>
+    <text>(rrr) North and south sides of F Street, NW, between 6th Street, NW, and 7th Street, NW (Verizon Center);</text>
+    <text>(sss) North and south sides of H Street, NW, between 6th Street, NW, and 7th Street, NW (Verizon Center);</text>
+    <text>(ttt) North and south sides of G Street, NW, between 3rd and 4th Streets, NW;</text>
+    <text>(uuu) North and south sides of F Street, NW, between 3rd Street, NW, and 4th Street, NW;</text>
+    <text>(vvv) South side of C Street, SW, between 12th Street, SW, and 14th Street, SW;</text>
+    <text>(www) South side of G Street, NW, between 7th Street, NW, and 9th Street, NW;</text>
+    <text>(xxx) South side of G Street, NW, between 23rd Street, NW, and 24th Street, NW;</text>
+    <text>(yyy) South side of H Street, NW, between 23rd Street, NW, and 24th Street, NW;</text>
+    <text>(zzz) South side of K Street, NW, between 24th Street, NW, and 25th Street, NW;</text>
+    <text>(aaaa) West side of 5th Street, NW, between D Street, NW, and E Street, NW;</text>
+    <text>(bbbb) West side of 9th Street, NW, between E Street, NW, and Pennsylvania Avenue, NW;</text>
+    <text>(cccc) West side of 17th Street, NW, between Constitution Avenue, NW, and C Street, NW;</text>
+    <text>(dddd) West side of 17th Street, NW, between D Street, NW, and E Street, NW;</text>
+    <text>(eeee) West side of 21st Street, NW, between New Hampshire Avenue, NW, and N Street, NW; and</text>
+    <text>(ffff) West side of 23rd Street, NW, between Virginia Avenue, NW, and G Street, NW.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 36 DCR 6846 (September 29, 1989); as amended by Final Rulemaking published at 42 DCR 1955 (April 28. 1995); and by Final Rulemaking published at 42 DCR 7105a, 7105b (December 22, 1995), effective January 19, 1996; as
+        amended by Final Rulemaking published at 60 DCR 13055 (September 20, 2013).</text>
+    </level>
+  </level>
+</level>

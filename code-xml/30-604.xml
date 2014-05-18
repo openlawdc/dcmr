@@ -1,0 +1,33 @@
+<level>
+  <type>section</type>
+  <num>30-604</num>
+  <heading>INSTANT TICKET VALIDATION (§ 30-604)</heading>
+  <level>
+    <num>604.1.</num>
+    <text>The Agent shall mutilate or destroy validated instant tickets.</text>
+  </level>
+  <level>
+    <num>604.2.</num>
+    <text>Once an instant ticket has been validated, it shall not be returned to the claimant.</text>
+  </level>
+  <level>
+    <num>604.3.</num>
+    <text>Any instant ticket which has been returned to the claimant after validation shall be void.</text>
+  </level>
+  <level>
+    <num>604.4.</num>
+    <text>An instant ticket or a pull tab ticket shall not be valid unless the ticket bar code and other validation data was recorded on the central computer system prior to the sale of the ticket and the ticket can be processed for validation purposes by the
+      terminal, wand or other electronic device used by the Agency for validation purposes.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 39 DCR 7439, 7445 (October 2, 1992); as amended by Final Rulemaking published at 44 DCR 228 (January 10, 1997).</text>
+    </level>
+    <level>
+      <heading>HISTORICAL NOTE</heading>
+      <text>Prior to October 2, 1992, the D.C. Lottery and Charitable Games Control Board published Final Rulemaking at 29 DCR 2202, 2211 (May 28, 1982).</text>
+    </level>
+  </level>
+</level>

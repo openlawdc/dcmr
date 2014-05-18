@@ -1,0 +1,162 @@
+<level>
+  <type>section</type>
+  <num>15-2740</num>
+  <heading>REPORTING REQUIREMENTS FOR SERVICE OUTAGES AND INCIDENTS RESULTING IN PERSONALNJURY OR DEATH (§ 15-2740)</heading>
+  <level>
+    <num>2740.1.</num>
+    <text>The provisions of this section, except as otherwise reflected, shall apply to all telecommunications service providers serving at least one hundred (100) customers or one hundred (100) access lines, excluding telecommunications service providers that
+      utilize local access obtained from the incumbent local exchange provider or another telecommunications service provider via resold or commercially negotiated agreements.</text>
+  </level>
+  <level>
+    <num>2740.2.</num>
+    <text>Telecommunications service providers shall report to the Commission and to the Office of the People’s Counsel certain telecommunications service outages and disruptions. Telecommunications service providers shall report incidents that result in the
+      loss of human life or personal injury requiring hospitalization directly or indirectly arising from or connected with the maintenance or operation of the telecommunications system within the District of Columbia.</text>
+  </level>
+  <level>
+    <num>2740.3.</num>
+    <text>All service outages shall be communicated by telephone or email to the Commission and the Office of the People’s Counsel as soon as practicable, but not later than one (1) hour after the telecommunications service provider has determined that a service
+      outage has occurred.</text>
+  </level>
+  <level>
+    <num>2740.4.</num>
+    <text>Each telephone or email communication rendered by the telecommunications service provider subsequent to a service outage shall, at a minimum, state clearly the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>The date and time the telecommunications service provider determines that the service outage has occurred;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The location of the service outage(s);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The estimated total number of customers out of service;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>A preliminary assessment as to the cause of the service outage(s); and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>The estimated repair and/or restoration time.</text>
+    </level>
+  </level>
+  <level>
+    <num>2740.5</num>
+    <text>2740.5 If the service outage is required to be reported to the Federal Communications Commission (FCC) pursuant to 47 C.F.R. §§ 4.9 and 4.11, then the telecommunications service provider shall file a copy of the same reports with the Commission and
+      the Office of the People’s Counsel.</text>
+  </level>
+  <level>
+    <num>2740.6.</num>
+    <text>If the service outage occurs during the Commission’s business hours, the telecommunications service provider shall file the relevant Notification Communications Outage Report (NORS) required by 47 C.F.R. §§ 4.9 and 4.11 with the Commission and the
+      Office of the People’s Counsel within two (2) hours after the NORS has been filed with the FCC.</text>
+  </level>
+  <level>
+    <num>2740.7.</num>
+    <text>For service outages occurring outside of the Commission’s normal business hours, the telecommunications service provider shall file with the Commission and the Office of the People’s Counsel within one (1) hour of the next business day the relevant
+      NORS filed with the Federal Communications Commission pursuant to 47 C.F.R. §§ 4.9 and 4.11.</text>
+  </level>
+  <level>
+    <num>2740.8.</num>
+    <text>For those service outages that are reported to the FCC, within one (1) business day of submission of the Initial Communications Outage Report and the Final Communications Outage Report to the FCC pursuant to 47 C.F.R. §§ 4.9 and 4.11, the telecommunications
+      service provider shall file a copy of the District-specific portion of those reports with the Commission and the Office of the People’s Counsel.</text>
+  </level>
+  <level>
+    <num>2740.9.</num>
+    <text>If the telecommunications service provider withdraws any report that is submitted to the FCC pursuant to 47 C.F.R. §§ 4.9 and 4.11 as well as the Commission and the Office of the People’s Counsel, the telecommunications service provider shall file
+      with the Commission and the Office of the People’s Counsel the withdrawal filed with the Federal Communications Commission within one (1) business day of submission of the withdrawal. The telecommunications service provider shall also explain the
+      reasons for the withdrawal.</text>
+  </level>
+  <level>
+    <num>2740.10.</num>
+    <text>The telecommunications service provider shall provide its customer service representatives or other appropriate employees with specific restoration information, including estimated restoration times, to enable the customer service representatives
+      or appropriate employees to respond to customer inquiries regarding the service outage.</text>
+  </level>
+  <level>
+    <num>2740.11.</num>
+    <text>The telecommunications service provider shall file a written report concerning all service outages with the Public Service Commission and the Office of People’s Counsel within five (5) days following the end of a service outage. Each written report
+      shall, at a minimum, state clearly the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>A description of the service outage(s) and/or incident(s) and information as to the cause of the event(s);</text>
+    </level>
+    <text>The actual repair and restoration times of the service outage(s) and/or incident(s);</text>
+    <level>
+      <num>(c)</num>
+      <text>A description of the restoration effort;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The total number of customers affected by the service outage;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>A self-assessment of the telecommunications service provider’s restoration efforts in the District of Columbia; and</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>A description of the steps that the telecommunications service providers will undertake to prevent such outages in the future or improve repair times and processes.</text>
+    </level>
+  </level>
+  <level>
+    <num>2740.12.</num>
+    <text>The Commission may request additional information concerning any service outage, if necessary.</text>
+  </level>
+  <level>
+    <num>2740.13.</num>
+    <text>Telecommunications service providers shall communicate by telephone or email all incidents that result in the loss of human life and/or personal injury requiring hospitalization, directly or indirectly arising from or connected with the telecommunications
+      service provider’s maintenance or operation, to the Commission and the Office of the People’s Counsel within one (1) hour upon receiving notice of the incident.</text>
+  </level>
+  <level>
+    <num>2740.14.</num>
+    <text>Each telephone or email communication concerning the loss of human life and/or personal injury requiring hospitalization shall, at a minimum, state clearly the following information:</text>
+    <text>The location of the incident(s);</text>
+    <text>The date and time of the incident(s);</text>
+    <text>The total number of persons affected;</text>
+    <text>A brief description of the incident; and</text>
+    <text>Identification of a contact person and contact information.</text>
+  </level>
+  <level>
+    <num>2740.15.</num>
+    <text>A written report concerning the loss of human life and/or personal injury requiring hospitalization shall be submitted to the Commission and to the Office of the People’s Counsel within thirty (30) days after the completion of any internal investigation
+      or notification of the completion of any governmental investigation of any incident that results in the loss of life and/or personal injury requiring hospitalization, directly or indirectly arising from or connected with the telecommunications service
+      provider’s maintenance or operations. If there is no investigation, the report shall be submitted thirty (30) days after the incident. The report shall include:</text>
+    <text>A description of the incident(s) and information as to the cause of the event(s);</text>
+    <text>The location of the incident(s);</text>
+    <level>
+      <num>(c)</num>
+      <text>The exact date and time in which the incident(s) occurred;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The total number of persons affected;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Any other known relevant information about the incident not provided in the original notification; and</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>The steps the telecommunications service provider will take to prevent such an occurrence in the future.</text>
+    </level>
+  </level>
+  <level>
+    <num>2740.16.</num>
+    <text>The Commission may request, if necessary, additional information concerning any incident that results in the loss of life and/or personal injury requiring hospitalization, directly or indirectly arising from or connected with the telecommunications
+      service provider’s maintenance or operations.</text>
+  </level>
+  <level>
+    <num>2740.17.</num>
+    <text>Notifications of PSAP service outages communicated under subsection 2740.4, all FCC NORS reports, and all reports filed under subsections 2740.9 and 2740.13 are presumed to be confidential. Challenges to the confidentiality of these reports shall
+      follow the procedures outlined in the Commission’s rules governing confidential and proprietary information. All initial reports for all service outages except for PSAP service outages filed under this section are not presumed to be confidential.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Final Rulemaking published at 54 DCR 11993 (December 14, 2007), incorporating by reference the text of Proposed Rulemaking published at 54 DCR 9404 (September 28, 2007); as amended by Final Rulemaking published at 57 DCR 2302 (March 19,
+        2010), incorporating by reference the text of Proposed Rulemaking published at 57 DCR 141 (January 1, 2010); as amended by Final Rulemaking published at 57 DCR 8023 (September 3, 2010); as amended by Notice of Final Rulemaking published at 59
+        DCR 781 (February 3, 2012); as amended by Notice of Final Rulemaking published at 59 DCR 3153 (April 20, 2012).</text>
+    </level>
+  </level>
+</level>

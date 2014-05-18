@@ -1,0 +1,124 @@
+<level>
+  <type>section</type>
+  <num>29-5501</num>
+  <heading>ENROLLMENT AND DISENROLLMENT REQUIREMENTS (§ 29-5501)</heading>
+  <level>
+    <num>5501.1.</num>
+    <text>Each primary care provider shall accept and enroll each eligible AFDC and AFDC-related Medicaid recipient who applies for or is assigned to the plan, subject to the requirements of §5501.6.</text>
+  </level>
+  <level>
+    <num>5501.2.</num>
+    <text>The following categories of AFDC and AFDC-related Medicaid recipients are not eligible to participate in the District’s Medicaid Managed Care Program:</text>
+    <level>
+      <num>(a)</num>
+      <text>Residents in a nursing facility or intermediate care facility for the mentally retarded;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Recipients eligible for Medicaid for a period that is less than three (3) months;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Recipients eligible for a period that is retroactive;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Foster children who reside outside the District; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Restricted recipients.</text>
+    </level>
+  </level>
+  <level>
+    <num>5501.3.</num>
+    <text>Except as provided in §5501.4, enrollment by a Medicaid recipient in a prepaid, capitated provider’s plan, or in the patient load of a fee-for-service primary care provider shall be voluntary.</text>
+  </level>
+  <level>
+    <num>5501.4.</num>
+    <text>An AFDC or AFDC-related Medicaid recipient who does not voluntarily select a primary care provider within ten (10) days of being certified or recertified as eligible for Medicaid shall be assigned to a health maintenance organization or a primary
+      care provider that is an employee or entity of the District government using an automated random assignment process.</text>
+  </level>
+  <level>
+    <num>5501.5.</num>
+    <text>A primary care provider shall not enroll or be assigned a number of Medicaid recipients that exceeds a number equal to two thousand (2,000) times the number of primary care physicians available to serve AFDC and AFDC-related Medicaid recipients.</text>
+  </level>
+  <level>
+    <num>5501.6.</num>
+    <text>A primary care provider may limit total Medicaid enrollment by including in its application for a Medicaid managed care agreement the total maximum number of AFDC and AFDC-related Medicaid enrollees that the organization will accept. Acceptance of
+      the enrollment ceiling by the Department shall not obligate the Department to assign or otherwise ensure that the primary care provider shall receive that number of enrollees.</text>
+  </level>
+  <level>
+    <num>5501.7.</num>
+    <text>A primary care provider may change its enrollment ceiling by notifying the Department of the new enrollment ceiling in writing, thirty (30) days prior to the effective date of the change.</text>
+  </level>
+  <level>
+    <num>5501.8.</num>
+    <text>A primary care provider shall request Department approval for enrollment of each eligible AFDC and AFDC-related Medicaid applicant in writing.</text>
+  </level>
+  <level>
+    <num>5501.9.</num>
+    <text>If the Department approves an enrollment by the fifteenth (15th) day of the month, the AFDC and AFDC-related Medicaid recipient’s enrollment shall be effective on the first day of the following month.</text>
+  </level>
+  <level>
+    <num>5501.10.</num>
+    <text>If the Department approves an enrollment after the fifteenth (15th) day of the month, the AFDC and AFDC-related Medicaid recipient’s enrollment shall be effective on the first day of the second month after the month in which the Department approves
+      the enrollment.</text>
+  </level>
+  <level>
+    <num>5501.11.</num>
+    <text>Except as provided in §5501.14 and 5501.15, an AFDC or AFDC-related Medicaid enrollee may voluntarily disenroll from any primary care provider’s plan or patient load without cause.</text>
+  </level>
+  <level>
+    <num>5501.12.</num>
+    <text>To disenroll from a primary care provider during the open season period, an AFDC or AFDC-related Medicaid enrollee shall notify the Commission on Health Care Finance in accordance with the requirements of the program.</text>
+  </level>
+  <level>
+    <num>5501.13.</num>
+    <text>A voluntary disenrollment shall be effective on the first full day of the following month if the disenrollment request form is dated on or before the 15th of the month, but in no case shall the disenrollment be effective later than the first day of
+      the second month after the month in which the AFDC or AFDC-related Medicaid recipient requests disenrollment.</text>
+  </level>
+  <level>
+    <num>5501.14.</num>
+    <text>During the months two (2) through six (6) of membership, AFDC and AFDC-related Medicaid recipients enrolled with a fee-for-service primary care provider or in the plan of a prepaid, capitated provider that meets the requirements of 42 C.F.R. §434.27(d)(1),
+      may disenroll only for good cause, or only if their request to disenroll is upheld in the grievance process.</text>
+  </level>
+  <level>
+    <num>5501.15.</num>
+    <text>A primary care provider may disenroll a member who demonstrates a pattern of disruptive or abusive behavior or of missing scheduled appointments without notice, or whose utilization of services is fraudulent or deceptive.</text>
+  </level>
+  <level>
+    <num>5501.16.</num>
+    <text>A primary care provider shall submit a written request to the Department for written approval of each proposed involuntary disenrollment.</text>
+  </level>
+  <level>
+    <num>5501.17.</num>
+    <text>Except as provided in §5501.18 and 5501.21, an involuntary disenrollment shall be effective not later than the first day of the second month following the approval of the involuntary disenrollment by the Department.</text>
+  </level>
+  <level>
+    <num>5501.18.</num>
+    <text>A primary care provider shall disenroll an AFDC or AFDC-related Medicaid recipient if the recipient is admitted to a nursing facility, intermediate care facility for the mentally retarded, mental institution or other long term care facility and is
+      expected to remain in the facility for more than thirty (30) days. The disenrollment shall be effective not later than the first day of the first full month following the date of admission.</text>
+  </level>
+  <level>
+    <num>5501.19.</num>
+    <text>No AFDC or AFDC-related Medicaid enrollee shall be disenrolled solely because of an adverse change in health status.</text>
+  </level>
+  <level>
+    <num>5501.20.</num>
+    <text>Each AFDC or AFDC-related Medicaid recipient enrolled in a prepaid, capitated provider’s plan whose enrollment is subsequently terminated due to loss of Medicaid eligibility shall have the opportunity to convert to a non-group enrollment contract
+      consistent with conversion privileges offered members of other groups enrolled in the prepaid, capitated provider’s plan.</text>
+  </level>
+  <level>
+    <num>5501.21.</num>
+    <text>The Department shall disenroll an AFDC or AFDC-related Medicaid recipient when the recipient becomes ineligible for Medicaid. The disenrollment shall be effective not later than the first day of the first full month following the effective date of
+      the termination of Medicaid eligibility.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 42 DCR 1566, 1597 (March 31, 1995).</text>
+    </level>
+  </level>
+</level>

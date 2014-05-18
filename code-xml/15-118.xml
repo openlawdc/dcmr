@@ -1,0 +1,45 @@
+<level>
+  <type>section</type>
+  <num>15-118</num>
+  <heading>ELECTRONIC FILING PROCEDURES (§ 15-118)</heading>
+  <level>
+    <num>118.1.</num>
+    <text>All filings shall be filed electronically, with the exception of the following:</text>
+    <text>Filings containing confidential or personal information;</text>
+    <text>Filings by individuals in consumer complaint cases; and</text>
+    <text>Filings by individuals in proceedings other than consumer complaint cases.</text>
+    <text>Confidential filings shall be submitted in person or by mail; however, when a confidential filing is made, the corresponding public version shall be filed electronically on the same day.</text>
+    <text>All electronic filings shall be considered filed when the Commission has received the electronic submission, unless the electronic submission has been rejected under subsection 118.7.</text>
+  </level>
+  <level>
+    <num>118.4.</num>
+    <text>For good cause shown, a party may submit a paper filing in lieu of an electronic filing. All paper filings shall comply with sections 113, 114, 115, and 116 of this chapter.</text>
+  </level>
+  <level>
+    <num>118.5.</num>
+    <text>Filings may be submitted electronically twenty-four (24) hours a day, seven (7) days a week. If a filing is received outside of Commission business hours, it shall be docketed the next business day.</text>
+  </level>
+  <level>
+    <num>118.6.</num>
+    <text>Parties shall receive from the Office of the Commission Secretary an electronic acknowledgment of their submission once file transmission is complete. The acknowledgment shall contain the name and size of the file, case number, party name, date, and
+      the time the Commission’s server received the last byte of information.</text>
+  </level>
+  <level>
+    <num>118.7.</num>
+    <text>After reviewing an electronic filing to ensure that it meets the Commission’s electronic filing requirements, the Office of the Commission Secretary shall send a notice of acceptance or a notice of rejection. The notice of acceptance shall provide
+      the filing’s case number, item number, the date and time of receipt, and the official filing date. If the filing does not meet the Commission’s requirements, then the Office of the Commission Secretary shall send a notice of rejection explaining
+      the reason(s) for rejection by the end of the next business day. A notice of rejection extends any applicable deadline through the end of the next business day.</text>
+  </level>
+  <level>
+    <num>118.8.</num>
+    <text>To electronically file a document with the Commission, filers must complete and submit the electronic filing registration form to the Office of the Commission Secretary. If this form is approved, the Office of Commission Secretary will issue a user
+      ID and password. When registering, a user must explicitly agree to the terms of the eDocket system Compliance Agreement.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 49 DCR 8721 (September 20, 2002); as amended by Notice of Final Rulemaking published at 58 DCR 10631, 10632 (December 16, 2011).</text>
+    </level>
+  </level>
+</level>

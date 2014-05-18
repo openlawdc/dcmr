@@ -1,0 +1,44 @@
+<level>
+  <type>section</type>
+  <num>30-950</num>
+  <heading>DC FAST PLAY TICKET VALIDATION REQUIREMENTS (§ 30-950)
+    <text>A DC Fast Play game ticket, must meet the following conditions to be valid:</text>
+    <text>The ticket validation number must be present in its entirety and shall correspond, using the computer validation file, to the selected numbers printed on the ticket for the date printed on the ticket;</text>
+    <text>The ticket must be intact;</text>
+    <text>The ticket may not be mutilated, altered, reconstituted, or tampered with;</text>
+    <text>The ticket may not be counterfeit or an exact duplicate of another winning ticket;</text>
+    <text>The ticket must have been issued by the Agency in an authorized manner;</text>
+    <text>The ticket must not have been stolen;</text>
+    <text>The ticket data must have been recorded on the Agency’s central computer system and the ticket data must match this computer record in every respect;</text>
+    <text>The terminal-selected winning numbers and the validation number data of an apparent winning ticket must appear on the official file of winning tickets and a ticket with that exact data may not have been previously paid;</text>
+    <text>The ticket must not be misregistered, defectively printed, or produced in error to an extent that it cannot be processed by the Agency; and</text>
+    <text>The ticket must pass other confidential security checks by the Agency.</text>
+  </heading>
+  <level>
+    <num>950.2</num>
+    <text>950.2 A DC Fast Play ticket not passing the validation requirements and checks specified in § 950.1 will be considered invalid and a prize will not be paid for that ticket.</text>
+  </level>
+  <level>
+    <num>950.3.</num>
+    <text>In cases of doubt regarding the validity of a ticket, the determination of the Executive Director is final and binding.</text>
+  </level>
+  <level>
+    <num>950.4</num>
+    <text>950.4 If a defective ticket is purchased or if the Executive Director determines to adjust an error, the sole and exclusive remedy will be the replacement of the defective or erroneous ticket with a ticket of equivalent sale price from a current lottery
+      game.</text>
+    <text>The Agency shall not be responsible for lost or stolen tickets.</text>
+  </level>
+  <level>
+    <num>950.6.</num>
+    <text>DC Fast Play prizes claims must be claimed within one hundred eighty (180) days from the date that appears on the DC Fast Play game ticket.</text>
+  </level>
+  <level>
+    <num>950.7</num>
+    <text>950.7 All applicable Agency rules and regulations apply to DC Fast Play games and tickets including but not limited to the general lottery ticket provisions in chapter 5 (General Provisions) of title 30 of the DCMR.</text>
+    <text>Source: Notice of Final Rulemaking published at 58 DCR 2677, 2678 (March 25, 2011); as amended by Notice of Final Rulemaking published at 58 DCR 9841 (November 18, 2011); as amended by Notice of Final Rulemaking published 59 DCR 3146, 3147 (April
+      20, 2012).</text>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

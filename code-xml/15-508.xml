@@ -1,0 +1,56 @@
+<level>
+  <type>section</type>
+  <num>15-508</num>
+  <heading>FUEL CONSUMPTION REPORTING REQUIREMENTS (§ 15-508)</heading>
+  <level>
+    <num>508.1.</num>
+    <text>The company shall, on the prescribed form, file monthly with the Commission a &amp;#8220;Monthly Report on Cost of Fuels Consumed by Electric Plants.&amp;#8221;</text>
+  </level>
+  <level>
+    <num>508.2.</num>
+    <text>This report shall contain the following data for each generating plant:</text>
+    <level>
+      <num>(a)</num>
+      <text>Plant name;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Location;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Plant type;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Fuel type;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Quantity of fuel consumed;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Total fuel cost;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Average BTU content;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Fuel cost in cent per million BTU consumed; and</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Generation (MWH).</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 29 DCR 5130, 5133 (November 19, 1982).</text>
+    </level>
+  </level>
+</level>

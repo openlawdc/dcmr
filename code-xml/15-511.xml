@@ -1,0 +1,69 @@
+<level>
+  <type>section</type>
+  <num>15-511</num>
+  <heading>ANNUAL PROJECTIONS (§ 15-511)</heading>
+  <level>
+    <num>511.1.</num>
+    <text>The company shall submit to the Commission on February 15th of each year a forecast of fuel costs, power plant operating parameters, and its planned maintenance budget and timetable for each month of the forecast year.</text>
+  </level>
+  <level>
+    <num>511.2.</num>
+    <text>Forecasts shall be developed for each generating unit and for PEPCO&amp;#8217;s entire generating system of the following generating system operating performance indices:</text>
+    <level>
+      <num>(a)</num>
+      <text>Operating availability factor;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Equivalent availability factor;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Capacity factor;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Heat rate;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Forced outage rate;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Equivalent forced outage rate;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Planned outage rate; and</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Maintenance outage rate.</text>
+    </level>
+  </level>
+  <level>
+    <num>511.3.</num>
+    <text>Forecasts shall be made of fuel prices, consumption and expenditures by fuel type and quality for each generating plant and for the total PEPCO system, and of the company&amp;#8217;s planned maintenance budget and timetable.</text>
+  </level>
+  <level>
+    <num>511.4.</num>
+    <text>All forecasts shall be accompanied by upper and lower limit forecast bounds (i.e., a forecast band). The range of this band shall reflect the potential variations from forecast values which may result from unanticipated but reasonable divergencies
+      from expected performance under normal operating conditions.</text>
+  </level>
+  <level>
+    <num>511.5.</num>
+    <text>Prior to the development of the forecasts, PEPCO shall submit a forecast procedure explaining its preferred methodology for computing forecast values.</text>
+  </level>
+  <level>
+    <num>511.6.</num>
+    <text>Staff shall review this approach and the specific forecast method that the company follows. The forecasts are not to be strictly historically based; they should incorporate expected improvements in operating performance over the forecast period.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 29 DCR 5130, 5135 (November 19, 1982); as amended by Final Rulemaking published at 34 DCR 1568, 1569 (March 6, 1987).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,248 @@
+<level>
+  <type>section</type>
+  <num>29-968</num>
+  <heading>REIMBURSEMENT OF INTERMEDIATE CARE FACILITIES FOR THE MENTALLY RETARDED (§9-968)</heading>
+  <level>
+    <num>968.1.</num>
+    <text>Each intermediate care facility for the mentally retarded (&amp;#8220;ICF/MR&amp;#8221;) shall be reimbursed on a prospective basis at a facility-specific per diem rate for all services provided. The facility-specific per diem rate shall be developed
+      by establishing a base year per diem rate for each facility, subject to ceiling and indexed annually for inflation, subject to adjustments.</text>
+  </level>
+  <level>
+    <num>968.2.</num>
+    <text>The base year costs for each intermediate care facility for the mentally retarded shall be calculated using the lower of:</text>
+    <level>
+      <num>(a)</num>
+      <text>Actual audited costs for the facilities fiscal year that ends on or after June 30, 1993, but before June 30, 1994 (“base year”), or audited costs from the facility’s initial cost reporting period, whichever is latest; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>A percentage of the peer group median costs for those cost categories subject to the median ceilings.</text>
+    </level>
+  </level>
+  <level>
+    <num>968.3.</num>
+    <text>The base year costs for each facility’s 1993 cost reporting periods shall be adjusted to September 30, 1993 by the Bureau of Labor Statistics Medical Care Services Consumer Price Index.</text>
+  </level>
+  <level>
+    <num>968.4.</num>
+    <text>The base year per diem rate for each facility is based on its allowable base year costs and shall be developed using four (4) cost categories: healthcare-related expenditures; routine and support expenditures; administrative and general; and capital
+      related expenditures.</text>
+  </level>
+  <level>
+    <num>968.5.</num>
+    <text>Healthcare-related expenditures shall include expenditures for:</text>
+    <level>
+      <num>(a)</num>
+      <text>Professional Services:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Nursing and counselors;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Physician services;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Related clerical staff;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Individual habilitation plan;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Qualified mental retardation professional services;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Resident’s clothing and miscellaneous health care costs; and</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Client costs.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Therapeutic Services:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Medical supplies;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Laboratory;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Psychologist services; and</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Physical and speech therapy.</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Activities and Social Services:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Social services;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Patient activities; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Transportation.</text>
+    </level>
+    <text>A facility’s healthcare-related costs per diem shall be calculated by dividing total allowable healthcare-related costs by total inpatient days for all ICF/MR patients.</text>
+  </level>
+  <level>
+    <num>968.6.</num>
+    <text>Routine and support expenditures shall include expenditures for:</text>
+    <level>
+      <num>(a)</num>
+      <text>Dietary costs including food;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Laundry and linen;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Housekeeping;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Plant operations and maintenance; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Related clerical support.</text>
+    </level>
+  </level>
+  <level>
+    <num>968.7.</num>
+    <text>A facility’s routine and support costs per diem shall be calculated by dividing total allowable routine and support costs by total inpatient days for all ICF/MR patients.</text>
+  </level>
+  <level>
+    <num>968.8.</num>
+    <text>[Reserved]</text>
+  </level>
+  <level>
+    <num>968.9.</num>
+    <text>Administrative and general costs shall include the costs of:</text>
+    <level>
+      <num>(a)</num>
+      <text>Administrative and general salaries;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Professional services &amp;#8211; non-healthcare related;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Insurance;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Travel and entertainment;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Office expenses;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Program Development Program-Director;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Medical records; and</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>OSHA costs.</text>
+    </level>
+  </level>
+  <level>
+    <num>968.10.</num>
+    <text>A facility’s administrative and general costs per diem shall be calculated by dividing total allowable nursing and patient care costs by total inpatient days for all ICF/MR patients.</text>
+  </level>
+  <level>
+    <num>968.11.</num>
+    <text>Capital related costs shall include the costs of:</text>
+    <level>
+      <num>(a)</num>
+      <text>Equipment rental;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Depreciation and amortization;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Interest on capital debt;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Facility rental;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Real estate taxes and capital-related insurance;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Property insurance; and</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Other capital-related expenses.</text>
+    </level>
+  </level>
+  <level>
+    <num>968.12.</num>
+    <text>A facility’s capital related cost per diem shall be calculated by dividing total allowable capital-related costs by total inpatient days for all ICF/MR patients.</text>
+  </level>
+  <level>
+    <num>968.13.</num>
+    <text>A facility’s healthcare-related cost per diem, routine and support costs per diem and administrative and general costs per diem, shall be subject to the ceilings established under §969 of these rules.</text>
+  </level>
+  <level>
+    <num>968.14.</num>
+    <text>The total base year per diem for a facility for each Medicaid inpatient day shall be the sum of:</text>
+    <level>
+      <num>(a)</num>
+      <text>The healthcare-related costs per diem, the routine and support costs per diem, and the administrative and general cost per diem, adjusted in accordance with §969;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Any efficiency incentive payment; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Allowable capital related costs per diem.</text>
+    </level>
+  </level>
+  <level>
+    <num>968.15.</num>
+    <text>A facility with an occupancy rate of less than 85% in its base year shall have its base year changed to the first cost reporting period with an occupancy rate equal to or greater than 85%. If the facility does not obtain an occupancy level equal to
+      or greater than 85% by the end of the second full year of operation, the base year per diem shall be calculated assuming an 85% occupancy rate.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>AUTHORITY</heading>
+      <text>The authority for §§968 &amp;#8211; 978 is D.C. Code, 2001 Ed. §1-307.02; Reorganization Plan No. 4 of 1996, 3 D.C. Code, 2001 Ed. at 413; and Mayor’s Order 97-42 (February 18, 1997).</text>
+    </level>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 45 DCR 2333 (April 17, 1998); as Final Rulemaking published at 50 DCR 5195(June 27, 2003); as amended by Final Rulemaking published at 55 DCR 5275 (May 2, 2008).</text>
+    </level>
+  </level>
+</level>

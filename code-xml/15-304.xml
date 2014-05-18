@@ -1,0 +1,344 @@
+<level>
+  <type>section</type>
+  <num>15-304</num>
+  <heading>BILLING (§ 15-304)</heading>
+  <level>
+    <num>304.1.</num>
+    <text>A Customer shall be provided a Bill at least once during each Billing Cycle, unless otherwise agreed to by the Customer.</text>
+  </level>
+  <level>
+    <num>304.2.</num>
+    <text>An energy Bill shall be based upon an actual Meter reading, estimated Meter reading or Customer Meter reading, except as outlined in subsections 303.3(c) and 304.3.</text>
+  </level>
+  <level>
+    <num>304.3.</num>
+    <text>Each estimated energy Bill shall be clearly and conspicuously identified as such. An estimated energy Bill may be rendered only in the following circumstances:</text>
+    <level>
+      <num>(a)</num>
+      <text>When a Meter is not scheduled to be read, and the Customer</text>
+    </level>
+    <text>Meter reading is not timely reported;</text>
+    <level>
+      <num>(b)</num>
+      <text>When a Meter has not been read due to the inaccessibility of the Meter, extreme weather, or other conditions; or</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>When a Customer’s reading varies significantly from the estimated usage.</text>
+    </level>
+  </level>
+  <level>
+    <num>304.4.</num>
+    <text>Whenever three (3) or more estimated energy Bills have been rendered in succession, an actual meter reading shall be rendered at the Customer’s request at a mutually agreeable time.</text>
+  </level>
+  <level>
+    <num>304.5.</num>
+    <text>The date of rendition of a Bill shall be the date stated on the Bill.</text>
+  </level>
+  <level>
+    <num>304.6.</num>
+    <text>If a billing rendition date is changed by more than seven (7) Days, the Customer shall be provided written or electronic notice within ten (10) Days prior to the date of the change.</text>
+  </level>
+  <level>
+    <num>304.7.</num>
+    <text>Each energy Bill rendered shall state clearly the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>The beginning and ending Meter reading of the Billing Cycle and the difference between the two Meter readings, if such data is available;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The beginning and ending dates of the Billing Cycle;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The due date by which payment must be made and the date after which the payment will be considered overdue or late;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The previous balance, if any;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Stated separately, the amount due for residential Utility services, Distribution Service Charge, Transmission service, Purchased Gas Charge, Natural Gas supply service or Generation Service Charge, as applicable;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>A listing of the amount due for other tariffed Charges, as applicable;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>A listing of the amount due for non-tariffed Charges, as applicable;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>The total amount due;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>The rate elements of the generation, transmission and Distribution Service Charges identified for basic Utility service.</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Amount of all payments or other credits made to the Customer’s Account during current Billing Cycle;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Any amount overdue;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>The statement, “Any inquiry or complaint about this bill should be made prior to the due date, in order to avoid late charges”;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>The address and telephone number to which an inquiry or Complaint should be directed;</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>As applicable, the statement: “[This Utility] is regulated by the Public Service Commission of the District of Columbia.”</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>The name, address and telephone number of the Public Service Commission;</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>Whether the Bill is based upon an actual Meter reading, a Customer Meter reading, or an estimate of usage, if such data is known;</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>The name, address and telephone number of The Office of the People’s Counsel;</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>Any other information that the Public Service Commission may from time to time require;</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>If applicable, the energy Utility shall include an itemization of usage, payments made, and account balance; and</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>If applicable, the energy Utility shall include either an energy usage history or a gas usage profile.</text>
+    </level>
+  </level>
+  <level>
+    <num>304.8.</num>
+    <text>Each telecommunications Bill rendered to a residential Customer shall state clearly the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>The telephone number and Account number for which the Bill is rendered.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The due date;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The previous balance, if any;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The beginning and ending dates of the Billing Cycle;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>The total amount due for local service Charges, identified as the total amount due for local Charges, taxes, and other applicable surcharges, as well as toll service, except where provided as part of a Bundled Service;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>An itemization of all authorized Charges for message toll calls, including the date, time, duration, type, place and telephone number called when available, and the applicable Charge, except where provided as part of a Bundle of Services;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>A monthly or semi-annual itemization and amount for optional recurring charges selected by the customer;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>The address and telephone number to which an inquiry or Complaint should be directed;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>A statement indicating that [This Utility] and some of the services contained in the Bill are regulated by the Public Service Commission of the District of Columbia;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>The name, address and telephone number of the Public Service Commission of the District of Columbia;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>The name and address of the Office of the People’s Counsel; and</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Any other information that the Public Service Commission may from time to time require.</text>
+    </level>
+  </level>
+  <level>
+    <num>304.9.</num>
+    <text>An unpaid balance may be transferred from a Customer’s former residential Account in the District of Columbia to the Customer’s next residential Account in the District of Columbia.</text>
+  </level>
+  <level>
+    <num>304.10.</num>
+    <text>A Natural Gas or Electric Utility may, at the election of a Customer, bill a Customer in accordance with a level payment billing program or budget payment plan. The Utility shall inform the Customer of this option and explain how the monthly payments
+      will be calculated. Prior to implementation of the plan, the Utility shall provide the Customer with the following information in written or electronic form:</text>
+    <level>
+      <num>(a)</num>
+      <text>An acknowledgement that the Customer shall be on the plan effective the next available Billing Cycle;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>An estimate of the Customer’s use on an annual basis and an explanation of how the equal monthly payment has been calculated;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The final Bill for the plan effective period will reflect the last level payment installment or budgeted payment installment adjusted for any difference between actual and budgeted usage. Amounts overpaid will be credited to the Customer’s Account
+        or refunded, if requested by the Customer. Amounts underpaid that are equal to or greater than the monthly payment can be paid in up to three (3) monthly installments; and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Final Bills are issued when either a Customer account is closed or</text>
+    </level>
+    <text>in the case of Customers with third party suppliers, the supply contract is closed or changed. Any budget plan in effect will be reconciled upon rendering of the final Bill. Amounts underpaid will be due within 20 days of final Bill rendering. Amounts
+      overpaid will be refunded to the Customer.</text>
+  </level>
+  <level>
+    <num>304.11.</num>
+    <text>The Natural Gas or Electric Utility shall perform a periodic analysis of the Customer’s plan and notify the Customer, within twenty-one (21) Days thereafter, if actual usage varies significantly from that upon which the plan was based and give the
+      Customer an opportunity for revision of the plan.</text>
+  </level>
+  <level>
+    <num>304.12.</num>
+    <text>A Utility may require an Applicant for service to pay a previously unpaid Account balance for the same class of service furnished to the Applicant in the District of Columbia.</text>
+  </level>
+  <level>
+    <num>304.13.</num>
+    <text>In the case of a transfer of a previously unpaid District of Columbia residential Account balance for service rendered in the District of Columbia to a Customer’s Account pursuant to this chapter, the Utility and Telecommunications Service Provider
+      shall notify the Customer in writing of the reason for the charge, what the Customer must do to obtain or continue service, and how the Customer can dispute the charge.</text>
+  </level>
+  <level>
+    <num>304.14.</num>
+    <text>An Energy Supplier may include other Bill components. If an Energy Supplier elects to bill for multiple services, each service shall be clearly identified on the Bill.</text>
+  </level>
+  <level>
+    <num>304.15.</num>
+    <text>Every Bill rendered by an Energy Supplier for residential natural gas or electric service, whether a separate Bill or a Consolidated Bill, shall include the following Bill components, if such data is available to the Energy Supplier:</text>
+    <level>
+      <num>(a)</num>
+      <text>Meter readings, such that, current, prior months and differences between the two may be presented in the same place;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Meter reading date, which may be presented in a single place on a consolidated Bill;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Number and kind of units measured;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Applicable rate schedule;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Taxes and surcharges, with each appropriate tax and surcharge separately displayed;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Notice of potential late payment charges;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Total amount due, provided that for consolidated bills, subtotals for the Company’s and the energy supplier’s portions of the Bill and a total amount due;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Payment due date, provided that where Bills are separate, then payment dates may differ;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>For estimated Bills, a distinctive indication where a Bill is based on an estimated Meter reading;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Business address and telephone numbers for billing inquiries;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Conversion from Meter reading units to billing units, including computation;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Service address, shown on first page of Bill;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>Mailing address, shown on first page of Bill;</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>The Company account number, shown on each page if multiple pages;</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>Customer name and account number, shown on each page if multiple pages;</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>Bill payment plans, where applicable;</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>Emergency number for Washington Gas or PEPCO, whichever is applicable;</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>Required notices, e.g., Customer Bill of Rights, legal notices, which may be included as an insert;</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>Next Meter reading date;</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>Prior Bill amount and summary of energy supplier and/or Washington Gas or PEPCO charges;</text>
+    </level>
+    <level>
+      <num>(u)</num>
+      <text>Disclosure of previous payment activity;</text>
+    </level>
+    <level>
+      <num>(v)</num>
+      <text>Meter number/identification;</text>
+    </level>
+    <level>
+      <num>(w)</num>
+      <text>Number of days in Billing Cycle;</text>
+    </level>
+    <level>
+      <num>(x)</num>
+      <text>Billing Cycle;</text>
+    </level>
+    <level>
+      <num>(y)</num>
+      <text>Public Service Commission’s address and telephone number;</text>
+    </level>
+    <level>
+      <num>(z)</num>
+      <text>Address to which payments are to be sent;</text>
+    </level>
+    <text>(aa) How the check should be made payable;</text>
+    <text>(bb) Collection messages;</text>
+    <text>(cc) Bill step computations;</text>
+    <text>(dd) Date of Bill issuance; and</text>
+    <text>(ee) The Office of the People’s Counsel’s address and phone number.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 25 DCR 10381, 10391 (June 1, 1979); as amended by Notice of Final Rulemaking published at 55 DCR 10014 (September 26, 2008); as amended by Notice of Final Rulemaking published at 55 DCR 12494 (December 12, 2008).</text>
+    </level>
+  </level>
+</level>

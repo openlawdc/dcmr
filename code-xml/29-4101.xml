@@ -1,0 +1,275 @@
+<level>
+  <type>section</type>
+  <num>29-4101</num>
+  <heading>ACUITY LEVEL (§ 29-4101)</heading>
+  <level>
+    <num>4101.1.</num>
+    <text>Reimbursement rates shall be differentiated based on the individual’s acuity level, as recommended by DDS, through the Level of Need Assessment and Risk Screening Tool (LON), and interdisciplinary teams of health and habilitation professionals, pursuant
+      to the Individual Service Plan (ISP).</text>
+  </level>
+  <level>
+    <num>4101.2.</num>
+    <text>Acuity levels higher than Acuity Level 1 (Base), specific to the medical and health needs of each qualified individual, shall be requested by the ICF/IID, recommended by DDS, and approved by DHCF.</text>
+  </level>
+  <level>
+    <num>4101.3.</num>
+    <text>Reimbursement under this chapter shall be governed according to the following acuity levels:</text>
+    <level>
+      <num>(a)</num>
+      <text>Acuity Level 1 (Base) shall represent the health, habilitation, and support needs of a beneficiary whose level of care determination (LOC) reflects a need for ICF/IID services. Acuity Level 1 shall be the base acuity level.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Acuity Level 2 (Moderate) shall represent the health, habilitation, and support needs of a beneficiary who:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Meets the requirements of § 4101.3(a); and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Requires moderate levels of services in order to effectively support functional impairments, as described in § 4101.7.</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Acuity Level 3 (Extensive – Behavioral) shall represent the health, habilitation, and support needs of a beneficiary who:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Meets the requirements of § 4101.3(a); and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Requires services and interventions that can address conditions associated with an extensive intellectual and developmental disability and significant behavioral challenges as described in § 4101.8.</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Acuity Level 4 (Extensive – Medical) shall represent the health, habilitation, and support needs of a beneficiary who:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Meets the requirements of § 4101.3(a); and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Requires services and interventions that can address conditions associated with a significant intellectual and developmental disability and significant medical and support challenges as described in § 4101.9.</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Acuity Level 5 (Pervasive) shall represent the health, habilitation, and support needs of a beneficiary who:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Meets the requirements of § 4101.3;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Requires services and interventions that can address conditions associated with a significant intellectual and developmental disability; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Exhibits dangerous behaviors or conditions that require one-to-one (1:1) supervision for twenty-four (24) hours per day or less, as described in § 4101.10.</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Acuity Level 6 (Pervasive Plus Skilled Nursing) shall represent the health, habilitation, and support needs of a beneficiary who:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Meets the requirements of § 4101.3(a);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Requires services and interventions that can address conditions associated with a pervasive level of care to accommodate individuals with dangerous behaviors or conditions that require one to one (1:1) supervision twenty-four (24) hours per day;
+        and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Requires extensive skilled nursing services as described in § 4101.11.</text>
+    </level>
+  </level>
+  <level>
+    <num>4101.4.</num>
+    <text>For purposes of reimbursement, a beneficiary admitted on or after October 1, 2012, shall be assumed to be at Acuity Level 1 (Base). An ICF/IID may request through, and with supporting documentation by, DDS that DHCF assign a beneficiary to an enhanced
+      level, above Acuity Level 1. This request must be accompanied by documentation submitted by the ICF/IID that justifies the enhanced acuity level.</text>
+  </level>
+  <level>
+    <num>4101.5.</num>
+    <text>In order for a beneficiary to qualify at an acuity level beyond Acuity Level 1 (Base), the ICF/IID shall ensure that qualified health and habilitation practitioners assess each beneficiary using the LON.</text>
+  </level>
+  <level>
+    <num>4101.6.</num>
+    <text>Acuity level assignments shall be recertified annually.</text>
+  </level>
+  <level>
+    <num>4101.7.</num>
+    <text>A beneficiary shall qualify for Acuity Level 2 (Moderate) when assessed to have at least one (1) of the following characteristics:</text>
+    <text>Is unable to perform two (2) or more activities of daily living (ADL);</text>
+    <text>Is non-ambulatory;</text>
+    <text>Is unable to evacuate self without assistance in the event of a fire or other emergency situation;</text>
+    <text>Is assessed to lack life safety skills to ensure self-preservation; or</text>
+    <text>Has a diagnosis of one (1) of the following conditions:</text>
+    <level>
+      <num>(1)</num>
+      <text>Blindness;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Deafness;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Autism Spectrum Disorder; or</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Epilepsy.</text>
+    </level>
+  </level>
+  <level>
+    <num>4101.8.</num>
+    <text>A beneficiary shall qualify for Acuity Level 3 (Extensive – Behavioral) when he or she is dually diagnosed with an intellectual and developmental disability and with one (1) or more behavioral disorders that:</text>
+    <text>Are assaultive, self-abusive, including pica, or aggressive;</text>
+    <text>Require a Behavior Support Plan (BSP) which shall be based on current data and targets the identified behaviors; and</text>
+    <text>Require intensive staff intervention and additional staff resources to manage the behaviors set forth in § 4101.8(a).</text>
+  </level>
+  <level>
+    <num>4101.9.</num>
+    <text>A beneficiary shall qualify for Acuity Level 4 (Extensive – Medical) when he or she requires skilled nursing and extensive health and habilitation supports on a daily basis. Skilled nursing and extensive health and habilitation supports shall be prescribed
+      by the individual’s primary care physician or advanced practice registered nurse (APRN).</text>
+  </level>
+  <level>
+    <num>4101.10.</num>
+    <text>A beneficiary shall qualify for Acuity Level 5 (Pervasive) when he or she requires one-to-one (1:1) staffing and exhibits one (1) or more of the following characteristics:</text>
+    <text>Has a history of, or is at high risk for, elopement resulting in risk to the beneficiary or others;</text>
+    <text>Exhibits behavior that is life-threatening to the beneficiary or others;</text>
+    <text>Exhibits destructive behavior that poses serious property damage, including fire-setting;</text>
+    <text>Is a sexual predator; or</text>
+    <text>Has a history of, or is at high risk for, falls with injury and a primary care physician or advanced practice registered nurse order for one-to-one (1:1) supervision.</text>
+  </level>
+  <level>
+    <num>4101.11.</num>
+    <text>A beneficiary shall qualify for Level 6 (Pervasive Plus Skilled Nursing) if the beneficiary requires at least one (1) type of skilled nursing that shall be ordered by a primary care physician or advanced practice registered nurse and provided, at
+      a minimum, on an hourly basis.</text>
+  </level>
+  <level>
+    <num>4101.12.</num>
+    <text>For a beneficiary who requires services at or above Acuity Level 4, the prescription of the physician or advanced practice registered nurse, shall specify the type, frequency, scope, and duration of the skilled nursing and health and habilitation
+      support services required.</text>
+  </level>
+  <level>
+    <num>4101.13.</num>
+    <text>The number of one-to-one (1:1) staffing hours shall be approved by DHCF using results from assessments conducted by ICFs/IID. Under Levels 5 and 6 (Pervasive and Pervasive Plus Skilled Nursing), DHCF’s approval shall be based on having staff member(s)
+      assigned to the beneficiary who have no other duties while assigned to the beneficiary.</text>
+  </level>
+  <level>
+    <num>4101.14.</num>
+    <text>Each ICF/IID shall have responsible direct care staff on duty and awake on a twenty-four (24) hour basis when residents are present in the facility to ensure prompt, appropriate action in the event of injury, illness, fire, or other emergency.</text>
+  </level>
+  <level>
+    <num>4101.15.</num>
+    <text>Each ICF/IID shall be responsible for requesting renewal of the beneficiary’s acuity level assignment by compiling the beneficiary’s information in the required format(s) at least twenty (20) days before the ISP effective date.  Each ICF/IID shall
+      ensure that the individual has an approved acuity level assignment by the ISP effective date. At minimum, the ICF/IID shall provide the following:</text>
+    <text>Level of Need Assessment and Risk Screening Tool (LON); and</text>
+    <text>Current ISP document including medical, psychological, occupational or physical therapy assessment.</text>
+  </level>
+  <level>
+    <num>4101.16.</num>
+    <text>Additional documentation shall be required to support the acuity level assignment for a beneficiary. Depending on acuity level, additional documentation shall be required as follows:</text>
+    <text>For Acuity Level 3 (Extensive – Behavioral) the following additional documentation is required:</text>
+    <level>
+      <num>(1)</num>
+      <text>A BSP addressing the targeted behaviors;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A written behavior plan that shall be based on current data and which targets the identified behaviors; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>A concise statement that summarizes thirty (30) days of behavioral data prior to the date of the request and justification of the need for intensive staff intervention and additional staff resources to manage targeted behaviors.</text>
+    </level>
+    <text>For Acuity Level 4 (Extensive – Medical) documentation that includes an order for daily skilled nursing and extensive health supports prepared by the beneficiary’s primary care physician or an advance practice registered nurse is required.</text>
+    <text>For Acuity Level 5 (Pervasive) the following additional documentation is required:</text>
+    <level>
+      <num>(1)</num>
+      <text>A concise statement setting forth the presenting problem that necessitates one to one (1:1) supervision and the number of requested one to one (1:1) hours;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Evidence of a history or risk of elopement that results in risk to the beneficiary and/or others;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Evidence of behavior that is life threatening to self and/or others;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Evidence of destructive behavior causing serious property damage, including fire starting;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Evidence of sexually predatory behavior;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Evidence of a history of, or risk of, falls with injury, and an order from the beneficiary’s primary care physician or APRN;</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>A BSP that shall be based on current data and targets the behaviors</text>
+    </level>
+    <text>identified;</text>
+    <level>
+      <num>(8)</num>
+      <text>A job description for one to one (1:1) staff based on the beneficiary’s individual needs; and</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>Thirty (30) days of behavioral data prior to the date of the request in support of the targeted behaviors.</text>
+    </level>
+    <text>For Acuity Level 6 (Pervasive plus Skilled Nursing) the following additional documentation is required:</text>
+    <level>
+      <num>(1)</num>
+      <text>An order for skilled nursing services prepared by the beneficiary’s primary care physician or APRN;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A concise statement setting forth the presenting problem that necessitates one to one (1:1) supervision and skilled nursing and the number of requested one to one (1:1) hours; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>A job description for one to one (1:1) staff based on the beneficiary’s individual needs.</text>
+    </level>
+  </level>
+  <level>
+    <num>4101.17.</num>
+    <text>Documentation required to review a beneficiary’s acuity level shall be submitted to DHCF within sixty (60) days of the event that necessitates assignment to a higher acuity level.</text>
+  </level>
+  <level>
+    <num>4101.18.</num>
+    <text>On a case-by-case basis, DHCF shall consider requests for retroactive adjustment to a beneficiary’s acuity level that may result in a change to the reimbursement rate. DHCF decisions shall be based on the facility’s submission of required documentation
+      as set forth below:</text>
+    <text>A concise statement setting forth the situation that necessitates retroactive adjustment;</text>
+    <text>Evidence of the higher acuity level for the specified period of time for which the change in acuity level is requested. This evidence shall include the LON and other clinical and professional documentation such as discharge planning notes, physician’s
+      notes, other clinician’s notes, interdisciplinary team meeting notes, and healthcare reports for the same defined period of time; and</text>
+    <text>Evidence that a higher level of service was delivered for the defined period and that the higher level of service delivered is that required for the higher acuity level. This evidence shall include documentation of staffing levels detailing hours
+      and types of services delivered for each day in the defined period of time. Evidence shall also include the identity of the specific staff delivering the higher acuity services and an attestation from the staff of the higher acuity service they
+      delivered.</text>
+  </level>
+  <level>
+    <num>4101.19.</num>
+    <text>Any retroactive adjustment based on § 4101.18 shall be limited to the time that has lapsed since the date of the beneficiary’s last continuous stay review, as set forth in § 4109.</text>
+  </level>
+  <level>
+    <num>4101.20.</num>
+    <text>Each ICF/IID shall notify DHCF of the transfer or death of a beneficiary at least seven (7) business days after the date of the event.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 60 DCR 11590 (August 9, 2013).</text>
+    </level>
+  </level>
+</level>

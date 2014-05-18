@@ -1,0 +1,17 @@
+<level>
+  <type>section</type>
+  <num>15-2359</num>
+  <heading>PREINSTALLATION TESTS OF TIMING DEVICES (§ 15-2359)</heading>
+  <level>
+    <num>2359.1.</num>
+    <text>The test of a timing device shall consist of precisely synchronizing the timing device and the working standard at the start of the test time interval. At the end of the test time interval, the working standard shall be stopped and the reading recorded.
+      The accuracy shall be calculated by comparing the actual time elapsed with the test time interval.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7938, 7944 (November 4, 1988); as amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,115 @@
+<level>
+  <type>section</type>
+  <num>21-1199</num>
+  <heading>DEFINITIONS (§ 21-1199)</heading>
+  <level>
+    <num>1199.1.</num>
+    <text>When used in this chapter, the following terms shall have the meanings ascribed:</text>
+    <text>Acute toxic &amp;#8211; the concentration of a substance that is lethal to fifty percent (50%) of the test organisms within ninety-six (96) hours, also referred to as the LC50.</text>
+    <text>Ambient those conditions existing before or upstream of a source or incidence of pollution.</text>
+    <text>Anadromous fish &amp;#8211; fish that spend most of their lives in saltwater but migrate into freshwater tributaries to spawn.</text>
+    <text>Aquatic Life &amp;#8211; all animal and plant life including, but not limited to, rooted underwater grasses found in the District waters.</text>
+    <text>Background water quality &amp;#8211; the levels of chemical, physical, biological, and radiological constituents or parameters in the water upgradient of a facility, practice, or activity and which have not been affected by that facility, practice,
+      or activity.</text>
+    <text>Best management practices (BMPs) &amp;#8211; schedules of activities, prohibitions of practices, maintenance procedures, and other management practices to prevent or reduce the discharge of pollutants to the waters of the District.</text>
+    <text>BMPs also include practices found to be the most effective and practical means of preventing or reducing point and nonpoint source pollution to levels that are compatible with water quality goals.</text>
+    <text>Contamination &amp;#8211; an impairment of water quality by biological, chemical, physical, or radiological materials which lowers the water quality to a degree that creates a potential hazard to the environment or public health or interferes with
+      a designated use.</text>
+    <text>Criteria any of the group of physical, chemical, biological, and radiological water quality parameters and the associated numerical concentrations or levels that compose the numerical standards of the water quality standards and that define a component
+      of the quality of the water needed for a designated use.</text>
+    <text>CCC or Criterion Continuous Concentration &amp;#8211; the highest concentration of a pollutant to which aquatic life can be exposed for an extended period of time (four-day (4-day) average) without deleterious effects at a frequency that does not
+      exceed more than once every three (3) years.</text>
+    <text>CMC or Criterion Maximum Concentration &amp;#8211; the highest concentration of a pollutant to which aquatic life can be exposed for a short period of time (one-hour (1-hour) average) without deleterious effects at a frequency that does not exceed
+      more than once every three (3) years.</text>
+    <text>Consumption of fish and shellfish &amp;#8211; the human ingestion of fish and shellfish, that are not chemically contaminated at a level that will cause a significant adverse health impact, caught from the District’s waters.</text>
+    <text>Current use &amp;#8211; the use that is generally and usually attained based upon the water quality in the waterbody.</text>
+    <text>Department the District Department of the Environment, or a successor agency.</text>
+    <text>Designated use &amp;#8211; the use specified for the waterbody in these water quality standards whether or not they are being attained.</text>
+    <text>Director &amp;#8211; the Director of the Department, or his or her designee.</text>
+    <text>Early warning value &amp;#8211; a concentration that is a percentage of or practical quantitation limit, for a ground water quality criterion or enforcement standard.</text>
+    <text>EPA -United States Environmental Protection Agency.</text>
+    <text>Enforcement standard &amp;#8211; the value assigned to a contaminant for the purpose of regulating an activity, which may be the same as the criterion for that contaminant.</text>
+    <text>Existing use &amp;#8211; the use actually attained in the waterbody on or after November 28, 1975.</text>
+    <text>Federal Clean Water Act &amp;#8211; the Water Pollution Control Act, approved October 18, 1972 (86 Stat. 816; 33 U.S.C. § 1251 et seq.), as amended.</text>
+    <text>Ground water &amp;#8211; underground water, excluding water in pipes, tanks, and other containers created or set up by people.</text>
+    <text>Harmonic mean flow &amp;#8211; the number of daily flow measurements divided by the sum of the reciprocals of the flows. It is the reciprocal of the mean of the reciprocals.</text>
+    <text>High quality waters &amp;#8211; waters of a quality that is better than needed to protect fishable and swimmable streams.</text>
+    <text>Landfill &amp;#8211; a disposal facility or part of a facility at which solid waste is permanently placed in or on land and which is not a landspreading facility.</text>
+    <text>Landspreading disposal facility &amp;#8211; a facility that applies sludge or other solid wastes onto the land or incorporates solid waste in the soil surface at greater than vegetative utilization and soil conditioners/immobilization rates.</text>
+    <text>LC50 or lethal concentration &amp;#8211; the numerical limit or concentration of a test material mixed in water that is lethal to fifty percent (50%) of the aquatic organisms exposed to the test material for a period of ninety-six (96) hours.</text>
+    <text>Load or loading &amp;#8211; the total quantity of a pollutant in a given period of time.</text>
+    <text>Mixing zone a limited area or a volume of water where initial dilution of a discharge takes place and where numerical water quality criteria may be exceeded but acute toxic conditions are prevented from occurring.</text>
+    <text>MPN a statistically derived estimate of the “Most Probable Number” of bacteria colonies in a volume of one hundred milliliters (100 mL) water sample.</text>
+    <text>Narrative criteria a condition that should not be attained in a specific medium to maintain a given designated use and that is generally expressed in a &amp;#8220;free from&amp;#8221; format.</text>
+    <text>Navigation &amp;#8211; the designated use for certain District waters. This designation applies to waters that are subject to the ebb and flow of the tides, or waters that are presently used, may have been used, or may be used for shipping, travel,
+      and transportation of interstate or foreign commerce by vessel.</text>
+    <text>Nonpoint source any source from which pollutants are or may be discharged other than a point source.</text>
+    <text>Nontidal waters &amp;#8211; waters in the streams not subject to regular and periodic tidal action.</text>
+    <text>Numerical criteria the maximum level of a contaminant, or the minimum level of a constituent, or the acceptable range of a parameter in water to maintain a given designated use.</text>
+    <text>Permit or permitted a written authorization issued or certified by the Director under pertinent laws and regulations for an activity, facility, or entity to discharge, treat, store, or dispose of materials or wastes.</text>
+    <text>Point of compliance &amp;#8211; the point or points where the water quality enforcement standard or criterion must not be exceeded.</text>
+    <text>Point source any discrete source of quantifiable pollutants, including a municipal treatment facility discharge, residential, commercial or industrial waste discharge, a combined sewer overflow; or any discernible, confined, and discrete conveyance,
+      including any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container, rolling stock, or concentrated animal feeding operation from which contaminants are or may be discharged.</text>
+    <text>Pollution the manmade or maninduced alteration of the chemical, physical, biological, or radiological integrity of water.</text>
+    <text>Pollutant any substance that may alter or interfere with the restoration or maintenance of the chemical, physical, radiological, or biological integrity of the waters of the District, including dredged soil, solid waste, incinerator residue, sewage,
+      garbage, sewage sludge, munitions, chemical wastes, hazardous wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt, oil, gasoline and related petroleum products, and industrial, municipal,
+      and agricultural wastes.</text>
+    <text>Practical quantitation limit &amp;#8211; the lowest concentration of a substance that generally can be determined by qualified laboratories within specified limits of precision and accuracy under routine laboratory operating conditions in the matrix
+      of concern.</text>
+    <text>Primary contact recreation those water contact sports or activities that result in frequent whole body immersion or involve significant risks of ingestion of the water. (Class A)</text>
+    <text>Responsible party &amp;#8211; any person who has caused or is causing pollution or has created or is creating a condition from which pollution is likely to occur.</text>
+    <text>Secondary contact recreation those water contact sports or activities that seldom result in whole body immersion or do not involve significant risks of ingestion of the water. (Class B)</text>
+    <text>Semi-anadromous fish &amp;#8211; fish that spend most of their lives in tidally influenced low to medium salinity waters but migrate into freshwater tributaries to spawn.</text>
+    <text>Short term degradation &amp;#8211; the period during which the waterbody may be degraded based on the nature of the pollutant and the degree of its environmental or human health impact, as determined by the Director on a case-by-case basis.</text>
+    <text>Solid waste all putrescible and nonputrescible solid and semisolid wastes, including garbage, rubbish, ashes, industrial wastes, swill, demolition and construction wastes, abandoned vehicles or parts thereof, and discarded commodities. This term also
+      includes all liquid, solid, and semisolid materials that are not the primary products of public, private, industrial or commercial mining, and agricultural operations.</text>
+    <text>Special swimming event – A single-day event requiring full body contact in water in which swimming is generally prohibited, including a triathlon swimming leg, a group plunge, or a swim meet, and, if any, a companion preceding single-day practice
+      event.</text>
+    <text>Special swimming event organization – An organization, business, government agency, or other entity which organizes and sponsors a special swimming event.</text>
+    <text>Special swimming event organizer – The special swimming event organization principally responsible for staging the special swimming event.</text>
+    <text>Standards those regulations, in the form of numerical, narrative, or enforcement standards, that specify a level of quality of the waters of the District necessary to sustain the designated uses.</text>
+    <text>Surface impoundment &amp;#8211; a facility or part of a facility that is a natural topographic depression, man-made excavation, or diked area formed primarily of earthen materials (although it may be lined with man-made materials), and that is designed
+      to hold an accumulation of liquids or sludge.</text>
+    <text>Surface waters all rivers, lakes, ponds, wetlands, inland waters, streams, and all other water and water courses within the jurisdiction of the District of Columbia.</text>
+    <text>Tidally influenced waters &amp;#8211; surface waters within the Potomac River, the Anacostia River and all embayments and tributaries to these rivers under the influence of tidal exchange.</text>
+    <text>Toxic substance &amp;#8211; any substance or combination of substances that, after discharge and upon exposure, ingestion, inhalation, or assimilation into any organism, either directly from the environment or indirectly by ingestion through food
+      chains, may cause death, disease, behavioral abnormalities, cancer, genetic mutations, physiological malfunctions (including malfunctions in reproduction), or physical deformities, in the organism or its offspring.</text>
+    <text>Trend analysis &amp;#8211; a statistical methodology used to detect net changes or trends in contaminant levels over time.</text>
+    <text>Water Effect Ratio or WER &amp;#8211; the ratio of the site water LC50 value to the laboratory water LC50 value.</text>
+    <text>Waters of the District or District waters flowing and still bodies of water, whether artificial or natural, whether underground or on land, so long as in the District of Columbia, but excludes water on private property prevented from reaching underground
+      or land watercourses, and also excludes water in closed collection or distribution systems.</text>
+    <text>Wetland &amp;#8211; a marsh, swamp, bog, or other area periodically inundated by tides or having saturated soil conditions for prolonged periods of time and capable of supporting aquatic vegetation.</text>
+    <text>Wildlife &amp;#8211; all animal life whether indigenous or migratory regardless of life stage including, but not limited to, birds, anadromous and semi-anadromous fish, shellfish, and mammals including sensitive species, that are found in or use the
+      District waters.</text>
+  </level>
+  <level>
+    <num>1199.2.</num>
+    <text>When used in this chapter, the following abbreviations shall have the meaning ascribed:</text>
+    <text>ºC - degrees centigrade</text>
+    <text>CaCO3 - Calcium Carbonate</text>
+    <text>CF - Conversion Factor</text>
+    <text>ln - natural logarithm</text>
+    <text>m - meter</text>
+    <text>mg/L - milligrams per liter</text>
+    <text>μg/L - microgram per liter</text>
+    <text>mg N/L - milligrams of Nitrogen per liter</text>
+    <text>mL - milliliter</text>
+    <text>MPN - Most Probable Number</text>
+    <text>NPDES - National Pollutant Discharge Elimination System</text>
+    <text>NTU - nephelometric turbidity units</text>
+    <text>WQS - water quality standards</text>
+    <text>US EPA – United States Environmental Protection Agency.</text>
+    <text>1</text>
+    <text>7</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE Final Rulemaking published at 32 DCR 7690, 7597 (December 27, 1985):</heading>
+      <text>as amended by Final Rulemaking published at 40 DCR 4212 (July 2, 1993); and by Final Rulemaking publishing by 41 DCR 1075, 1095 (March 4, 1994); as amended by Notice of Final Rulemaking published at 47 DCR 284(January 21, 2000); as amended by Notice
+        of Final Rulemaking published at 49 DCR 3012 (April 5, 2002 ); as amended by Notice of Emergency and Proposed Rulemaking published at 49 DCR 1706 (February 22, 2002); as amended by Notice of Final Rulemaking published at 49 DCR 4854(May 24, 2002);
+        as amended by Notice of Final Rulemaking published at 52 DCR 9621(October 28, 2005); as amended by Final Rulemaking published at 57 DCR 9129, 9154-9160 (October 1, 2010); as amended by Final Rulemaking published at 59 DCR 9470, 9476 (August 10,
+        2012).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,82 @@
+<level>
+  <type>section</type>
+  <num>20-2905</num>
+  <heading>MEASUREMENT PROCEDURES (§ 20-2905)</heading>
+  <level>
+    <num>2905.1.</num>
+    <text>Unless impracticable, earphones shall be used occasionally while noise measurements are being taken as a periodic check to ensure that the meter is responding properly to the noise source being monitored.</text>
+  </level>
+  <level>
+    <num>2905.2.</num>
+    <text>In the case of steady (including intermittent, slowly fluctuating, or quasi-steady) noise, a measurement of the ambient noise level shall be required.</text>
+  </level>
+  <level>
+    <num>2905.3.</num>
+    <text>If the ambient noise level of steady noise is within ten (10) dB(A) of the source sound level, the corrections specified in the table of § 2905.7 of this section shall be applied to determine the noise level due solely to the source being investigated,
+      and the source shall be interpolated as necessary.</text>
+  </level>
+  <level>
+    <num>2905.4.</num>
+    <text>If the ambient level of steady noise is less than three (3) dB(A) from the noise source, no correction may be made and measurements cannot indicate true source noise level.</text>
+  </level>
+  <level>
+    <num>2905.5.</num>
+    <text>Before citing a violation of a noise limit which may not be exceeded regardless of duration, a two and five tenths (2.5) dB(A) grace shall be allowed to account for all possible meter inaccuracies.</text>
+  </level>
+  <level>
+    <num>2905.6.</num>
+    <text>Several measurements showing a violation shall be taken with at least twenty (20) seconds between each measurement.</text>
+  </level>
+  <level>
+    <num>2905.7.</num>
+    <text>The following table shall be used for making corrections to measured ambient sound pressure levels:</text>
+    <text>Difference (in decibels) between sound pressure level measured with sound source operating and ambient sound pressure level along dB(A)</text>
+    <text>Correction (in decibels) to be subtracted from sound pressure level measured with sound source operating to obtain sound pressure level due to sound source along d B(A)</text>
+    <text>Less than 4</text>
+    <text>Measurement can not be made</text>
+    <text>4</text>
+  </level>
+  <level>
+    <num>2.2</num>
+    <text>2.2</text>
+    <text>5</text>
+  </level>
+  <level>
+    <num>1.7</num>
+    <text>1.7</text>
+    <text>6</text>
+  </level>
+  <level>
+    <num>1.3</num>
+    <text>1.3</text>
+    <text>7</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+    <text>8</text>
+  </level>
+  <level>
+    <num>0.8</num>
+    <text>0.8</text>
+    <text>9</text>
+  </level>
+  <level>
+    <num>0.6</num>
+    <text>0.6</text>
+    <text>10</text>
+  </level>
+  <level>
+    <num>0.4</num>
+    <text>0.4</text>
+    <text>more than 10</text>
+    <text>.0</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at.26 DCR 1499, 1504 (September 28, 1979).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,268 @@
+<level>
+  <type>section</type>
+  <num>29-936</num>
+  <heading>DENTAL SERVICES (§ 29-936)</heading>
+  <level>
+    <num>936.1.</num>
+    <text>Dental services shall be reimbursed by the Medicaid Program for each participant in the Home and Community Based Services Waiver for Persons with Mental Retardation and Developmental Disabilities (Waiver) subject to the requirements set forth in this
+      section.</text>
+  </level>
+  <level>
+    <num>936.2.</num>
+    <text>Dental services shall be provided consistent with the standards established by the American Dental Association.</text>
+  </level>
+  <level>
+    <num>936.3.</num>
+    <text>Dental services shall be authorized and provided in accordance with each client&amp;#8217;s individual habilitation plan (IHP) or individual support plan (ISP).</text>
+  </level>
+  <level>
+    <num>936.4.</num>
+    <text>Each dental services provider shall develop a written treatment plan after completion of a comprehensive evaluation. The services provided shall be consistent with the treatment plan.</text>
+  </level>
+  <level>
+    <num>936.5.</num>
+    <text>The treatment plan shall be updated annually and shall serve as a guide for treatment to be completed over the course of one year unless special circumstances require a longer treatment plan.</text>
+  </level>
+  <level>
+    <num>936.6.</num>
+    <text>The treatment plan shall be submitted to the Department of Human Services, Mental Retardation and Developmental Disabilities Administration (MRDDA) within thirty (30) days of completion of the comprehensive evaluation.</text>
+  </level>
+  <level>
+    <num>936.9.</num>
+    <text>Each person providing dental services shall be a dentist or dental hygienist working under the supervision of a dentist who meets all of the following requirements:</text>
+    <level>
+      <num>(a)</num>
+      <text>Provide services consistent with the scope of practice authorized pursuant to the District of Columbia Health Occupations Revisions Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201 et seq.); or consistent with the
+        applicable professional practices act within the jurisdiction where services are provided; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Have a current District of Columbia Medicaid Provider Agreement that authorizes the provider to bill for dental services under the Waiver or be employed by a provider that has a current District of Columbia Medicaid Provider Agreement that authorizes
+        the provider to bill for dental services under the Waiver.</text>
+    </level>
+  </level>
+  <level>
+    <num>936.10.</num>
+    <text>The reimbursement rates for dental services shall be as follows:</text>
+    <text>DESCRIPTION OF SERVICE</text>
+    <text>RATE</text>
+    <text>Periodic Dental Screening</text>
+    <text>$42.00</text>
+    <text>Limit Oral Eval Problm Focus</text>
+    <text>$60.00</text>
+    <text>Comprehensive Oral Evaluation</text>
+    <text>$93.00</text>
+    <text>Extensive Oral Eval Prob Focus</text>
+    <text>$81.00</text>
+    <text>Re-Eval Est Pt. Problem Focus</text>
+    <text>$54.00</text>
+    <text>Comp Periodontal Evaluation</text>
+    <text>$93.00</text>
+    <text>Intraor Complete Film Series</text>
+    <text>$109.20</text>
+    <text>Periapical XRay; First Film</text>
+    <text>$24.00</text>
+    <text>Periapical XRay; Each Additional FL</text>
+    <text>$19.20</text>
+    <text>Occlusal XRay</text>
+    <text>$34.80</text>
+    <text>Bitewing, Single First Film</text>
+    <text>$25.20</text>
+    <text>Dental Bitewings Two Films</text>
+    <text>$48.00</text>
+    <text>Dental Bitewings Four Films</text>
+    <text>$57.60</text>
+    <text>P.A. Film</text>
+    <text>$120.00</text>
+    <text>Panorex</text>
+    <text>$96.00</text>
+    <text>Cephalometric Film</text>
+    <text>$120.00</text>
+    <text>Pulp Test</text>
+    <text>$46.80</text>
+    <text>Study Models</text>
+    <text>$90.00</text>
+    <text>Preventive Prophylaxis (Adult)</text>
+    <text>$93.00</text>
+    <text>Preventive Prophylaxis (Child)</text>
+    <text>$56.40</text>
+    <text>Topical Fluor w/o Prophy Chi</text>
+    <text>$34.80</text>
+    <text>Topical Fluor w/o Prophy Adult</text>
+    <text>$31.20</text>
+    <text>Dental Sealants</text>
+    <text>$45.60</text>
+    <text>Fixed Band Type</text>
+    <text>$276.00</text>
+    <text>Fixed, Band Type Bilat (New)</text>
+    <text>$390.00</text>
+    <text>Amalgam One Surface, Primary</text>
+    <text>$108.00</text>
+    <text>Amalgam Two Surfaces, Primary</text>
+    <text>$138.00</text>
+    <text>Amalgam Three Surfaces, Primary</text>
+    <text>$166.80</text>
+    <text>Amalgam Four Surfaces, Primary</text>
+    <text>$198.00</text>
+    <text>Amalgam One Surface, Permanent</text>
+    <text>$108.00</text>
+    <text>Amalgam Two Surfaces, Permanent</text>
+    <text>$138.00</text>
+    <text>Amalgam Three Surfaces, Permanent</text>
+    <text>$166.80</text>
+    <text>Amalgam Four Surfaces, Permanent</text>
+    <text>$198.00</text>
+    <text>Acrylic or Plastic Restoration, III</text>
+    <text>$127.20</text>
+    <text>Resin Two Surfaces Anterior</text>
+    <text>$162.00</text>
+    <text>Composite Resin 3 Surfaces Restoration</text>
+    <text>$198.00</text>
+    <text>Esthetic Restoration Class IV</text>
+    <text>$240.00</text>
+    <text>Resin-Based Composite One Surface</text>
+    <text>$144.00</text>
+    <text>Resin-Based Composite Two Surface</text>
+    <text>$192.00</text>
+    <text>Resin-Based Composite Three Surface</text>
+    <text>$240.00</text>
+    <text>Resin-Based Composite Four Surface</text>
+    <text>$283.20</text>
+    <text>Acrylic Jacket</text>
+    <text>$480.00</text>
+    <text>Crown Resin</text>
+    <text>$600.00</text>
+    <text>Gold (Full Cast)</text>
+    <text>$720.00</text>
+    <text>Replacement Crown</text>
+    <text>$90.00</text>
+    <text>Pulp Cap Direct, Exclude Final Rest</text>
+    <text>$66.00</text>
+    <text>Pulpotomy</text>
+    <text>$160.80</text>
+    <text>One Canal;Excludes Final Restoration</text>
+    <text>$597.60</text>
+    <text>Two Canals; Excludes Final Restoration</text>
+    <text>$709.20</text>
+    <text>Three Canals;Excludes Final Restoration</text>
+    <text>$873.60</text>
+    <text>Retreatment of Previous Root Canal</text>
+    <text>$788.40</text>
+    <text>Apexification/Recalcification Initial Visit</text>
+    <text>$297.60</text>
+    <text>Apicoectomy</text>
+    <text>$560.40</text>
+    <text>Apicoectomy/Periradicular Surg (Ea Add’l)</text>
+    <text>$297.60</text>
+    <text>Retrograde Amalgam</text>
+    <text>$216.00</text>
+    <text>Gingivectomy or Gingivoplasty,5 MOR.T</text>
+    <text>$535.20</text>
+    <text>Gingivectorny or Gingiviplasty, 1 T to 3 T</text>
+    <text>$192.00</text>
+    <text>Clinical Crown Lengthening</text>
+    <text>$595.20</text>
+    <text>Bone Replacement Graft 1st</text>
+    <text>$542.40</text>
+    <text>Bone Replacement Graft-Ea add&amp;#8217;l site Quad</text>
+    <text>$406.80</text>
+    <text>Deep Scaling</text>
+    <text>$217.20</text>
+    <text>Full Mouth Debridement</text>
+    <text>$156.00</text>
+    <text>Complete Upper Denture</text>
+    <text>$1,344.00</text>
+    <text>Complete Lower Denture</text>
+    <text>$1,350.00</text>
+    <text>Upper Partial</text>
+    <text>$450.00</text>
+    <text>Dentures Maxill Part Resin</text>
+    <text>$1,005.60</text>
+    <text>Dentures Maxill Part Metal</text>
+    <text>$1,440.00</text>
+    <text>Repair Broken Complete Denture</text>
+    <text>$174.00</text>
+    <text>Replace FX Broken &amp;#038; Tooth on Denture</text>
+    <text>$150.00</text>
+    <text>Extraction Erupted Tooth</text>
+    <text>$132.00</text>
+    <text>Extraction of Tooth, Erupted</text>
+    <text>$230.40</text>
+    <text>Extraction of Tooth, Soft Tiss. Imp</text>
+    <text>$252.00</text>
+    <text>Extraction of Tooth Partial Bony</text>
+    <text>$342.00</text>
+    <text>Extraction of Tooth, Complete Bony, Impac</text>
+    <text>$420.00</text>
+    <text>Root Tips</text>
+    <text>$420.00</text>
+    <text>Replantation of Tooth with Splint</text>
+    <text>$450.00</text>
+    <text>Surgical Exposure of Boney Impaction</text>
+    <text>$409.20</text>
+    <text>Mobilization Erupted</text>
+    <text>$422.40</text>
+    <text>Biopsy of Oral Tissue Soft</text>
+    <text>$241.20</text>
+    <text>Alveolectorny with Extraction</text>
+    <text>$240.00</text>
+    <text>Alveloplasty not in conj w/ext. per quad</text>
+    <text>$354.00</text>
+    <text>Stomatoplasty per arch uncomplicated</text>
+    <text>$762.00</text>
+    <text>Excision of Canula</text>
+    <text>$396.00</text>
+    <text>Incision Drainage Abscess, Intraoral</text>
+    <text>$186.00</text>
+    <text>Incision &amp;#038; Drainage Extraoral</text>
+    <text>$300.00</text>
+    <text>Curettage of Fistulous Tract</text>
+    <text>$296.40</text>
+    <text>Frenulectomy</text>
+    <text>$375.60</text>
+    <text>Bite Plane</text>
+    <text>$201.60</text>
+    <text>Fixed Appliance Therapy</text>
+    <text>$812.40</text>
+    <text>Palliative Treatment of Dental Pain</text>
+    <text>$102.00</text>
+    <text>General Anesthesia</text>
+    <text>$312.00</text>
+    <text>Sedation Ea. Add&amp;#8217;I 15 min</text>
+    <text>$134.40</text>
+    <text>Nitrous</text>
+    <text>$55.20</text>
+    <text>Consultation</text>
+    <text>$135.00</text>
+    <text>Hospital Visit</text>
+    <text>$39.60</text>
+    <text>Consultant Evaluation Exam</text>
+    <text>$81.00</text>
+    <text>Occlusal Equlibration by Report</text>
+    <text>$48.00</text>
+    <text>Occlusal Adjustment Ltd</text>
+    <text>$139.20</text>
+    <text>Occlusal Adjustment Complete</text>
+    <text>$568.80</text>
+  </level>
+  <level>
+    <num>936.99.</num>
+    <text>DEFINITIONS</text>
+    <text>When used in this section, the following terms and phrases shall have the meanings ascribed:</text>
+    <text>Client &amp;#8211; An individual with mental retardation who has been determined eligible to receive services under the Home and Community-Based Waiver for Persons with Mental Retardation and Developmental Disabilities.</text>
+    <text>Dental Hygienist &amp;#8211; A person who is licensed as a dental hygienist pursuant to the District of Columbia Health Occupations Revisions Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201 et seq) or licensed as
+      a dental hygienist in the jurisdiction in the jurisdiction where the services are provided.</text>
+    <text>Dentist &amp;#8211; A person who is licensed or authorized to practice dentistry pursuant to the District of Columbia Health Occupations Revisions Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201 et seq) or licensed
+      as a dentist in the jurisdiction in the jurisdiction where the services are provided.</text>
+    <text>Individual Habilitation Plan (IHP) &amp;#8211; Shall have the same meaning as set forth in section 403 of the Mentally Retarded Citizens Constitutional Rights and Dignity Act of 1978, effective March 3, 1979 (D.C. Law 2-137; D.C. Official Code, 7-1304.03).</text>
+    <text>Individual Support Plan (ISP) &amp;#8211; Shall have the same meaning as the successor to the individual habilitation plan (IHP) as defined in the court-approved Joy Evans Exit Plan.</text>
+    <text>Treatment Plan &amp;#8211; A written plan that includes diagnostic findings and treatment recommendations resulting from a comprehensive evaluation of the client&amp;#8217;s dental health needs.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 37 DCR 3944, 3945 (June 15, 1990); as Final Rulemaking published at 50 DCR 8184 (October 3, 2003); as Final Rulemaking published at 53 DCR 1699 (March 10, 2006).</text>
+    </level>
+  </level>
+</level>

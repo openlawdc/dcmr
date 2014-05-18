@@ -1,0 +1,93 @@
+<level>
+  <type>section</type>
+  <num>21-520</num>
+  <heading>STORMWATER MANAGEMENT[COLON] PERFORMANCE REQUIREMENTS FOR MAJOR LAND-DISTURBINGCTIVITY (§ 21-520)</heading>
+  <level>
+    <num>520.1.</num>
+    <text>A site that undergoes a major land-disturbing activity shall employ each Best Management Practice (BMP) and land cover necessary to meet the requirements of this section until site redevelopment that follows a Department-approved Stormwater Management
+      Plan (SWMP) occurs.</text>
+  </level>
+  <level>
+    <num>520.2.</num>
+    <text>A site that undergoes a major land-disturbing activity, except the area of a site that is in the existing Public Right of Way (PROW), shall maintain the following:</text>
+    <text>Post-development peak discharge rate for a twenty-four (24) hour, two (2)-year frequency storm event at a level that is equal to or less than the storm event’s pre-development peak discharge rate unless the site’s discharge:</text>
+    <text>Flows directly or through the separate sewer system to the main stem of the tidal Potomac or Anacostia Rivers, the Washington Channel, or the Chesapeake and Ohio Canal;</text>
+    <text>Does not flow into or through a tributary to those waterbodies that runs above ground or that the Department expects to be daylighted to run above ground; and</text>
+    <text>Will not cause erosion of land or transport of sediment.</text>
+    <text>Post-development peak discharge rate for a twenty-four (24) hour, fifteen (15)-year frequency storm event at a level that is equal to or less than the storm event’s pre-project peak discharge rate; and</text>
+    <text>Post-development peak discharge rate from a twenty-four (24) hour, one hundred (100)-year storm event at a level that is equal to or less than the storm event’s pre-project peak discharge rate if the site:</text>
+    <level>
+      <num>(1)</num>
+      <text>Increases the size of Special Flood Hazard Area as delineated on the effective Flood Insurance Rate Map; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Meets the following two conditions:</text>
+    </level>
+    <text>Does not discharge to the sewer system and</text>
+    <text>Has a post-development peak discharge rate for a one hundred (100)-year storm event that will cause flooding to a building.</text>
+  </level>
+  <level>
+    <num>520.3.</num>
+    <text>A site that undergoes a major land-disturbing activity shall achieve retention of the rainfall from the ninetieth (90th) percentile rainfall event for the District of Columbia, measured for a twenty-four (24)-hour rainfall event with a seventy-two
+      (72)-hour antecedent dry period (1.2 inch rainfall event) by:</text>
+    <text>Employing each BMP necessary to retain the 1.2 inch Stormwater Retention Volume (SWRv), calculated as follows:</text>
+    <text>SWRv = [P × [(RvI × %I) + (RvC × %C) + (RvN × %N)] × SA] × 7.48 /12</text>
+    <text>SWRv = volume, in gallons, required to be retained</text>
+    <text>P = 90th percentile rainfall event for the District (1.2 inches)</text>
+    <text>RvI = 0.95 (runoff coefficient for impervious cover)</text>
+    <text>RvC = 0.25 (runoff coefficient for compacted cover)</text>
+    <text>RvN = 0.00 (runoff coefficient for natural cover)</text>
+    <text>%I = post-development percent of site in impervious cover</text>
+    <text>%C = post-development percent of site in compacted cover</text>
+    <text>%N = post-development percent of site in natural cover</text>
+    <text>SA = surface area, in square feet, of land-disturbing activity</text>
+    <text>where the surface area under a BMP shall be calculated as part of the impervious cover (%I);</text>
+    <level>
+      <num>(b)</num>
+      <text>Employing each post-development land cover factored into the SWRv; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Calculating separately and achieving the SWRv, with P equal to 1.2 inches, for the portion of land-disturbing activity that is in the existing Public Right of Way (PROW), in compliance with the section of this chapter pertaining to performance requirements
+        in the existing PROW.</text>
+    </level>
+  </level>
+  <level>
+    <num>520.4.</num>
+    <text>A site that undergoes a major land-disturbing activity may achieve the 1.2 inch SWRv on site or through a combination of on-site retention and off-site retention, under the following conditions:</text>
+    <level>
+      <num>(a)</num>
+      <text>The site shall retain on site a minimum of fifty percent (50%) of the 1.2 inch SWRv, calculated for the entire site, unless the Department approves an application for relief from extraordinarily difficult site conditions; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The site shall use off-site retention for the portion of the SWRv that is not retained on site.</text>
+    </level>
+  </level>
+  <level>
+    <num>520.5.</num>
+    <text>A site that undergoes a major land-disturbing activity may achieve on-site retention by retaining more than the 1.2 inch SWRv for an area of the site, subject to the following conditions:</text>
+    <level>
+      <num>(a)</num>
+      <text>At least fifty percent (50%) of the 1.2 inch SWRv from each Site Drainage Area (SDA), unless it drains into the combined sewer system, shall be:</text>
+    </level>
+    <text>Retained; or</text>
+    <text>Treated to remove eighty percent (80%) of total suspended solids; and</text>
+    <text>The entirety of an area intended for use or storage of motor vehicles shall drain to each necessary BMP so that at least fifty percent (50%) of the 1.2 inch SWRv flowing from that entire area is retained or treated;</text>
+    <text>Retention in excess of a 1.2 inch SWRv for one area of the site may be applied to the volume required for another area of the site;</text>
+    <text>The requirement for retention of a minimum of fifty percent (50%) of the 1.2 inch SWRv for the entire site shall be achieved, unless the Department approves an application for relief from extraordinarily difficult site conditions; and</text>
+    <text>Retention of volume greater than that from a 1.7 inch rainfall event, calculated using the SWRv equation with a P equal to 1.7 inches, shall not be counted toward on-site retention.</text>
+  </level>
+  <level>
+    <num>520.6.</num>
+    <text>A major land-disturbing activity may achieve on-site retention by directly conveying volume from the regulated site to a shared BMP with available retention capacity.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 60 DCR 10640 (July 19, 2013).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,292 @@
+<level>
+  <type>section</type>
+  <num>20-720</num>
+  <heading>CONSUMER PRODUCTS &amp;#8211; VOC STANDARDS (§ 20-720)</heading>
+  <level>
+    <num>720.1.</num>
+    <text>Except as provided in §§ 721, 735, 736 and 737, no person shall sell, supply, offer for sale, or manufacture for sale in the District of Columbia any consumer product, manufactured on or after the effective date in the following Table of Standards,
+      which contains VOCs in excess of the limits specified in the following Table of Standards:</text>
+    <text>Table of Standards. Percent volatile organic compounds by weight:</text>
+    <text>Product Category</text>
+    <text>Effective date 1/1/2005</text>
+    <text>Effective date 1/1/2012</text>
+    <text>Adhesive Removers:</text>
+    <text>Floor and wall Covering</text>
+    <text>5</text>
+    <text>Gasket or thread locking</text>
+    <text>50</text>
+    <text>General purpose</text>
+    <text>20</text>
+    <text>Specialty</text>
+    <text>70</text>
+    <text>Adhesives:</text>
+    <text>Aerosol mist spray</text>
+    <text>65</text>
+    <text>Aerosol web spray</text>
+    <text>55</text>
+    <text>Special Purpose Spray Adhesives:</text>
+    <text>Mounting, automotive engine</text>
+    <text>compartment, and flexible vinyl</text>
+    <text>70</text>
+    <text>Polystyrene foam and automotive</text>
+    <text>Headliner</text>
+    <text>65</text>
+    <text>Polylolefin and laminate repair /</text>
+    <text>Edgebanding</text>
+    <text>60</text>
+    <text>Construction, panel, and floor</text>
+    <text>15</text>
+    <text>Contact</text>
+    <text>80</text>
+    <text>NA</text>
+    <text>Contact General Purpose</text>
+    <text>55</text>
+    <text>Contact Special Purpose</text>
+    <text>80</text>
+    <text>General purpose</text>
+    <text>10</text>
+    <text>Structural waterproof</text>
+    <text>15</text>
+    <text>Air Fresheners:</text>
+    <text>Single-phase aerosols</text>
+    <text>30</text>
+    <text>Double-phase aerosols</text>
+    <text>25</text>
+    <text>Liquids / pump sprays</text>
+    <text>18</text>
+    <text>Solids / semisolids</text>
+    <text>3</text>
+    <text>Antiperspirants:</text>
+    <text>Aerosol</text>
+    <text>40 HVOC</text>
+    <text>Aerosol</text>
+    <text>10 MVOC</text>
+    <text>Non-aerosol</text>
+    <text>0 HVOC</text>
+    <text>Non-aerosol</text>
+    <text>0 MVOC</text>
+    <text>Anti-Static Product, non-aerosol</text>
+    <text>11</text>
+    <text>Automotive Brake Cleaners</text>
+    <text>45</text>
+    <text>Automotive Rubbing or Polishing Compound</text>
+    <text>17</text>
+    <text>Automotive Wax, Polish, Sealant or Glaze</text>
+    <text>Hard paste waxes</text>
+    <text>45</text>
+    <text>Instant detailers</text>
+    <text>3</text>
+    <text>All other forms</text>
+    <text>15</text>
+    <text>Automotive Windshield Washer Fluids</text>
+    <text>35</text>
+    <text>Bathroom and Tile Cleaners:</text>
+    <text>Aerosols</text>
+    <text>7</text>
+    <text>All other forms</text>
+    <text>5</text>
+    <text>Bug and Tar Remover</text>
+    <text>40</text>
+    <text>Carburetor or Fuel-Injection Air Intake Cleaners</text>
+    <text>45</text>
+    <text>Carpet and Upholstery Cleaners:</text>
+    <text>Aerosols</text>
+    <text>7</text>
+    <text>Non-aerosols (dilutables)</text>
+  </level>
+  <level>
+    <num>0.1</num>
+    <text>0.1</text>
+    <text>Non-aerosols (ready-to-use)</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+    <text>Charcoal Lighter Material</text>
+    <text>see §730</text>
+    <text>Cooking Spray:</text>
+    <text>Aerosols</text>
+    <text>18</text>
+    <text>Deodorants:</text>
+    <text>Aerosol</text>
+    <text>0 HVOC</text>
+    <text>Aerosol</text>
+    <text>10 MVOC</text>
+    <text>Non-aerosol</text>
+    <text>0 HVOC</text>
+    <text>Non-aerosol</text>
+    <text>0 MVOC</text>
+    <text>Dusting Aids:</text>
+    <text>Aerosols</text>
+    <text>25</text>
+    <text>All other forms</text>
+    <text>7</text>
+    <text>Electrical Cleaner</text>
+    <text>45</text>
+    <text>Electronic Cleaner</text>
+    <text>75</text>
+    <text>Engine Degreasers:</text>
+    <text>Aerosol</text>
+    <text>35</text>
+    <text>Non-aerosol</text>
+    <text>5</text>
+    <text>Fabric Protectants</text>
+    <text>60</text>
+    <text>Fabric Refresher:</text>
+    <text>Aerosol</text>
+    <text>15</text>
+    <text>Non-aerosol</text>
+    <text>6</text>
+    <text>Floor Polishes / Waxes:</text>
+    <text>Products for flexible flooring materials</text>
+    <text>7</text>
+    <text>Products for non-resilient flooring</text>
+    <text>10</text>
+    <text>Wood floor wax</text>
+    <text>90</text>
+    <text>Floor Wax Strippers:</text>
+    <text>Non-Aerosol</text>
+    <text>see §731</text>
+    <text>Footwear or Leather Care Products:</text>
+    <text>Aerosol</text>
+    <text>75</text>
+    <text>Solid</text>
+    <text>55</text>
+    <text>Other forms</text>
+    <text>15</text>
+    <text>Furniture Maintenance Products:</text>
+    <text>Aerosols</text>
+    <text>17</text>
+    <text>All other forms except solid or paste</text>
+    <text>7</text>
+    <text>General Purpose Cleaners:</text>
+    <text>Aerosols</text>
+    <text>10</text>
+    <text>Non-aerosols</text>
+    <text>4</text>
+    <text>General Purpose Degreasers:</text>
+    <text>Aerosols</text>
+    <text>50</text>
+    <text>Non-aerosols</text>
+    <text>4</text>
+    <text>Glass Cleaners:</text>
+    <text>Aerosols</text>
+    <text>12</text>
+    <text>Non-aerosols</text>
+    <text>4</text>
+    <text>Graffiti Remover:</text>
+    <text>Aerosols</text>
+    <text>50</text>
+    <text>Non-aerosols</text>
+    <text>30</text>
+    <text>Hair Mousses</text>
+    <text>6</text>
+    <text>Hair Shines</text>
+    <text>55</text>
+    <text>Hairsprays</text>
+    <text>55</text>
+    <text>Hair Styling Gels</text>
+    <text>6</text>
+    <text>Hair Styling Products:</text>
+    <text>Aerosol and pump sprays</text>
+    <text>6</text>
+    <text>All other forms</text>
+    <text>2</text>
+    <text>Heavy-Duty Hand Cleaners or Soaps</text>
+    <text>8</text>
+    <text>Insecticides:</text>
+    <text>Crawling bug (aerosol)</text>
+    <text>15</text>
+    <text>Crawling bug (all other forms)</text>
+    <text>20</text>
+    <text>Flea and tick</text>
+    <text>25</text>
+    <text>Flying bug (aerosol)</text>
+    <text>25</text>
+    <text>Flying bug (all other forms)</text>
+    <text>35</text>
+    <text>Foggers</text>
+    <text>45</text>
+    <text>Lawn and garden (all other forms)</text>
+    <text>20</text>
+    <text>Lawn and garden (non-aerosol)</text>
+    <text>3</text>
+    <text>Wasp and hornet</text>
+    <text>40</text>
+    <text>Laundry Prewashes:</text>
+    <text>Aerosols / solids</text>
+    <text>22</text>
+    <text>All other forms</text>
+    <text>5</text>
+    <text>Laundry Starch Products</text>
+    <text>5</text>
+    <text>Metal Polishes / Cleansers</text>
+    <text>30</text>
+    <text>Multi-Purpose Lubricants (excluding solid or semi-solid products)</text>
+    <text>50</text>
+    <text>Nail Polish Removers</text>
+    <text>75</text>
+    <text>Non-Selective Terrestrial Herbicides:</text>
+    <text>Non-aerosols</text>
+    <text>3</text>
+    <text>Oven Cleaners:</text>
+    <text>Aerosols / pump sprays</text>
+    <text>8</text>
+    <text>Liquids</text>
+    <text>5</text>
+    <text>Paint Remover or Strippers</text>
+    <text>50</text>
+    <text>Penetrants</text>
+    <text>50</text>
+    <text>Rubber and Vinyl Protectants:</text>
+    <text>Non-aerosols</text>
+    <text>3</text>
+    <text>Aerosols</text>
+    <text>10</text>
+    <text>Sealants and Caulking Compounds</text>
+    <text>4</text>
+    <text>Shaving Creams</text>
+    <text>5</text>
+    <text>Shaving Gel</text>
+    <text>7</text>
+    <text>Silicone-Based Multi-Purpose Lubricants (excluding solid or semi-solid products)</text>
+    <text>60</text>
+    <text>Spot Removers:</text>
+    <text>Aerosols</text>
+    <text>25</text>
+    <text>Non-aerosols</text>
+    <text>8</text>
+    <text>Tire Sealants and Inflators</text>
+    <text>20</text>
+    <text>Toilet/Urinal Care:</text>
+    <text>Aerosols</text>
+    <text>10</text>
+    <text>Non-aerosol</text>
+    <text>3</text>
+    <text>Undercoatings:</text>
+    <text>Aerosols</text>
+    <text>40</text>
+    <text>Wood Cleaner:</text>
+    <text>Aerosol</text>
+    <text>17</text>
+    <text>Non-Aerosol</text>
+    <text>4</text>
+    <text>Note: NA = Not applicable after January 1, 2012</text>
+  </level>
+  <level>
+    <num>720.2.</num>
+    <text>Notwithstanding the provisions of §§ 720.1, 727, 728, and 729, a consumer product manufactured prior to each of the effective dates specified for that product in the Table of Standards in §720.1 may be sold, supplied, or offered for sale after each
+      of the specified effective dates.</text>
+  </level>
+  <level>
+    <num>720.3.</num>
+    <text>Subsection 720.2 does not apply to any consumer product that does not display on the product container or package the date on which the product was manufactured, or a code indicating such date, in accordance with § 732.1 through 732.6.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 51 DCR 3879 (April 16, 2004); as amended by Final Rulemaking published at 51 DCR 10781 (November 26, 2004); as amended by Notice of Final Rulemaking published at 58 DCR 11286, 11307 (December 30, 2011).</text>
+    </level>
+  </level>
+</level>

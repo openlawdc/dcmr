@@ -1,0 +1,610 @@
+<level>
+  <type>section</type>
+  <num>21-1155</num>
+  <heading>GROUND WATER STANDARDS (§ 21-1155)</heading>
+  <level>
+    <num>1155.1.</num>
+    <text>For the protection of the designated use of the ground water and the hydrologically connected water bodies, narrative and numerical criteria, enforcement standards and early warning values for each ground water class shall be provided in this section
+      in order to establish upper contaminant levels that shall not be exceeded.</text>
+  </level>
+  <level>
+    <num>1155.2.</num>
+    <text>The following narrative criteria shall apply to all ground waters of the District:</text>
+    <level>
+      <num>(a)</num>
+      <text>All ground waters shall at all places and at all times be free from pollution in the form of oil, carcinogens, toxicants, and other substances in concentrations which might present a health hazard or render the ground water unusable; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>All ground waters shall at all places and at all times be free from domestic, industrial, agricultural, or other man-induced non-thermal components of discharges in concentrations which, alone or in combination with other substances or components
+        of discharges:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Are harmful to plants, animals or other organisms;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Are carcinogenic, mutagenic, teratogenic, or toxic in toxic amounts to human beings;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Are acutely toxic to biological species of the aquatic community within surface waters affected by the ground water at the point of contact with surface waters;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Pose a serious danger to the public health, safety or welfare;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Create or constitute a nuisance; or</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Impair the reasonable and beneficial use of adjacent waters within and outside the District.</text>
+    </level>
+  </level>
+  <level>
+    <num>1155.3.</num>
+    <text>Numerical criteria for Class G1 ground waters shall be the most restrictive and are as follows:</text>
+    <text>Constitutent</text>
+    <text>Criterion</text>
+    <text>Early Warning Value</text>
+    <text>Trace Metals &amp;#038; Inorganics (maximum mg/L unless noted otherwise)</text>
+    <text>Primary</text>
+    <text>Arsenic</text>
+  </level>
+  <level>
+    <num>0.05</num>
+    <text>0.05</text>
+  </level>
+  <level>
+    <num>0.01</num>
+    <text>0.01 **</text>
+    <text>Barium</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+  </level>
+  <level>
+    <num>0.2</num>
+    <text>0.2 **</text>
+    <text>Cadmium</text>
+  </level>
+  <level>
+    <num>0.005</num>
+    <text>0.005</text>
+  </level>
+  <level>
+    <num>0.002</num>
+    <text>0.002 **</text>
+    <text>Chromium,hexavalent</text>
+  </level>
+  <level>
+    <num>0.1</num>
+    <text>0.1</text>
+  </level>
+  <level>
+    <num>0.01</num>
+    <text>0.01 **</text>
+    <text>Chromium, trivalent</text>
+  </level>
+  <level>
+    <num>0.1</num>
+    <text>0.1</text>
+  </level>
+  <level>
+    <num>0.01</num>
+    <text>0.01 **</text>
+    <text>Cyanide, free</text>
+  </level>
+  <level>
+    <num>0.2</num>
+    <text>0.2</text>
+  </level>
+  <level>
+    <num>0.04</num>
+    <text>0.04 **</text>
+    <text>Fluoride</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+  </level>
+  <level>
+    <num>0.4</num>
+    <text>0.4 **</text>
+    <text>Lead</text>
+  </level>
+  <level>
+    <num>0.05</num>
+    <text>0.05</text>
+  </level>
+  <level>
+    <num>0.01</num>
+    <text>0.01 **</text>
+    <text>Mercury</text>
+  </level>
+  <level>
+    <num>0.002</num>
+    <text>0.002</text>
+  </level>
+  <level>
+    <num>0.0005</num>
+    <text>0.0005 +</text>
+    <text>Nitrates</text>
+  </level>
+  <level>
+    <num>10.0</num>
+    <text>10.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 **</text>
+    <text>Nitrite</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5 *</text>
+    <text>Selenium</text>
+  </level>
+  <level>
+    <num>0.05</num>
+    <text>0.05</text>
+  </level>
+  <level>
+    <num>0.002</num>
+    <text>0.002 **</text>
+    <text>Silver</text>
+  </level>
+  <level>
+    <num>0.05</num>
+    <text>0.05</text>
+  </level>
+  <level>
+    <num>0.05</num>
+    <text>0.05 +</text>
+    <text>Secondary</text>
+    <text>Turbidity (NTU)</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+    <text>NA</text>
+    <text>Chloride</text>
+  </level>
+  <level>
+    <num>250.0</num>
+    <text>250.0</text>
+  </level>
+  <level>
+    <num>125.0</num>
+    <text>125.0 *</text>
+    <text>Copper</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5 *</text>
+    <text>Iron</text>
+  </level>
+  <level>
+    <num>0.3</num>
+    <text>0.3</text>
+  </level>
+  <level>
+    <num>0.15</num>
+    <text>0.15 *</text>
+    <text>Manganese</text>
+  </level>
+  <level>
+    <num>0.05</num>
+    <text>0.05</text>
+  </level>
+  <level>
+    <num>0.025</num>
+    <text>0.025 *</text>
+    <text>Sulfate</text>
+  </level>
+  <level>
+    <num>250.0</num>
+    <text>250.0</text>
+  </level>
+  <level>
+    <num>125.0</num>
+    <text>125.0 *</text>
+    <text>Total dissolved solids</text>
+  </level>
+  <level>
+    <num>500.0</num>
+    <text>500.0</text>
+  </level>
+  <level>
+    <num>250.0</num>
+    <text>250.0 *</text>
+    <text>Zinc</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>2.5</num>
+    <text>2.5 *</text>
+    <text>Organics (maximum µg/L)</text>
+    <text>Benzene</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 +</text>
+    <text>Carbon tetrachloride</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0 +</text>
+    <text>Dichlorobenzene (para)</text>
+  </level>
+  <level>
+    <num>75.0</num>
+    <text>75.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 +</text>
+    <text>Dichloroethylene (1,1-)</text>
+  </level>
+  <level>
+    <num>7.0</num>
+    <text>7.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0 +</text>
+    <text>Dichloroethylene (cis-1,2-)</text>
+  </level>
+  <level>
+    <num>70.0</num>
+    <text>70.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0 +</text>
+    <text>Dichloroethylene (trans-1,2)</text>
+  </level>
+  <level>
+    <num>100.0</num>
+    <text>100.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0 +</text>
+    <text>Endrin</text>
+  </level>
+  <level>
+    <num>0.2</num>
+    <text>0.2</text>
+  </level>
+  <level>
+    <num>0.1</num>
+    <text>0.1 +</text>
+    <text>Ethylbenzene</text>
+  </level>
+  <level>
+    <num>700.0</num>
+    <text>700.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 +</text>
+    <text>Hexachlorocyclohexane (Lindane)</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+  </level>
+  <level>
+    <num>0.2</num>
+    <text>0.2 +</text>
+    <text>Methoxychlor</text>
+  </level>
+  <level>
+    <num>100.0</num>
+    <text>100.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 +</text>
+    <text>1,1,1-Trichloroethane</text>
+  </level>
+  <level>
+    <num>200.0</num>
+    <text>200.0</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0 +</text>
+  </level>
+  <level>
+    <num>1.2</num>
+    <text>1.2-Dichloroethane</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5 +</text>
+    <text>Tetrachloroethylene</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5 +</text>
+    <text>Toluene</text>
+    <text>1,000.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 +</text>
+    <text>Total Trihalomethanes</text>
+  </level>
+  <level>
+    <num>100.0</num>
+    <text>100.0</text>
+  </level>
+  <level>
+    <num>0.5</num>
+    <text>0.5 +</text>
+    <text>Toxaphene</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 +</text>
+    <text>Trichloroethylene</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0 +</text>
+    <text>2,4-D</text>
+  </level>
+  <level>
+    <num>100.0</num>
+    <text>100.0</text>
+  </level>
+  <level>
+    <num>10.0</num>
+    <text>10.0 +</text>
+    <text>2,4,5-TP Silvex</text>
+  </level>
+  <level>
+    <num>10.0</num>
+    <text>10.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 +</text>
+    <text>Vinyl chloride</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0</text>
+  </level>
+  <level>
+    <num>2.0</num>
+    <text>2.0 +</text>
+    <text>Xylenes</text>
+    <text>10,000.0</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0 +</text>
+    <text>Radionuclides (maximum activity, pCi/L)</text>
+    <text>Combined Radium-226 &amp;#038; Radium-228</text>
+  </level>
+  <level>
+    <num>5.0</num>
+    <text>5.0</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0 **</text>
+    <text>Gross alpha particle activity</text>
+  </level>
+  <level>
+    <num>15.0</num>
+    <text>15.0</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0 **</text>
+    <text>Gross beta particle activity</text>
+  </level>
+  <level>
+    <num>50.0</num>
+    <text>50.0</text>
+  </level>
+  <level>
+    <num>10.0</num>
+    <text>10.0 **</text>
+    <text>Microbiological (maximum organisms/ml)</text>
+    <text>Fecal Coliform</text>
+  </level>
+  <level>
+    <num>1.0</num>
+    <text>1.0</text>
+    <text>NA</text>
+    <text>Acidity (allowable range, standard units)</text>
+    <text>pH</text>
+  </level>
+  <level>
+    <num>6.5</num>
+    <text>6.5 to 8.5</text>
+    <text>NA</text>
+    <text>**: Early Warning Value is 20% of criterion.</text>
+    <text>*: Early Warning Value is 50% of criterion.</text>
+    <text>*: Early Warning Value for synthetic chemicals that have no natural source is at the practical quantitation limit.</text>
+  </level>
+  <level>
+    <num>1155.4.</num>
+    <text>For the purposes of §§ 1150 through 1158 of this chapter, the enforcement standard shall be the value assigned to any contaminant, which if exceeded, may result in the Director initiating enforcement action.</text>
+  </level>
+  <level>
+    <num>1155.5.</num>
+    <text>Except as specified in § 1155.6, the enforcement standards shall be established based on the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>For Class G1, where a criterion is established, the enforcement standard shall be the criterion if the criterion is not exceeded in the background water quality;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>For Class G1, if a criterion is established and exceeded in the background water quality, the enforcement standard shall be the background concentration;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>When a criterion is not established for a Class G1 ground water, the enforcement standard shall be based on the best available scientific knowledge including, but not limited to, the background water quality, the use of U.S. Environmental Protection
+        Agency water quality criteria and Health Advisories, other states water quality criteria, and risk assessment calculations. The value utilized will depend on technological and economic factors;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>When a specific activity which does or may contaminate ground water is being regulated by the Director and a criterion is not established, the enforcement standard may be established by the Director through, but not limited to, a waste discharge
+        permit or other permit, order or a memorandum of understanding with other regulating agencies; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>For a Class G2 or Class G3 ground water, the enforcement standard shall be based on the best available scientific knowledge including, but not limited to, the background water quality, the use of U.S. Environmental Protection Agency water quality
+        criteria and Health Advisories, other states water quality criteria, and risk assessment calculations. The value utilized will depend on the class of ground water, and technological and economic factors.</text>
+    </level>
+  </level>
+  <level>
+    <num>1155.6.</num>
+    <text>A request for variation from the enforcement standards of § 1155.5 for any class of ground water can be made to the Director. The request, by the responsible party, shall be based on both the technological and economic analyses. The responsible party
+      shall demonstrate to the satisfaction of the Director that cleanup to the enforcement standard is both technologically and economically infeasible. The request shall propose an alternate cleanup level.</text>
+  </level>
+  <level>
+    <num>1155.7.</num>
+    <text>Early Warning Values (&amp;#8220;EWV&amp;#8221;) shall be established to protect ground waters from contamination and to avoid costly remediation by providing for early detection of increasing contaminant concentrations before the criteria or enforcement
+      standards are exceeded.</text>
+  </level>
+  <level>
+    <num>1155.8.</num>
+    <text>EWV&amp;#8217;s shall be applicable to facilities or activities with a potential to contaminate ground water and which are required to monitor the impact of their activities on ground water quality.</text>
+  </level>
+  <level>
+    <num>1155.9.</num>
+    <text>Whenever a criterion or an enforcement standard is set above background level, an EWV or trend analysis shall be utilized.</text>
+  </level>
+  <level>
+    <num>1155.10</num>
+    <text>1155.10 Early Warning Values shall be determined by one of the following items:</text>
+    <level>
+      <num>(a)</num>
+      <text>When the regulated substance is not found in the background water quality or is present in levels lower than the criterion or the enforcement standard then the EWV shall be as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Practical quantitation limit for all synthetic constituents for which no natural source exists;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Twenty percent (20%) of the criterion or enforcement standard for substances of health concern;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Fifty percent (50%) of the criterion or enforcement standard for substances of public welfare concern; or</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>EWV for specific criteria are according to § 1155.3; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>When the regulated substance is found in the background water quality in a concentration that exceeds the criterion or enforcement standard for that substance, then the EWV shall be set between background and the criterion or enforcement standard
+        in such a way that increasing or decreasing contaminant levels will be detected.</text>
+    </level>
+  </level>
+  <level>
+    <num>1155.11.</num>
+    <text>If the permittee or responsible party desire, a trend analysis in place of fixed values for EWV&amp;#8217;s may be used. The trend analysis shall use a scientifically sound and valid statistical procedure appropriate to the discharge and shall provide
+      a ninety-nine percent (99%) level of confidence. The design and implementation of the trend analysis shall be the responsibility of the permittee and shall be approved by the Director. Response levels shall be defined for each trend analysis but
+      at a minimum shall include those levels as defined in § 1155.3.</text>
+  </level>
+  <level>
+    <num>1155.12.</num>
+    <text>It shall not be considered a violation of §§ 1150 through 1158 of this chapter when pollutants are detected in concentrations exceeding an EWV unless the following occurs:</text>
+    <level>
+      <num>(a)</num>
+      <text>The pollutant concentrations exceed the numerical criterion of § 1155.3 and the enforcement standards of § 1155.5; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>There is failure to inform the Director or respond as required in § 1155.13.</text>
+    </level>
+  </level>
+  <level>
+    <num>1155.13.</num>
+    <text>The following procedures shall apply when a substance(s) is detected at the point of compliance and an EWV is attained or exceeded, or a net change in concentration is detected through an approved trend analysis:</text>
+    <level>
+      <num>(a)</num>
+      <text>The permittee or responsible party shall notify the Director, in writing, within thirty (30) days; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Upon receiving notification, the Director may require the permittee or responsible party to perform one of the following:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>No action;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Resample wells to verify results;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Revise the monitoring plan including increased monitoring; or</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Complete a report documenting the extent of contamination, contamination sources and discuss alternative methods of operation.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>NA</heading>
+      <text>Not Applicable.</text>
+    </level>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 40 DCR 4203, 4205 (July 2, 1993); renumbered by Final Rulemaking published at 41 DCR 1075 (March 4, 1994).</text>
+    </level>
+  </level>
+</level>

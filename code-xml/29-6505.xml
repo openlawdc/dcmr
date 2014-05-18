@@ -1,0 +1,65 @@
+<level>
+  <type>section</type>
+  <num>29-6505</num>
+  <heading>NURSING AND RESIDENT CARE COSTS PER DIEM CALCULATION (§ 29-6505)</heading>
+  <level>
+    <num>6505.1.</num>
+    <text>Each nursing facility’s allowable nursing and resident care costs shall be adjusted in accordance with Subsection 6501.4.</text>
+  </level>
+  <level>
+    <num>6505.2.</num>
+    <text>The total resident days shall be determined in accordance with Subsection 6512.2.</text>
+  </level>
+  <level>
+    <num>6505.3.</num>
+    <text>The amount calculated in Subsection 6505.1 shall be divided by the Total Facility Case Mix Index to establish case mix neutral costs. This process is known as case mix neutralization.</text>
+  </level>
+  <level>
+    <num>6505.4.</num>
+    <text>For nursing and resident care costs other than those defined at Subsection 6501.7(g), the case mix neutral costs established in Subsection 6505.3 shall be divided by the resident days calculated in accordance with Subsection 6512.2 to determine each
+      nursing facility’s nursing and resident care cost per diem without physical, speech, and occupational therapy services. To this resulting per diem, shall be added the per diem for nursing and resident care costs defined in Subsection 6501.7(g).
+      The per diem for physical, speech, and occupational therapy services shall be calculated by dividing such costs by total Medicaid resident days. The resulting sum of the per diems shall comprise each nursing facility’s nursing and resident care
+      cost per diem unadjusted for case mix.</text>
+  </level>
+  <level>
+    <num>6505.5.</num>
+    <text>The ceiling established in accordance with Subsections 6502.4 through 6502.6 for nursing and resident care costs for each peer group shall be multiplied by 163 percent (163%).</text>
+  </level>
+  <level>
+    <num>6505.6.</num>
+    <text>The nursing and resident care cost per diem rate unadjusted for case mix shall be the lower of the facility-specific per diem calculated pursuant to Subsection 6505.4 or the adjusted ceiling relative to each nursing facility calculated in accordance
+      with Subsection 6505.5.</text>
+  </level>
+  <level>
+    <num>6505.7.</num>
+    <text>Each nursing facility shall be entitled to an incentive payment of forty percent (40%) of the difference between the facility-specific per diem rate established in Subsection 6505.4 and the adjusted ceiling calculated in accordance with Subsection
+      6505.5, if the facility-specific per diem rate calculated in accordance with Subsection 6505.4 is lower than the adjusted ceiling relative to each nursing facility established pursuant to Subsection 6505.5.</text>
+  </level>
+  <level>
+    <num>6505.8.</num>
+    <text>The nursing and resident care cost per diem adjusted for case mix shall be determined by multiplying the nursing and resident care cost per diem calculated in accordance with Subsection 6505.6, or if applicable, the nursing and resident care cost
+      per diem adjusted for incentive, as set forth in Subsection 6505.7, by the Facility Medicaid Case Mix Index.</text>
+  </level>
+  <level>
+    <num>6505.9.</num>
+    <text>The Facility Medicaid Case Mix Index used to establish the rates at implementation shall be developed from resident assessment data taken from the time period beginning October 1, 2001, through September 30, 2002.</text>
+  </level>
+  <level>
+    <num>6505.10.</num>
+    <text>The nursing and resident care cost per diem shall be adjusted for case mix beginning April 1, 2006, and every six (6) months thereafter. The data used to establish the Facility Medicaid Case Mix Index for the semi-annual adjustment shall be developed
+      as follows:</text>
+    <text>October 1 shall be the average of the preceding year fourth calendar quarter and first calendar quarter picture dates; and</text>
+    <text>April 1 shall be the average of the preceding year second calendar quarter and third calendar quarter picture dates.</text>
+  </level>
+  <level>
+    <num>6505.11.</num>
+    <text>DHCF shall substitute the Facility Medicaid Case Mix Index with the District-wide Medicaid Case Mix Index if there are no valid assessments for a nursing facility during a picture date.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 53 DCR 1370 (February 24, 2006); as amended by Final Rulemaking published at 60 DCR 4828 (March 29, 2013).</text>
+    </level>
+  </level>
+</level>

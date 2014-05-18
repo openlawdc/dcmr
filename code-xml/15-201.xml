@@ -1,0 +1,53 @@
+<level>
+  <type>section</type>
+  <num>15-201</num>
+  <heading>RATE OF RETURN SUMMARY (§ 15-201)</heading>
+  <level>
+    <num>201.1.</num>
+    <text>The following information shall be provided for a rate of return summary:</text>
+    <level>
+      <num>(a)</num>
+      <text>Capital structure (consolidated, partially consolidated or other) and weighted cost thereof as of the most recent data available; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Capital structure (consolidated, partially consolidated or other) and weighted cost thereof as of the end of the historical test year and the proposed test year. If the data filed in subparagraph (a) is different, an explanation of the differences
+        and adjustments applied shall be provided.</text>
+    </level>
+  </level>
+  <level>
+    <num>201.2.</num>
+    <text>For each class or type of capital the data shall show the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Amount in dollars;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Percent of total;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Cost rate;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Weighted cost; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Number of shares or securities.</text>
+    </level>
+  </level>
+  <level>
+    <num>201.3.</num>
+    <text>The summary shall reference the supporting schedule for each item showing detailed composition and calculations.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 34 DCR 1155, 1159 (February 13, 1987).</text>
+    </level>
+  </level>
+</level>

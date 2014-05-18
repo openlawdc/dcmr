@@ -1,0 +1,33 @@
+<level>
+  <type>section</type>
+  <num>29-4808</num>
+  <heading>CALCULATION OF OUTLIER PAYMENTS (§ 29-4808)</heading>
+  <level>
+    <num>4808.1.</num>
+    <text>The APDRG prospective payment system shall provide for an additional payment for outliers based on inpatient costs. High-cost outliers are cases with costs exceeding two point five (2.5) times the standard deviation from the mean for each APDRG classification.
+      When the cost of a case exceeds the high-cost outlier threshold, the payment for the case shall be the sum of the base payment as described in Subsection 4800.3 and the outlier payment calculated pursuant to Subsection 4808.2. Effective October
+      1, 2012 and annually thereafter, thresholds shall be adjusted for inflation, based upon the CMS market basket factor for hospitals.</text>
+    <text>Each claim with a cost that exceeds the high-cost outlier threshold shall be subject to an outlier payment. The amount of the outlier payment shall be calculated pursuant to the following formula:</text>
+    <text>[High cost outlier threshold minus (allowed charges X hospital cost to charge ratio)] X 0.80 or other multiplier that results in an estimated maximum of 5% of inpatient payments as high cost outliers. This factor shall be set October 1, 2012, and
+      annually thereafter, based upon a review of claims history from the previous fiscal year.</text>
+    <text>The cost to charge ratio shall be hospital-specific. Effective October 1, 2012, and annually thereafter, the cost to charge ratio shall be developed based upon information obtained from each hospital’s prior year submitted cost report for the fiscal
+      year that ends prior to October 1 of the prior calendar year.</text>
+    <text>The APDRG prospective payment system shall provide for an adjustment to payments for extremely-low-cost inpatient cases. Low-cost outliers are cases with costs less than twenty-five percent (25%) of the average cost of a case. Each claim with a cost
+      that is less than the low-cost outlier threshold shall be subject to a partial DRG payment. The amount of the payment shall be the lesser of the APDRG amount and a prorated payment, based on the ratio of covered days to the average length of stay
+      associated with the APDRG category. Effective October 1, 2012, and annually thereafter, the threshold shall be adjusted for inflation based upon the CMS market basket factor for hospitals.</text>
+    <text>The prorated payment shall be calculated as follows:</text>
+    <text>The base APDRG payment (Base payment times the APDRG service intensity weight) shall be divided by the average length of stay.</text>
+    <text>The amount established in Subsection 4808.5(a) shall be multiplied by the sum of the number of covered days plus one (1) day.</text>
+    <text>For those APDRG categories where there was insufficient data to calculate a reliable mean or standard deviation the outlier threshold shall be calculated using an alternate method as set forth below:</text>
+    <text>The outlier threshold shall be equal to the product of the weight of the APDRG and the average outlier multiplier.</text>
+    <text>The average outlier multiplier shall be determined by dividing the outlier threshold by the APDRG weight for all categories where the outlier threshold is calculated as two point five (2.5) standard deviations above the mean.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 45 DCR 4141, 4149 (June 26, 1998); as amended by Notice of Emergency and Proposed Rulemaking published at 57 DCR 2691 (March 26, 2010) [EXPIRED]; as amended by Notice of Emergency and Proposed Rulemaking published at
+        57 DCR 6837 (July 10, 2010) [EXPIRED]; as amended by Notice of Final Rulemaking published at 58 DCR 4323, 4329 (May 20, 2011); as amended by Final Rulemaking published at 59 DCR 15078 (December 28, 2012).</text>
+    </level>
+  </level>
+</level>

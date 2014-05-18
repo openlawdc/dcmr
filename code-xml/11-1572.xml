@@ -1,0 +1,24 @@
+<level>
+  <type>section</type>
+  <num>11-1572</num>
+  <heading>HEIGHT AND FLOOR AREA RATIO RESTRICTIONS (CHC) (§ 11-1572)</heading>
+  <level>
+    <num>1572.1.</num>
+    <text>Except as provided in § 1572.2, the maximum permitted building height in the CHC Overlay District shall be the height permitted in the underlying Commercial District.</text>
+  </level>
+  <level>
+    <num>1572.2.</num>
+    <text>If the affected property is located in both the CHC Overlay District and the CAP Overlay District, the maximum permitted building height shall be the height permitted in the CAP Overlay District.</text>
+  </level>
+  <level>
+    <num>1572.3.</num>
+    <text>Except as provided in § 1572.4, the maximum permitted floor area ratio for a building or structure in the CHC Overlay District shall be 3.0 for all permitted uses.</text>
+  </level>
+  <level>
+    <num>1572.4.</num>
+    <text>Notwithstanding § 1203.3, the maximum permitted floor area ratio for a building or structure located in both the CHC Overlay District and the CAP Overlay District shall be 2.5 for all permitted uses.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

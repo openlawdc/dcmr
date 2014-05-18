@@ -1,0 +1,203 @@
+<level>
+  <type>section</type>
+  <num>30-948</num>
+  <heading>DC-5 PRIZE STRUCTURE AND PROBABILITY (§ 30-948)</heading>
+  <level>
+    <num>948.1.</num>
+    <text>The DC-5 game prize schedule and probability based on a one dollar ($1.00) bet are as follows:</text>
+    <text>Bet</text>
+    <text>Type</text>
+    <text>Selections</text>
+    <text>To Win</text>
+    <text>Match</text>
+    <text>$1</text>
+    <text>Bet Prize</text>
+    <text>Odds of Winning</text>
+    <text>Example</text>
+    <text>Straight</text>
+    <text>Any 5 digits</text>
+    <text>5 digits in exact order</text>
+    <text>$50,000</text>
+    <text>1 : 100,000</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4 &amp;#8211; 5</text>
+    <text>5 Way Box</text>
+    <text>4 of one digit &amp;#038; 1 different digit</text>
+    <text>5 digits in any order</text>
+    <text>$10,000</text>
+    <text>1 : 20,000</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 1 &amp;#8211; 1 &amp;#8211; 2</text>
+    <text>Bet Type</text>
+    <text>Selections</text>
+    <text>To Win Match</text>
+    <text>$1</text>
+    <text>Bet Prize</text>
+    <text>Odds of Winning</text>
+    <text>Example</text>
+    <text>10 Way Box</text>
+    <text>3 of one digit &amp;#038; a pair of a different digit</text>
+    <text>5 digits in any order</text>
+    <text>$5,000</text>
+    <text>1 : 10,000</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 2</text>
+    <text>20 Way Box</text>
+    <text>3 of one digit and 2 different distinct digits</text>
+    <text>5 digits in any order</text>
+    <text>$2,500</text>
+    <text>1 : 5,000</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 3</text>
+    <text>30 Way Box</text>
+    <text>2 different pairs plus a distinct digit</text>
+    <text>5 digits in any order</text>
+    <text>$1,700</text>
+    <text>1 : 3,333.3</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 2 &amp;#8211; 3</text>
+    <text>60 Way Box</text>
+    <text>A pair plus 3 different distinct digits</text>
+    <text>5 digits in any order</text>
+    <text>$850</text>
+    <text>1 : 1,666.7</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4</text>
+    <text>120 Way Box</text>
+    <text>5 distinct digits</text>
+    <text>5 digits in any order</text>
+    <text>$425</text>
+    <text>1: 833.3</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4 &amp;#8211; 5</text>
+    <text>Front 4</text>
+    <text>Any 4 digits</text>
+    <text>Fist 4 digits in exact order</text>
+    <text>$5,000</text>
+    <text>1 : 10,000</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4 &amp;#8211; X</text>
+    <text>Back 4</text>
+    <text>Any 4 digits</text>
+    <text>Last 4 digits in exact order</text>
+    <text>$5,000</text>
+    <text>1 : 10,000</text>
+    <text>X &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4</text>
+    <text>Front 3</text>
+    <text>Any 3 digits</text>
+    <text>First 3 digits in exact order</text>
+    <text>$500</text>
+    <text>1 : 1,000</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; X &amp;#8211; X</text>
+    <text>Back 3</text>
+    <text>Any 3 digits</text>
+    <text>Last 3 digits in exact order</text>
+    <text>$500</text>
+    <text>1 : 1,000</text>
+    <text>X &amp;#8211; X &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 3</text>
+    <text>Front Pair</text>
+    <text>Any 2 digits</text>
+    <text>First 2 digits in exact order</text>
+    <text>$50</text>
+    <text>1: 100</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; X &amp;#8211; X &amp;#8211; X</text>
+    <text>Back Pair</text>
+    <text>Any 2 digits</text>
+    <text>Last 2 digits in exact order</text>
+    <text>$50</text>
+    <text>1: 100</text>
+    <text>X &amp;#8211; X &amp;#8211; X &amp;#8211; 1 &amp;#8211; 2</text>
+  </level>
+  <level>
+    <num>948.2.</num>
+    <text>The DC-5 game prize schedule and probability based on a fifty cents ($0.50) bet are as follows:</text>
+    <text>Bet Type</text>
+    <text>Selections</text>
+    <text>To Win Match</text>
+    <text>$0.50</text>
+    <text>Bet Prize</text>
+    <text>Odds of Winning</text>
+    <text>Example</text>
+    <text>Straight</text>
+    <text>Any 5 digits</text>
+    <text>5 digits in exact order</text>
+    <text>$25,000</text>
+    <text>1 : 100,000</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4 &amp;#8211; 5</text>
+    <text>5 Way Box</text>
+    <text>4 of one digit &amp;#038; 1 different digit</text>
+    <text>5 digits in any order</text>
+    <text>$5,000</text>
+    <text>1 : 20,000</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 1 &amp;#8211; 1 &amp;#8211; 2</text>
+    <text>10 Way Box</text>
+    <text>3 of one digit &amp;#038; a pair of a different digit</text>
+    <text>5 digits in any order</text>
+    <text>$2,500</text>
+    <text>1 : 10,000</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 2</text>
+    <text>20 Way Box</text>
+    <text>3 of one digit and 2 different distinct digits</text>
+    <text>5 digits in any order</text>
+    <text>$1,250</text>
+    <text>1 : 5,000</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 3</text>
+    <text>30 Way Box</text>
+    <text>2 different pairs plus a distinct digit</text>
+    <text>5 digits in any order</text>
+    <text>$850</text>
+    <text>1 : 3,333.3</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 2 &amp;#8211; 3</text>
+    <text>60 Way Box</text>
+    <text>A pair plus 3 different distinct digits</text>
+    <text>5 digits in any order</text>
+    <text>$425</text>
+    <text>1 : 1,666.7</text>
+    <text>1 &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4</text>
+    <text>120 Way Box</text>
+    <text>5 distinct digits</text>
+    <text>5 digits in any order</text>
+    <text>$212.50</text>
+    <text>1: 833.3</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4 &amp;#8211; 5</text>
+    <text>Front 4</text>
+    <text>Any 4 digits</text>
+    <text>Fist 4 digits in exact order</text>
+    <text>$2,500</text>
+    <text>1 : 10,000</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4 &amp;#8211; X</text>
+    <text>Back 4</text>
+    <text>Any 4 digits</text>
+    <text>Last 4 digits in exact order</text>
+    <text>$2,500</text>
+    <text>1 : 10,000</text>
+    <text>X &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; 4</text>
+    <text>Front 3</text>
+    <text>Any 3 digits</text>
+    <text>First 3 digits in exact order</text>
+    <text>$250</text>
+    <text>1 : 1,000</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; 3 &amp;#8211; X &amp;#8211; X</text>
+    <text>Back 3</text>
+    <text>Any 3 digits</text>
+    <text>Last 3 digits in exact order</text>
+    <text>$250</text>
+    <text>1 : 1,000</text>
+    <text>X &amp;#8211; X &amp;#8211; 1 &amp;#8211; 2 &amp;#8211; 3</text>
+    <text>Bet Type</text>
+    <text>Selections</text>
+    <text>To Win Match</text>
+    <text>$0.50</text>
+    <text>Bet Prize</text>
+    <text>Odds of Winning</text>
+    <text>Example</text>
+    <text>Front Pair</text>
+    <text>Any 2 digits</text>
+    <text>First 2 digits in exact order</text>
+    <text>$25</text>
+    <text>1: 100</text>
+    <text>1 &amp;#8211; 2 &amp;#8211; X &amp;#8211; X &amp;#8211; X</text>
+    <text>Back Pair</text>
+    <text>Any 2 digits</text>
+    <text>Last 2 digits in exact order</text>
+    <text>$25</text>
+    <text>1: 100</text>
+    <text>X &amp;#8211; X &amp;#8211; X &amp;#8211; 1 &amp;#8211; 2</text>
+    <text>Source: Final Rulemaking published at 56 DCR 5759, 5760-5763 (July 17, 2009).</text>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

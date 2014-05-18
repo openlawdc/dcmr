@@ -1,0 +1,326 @@
+<level>
+  <type>section</type>
+  <num>31-603</num>
+  <heading>MODERN TAXIMETER SYSTEMS (§ 31-603)</heading>
+  <level>
+    <num>603.1.</num>
+    <text>A modern taximeter system (MTS) is a complete technology solution for taxicab metering and payment that pairs the equipment of § 603.8 with the service and support of § 603.9. Taxicab companies and independent owners shall obtain MTS units from the
+      payment service providers (PSPs) whose MTSs have been approved by the Office under Chapter 4 of this title.</text>
+  </level>
+  <level>
+    <num>603.2.</num>
+    <text>MTS implementation. Beginning on September 1, 2013 (“implementation date”):</text>
+    <level>
+      <num>(a)</num>
+      <text>Each taxicab shall operate only with an MTS unit that allows a passenger to make a cash payment or cashless payment, which shall be the decision of the passenger;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Each MTS unit shall be obtained from a PSP that has current approval for the MTS and is operating in compliance with this section and Chapter 4;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Each MTS unit, including the passenger console and safety feature required by § 603.8(n), shall be installed by an authorized MTS installation business which certifies that it meets the applicable provisions of this title;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Each taxicab company, independent owner, or taxicab operator, may receive dispatches and provide digital payment to passengers as provided by § 603.4; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>The taxicab passenger surcharge shall be collected from the passenger and paid by the PSP to the Office for each taxicab trip, regardless of how the fare is paid.</text>
+    </level>
+  </level>
+  <level>
+    <num>603.3.</num>
+    <text>A list of approved MTSs and authorized MTS installation businesses shall be posted on the Commission’s website by the effective date of this rulemaking.</text>
+  </level>
+  <level>
+    <num>603.4.</num>
+    <text>Dispatch services. Each taxicab company, independent owner, or operator may associate with one or more dispatch services to receive telephone or digital dispatches, provided the DDS used is in compliance with Chapter 16 and all other applicable requirements
+      of this title and other applicable laws. Each taxicab company and independent owner may associate with one or more digital dispatch services to provide digital payment, provided the digital dispatch service is in compliance with Chapters 4, 8, and
+      16. It shall be the responsibility of each taxicab company and independent owner to report to the Office any occasion when they have personally observed a PSP or DDS failing or refusing to comply with the integration requirements of Chapter 4 for
+      the processing of digital payments.</text>
+  </level>
+  <level>
+    <num>603.5.</num>
+    <text>Installation, certification, training, and inspection.</text>
+    <level>
+      <num>(a)</num>
+      <text>Each taxicab company and individual owner shall have an approved MTS unit (and each component required by § 603.8 as of the installation date set forth therein) installed in each of its vehicles, and certified in a meter calibration report as meeting
+        all the applicable requirements of this title including integrating with or replacing the vehicle’s taximeter, by the implementation date.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Each installation and certification required by § 603.5(a) shall be conducted by an authorized MTS installation business, including the installation and certification of the passenger console and safety feature required by § 603.8(n).</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Each taxicab company, individual owner, and operator shall obtain any necessary training on the use of the MTS unit by the implementation date.</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Each vehicle’s MTS unit shall be tested as part of the periodic vehicle inspection required by this title.</text>
+    </level>
+  </level>
+  <level>
+    <num>603.6</num>
+    <text>603.6 All costs associated with obtaining an MTS unit, including installation and certification (including those associated with adding the passenger console and safety feature required by § 603.8(n)), operation, compliance with a provision of this
+      title or other applicable law, compliance with an Office order, repair, lease, service and support, maintenance, and upgrade, shall be the responsibility of the taxicab company or independent owner, but may be allocated by written agreement among
+      the taxicab company or independent owner, the PSP that provides it, or any other person.</text>
+  </level>
+  <level>
+    <num>603.7.</num>
+    <text>Nothing in this section shall be construed to solicit or create a contractual relationship between the District of Columbia and any person.</text>
+  </level>
+  <level>
+    <num>603.8.</num>
+    <text>MTS equipment requirements.</text>
+    <text>Each MTS shall consist of a reasonable combination of fixed or mobile hardware components, such as a Bluetooth-enabled smartphone, mobile data terminal, or tablet, with an attached or integrated payment card reader, and printer, and shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Operate only in a manner that allows the PSP to meet the service and support requirements of § 603.9 and the operating requirements of Chapter 4;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Allow a passenger to select the payment method, including a cash payment or a cashless payment (among the forms of cashless payment the PSP is approved to provide under Chapter 4);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Display text messages from the Office and permit selected responses when the vehicle is stationary;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Not allow a person to be charged any amount through the MTS unit other than a taximeter fare;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Use a wireless 3G or better cellular data connection;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Use a high-sensitivity global positioning satellite receiver that provides failover geo-coding from mobile wireless networks;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Record all trips made by the vehicle;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Not store, or allow the operator to have access to, the passenger’s payment card information after payment authorization has been issued;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Have only one (1) physical access-point if wired to the taximeter, and allow no more than the number of Bluetooth connections necessary to meet MTS requirements, if connected wirelessly to the taximeter;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Prevent the MTS unit from being used when any of its components are not operating as required by a provision of this title;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Provide the passenger with a receipt that complies with § 803;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Not use, incorporate, or connect to hardware available for personal use by the owner or operator of the vehicle unless the PSP demonstrates to the satisfaction of the Office that such use, incorporation, or connection does not pose a risk to passenger
+        safety or privacy, or information security;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>Use, incorporate, or connect only to technology that meets Open Web Application Security Project (“OWASP”) security guidelines, that complies with the current standards of the PCI Security Standards Council (“Council”) for payment card data security,
+        if such standards exist, and, if not, then with the current guidelines of the Council for payment card data security, and, that, for direct debit transactions, complies with the rules and guidelines of the National Automated Clearing House Association;
+        and</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>Not later than December 1, 2013, the MTS shall include a passenger console that shall:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Have a display of not less than seven (7) inches and not more than twelve (12) inches in size, and is securely connected to the front seat or to a mount at shoulder height midway between the sides of the vehicle, or in such similar location in the
+        passenger area as may be required for passenger safety;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Comply with Section 508, and with the electronic and information technology (“EIT”) requirements of Section 504, of the Rehabilitation Act of 1973, and allows a visually impaired or mobility disabled passenger to independently complete the fare
+        payment process without giving a payment card to the operator, through such mechanisms as braille print, audio prompting, input controls with tactile feedback for each function, numeric keys, and contrasting backgrounds;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Not later than June 1, 2014, include a safety feature that shall:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>Be triggered by a physical button or prominent screen icon;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Be available at all times when a passenger is inside the vehicle;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Send a real-time notification to the Office of Unified Communications that a taxicab passenger is reporting a threat to his or her safety;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Be operated discreetly and without interference by the operator; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>Incorporate features to prevent accidental or intentional misuse.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Display the following information in the following manner:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>When the MTS is engaged (at flag drop), the passenger console shall display for a period of not less than twenty (20) seconds or such other period as directed by the Office, a full-size image of the operator’s DCTC identification card (Face ID),
+        accompanied by a message as directed by the Office;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>After the period required by § 603.8(n)(4)(A), the image of the identification card shall be minimized to an icon in the upper left-hand corner of the screen with the label “TOUCH HERE FOR DRIVER’S I.D.”, which the passenger shall be able to maximize
+        at any time prior to exiting the vehicle;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>After the period required by § 603.8(n)(4)(A), the following audio-visual content shall be displayed in such sequence as the PSP may determine, provided, however, that the passenger shall be able to turn off the sound at any time prior to exiting
+        the vehicle:</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>A public service announcement as provided and directed by the Office;</text>
+    </level>
+    <text>(ii) The navigational path of the vehicle;</text>
+    <text>(iii) Advertising, if agreed to by the vehicle owner and the PSP, from which not less than thirty (30) percent of the net revenue shall be paid to the vehicle owner; and</text>
+    <level>
+      <num>(D)</num>
+      <text>At the conclusion of the trip, an itemization of the rates and charges under § 801.7 shall be displayed and the passenger may be asked for a gratuity, after which the fare shall be displayed, and the passenger shall be given an opportunity to choose
+        a cash or cashless payment, and to process such payment as required by this subsection.</text>
+    </level>
+  </level>
+  <level>
+    <num>603.9.</num>
+    <text>MTS service and support requirements.</text>
+    <text>Each MTS shall function with the service and support of the PSP, which shall at all times operate in compliance with Chapter 4, and shall maintain a data connection to each MTS unit that shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Validate the status of the operator’s DCTC license (Face Card) in real-time by connecting to the Taxicab Commission Information System (TCIS) to ensure the license is not revoked or suspended, and that the operator is in compliance with the insurance
+        requirements of Chapter 9;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Validate the status of the taximeter component of the MTS unit (such as hired, vacant, or time-off) in real-time to ensure that it cannot be used until the prior trip and the payment process connected with it have ended;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Transmit to the TCIS every twenty-four (24) hours via a single data feed consistent in structure across all PSPs, in a manner as established by the Office, the following data:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>The date;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The operator identification (Face Card) number and PVIN, reported in a unique and anonymous manner allowing the PSP to maintain a retrievable record of the operator and vehicle;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The name of the taxicab company, association, or fleet if applicable;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The PSP-assigned tour ID number and time at beginning of tour of duty;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>The time and mileage of each trip;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>The time of pickup and drop-off of each trip;</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>The geospatially-recorded place of pickup and drop-off of each trip which may be generalized to census tract level;</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>The number of passengers;</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>The unique trip number assigned by the PSP;</text>
+    </level>
+    <text>(10) The taximeter fare and an itemization of the rates and charges pursuant to § 801;</text>
+    <text>(11) The form of payment (cash payment, cashless payment, voucher, or digital payment), and, if a digital payment, the name of the DDS;</text>
+    <text>(12) The time at the end of each tour of duty;</text>
+    <level>
+      <num>(d)</num>
+      <text>Provide the Office with the information necessary to insure that the PSP pays and the Office receives the taxicab passenger surcharge for each taxicab trip, regardless of how the fare is paid; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Allow the PSP to comply with the integration and other requirements for processing digital payments pursuant to § 408.16.</text>
+    </level>
+  </level>
+  <level>
+    <num>603.10.</num>
+    <text>Prohibitions under this section.</text>
+    <level>
+      <num>(a)</num>
+      <text>No operator shall provide taxicab service without an approved MTS unit installed and certified by an authorized MTS installation business.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>No operator shall operate a vehicle if the MTS unit is not functioning properly.</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>No operator shall provide service unless both the operator and the vehicle are on the PSP’s inventory when the trip is booked by dispatch or street hail.</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>No operator shall limit service or refuse to provide service based on the passenger’s choice of payment method.</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>No operator shall access or attempt to access a passenger’s payment card information after the payment has been processed.</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>No operator shall participate in a transaction involving taxicab service in the District where the fare, rates, charges, or payment does not comply with the applicable provisions of this title, including this chapter, and §§ 603 and 801.</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>No operator shall associate with a PSP if such operator is, at that time, associated with a taxicab company that provides payment card processing for its associated operators, and has applied for or received approval to act as a PSP under Chapter
+        4.</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>No taxicab shall be equipped with more than one (1) MTS unit.</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>No taxicab company or independent owner shall knowingly permit its vehicle to be operated in violation of this section or Chapter 4.</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>No owner or operator shall alter or tamper with a component of an MTS unit or make any change in the vehicle that prevents the MTS unit from operating in compliance with this title.</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>No operator shall operate a taxicab in which the MTS has been tampered with, broken, or altered. The operation of a taxicab with a tampered, broken, or altered MTS shall give rise to a rebuttable presumption that the operator knew of the tampering,
+        breaking, or alteration.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 60 DCR 7007 (May 17, 2013); as amended by Final Rulemaking published at 60 DCR 10994 (July 26, 2013).</text>
+    </level>
+  </level>
+</level>

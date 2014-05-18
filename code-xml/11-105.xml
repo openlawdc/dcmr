@@ -1,0 +1,320 @@
+<level>
+  <type>section</type>
+  <num>11-105</num>
+  <heading>ZONE DISTRICTS (§ 11-105)</heading>
+  <level>
+    <num>105.1.</num>
+    <text>For the purpose of this title, the District of Columbia shall be divided into the following zone districts:</text>
+    <level>
+      <num>(a)</num>
+      <text>RESIDENCE DISTRICTS, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>R-1 one-family detached dwellings, subdivided as follows:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>R-1-A low density; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>R-1-B high density;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>R-2 one-family, semi-detached dwellings;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>R-3 row dwellings;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>R-4 row dwellings, conversions, and apartments; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>R-5 general residence, subdivided as follows:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>R-5-A low density;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>R-5-B moderate density;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>R-5-C medium density;</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>R-5-D medium-high density; and</text>
+    </level>
+    <level>
+      <num>(E)</num>
+      <text>R-5-E high density;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>SPECIAL PURPOSE DISTRICTS, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>SP limited offices and apartments, subdivided as follows:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>SP-1 medium density; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>SP-2 medium-high density;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>MIXED USE (COMMERCIAL-RESIDENTIAL) DISTRICTS, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>CR mixed uses (retail, residential, office, and light industry);</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>COMMERCIAL DISTRICTS, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>C-1 neighborhood shopping;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>C-2 community business center, subdivided as follows:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>C-2-A medium density;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>C-2-B medium-high density; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>C-2-C high density;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>C-3 major business and employment center, subdivided as follows:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>C-3-A medium bulk;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>C-3-B medium bulk; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>C-3-C high bulk;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>C-4 central business district; and</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>C-5 (PAD) Pennsylvania Avenue development;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>INDUSTRIAL DISTRICTS, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>C-M commercial-light manufacturing, subdivided as follows:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>C-M-1 low bulk;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>C-M-2 medium bulk; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>C-M-3 high bulk; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>M general industry;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>LANGDON OVERLY (LO) DISTRICT;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>WATERFRONT DISTRICTS, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>W mixed uses, subdivided as follows:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>W-0 waterfront open space and recreation, low density;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>W-1 moderate density;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>W-2 medium density; and</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>W-3 high density;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>MIXED USE DIPLOMATIC OVERLAY DISTRICT, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>D low and medium density;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>HOTEL-RESIDENTIAL INCENTIVE OVERLAY DISTRICT, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>HR high density;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>CAPITOL INTEREST OVERLAY DISTRICT, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>CAP low to medium density;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>NEIGHBORHOOD COMMERCIAL OVERLAY DISTRICTS, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Cleveland Park Neighborhood Commercial (CP) Overlay District;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Woodley Park Neighborhood Commercial (WP) Overlay District;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Macomb-Wisconsin Neighborhood Commercial (MW) Overlay District;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Eighth Street Southeast Neighborhood Commercial (ES) Overlay District;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Takoma Neighborhood Commercial (TK) Overlay District;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>H Street Northeast Neighborhood Commercial (HS) Overlay District; and</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Georgia Avenue Commercial ((GA) Overlay District</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>REED &amp;#8211; COOKE (RC) OVERLAY DISTRICT;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>MISCELLANEOUS OVERLAY DISTRICTS, as follows:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Dupont Circle (DC) Overlay District;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Tree and Slope Protection (TSP) Overlay District;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Foggy Bottom (FB) Overlay District;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Naval Observatory Precinct (NO) Overlay District;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Wesley Heights (WH) Overlay District;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Sixteenth Street Heights (SSH) Overlay District;</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Fort Totten (FT) Overlay District;</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>Chain Bridge Road/University Terrace (CB/UT) Overlay District; and</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>Capitol Hill Commercial (CHC) Overlay District;</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>DOWNTOWN DEVELOPMENT (DD) OVERLAY DISTRICT;</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>UPTOWN ARTS &amp;#8211; MIXED USE (ARTS) OVERLAY DISTRICT;</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>CAPITOL GATEWAY (CG) OVERLAY DISTRICT;</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>SOUTHEAST FEDERAL CENTER (SEFC) OVERLAY DISTRICT;</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>HILL EAST (HE) DISTRICT; and</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>UNION STATION NORTH (USN) DISTRICT.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE § 2101 of the Zoning Regulations, effective May 12, 1958; as amended by:</heading>
+      <text>Final Rulemaking published at 14 DCR 20 (July 17, 1967); Final Rulemaking published at 21 DCR 1030 (November 21, 1970); Final Rulemaking published at 21 DCR 1423 (December 30, 1974); Final Rulemaking published at 27 DCR 2226, 2228 (May 23, 1980);
+        Final Rulemaking published at 28 DCR 1336, 1338 (March 27, 1981); Final Rulemaking published at 32 DCR 3022, 3027 (May 31, 1985); Final Rulemaking published at 39 DCR 8305 (November 13, 1992); Final Rulemaking published at 47 DCR 9741-43 (December
+        8, 2000), incorporating by reference the text of Proposed Rulemaking published at 47 DCR 8335, 8338-39 (October 20, 2000); and Final Rulemaking published at 49 DCR 10594, 10599-10600 (November 22, 2002); and Final Rulemaking published at51 DCR
+        3440 (April 2, 2004); and Final Rulemaking published at 51 DCR 6837 (July 9, 2004); and Final Rulemaking published at 52 DCR 63 (January 7, 2005); and Final Rulemaking published at 52 DCR 6358 (July 8, 2005); and as amended by Notice of Final
+        Rulemaking published at 58 DCR 4788, 4811 (June 3, 2011).</text>
+    </level>
+  </level>
+</level>

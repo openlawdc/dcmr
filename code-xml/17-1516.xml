@@ -1,0 +1,89 @@
+<level>
+  <type>section</type>
+  <num>17-1516</num>
+  <heading>SEALS (§ 17-1516)</heading>
+  <level>
+    <num>1516.1.</num>
+    <text>The Board shall adopt and have an official seal, which shall be affixed to each certificate of licensure.</text>
+  </level>
+  <level>
+    <num>1516.2.</num>
+    <text>When an applicant is granted licensure, he or she may obtain an engineer&amp;#8217;s or land surveyor&amp;#8217;s seal, as appropriate.</text>
+  </level>
+  <level>
+    <num>1516.3.</num>
+    <text>The seal and signature of the licensee shall be placed on all final engineering specifications, reports, drawings, plans, design information, and calculations or land surveys, reports, plats, drawings, plans, and calculations whenever presented to
+      a client or any public agency to certify that the work thereon was done by the licensee or under control of the licensee.</text>
+  </level>
+  <level>
+    <num>1516.4.</num>
+    <text>All seals shall contain the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>Jurisdiction of the licensee;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Licensee&amp;#8217;s name;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>License/certificate/registration number;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The words &amp;#8220;Professional Engineer&amp;#8221; and discipline (if licensed by) or &amp;#8220;Professional Surveyor&amp;#8221;; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Any other information requested by the Board.</text>
+    </level>
+  </level>
+  <level>
+    <num>1516.5.</num>
+    <text>Working drawings or documents that are unfinished, in-progress drawings or other documents may or may not have a seal and signature. A working drawing or document must, however, contain a statement to the effect &amp;#8220;PRELIMINARY, NOT FOR CONSTRUCTION,
+      RECORDING PURPOSES, OR IMPLEMENTATION.&amp;#8221;</text>
+  </level>
+  <level>
+    <num>1516.6.</num>
+    <text>The seal and signature shall be placed on all original copy, tracings or other reproducible documents so that the seal and signature will be reproduced when copies are made.</text>
+  </level>
+  <level>
+    <num>1516.7.</num>
+    <text>When the document contains more than one (1) sheet, the first or title page shall be sealed and signed by all involved in the work or those who controlled the work and are responsible for it. In addition, each drawing shall be sealed and signed by
+      the licensee or licensees responsible for each sheet.</text>
+  </level>
+  <level>
+    <num>1516.8.</num>
+    <text>The seal and signature shall be placed on work only when it was under the licensee&amp;#8217;s complete direction and control.</text>
+  </level>
+  <level>
+    <num>1516.9.</num>
+    <text>Computer-generated seals not signed with a digital signature may be used on final original drawings provided a handwritten signature is placed adjacent to or across the seal and the date is written below the stamp. Drawings, specifications, plans,
+      reports, or documents which do not require certification may be transmitted electronically but shall have the generated seal, if any, removed before transmitting and shall have the following inserted in lieu of the signature and date:</text>
+    <text>&amp;#8220;This document originally issued and sealed by (name of licensee), P.E.#_______/P.L.S.#_______ on (date of sealing). This document should not be considered a certified document.&amp;#8221;</text>
+  </level>
+  <level>
+    <num>1516.10.</num>
+    <text>Drawings, reports, or documents that are signed using a digital signature, as defined in these Rules, shall contain the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>An authentication procedure that includes the following elements:</text>
+    </level>
+    <text>1. A unique signature;</text>
+    <text>2. Capability to verify the source;</text>
+    <text>3. Sole control by the person using it; and</text>
+    <text>4. A link to the document in such a manner that the digital signature is invalidated if any data in the document is changed; and</text>
+    <level>
+      <num>(b)</num>
+      <text>A list of the hardware, software, and parameters used to prepare the document(s).</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 54 DCR 8783 (September 7, 2007).</text>
+    </level>
+  </level>
+</level>

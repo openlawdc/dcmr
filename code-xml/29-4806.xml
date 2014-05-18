@@ -1,0 +1,34 @@
+<level>
+  <type>section</type>
+  <num>29-4806</num>
+  <heading>CALCULATION OF APDRG SERVICE INTENSITY WEIGHTS (§ 29-4806)</heading>
+  <level>
+    <num>4806.1.</num>
+    <text>The service intensity weights shall be based upon the discharge data base supplied by 3M with the version 26 APDRG grouper and centered for participating District of Columbia hospitals.</text>
+  </level>
+  <level>
+    <num>4806.2.</num>
+    <text>The average charge per discharge shall be determined by identifying the average charge for cases within each discharge category, excluding outliers.</text>
+  </level>
+  <level>
+    <num>4806.3.</num>
+    <text>The service intensity weight for each claim shall be equal to the ratio of the average charge per discharge for each APDRG to the aggregate average charge per discharge.</text>
+  </level>
+  <level>
+    <num>4806.4.</num>
+    <text>The amount calculated in subsection 4806.3 shall be adjusted by a common factor to achieve a District wide case mix of one point zero (1.0) for the base year.</text>
+  </level>
+  <level>
+    <num>4806.5.</num>
+    <text>The service intensity weights shall be modified periodically as the 3M APDRG weights are updated and new grouper versions are adopted.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 45 DCR 4141, 4147 (June 26, 1998); as amended by Final Rulemaking published at 46 DCR 8271, 8273 (October 15, 1999); as amended by Notice of Emergency and Proposed Rulemaking published at 57 DCR 2691 (March 26, 2010)
+        [EXPIRED]; as amended by Notice of Emergency and Proposed Rulemaking published at 57 DCR 6837 (July 10, 2010) [EXPIRED]; as amended by Notice of Final Rulemaking published at 58 DCR 4323, 4328 (May 20, 2011); as amended by Final Rulemaking published
+        at 59 DCR 15078 (December 28, 2012).</text>
+    </level>
+  </level>
+</level>

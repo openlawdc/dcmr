@@ -1,0 +1,76 @@
+<level>
+  <type>section</type>
+  <num>21-1511</num>
+  <heading>HIGH-STRENGTH WASTE FEE (§ 21-1511)
+    <text>Permitted Industrial Users discharging high strength wastewater into theistrict’s wastewater system shall be assessed a high-strength waste fee, inddition to the normal sewer charges, which are based solely on the volume ofastewater discharged. The
+      purpose of the high-strength waste fee is to defrayhe extra cost to WASA for treating such wastewater.</text>
+    <text>The high-strength waste fee shall be applied to those permitted discharges whoseverage daily concentration exceeds one (1) or more of the following limits:</text>
+    <text>Biochemical Oxygen Demand (BOD) of three hundred milligrams per liter (300 mg/L)r Chemical Oxygen Demand (COD) of four hundred fifty milligrams per liter (450g/L);</text>
+    <text>Total Suspended Solids (TSS) of three hundred milligrams per liter (300 mg/L);</text>
+    <text>Total Kjeldahl Nitrogen (TKN) or Total Nitrogen (TN) of forty-five milligramser liter (45 mg/L); and</text>
+    <text>Total Phosphorus (TP) of six milligrams per liter (6 mg/L).</text>
+    <text>High-strength waste fees may be applied to additional constituents for otherigh strength wastewater based on criteria determined by WASA. Charges shall beomputed in a similar manner provided in § 1511.4.</text>
+    <text>The high-strength waste fee shall be computed using the following formula forhose constituents exceeding the values specified in § 1511.2:</text>
+    <text>High-strength waste fee = V x 8.34 x [FB (AB-300 or AC-450) + FS (AS-300) + FNAN-40) + FP (AP-6)]</text>
+    <text>Where:</text>
+    <text>V = volume of sewage in millions of gallons discharged by the Industrial Useruring the billing period.</text>
+    <text>FB = the cost for treating BOD or COD expressed in dollars/pound.</text>
+    <text>AB = the average daily concentration of BOD in the sewage discharged expressedn mg/L, or</text>
+    <text>AC = the average daily concentration of COD in the sewage discharged expressedn mg/L (use the higher value of AB-300 or AC-450).</text>
+    <text>FS = the cost for treating TSS expressed in dollars/pound.</text>
+    <text>AS = the average daily concentration of TSS in the sewage discharged expressedn mg/L.</text>
+    <text>FN = the cost for treating TKN or TN expressed in dollars/pound.</text>
+    <text>AN = the average daily concentration of TKN or TN in the sewage dischargedxpressed in mg/L.</text>
+    <text>FP = the cost for treating TP expressed in dollars/pound.</text>
+    <text>AP = the average daily concentration of TP in the sewage discharged expressedn mg/L.</text>
+    <text>The cost for treating each constituent shall be determined by WASA and providedn chapter 1 of this title.</text>
+    <text>The volume of sewage from the Industrial User shall be determined based uponither:</text>
+    <level>
+      <num>(a)</num>
+      <text>Metered or estimated water consumption for the billing period; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Metered or estimated wastewater discharge entering the sewer system.</text>
+    </level>
+    <text>If estimated flows are used, the procedure for determining the flows shall beubmitted by the Industrial User and approved by WASA.</text>
+    <text>If metered wastewater discharge to the sewer system is used, the Industrial Userhall provide and maintain at their own expense, metering facilities as requiredo indicate accurately, to the satisfaction of WASA, the volume of discharge tohe sewer system.</text>
+    <text>Flow data shall be submitted to WASA in a format and content acceptable to WASAnd at a frequency specified by WASA.</text>
+    <text>If wastewater flow data provided by the Industrial User is not submitted to WASAy the specified date, WASA may calculate the high-strength waste fee using theetered water consumption.</text>
+    <text>The average daily concentration of each constituent for each Industrial Userhall be determined at least once a year based upon:</text>
+    <level>
+      <num>(a)</num>
+      <text>All sampling and analysis results from sampling conducted by WASA for therevious twelve (12) month monitoring period, or as specified by WASA; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>All sampling and analysis results from sampling conducted by the Industrialser for the previous twelve (12) month monitoring period, or as specified byASA, that WASA determines is characteristic of the overall nature of suchischarge; or</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Historical records for Industrial Users having similar dischargeharacteristics.</text>
+    </level>
+    <text>In cases where Industrial Users have discharge pollutant concentrations thatluctuate significantly, WASA may revise the average daily concentration of theonstituents based on more frequent sampling and analysis of the discharge.</text>
+    <text>In cases where an Industrial User makes a significant change at their facilityo reduce the strength of their wastewater, WASA may revise the average dailyoncentration of the constituents based on sampling and analysis of theischarge following the
+      change.</text>
+    <text>To request a re-evaluation of the average daily concentration, the Industrialser shall submit a request to WASA containing the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>Description of the change; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Analytical data for the constituent(s) to be re-evaluated consisting ofeekly sampling for at least four (4) weeks, with the day of sampling to beotated each week, or four (4) consecutive days of sampling within one (1) weekhat are representative
+        of the discharge following the change. Samples shall beollected as twenty-four (24) hour time-proportional or flow-proportionalomposite samples, unless WASA approves otherwise. Copies of all laboratoryeports and chain of custody documentation
+        shall be included in the submittal.</text>
+    </level>
+    <text>An Industrial User may challenge the high-strength waste fees on a sanitaryewer service bill or appeal the General Managers final decision in accordanceith the procedures set for in chapter 4 of this title.</text>
+  </heading>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 33 DCR 6194, 6202 (October 10, 1986); asmended by Final Rulemaking published at 47 DCR 2948 (April 28, 2000); asmended by Notice of Final Rulemaking published at 59 DCR 1021, 1067 (February0, 2012).</text>
+    </level>
+  </level>
+</level>

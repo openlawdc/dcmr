@@ -1,0 +1,131 @@
+<level>
+  <type>section</type>
+  <num>20-747</num>
+  <heading>ADHESIVES AND SEALANTS – COMPLIANCE PROCEDURES AND TEST METHODS (§ 20-747)</heading>
+  <level>
+    <num>747.1.</num>
+    <text>Except as provided in § 747.3 through 747.5, the VOC and solids content of all non-aerosol adhesives, adhesive primers, surface preparation solvents, and cleanup solvents shall be determined using U.S. EPA Reference Method 24 (40 C.F.R. Part 60, Appendix
+      A or SCAQMD Method 304).</text>
+  </level>
+  <level>
+    <num>747.2.</num>
+    <text>The organic content of exempt organic compounds shall be determined using ASTM D4457-85, as applicable.</text>
+  </level>
+  <level>
+    <num>747.3.</num>
+    <text>The VOC content of any plastic welding cement adhesive or primer shall be determined using SCAQMD Method 316A.</text>
+  </level>
+  <level>
+    <num>747.4.</num>
+    <text>To determine if a diluent is a reactive diluent, the percent of the reactive organic compound that becomes an integral part of the finished materials shall be determined using SCAQMD Method 316A.</text>
+  </level>
+  <level>
+    <num>747.5.</num>
+    <text>The composite vapor pressure of organic compounds in cleaning materials shall be determined by quantifying the amount of each compound in the blend using gas chromatographic analysis (ASTM E 260-91) for organics and ASTM D3792-79 for water content,
+      as applicable, and the following equation:</text>
+    <text>where:</text>
+    <text>Ppc = VOC composite partial pressure at twenty degrees Celsius (20° C) or sixty-eight degrees Fahrenheit (68º F), in millimeters of mercury (mm. Hg);</text>
+    <text>Wi = Weight of the &amp;#8220;i&amp;#8221;th VOC compound, in grams, as determined by ASTM E 260-91;</text>
+    <text>Ww = Weight of water, in grams as determined by ASTM D 3792-86;</text>
+    <text>We = Weight of the &amp;#8220;i&amp;#8221;th exempt compound, in grams, as determined by ASTM E 260-91;</text>
+    <text>Mwi = Molecular weight of the &amp;#8220;i&amp;#8221;th VOC compound, in grams per g-mole, as given in chemical reference literature;</text>
+    <text>Mww = Molecular weight of water, eighteen grams (18 g.) per g-mole;</text>
+    <text>Mwe = Molecular weight of the &amp;#8220;i&amp;#8221;th exempt compound, in grams per g-mole, as given in chemical reference literature; and</text>
+    <text>Vpi = Vapor pressure of the &amp;#8220;i&amp;#8221;th VOC compound at twenty degrees Celsius (20º C) or sixty-eight degrees Fahrenheit (68º F), in millimeters of mercury (mm. Hg), as determined by § 747.6.</text>
+  </level>
+  <level>
+    <num>747.6.</num>
+    <text>The vapor pressure of each single component compound may be determined from ASTM D2879-86 or may be obtained from a published source approved by the District, such as the sources referenced in 40 C.F.R. § 52.741, or any of the following sources:</text>
+    <level>
+      <num>(a)</num>
+      <text>The most recent edition of The Vapor Pressure of Pure Substances, Boulbik, Fried, and Hala; Elsevier Scientific Publishing Company, New York;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The most recent edition of Perry’s Chemical Engineer’s Handbook, McGraw-Hill Book Company;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The most recent edition of CRC Handbook of Chemistry and Physics, Chemical Rubber Publishing Company;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The most recent edition of Lange’s Handbook of Chemistry, John Dean, editor, McGraw-Hill Book Company; or</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Additional sources approved by the SCAQMD or other California Air districts.</text>
+    </level>
+  </level>
+  <level>
+    <num>747.7.</num>
+    <text>If air pollution control equipment is used to meet the requirements of §§ 743 to 749, the owner or operator shall make the following determinations:</text>
+    <level>
+      <num>(a)</num>
+      <text>The measurement of capture efficiency shall be conducted and reported in accordance with the U.S. EPA Technical Document, “Guidelines for Determining Capture Efficiency,” issued January 9, 1995, or a District capture efficiency determination method
+        approved by the U.S. EPA; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The measurement of control efficiency shall be in accordance with U.S. EPA Methods 25, 25A, 25B, or CARB Method 100.</text>
+    </level>
+  </level>
+  <level>
+    <num>747.8.</num>
+    <text>The active and passive solvent losses from spray gun cleaning systems shall be determined using SCAQMD’s “General Test Method for Determining Solvent Losses from Spray Gun Cleaning Systems,” dated October 3, 1989. The test solvent for this determination
+      shall be any lacquer thinner with a minimum vapor pressure of one hundred and five millimeters of mercury (105 mm. Hg) at twenty degrees Celsius (20º C) or sixty-eight degrees Fahrenheit (68° F), and the minimum test temperature shall be fifteen
+      degrees Celsius (15º C) or fifty-nine degrees Fahrenheit (59° F).</text>
+  </level>
+  <level>
+    <num>747.9.</num>
+    <text>For adhesives that do not contain reactive diluents, grams of VOC per liter of adhesive, less water and exempt compounds, shall be calculated according to the following equation:</text>
+    <text>Grams of VOC per liter of adhesive = Ws &amp;#8211; Ww &amp;#8211; We</text>
+    <text>Vm &amp;#8211; Vw &amp;#8211; Ve</text>
+    <text>where:</text>
+    <text>Ws = weight of volatile compounds, in grams;</text>
+    <text>Ww = weight of water, in grams;</text>
+    <text>We = weight of exempt compounds, in grams;</text>
+    <text>Vm = volume of material, in liters;</text>
+    <text>Vw = volume of water, in liters; and</text>
+    <text>Ve = volume of exempt compounds, in liters.</text>
+  </level>
+  <level>
+    <num>747.10.</num>
+    <text>For adhesives that contain reactive diluents, the VOC content of the adhesive is determined after curing. The grams of VOC per liter of adhesive, less water and exempt compounds, shall be calculated according to the following equation:</text>
+    <text>Grams of VOC per liter of adhesive = Wrs &amp;#8211; Wrw &amp;#8211; Wre</text>
+    <text>Vrm &amp;#8211; Vrw &amp;#8211; Vre</text>
+    <text>where:</text>
+    <text>Wrs = weight of volatile compounds not consumed during curing, in grams;</text>
+    <text>Wrw = weight of water not consumed during curing, in grams;</text>
+    <text>Wre = weight of exempt compounds not consumed during curing, in grams;</text>
+    <text>Vrm = volume of material not consumed during curing, in liters;</text>
+    <text>Vrw = volume of water not consumed during curing, in liters; and</text>
+    <text>Vre = volume of exempt compounds not consumed during curing, in liters.</text>
+  </level>
+  <level>
+    <num>747.11.</num>
+    <text>Grams of VOC per liter of material shall be calculated according to the following equation:</text>
+    <text>Grams of VOC per liter of materials = Ws &amp;#8211; Ww &amp;#8211; We</text>
+    <text>Vm</text>
+    <text>where:</text>
+    <text>Ws = weight of volatile compounds, in grams;</text>
+    <text>Ww = weight of water, in grams;</text>
+    <text>We = weight of exempt compounds, in grams; and</text>
+    <text>Vm = volume of material, in liters.</text>
+  </level>
+  <level>
+    <num>747.12.</num>
+    <text>Percent VOC (% VOC) by weight shall be calculated according to the following equation:</text>
+    <text>% VOC by weight = [(Wv / W)] x 100</text>
+    <text>where:</text>
+    <text>Wv = weight of VOCs in grams; and</text>
+    <text>W = weight of material in grams.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 51 DCR 3879 (April 16, 2004); as amended by Final Rulemaking published at 51 DCR 10781 (November 26, 2004); as amended by Notice of Final Rulemaking published at 58 DCR 11286, 11359 (December 30, 2011).</text>
+    </level>
+  </level>
+</level>

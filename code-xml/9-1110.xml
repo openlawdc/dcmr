@@ -1,0 +1,67 @@
+<level>
+  <type>section</type>
+  <num>9-1110</num>
+  <heading>ROLLOVER OF CAPITAL GAIN FROM QUALIFIED STOCK TO OTHER QUALIFIED STOCK (§-1110)</heading>
+  <level>
+    <num>1110.1.</num>
+    <text>In the event of a sale of qualified stock held by a taxpayer other than a corporation for more than 6 months and with respect to which the taxpayer elects the application of this section, gain from the sale shall be recognized to the extent the amount
+      realized on the sale exceeds the cost of qualified stock purchased by the taxpayer during the sixty (60) day period beginning on the date of the sale, reduced by the amount of the gain, not to exceed such cost, previously deferred under this section.</text>
+  </level>
+  <level>
+    <num>1110.2.</num>
+    <text>A taxpayer shall be treated as having purchased qualified stock if, but for the purposes of §§ 1110.3 and 1110.4, the adjusted basis of the property in the hands of the taxpayer would be its cost.</text>
+  </level>
+  <level>
+    <num>1110.3.</num>
+    <text>If gain from a sale is not recognized under § 1110.1, the unrecognized gain shall reduce the basis of qualified stock, in the order acquired, which is purchased by the taxpayer during the sixty (60) day period described in § 1110.1.</text>
+  </level>
+  <level>
+    <num>1110.4.</num>
+    <text>For purposes of determining whether the non-recognition of gain under § 1110.1 applies to qualified stock which is sold:</text>
+    <level>
+      <num>(a)</num>
+      <text>The taxpayer&amp;#8217;s holding period for the stock and the stock referred to in this section shall be determined without regards to IRC § 1223; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Only the first 6 months of the taxpayer&amp;#8217;s holding period for the stock referred to in this section shall be taken into account for purposes of applying IRC § 1202(c)(2).</text>
+    </level>
+  </level>
+  <level>
+    <num>1110.5.</num>
+    <text>This section shall not apply to any gain that is treated as ordinary income under the IRC.</text>
+  </level>
+  <level>
+    <num>1110.6.</num>
+    <text>The following is an example of the application of §§ 1110.1 through 1110.5:</text>
+    <text>G, an individual taxpayer, purchased qualified stock in QHTC X on January 1, 2001 for $7,000. On July 1, 2001, G sells all her stock in Company X for $10,000. On August 1, 2001, G purchases qualified stock in QHTC Y for $5,000. The stock of Company
+      X and Company Y is qualified small business stock as defined by IRC §1202. G elects to apply this section, and the effect is computed in the following manner:</text>
+    <text>01/01/01 Purchase qualified stock in Company X</text>
+    <text>Adjusted Basis</text>
+    <text>$7,000.00</text>
+    <text>07/01/01 Sold Company X stock</text>
+    <text>Amount Realized</text>
+    <text>$10,000.00</text>
+    <text>Amount of Gain (line 1 minus line 2)</text>
+    <text>$3,000.00</text>
+    <text>Amount realized on sale (line 2)</text>
+    <text>$10,000.00</text>
+    <text>Less qualified stock in Company Y purchased within 60 days of sale</text>
+    <text>($5,000.00)</text>
+    <text>Less Amount of Gain (line 3)</text>
+    <text>($3,000.00)</text>
+    <text>Amount of Gain recognized</text>
+    <text>$2,000.00</text>
+    <text>Amount of Gain not recognized (line 3 minus line 7)</text>
+    <text>$1,000.00</text>
+    <text>Basis in Company Y&amp;#8217;s stock (line 5 minus line 8)</text>
+    <text>$4,000.00</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 49 DCR 2142 (March 8, 2002).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,122 @@
+<level>
+  <type>section</type>
+  <num>15-3706</num>
+  <heading>BILLING ERROR NOTIFICATION (§ 15-3706)</heading>
+  <level>
+    <num>3706.1.</num>
+    <text>The natural gas utility and all natural gas service providers must inform OE and OPC when a billing error has affected 100 or more customers or when the number of affected customers is equal to or more than two (2) percent of the natural gas utility’s
+      or natural gas service provider’s customer base, whichever is fewer. The natural gas utility and natural gas service providers with a customer base of fewer than 100 customers shall report errors when two (2) or more customers are affected.</text>
+  </level>
+  <level>
+    <num>3706.2.</num>
+    <text>The natural gas utility and all natural gas service providers shall submit an initial billing error notification within one (1) business day of discovering or being notified of the error. After submitting the initial notification, the natural gas
+      utility and natural gas service providers must submit a follow-up written report within 14 calendar days and a final written report within 60 calendar days.</text>
+  </level>
+  <level>
+    <num>3706.3.</num>
+    <text>The initial billing error notification shall be sent via e-mail to OE and OPC.</text>
+  </level>
+  <level>
+    <num>3706.4.</num>
+    <text>The initial billing error notification shall contain the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>Type(s) of billing error(s) found;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Date and time the billing error(s) was discovered;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>How the natural gas utility service provider discovered the error(s); and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Approximate number of customers affected.</text>
+    </level>
+  </level>
+  <level>
+    <num>3706.5.</num>
+    <text>The follow-up written report shall be filed with the Commission, with a copy provided to OPC, and shall contain the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>Type(s) of billing error(s);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Date and time of the billing error(s);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Number of customers affected;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Cause of the error and status of any and all corrective action(s) taken; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Timeline for completing any and all other required corrective action(s) which must include the provision of refunds and/or credits, no later than 60 days after the billing error(s) was discovered, as necessary to correct the billing error(s).</text>
+    </level>
+  </level>
+  <level>
+    <num>3706.6.</num>
+    <text>The final written report shall be filed with the Commission, with a copy provided to OPC, and shall contain the following information:</text>
+    <level>
+      <num>(a)</num>
+      <text>Type(s) of billing error(s);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Date and time of billing error(s);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Number of customers affected and the dollar amount involved;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Duration of the billing error(s);</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Corrective action(s) and preventative measure(s) taken; and</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Lessons learned, if any.</text>
+    </level>
+  </level>
+  <level>
+    <num>3706.7.</num>
+    <text>Upon receipt of the final written report, the Commission shall determine whether any further investigation is necessary.</text>
+  </level>
+  <level>
+    <num>3706.8.</num>
+    <text>No later than 60 days after the date the natural gas utility or natural gas supplier discovers or is notified of the billing error(s), it shall notify each affected customer of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>The nature of the error;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The amount by which the customer&amp;#8217;s previous bill(s) were</text>
+    </level>
+    <text>inaccurate; and</text>
+    <level>
+      <num>(c)</num>
+      <text>If appropriate, the steps the natural gas utility or natural gas service provider will take to ensure that the customer receives a full refund if overbilled or make payment if underbilled no later than the date specified in Section 3706.5(e).</text>
+    </level>
+    <text>The natural gas utility shall inform customers by letter or bill insert to describe the nature of the billing error and the corrective action that the company intends to implement. If a refund or outstanding balance appears on a customer’s billing
+      statement, the gas utility shall provide a clear description and explanation of the reason(s) for the error.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Notice of Final Rulemaking published at 56 DCR 7646 (September 25, 2009), incorporating text of Proposed Rulemaking published at 56 DCR 1827, 1845 (February 27, 2009); as amended by Final Rulemaking published at 56 DCR 9562 (December 25, 2009),
+        incorporating text of Proposed Rulemaking published at 56 DCR 8599, 8600 (October 30, 2009); as amended by Notice of Final Rulemaking published at 59 DCR 1601 (February 24, 2012).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,115 @@
+<level>
+  <type>section</type>
+  <num>20-1004</num>
+  <heading>ALLOWANCE TRANSFER AND USE (§ 20-1004)</heading>
+  <level>
+    <num>1004.1.</num>
+    <text>An allowance is a marketable emissions authorization that may be bought, sold, or traded during any year and subject to the following limitations:</text>
+    <level>
+      <num>(a)</num>
+      <text>An allowance shall not constitute a security or other form of property;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The number of whole allowances shall be determined by rounding down for decimals less than five-tenths (.5) and rounding up for decimals greater than five-tenths (.5); and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>All allowances shall be allocated, transferred, or used as whole allowances.</text>
+    </level>
+  </level>
+  <level>
+    <num>1004.2.</num>
+    <text>An allowance may only be used for compliance with this Chapter in a designated compliance year by being in a compliance account as of the allowance transfer deadline, or by being transferred into the compliance account by an allowance transfer submitted
+      by the allowance transfer deadline.</text>
+  </level>
+  <level>
+    <num>1004.3.</num>
+    <text>A budget source shall use the following procedures to effect an allowance transfer:</text>
+    <level>
+      <num>(a)</num>
+      <text>The transfer request shall be documented on forms or electronic media the Administrator prescribes and shall be accompanied by the following information:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>The account numbers of the transferor and transferee;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The names and addresses of the transferor and transferee; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The serial number of each allowance transferred.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The transfer request shall be authorized and certified by the AAR for the originating account. The transfer request shall include the following signed statement of certification:</text>
+    </level>
+    <text>I am authorized to make this submission on behalf of the owners and operators of the budget source and I hereby certify under penalty of law, that I have personally examined the foregoing and am familiar with the information contained in this document
+      and all attachments, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe the information is true, accurate and complete. I am aware that there are significant penalties for submitting
+      false information, including possible fines and imprisonment.</text>
+    <level>
+      <num>(c)</num>
+      <text>The AAR for the originating account shall further provide a copy of the transfer request to each owner or operator of the budget source.</text>
+    </level>
+  </level>
+  <level>
+    <num>1004.4.</num>
+    <text>The Administrator will process transfer requests by order of receipt.</text>
+  </level>
+  <level>
+    <num>1004.5.</num>
+    <text>The transfer is complete when the Administrator has verified the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Each allowance listed in the transfer request is held by the originating account at the time the transfer is to be recorded;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The acquiring party has a NATS account; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The person named as the AAR for the originating account has filed the transfer request.</text>
+    </level>
+  </level>
+  <level>
+    <num>1004.6.</num>
+    <text>Allowance transfers that the Administrator verifies as valid will be recorded in the NATS by deducting the allowance from the originating account and adding it to the acquiring account.</text>
+  </level>
+  <level>
+    <num>1004.7.</num>
+    <text>The Administrator will provide written notification of each allowance transfer to the AARs of the originating account and the acquiring account, and to designated state and District officials where the acquiring account or originating account are
+      located. Notification may be made on paper or in electronic form and will, at a minimum, include:</text>
+    <level>
+      <num>(a)</num>
+      <text>The effective date of transfer;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The names and account numbers of the originating account and the acquiring account; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The quantity and serial numbers of allowances transferred.</text>
+    </level>
+  </level>
+  <level>
+    <num>1004.8.</num>
+    <text>If a budget source determines that some or all allocated allowances should be transferred to another budget source for the remainder of the current allocation period, the AAR of the originating account shall submit a request for transfer that states
+      this intent to the Administrator. A request for transfer of allowances for the remainder of the allocation period shall conform to the specifications of § 1004.3. In addition, the request for transfer shall be submitted to the Director with a letter
+      requesting that future allowance allocations be made directly to the acquiring account.</text>
+  </level>
+  <level>
+    <num>1004.9.</num>
+    <text>Nothing in this section shall be construed to prevent or limit the interstate trading of NOx budget allowances within the Ozone Transport Region, if the source is located in a jurisdiction with a valid NOx budget program.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>As amended by final rulemaking published at 47 DCR 8646(October 10, 2000); as amended by final rulemaking published at 47 DCR 9686 (December 8, 2000).</text>
+    </level>
+  </level>
+</level>

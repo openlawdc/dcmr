@@ -1,0 +1,44 @@
+<level>
+  <type>section</type>
+  <num>20-1005</num>
+  <heading>ALLOWANCE BANKING (§ 20-1005)</heading>
+  <level>
+    <num>1005.1.</num>
+    <text>Unused allowances, as of the allowance transfer deadline, shall be retained in the compliance or general account as banked allowances.</text>
+  </level>
+  <level>
+    <num>1005.2.</num>
+    <text>By March 1st of each year, the Director shall determine the number of banked allowances that may be used for compliance in the current year as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>If the total number of banked allowances in the OTR is ten percent (10%) or less of the NOx budget for the current year control period, all banked allowances can be used in the current year on a one-for-one basis.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>If the total number of banked allowances in the OTR exceeds ten percent (10%) of the NOx budget for the current year control period, banked allowances shall be subject to the following use protocol:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>A ratio will be established according to the following formula:</text>
+    </level>
+  </level>
+  <level>
+    <num>0.10</num>
+    <text>0.10</text>
+    <text>×</text>
+    <text>OTR NOx Budget</text>
+    <text>Total no. of OTR banked allowances</text>
+    <level>
+      <num>(2)</num>
+      <text>The ratio calculated in § 1005.2(b)(1) shall be applied to the banked allowances in each account. The resulting number is the number of banked allowances in the account that can be used in the current year control period on a one-for-one (1:1) basis.
+        Allowances in excess of this number, if used, shall be used on a two-for-one (2:1) basis.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>As amended by final rulemaking published at 47 DCR 8646(October 10, 2000); as amended by final rulemaking published at 47 DCR 9686 (December 8, 2000).</text>
+    </level>
+  </level>
+</level>

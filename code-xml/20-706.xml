@@ -1,0 +1,152 @@
+<level>
+  <type>section</type>
+  <num>20-706</num>
+  <heading>PETROLEUM DRY CLEANERS (§ 20-706)</heading>
+  <level>
+    <num>706.1.</num>
+    <text>Section 706 shall apply to petroleum solvent washers, dryers, solvent filters, settling tanks, vacuum stills, and other containers and conveyors of petroleum solvent that are used in petroleum solvent dry cleaning facilities.</text>
+  </level>
+  <level>
+    <num>706.2.</num>
+    <text>Each owner or operator of a petroleum solvent dry cleaning dryer shall do one (1) of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Limit emissions to the atmosphere to an average of three and one-half pounds (3.5 lbs.) of volatile organic compounds per one-hundred pounds (100 lbs.) dry weight of articles dry cleaned; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Install and operate a solvent recovery dryer in a manner such that the dryer remains closed and the recovery phase continues until the final recovered solvent flow rate of fifty (50) milliliters per minute is attained.</text>
+    </level>
+  </level>
+  <level>
+    <num>706.3.</num>
+    <text>Each owner or operator of a petroleum solvent filtration system shall do one (1) of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Reduce the volatile organic compound content in all filtration wastes to one pound (1.0 lb.) or less per one hundred pounds (100 lbs.) dry weight of articles dry cleaned, before disposal and exposure to the atmosphere, or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Install and operate a cartridge filtration system, and drain the filter cartridges in their sealed housings for eight hours (8 hrs.) or more before their removal.</text>
+    </level>
+  </level>
+  <level>
+    <num>706.4.</num>
+    <text>Each owner or operator of a petroleum solvent vacuum still shall store all vacuum still wastes in a manner that minimizes emission of volatile organic compounds to the atmosphere.</text>
+  </level>
+  <level>
+    <num>706.5.</num>
+    <text>Each owner or operator of a petroleum solvent dry cleaning facility shall repair all petroleum solvent vapor and liquid leaks within three (3) working days after identifying the leaks. If necessary repair parts are not on hand, the owner or operator
+      shall order these parts within three (3) working days, and repair the leaks no later than three (3) working days following the arrival of the necessary parts.</text>
+  </level>
+  <level>
+    <num>706.6.</num>
+    <text>The Mayor may exempt any facility from any provision of §§ 706.2 through 706.5 if it is demonstrated that hardships justify such an exemption.</text>
+  </level>
+  <level>
+    <num>706.7.</num>
+    <text>Compliance with § 706.2(a) shall be determined by the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Calculating and recording the weight of the volatile organic compounds vented from the dryer emission control device calculated by using EPA Reference Test (40 CFR, Part 60) Methods 1 and 2, and Method 25A published at 45 CFR 83126, December 17,
+        1980, with the following specifications:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Field calibration of the flame ionization analyzer with propane standards;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Laboratory determination of the flame ionization analyzer response to a given part per million by volume concentration of propane to the response to the same parts per million concentration of the volatile organic compounds to be measured; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Determination of the weight of volatile organic compounds vented to the atmosphere by the following:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>The multiplication of the ratio determined in § 706.7(a)(2) by the measured concentration of volatile organic compound gas (as propane) as indicated by the flame ionization analyzer response output record;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The conversion of the parts per million by volume value calculated in § 706.7(a)(3)(A) into a mass concentration value for the volatile organic compounds present; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Multiplying the mass concentration value calculated in § 706.7(a)(3)(B) by the exhaust flow rate determined by using EPA Reference Test Methods 1 and 2;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Calculating and recording the dry weight of articles dry cleaned; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Repeating paragraphs (a) and (b) of this subsection for normal operating conditions that encompass at least thirty (30) dryer loads, which total not less than four thousand (4,000) pounds dry weight, and represent a normal range of variations in
+        fabrics, solvents, load weights, temperatures, flow rates, and process deviations.</text>
+    </level>
+  </level>
+  <level>
+    <num>706.8.</num>
+    <text>Compliance with § 706.2(b) shall be determined by the owner or operator verifying that the flow rate of recovered solvent from the solvent recovery dryer at the termination of the recovery phase is no greater than fifty (50) millimeters per minute.</text>
+  </level>
+  <level>
+    <num>706.9.</num>
+    <text>The procedure referred to in § 706.8 shall be conducted one (1) time for a duration of no less than two (2) weeks during which time no less than fifty percent (50%) of the dryer loads shall be monitored for their final recovered solvent flow rate.
+      The suggested point for measuring the flow rate of recovered solvent is from the solvent-water separator. Near the end of the recovery cycle, the flow of recovered solvent should be diverted to a graduated cylinder. The cycle should continue until
+      the minimum flow of solvent is fifty (50) milliliters per minute. The type of articles cleaned and the total length of the cycle should then be recorded.</text>
+  </level>
+  <level>
+    <num>706.10.</num>
+    <text>Compliance with § 706.3(a) shall be determined as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>Calculate and record the weight of volatile organic compounds contained in at least five (5) two (2) pound samples of filtration waste taken at intervals of at least one (1) week, by employing ASTM Method D322-80 (Gasoline Diluent in Used Gasoline
+        Engine Oils by Distillation);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Calculate and record the total dry weight of articles dry cleaned during the intervals between removal of filtration waste samples, as well as the total mass of filtration waste produced in the same period; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Calculate and record the weight of volatile organic compounds contained in filtration waste material per one-hundred pounds (100 lbs.) dry weight of articles dry cleaned.</text>
+    </level>
+  </level>
+  <level>
+    <num>706.11.</num>
+    <text>Compliance with §§ 706.4 through 706.5 requires that each owner or operator make weekly inspections of washers, dryers, solvent filters, settling tanks, vacuum stills, and all containers and conveyors of petroleum solvent to identify perceptible volatile
+      organic compounds vapor or liquid leaks.</text>
+  </level>
+  <level>
+    <num>706.12.</num>
+    <text>To be in compliance with §§ 706.2 through 706.5 the owner or operator may use an equivalent test procedure or method; Provided, that this method or procedure has been previously approved by the Mayor.</text>
+  </level>
+  <level>
+    <num>706.13.</num>
+    <text>The owner or operator of a petroleum solvent dry cleaning facility subject to this subtitle which is in existence on the effective date of the District of Columbia Air Pollution Control Act of 1984 shall meet the applicable increments of progress
+      contained in the following schedule:</text>
+    <level>
+      <num>(a)</num>
+      <text>Submit to the Mayor final plans for the emission control equipment no later than June 1, 1985;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Award contracts for the emission control equipment no later than September 1, 1985;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Complete on-site construction or installation of the emission control equipment no later than August 1, 1986; and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Achieve final compliance with the Regulation no later than September 1, 1986.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Section 3 of the District of Columbia Air Pollution Control Act of 1984, D.C. Law 5-165, § 706, 32 DCR 565, 630 (February 1, 1985).</text>
+    </level>
+  </level>
+</level>

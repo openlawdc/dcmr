@@ -1,0 +1,70 @@
+<level>
+  <type>section</type>
+  <num>15-2370</num>
+  <heading>PERIODIC AND PERFORMANCE TESTING (§ 15-2370)</heading>
+  <level>
+    <num>2370.1.</num>
+    <text>Each gas corporation shall periodically test its meters, associated devices, and instruments to assure their accuracy unless otherwise authorized or required by the Commission.</text>
+  </level>
+  <level>
+    <num>2370.2.</num>
+    <text>Each gas corporation may elect to test all meters in each group in accordance with the Periodic and Performance Testing Program, as set forth in this section, or in accordance with § 2371, the In-Service Performance Testing Program, or in accordance
+      with any other meter testing program approved by the Commission’s Office of Engineering.</text>
+  </level>
+  <level>
+    <num>2370.3.</num>
+    <text>Each gas corporation shall notify the Commission&amp;#8217;s Office of Engineering within twelve (12) months of the effective date of this section, which method it will follow for each group, and the election shall then be effective for at least five
+      (5) years.</text>
+  </level>
+  <level>
+    <num>2370.4.</num>
+    <text>Meters shall be grouped as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>Group I &amp;#8211; Up to and including four hundred fifty (450) cfh rated capacity;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Group II &amp;#8211; Over four hundred fifty (450) cfh capacity and up to and including one thousand eight hundred (1,800) cfh rated capacity; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Group III &amp;#8211; Over one thousand eight hundred (1,800) cfh rated capacity.</text>
+    </level>
+  </level>
+  <level>
+    <num>2370.5.</num>
+    <text>The meter test schedule for the respective groups shall be as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>Group I meters shall be tested at least once in fourteen (14) years;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Group II meters shall be tested at least once in ten (10) years; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Group III &amp;#8211; meters shall be tested at least once in five (5) years.</text>
+    </level>
+  </level>
+  <level>
+    <num>2370.6.</num>
+    <text>Pressure compensating devices and pressure recording devices shall be tested at least once every twenty-four (24) months.</text>
+  </level>
+  <level>
+    <num>2370.7.</num>
+    <text>Temperature compensating devices and temperature recording devices shall be tested at least once every twenty-four (24) months.</text>
+  </level>
+  <level>
+    <num>2370.8.</num>
+    <text>Regulators associated with meters shall have the same interval between tests as its associated meter.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7938, 7948 (November 4, 1988); as amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).</text>
+    </level>
+  </level>
+</level>

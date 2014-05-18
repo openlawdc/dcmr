@@ -1,0 +1,40 @@
+<level>
+  <type>section</type>
+  <num>20-6209</num>
+  <heading>TIER 1 STANDARDS (§ 20-6209)</heading>
+  <level>
+    <num>6209.1.</num>
+    <text>The Tier 1 standards for water shall be as follows:</text>
+    <level>
+      <num>(a)</num>
+      <text>The Tier 1 levels for ground water quality shall be the District of Columbia Water Quality Standards for Ground Water (21 DCMR Chapter 11) as outlined by the Director in the Risk-Based Decisionmaking Technical Guidance Document.</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The standard for total petroleum hydrocarbons (TPH) in ground water contaminated by non-gasoline petroleum contamination shall be one part per million (1 ppm).</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The Tier 1 levels for surface water quality are the District of Columbia Water Quality Standards (21 DCMR Chapter 11).</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Methyl tertiary-Butyl-Ether (MtBE) as adopted by the Director in the Risk-Based Decisionmaking Technical Guidance Document.</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Naphthalene as adopted by the Director in the Risk-Based Decisionmaking Technical Guidance Document.</text>
+    </level>
+  </level>
+  <level>
+    <num>6209.2.</num>
+    <text>Until the Director adopts the Tier 1 quality standards for soil or outlined in the Risk-Based Decisionmaking Technical Guidance Document, the Tier 0 standards for soil shall serve as the interim Tier 1 soil standards.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 40 DCR 7835, 7895 (November 12, 1993); as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999).</text>
+    </level>
+  </level>
+</level>

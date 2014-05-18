@@ -1,0 +1,49 @@
+<level>
+  <type>section</type>
+  <num>20-6007</num>
+  <heading>TANK TIGHTNESS TESTING (§ 20-6007)</heading>
+  <level>
+    <num>6007.1.</num>
+    <text>Tank tightness testing shall be capable of detecting a one-tenth of a gallon per hour (0.1 gal/hr) leak rate from any portion of the tank that regularly contains or conveys a regulated substance and shall account for the effects of the following factors
+      when detecting a leak rate:</text>
+    <level>
+      <num>(a)</num>
+      <text>Thermal expansion or contraction of the regulated substance;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Vapor pockets;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Tank deformation;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Evaporation or condensation; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>The location of the water table.</text>
+    </level>
+  </level>
+  <level>
+    <num>6007.2.</num>
+    <text>Owners or operators shall conduct a tightness test to satisfy the installation, upgrade and repair requirements as set forth in Chapter 57, 58 and 59 of this Subtitle before the operation of the UST system.</text>
+  </level>
+  <level>
+    <num>6007.3.</num>
+    <text>Owners or operators may use tightness testing as the sole method of release detection for heating oil tanks only.</text>
+  </level>
+  <level>
+    <num>6007.4.</num>
+    <text>Owners or operators may use tightness testing for confirming a suspected release to satisfy the requirements set forth in § 6203.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 40 DCR 7835, 7872 (November 12, 1993); as amended by Final Rulemaking published at 46 DCR 7699 (October 1, 1999).</text>
+    </level>
+  </level>
+</level>

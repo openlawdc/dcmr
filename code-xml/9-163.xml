@@ -1,0 +1,39 @@
+<level>
+  <type>section</type>
+  <num>9-163</num>
+  <heading>COMBINED REPORTING[COLON] DETERMINATION OF TAXABLE INCOME OR LOSS USING COMBINEDEPORT (§ 9-163)</heading>
+  <level>
+    <num>163.1.</num>
+    <text>The use of a combined report does not disregard the separate identities of the taxpayer members of the combined group. Each taxpayer member is responsible for tax based on its taxable income or loss apportioned or allocated to the District, which
+      shall include, in addition to other types of income, the taxpayer member’s apportioned share of business income of the combined group, where business income of the combined group is calculated as a summation of the individual net business incomes
+      of all members of the combined group. A member’s net business income is determined by removing all except business income, expense and loss from that member’s total income, as provided in D.C. Official Code §§ 47-1810.04 and 47-1810.05.</text>
+  </level>
+  <level>
+    <num>163.2.</num>
+    <text>Example: General computation of the taxpayer member’s income.</text>
+    <text>Taxpayer’s federal taxable income (determined without regard to federal consolidated rules)</text>
+    <text>+ or – District adjustments</text>
+    <text>– Taxpayer’s nonbusiness income</text>
+    <text>– Taxpayer’s business income from another unitary business (separately apportioned)</text>
+    <text>= Taxpayer’s unitary business income</text>
+    <text>+ Other group members’ similarly calculated unitary business income</text>
+    <text>= Total unitary business income</text>
+    <text>x Taxpayer’s apportionment percentage (where each factor numerator is taxpayer’s in District factor, and each factor denominator is the sum of all group members’ factors)</text>
+    <text>= Taxpayer’s District unitary business income</text>
+    <text>+ Taxpayer’s nonbusiness income allocated to the District</text>
+    <text>+ Taxpayer’s business income from another unitary business (separately apportioned)</text>
+    <text>= Taxpayer’s District taxable income</text>
+    <text>x Tax rate</text>
+    <text>= Taxpayer’s gross District tax</text>
+    <text>– Taxpayer’s District tax credits</text>
+    <text>= Taxpayer’s District tax liability</text>
+    <text>See also 9 DCMR §170 for inclusion of unincorporated business and partnership income in the above calculation and 9 DCMR §171 for minimum tax due.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 59 DCR 10875, 10888 (September 14, 2012).</text>
+    </level>
+  </level>
+</level>

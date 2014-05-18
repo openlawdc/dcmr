@@ -1,0 +1,93 @@
+<level>
+  <type>section</type>
+  <num>3-800</num>
+  <heading>VOTING SYSTEM STANDARDS (§ 3-800)</heading>
+  <level>
+    <num>800.1.</num>
+    <text>Each voting system used in an election in the District of Columbia shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Meet or exceed the voting system standards set forth in the Help America Vote Act of 2002, approved October 29, 2002 (116 Stat. 1666; 42 U.S. C. § 15301 et seq.), and/or be federally certified;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Create a voter-verifiable record of all votes cast;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Be capable without further modification of creating, storing, and exporting an anonymous separate machine record of each voter-verifiable record, showing each choice made by the voter;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Produce an input to or generate a final report of the election, and interim reports as necessary;</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Generate system status and error messages;</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Produce an audit log;</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Accommodate interactive visual and non-visual presentation of information to voters;</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>Permit voting in absolute secrecy and be constructed so that no person can see or know for whom any other elector has voted or is voting, except when a voter requests assistance pursuant to § 710;</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>Permit each elector to vote at any election for all persons and offices for whom and for which the elector is lawfully entitled to vote, whether or not the name of any such person appears pre-printed on a ballot;</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>Preclude each elector from voting for any candidate or upon any question for whom or upon which the elector is not entitled to vote, from voting for more persons for any office than the elector is entitled to vote for, and from voting for any candidates
+        for the same office upon any question more than once;</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>Permit each elector to vote for as many persons for an office as the elector is entitled to vote for, and to vote for or against any question upon which the elector is entitled to vote;</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>Permit each elector to change the elector’s vote for any candidate or upon any ballot question, up until the time the elector casts and records the elector’s vote;</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>Be durably constructed of material of good quality, and in a form that shall be safely transportable;</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>Be constructed that a voter can quickly and easily learn the method of operating it and cast a vote for all candidates of the voter’s choice, and when operated properly shall register and record correctly and accurately every vote cast:</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>Not provide to a voter any type of receipt or voter confirmation that the voter legally may retain after leaving the polling place; and</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>Provide locks and seals by which, immediately after the polls are closed or the operation of the machine is completed, no further changes to the internal counters can be allowed.</text>
+    </level>
+  </level>
+  <level>
+    <num>800.2.</num>
+    <text>The Executive Director, or his or her designee, shall complete acceptance testing of new voting equipment to ensure that each unit of voting equipment meets or exceeds the voting system standards described in this section and any other specifications
+      required by procurement contract.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>AUTHORITY</heading>
+      <text>Unless otherwise noted, the authority for this chapter is section 5 of the District of Columbia Election Act, 69 Stat.700, ch. 862, § 5, D.C. Code § 1- 1001.05(a)(14) (2006 Repl.).</text>
+    </level>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 27 D.C. Reg. 1836 (May 2, 1980), incorporating the text of Proposed Rulemaking published at 27 D.C. Reg. 1222, 1230-31 (March 21, 1980); as amended by Final Rulemaking published at 27 D.C. Reg. 2763 (June 27, 1980);
+        incorporating text at Proposed Rulemaking published at 27 D.C. Reg. 1929, 1934-35 (May 9, 1980); and further amended by Final Rulemaking published at 35 D.C. Reg. 5454, 5458 (July 15, 1988); as amended by Final Rulemaking published at 51 D.C.
+        Reg. 5062-5063 (May 14, 2004); as amended by Final Rulemaking published at 51 D.C. Reg. 7425-7426 (July 30, 2004); as amended by Notice of Emergency and Proposed Rulemaking published at 57 DCR 7705 (August 20, 2010)[EXPIRED]; as amended by Notice
+        of Final Rulemaking published at 57 DCR 11149 (November 26, 2010).</text>
+    </level>
+  </level>
+</level>

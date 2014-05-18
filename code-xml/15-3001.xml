@@ -1,0 +1,28 @@
+<level>
+  <type>section</type>
+  <num>15-3001</num>
+  <heading>TIME (§ 15-3001)</heading>
+  <level>
+    <num>3001.1.</num>
+    <text>In computing any period of time specified in this chapter, calendar days shall be counted.</text>
+  </level>
+  <level>
+    <num>3001.2.</num>
+    <text>In computing any period of time specified in this chapter, the day of the act, event, or default from which the designated period of time begins to run shall not be included.</text>
+  </level>
+  <level>
+    <num>3001.3.</num>
+    <text>The last day of the period shall be included unless it is a Saturday, Sunday, or legal holiday, in which event the period runs until the end of the next day which is not a Saturday, Sunday, or legal holiday.</text>
+  </level>
+  <level>
+    <num>3001.4.</num>
+    <text>Whenever the rules in this chapter direct or permit an act within a prescribed period after service of a notice or other paper and the notice or paper is served by mail, three (3) days shall be added to the prescribed period.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7175, 7176 (September 30, 1988).</text>
+    </level>
+  </level>
+</level>

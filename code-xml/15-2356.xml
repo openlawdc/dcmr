@@ -1,0 +1,47 @@
+<level>
+  <type>section</type>
+  <num>15-2356</num>
+  <heading>PREINSTALLATION TESTS OF ROTARY METERS (§ 15-2356)</heading>
+  <level>
+    <num>2356.1.</num>
+    <text>Rotary meters on which an original test record of the differential pressures is established, as soon as practicable after installation, may subsequently be tested by comparing the new differential pressures with the original test record. This subsequent
+      test may be in place of normal testing with a bell prover or other approved working standard.</text>
+  </level>
+  <level>
+    <num>2356.2.</num>
+    <text>In establishing the original test record, the pressure differential shall be recorded at two (2) or more load levels, with the minimum being no less than twenty percent (20%) of the rated capacity at the operating pressure of the meter.</text>
+  </level>
+  <level>
+    <num>2356.3.</num>
+    <text>The meters shall be given a differential pressure test at least once every twenty-four (24) months unless covered under an approved in-service performance testing program.</text>
+  </level>
+  <level>
+    <num>2356.4.</num>
+    <text>When the test differential pressure differs from the original test record by more than fifty percent (50%), the meter shall not be used for measurement for revenue billing purposes until, by cleaning or repairing, the differential pressure is not
+      more than fifty percent (50%) in excess of the original test record.</text>
+  </level>
+  <level>
+    <num>2356.5.</num>
+    <text>If the differential pressure cannot be brought within the above limits by cleaning or repairing, the meter shall be removed from service and replaced with an accurate meter.</text>
+  </level>
+  <level>
+    <num>2356.6.</num>
+    <text>The differential pressure test shall not be used as a periodic test on rotary meters having a rated capacity of less than eight hundred (800) cubic foot per hour (cfh), or on rotary meters on which the results of a differential pressure test would
+      not be conclusive, such as meters connected to the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>Loads which are less than twenty percent (20%) for the rated capacity of the meters; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Rapidly fluctuating loads.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7938, 7942 (November 4, 1988); as amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,352 @@
+<level>
+  <type>section</type>
+  <num>16-3606</num>
+  <heading>HOSPITAL INFRACTIONS (§ 16-3606)</heading>
+  <level>
+    <num>3606.1.</num>
+    <text>Violation of any of the following provisions shall be a Class 1 infraction:</text>
+    <level>
+      <num>(a)</num>
+      <text>22 DCMR § 2002.1 (operating a hospital without a license);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>22 DCMR § 2101.2 (failure to have the medical staff of each service under the direction and supervision of a qualified physician specialist);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>22 DCMR § 2101.4 (failure to provide adequate medical staff);</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>22 DCMR § 2105 (failure to have physicians available as specified or failure to have ea2ch patient under the care of a physician);</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>22 DCMR § 2112, except § 2112.13 and § 2112.14 (failure to comply with requirements concerning adequacy, direction, qualifications and duties of nursing staff);</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>22 DCMR § 2200.1 (failure to have the anesthesia service under the direction of an anesthesiologist);</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>22 DCMR § 2200.2 (failure to have an anesthesiologist or nurse-anesthetist present or on call at all times);</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>22 DCMR § 2202.1 (failure to have the emergency room under the direction and supervision of a physician);</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>22 DCMR § 2202.2 (failure to have qualified professional staff available for duty in the emergency room);</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>22 DCMR § 2203.1 (failure to have the maternity and newborn service under the direction and supervision of an obstetrician and a pediatrician);</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>22 DCMR § 2203.6 (failure to provide sufficient nursing staff for the maternity and newborn service);</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>22 DCMR § 2205, except § 2205.6 (failure to comply with requirements concerning the adequacy, direction, supervision and qualifications of the medical service physicians and nursing staff);</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>22 DCMR § 2206.1 (failure to have the pediatric service and the pediatric nursing service under the supervision and direction of a pediatrician and a qualified nurse as specified);</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>22 DCMR § 2207.1 (failure to have the psychiatric service under the supervision and direction of a psychiatrist);</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>22 DCMR § 2207.2 (failure to have the psychiatric nursing service under the supervision and direction of a qualified nurse as specified);</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>22 DCMR § 2207.3 (failure to have qualified personnel in charge of the psychiatric ward);</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>22 DCMR § 2208.1 (failure to have the radiological and radioisotope services under the direction of a radiologist and a physician);</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>22 DCMR § 2208.2 (failure to have personnel available to provide x-ray service);</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>22 DCMR § 2210.1 (failure to have the surgical service under the direction and supervision of a surgeon);</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>22 DCMR § 2210.2 (failure to have the surgical nursing service under the direction and supervision of a qualified nurse as specified);</text>
+    </level>
+    <level>
+      <num>(u)</num>
+      <text>22 DCMR § 2210.3 (failure to have the surgical operating suite under the direction of a qualified nurse as specified);</text>
+    </level>
+    <level>
+      <num>(v)</num>
+      <text>22 DCMR § 2210.4 (failure to provide adequate nursing personnel in the operating suite);</text>
+    </level>
+    <level>
+      <num>(w)</num>
+      <text>22 DCMR § 2210.5 (failure to provide qualified and trained nursing personnel as specified for the surgical service);</text>
+    </level>
+    <level>
+      <num>(x)</num>
+      <text>22 DCMR § 2211.1 (failure to have a qualified person as specified in charge of the outpatient service);</text>
+    </level>
+    <level>
+      <num>(y)</num>
+      <text>22 DCMR § 2211.2 (failure to have each outpatient clinical service under the supervision of a qualified physician specialist);</text>
+    </level>
+    <level>
+      <num>(z)</num>
+      <text>22 DCMR § 2211.3 (failure to provide adequate facilities and personnel for each outpatient service);</text>
+    </level>
+    <text>(aa) 22 DCMR § 2212.1 (failure to have the laboratory service under the direction of a pathologist or other qualified physician);</text>
+    <text>(bb) 22 DCMR § 2212.2 (failure to provide competent personnel for the laboratory service);</text>
+    <text>(cc) 22 DCMR § 2213.1 (failure to have an on-site pharmacy service operated by or under the direction and supervision of a pharmacist);</text>
+    <text>(dd) 22 DCMR § 2213.2 (failure to have a pharmacy available for the hospital&amp;#8217;s use at all times); or</text>
+    <text>(ee) 22 DCMR § 2203 (failure to comply with requirements concerning electrical power and back-up power).</text>
+  </level>
+  <level>
+    <num>3606.2.</num>
+    <text>Violation of any of the following provisions shall be a Class 2 infraction:</text>
+    <level>
+      <num>(a)</num>
+      <text>22 DCMR § 2000.3 (failure to manage and operate a hospital in accordance with good medical and public health practice);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>22 DCMR § 2004.4 (transferring a license to another licensee or premises without government approval);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>22 DCMR § 2005.1 (moving to another premises without government approval);</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>22 DCMR § 2011.3 (installing or using a nonconforming fixture, appurtenance, material or method without government approval);</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>22 DCMR § 2100 (failure to comply with requirements concerning governing body and administration);</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>22 DCMR § 2101.1 (failure to comply with requirements concerning medical staff and bylaws);</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>22 DCMR § 2102.1 (failure to ensure that each direct patient care staff member has a health examination before employment and annually thereafter as specified);</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>22 DCMR § 2102.4 (failure to obtain a signed health professional&amp;#8217;s report of a direct care staff member&amp;#8217;s health examination);</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>22 DCMR § 2102.5 (failure to maintain, and to make available for inspection, a report of a direct care staff member&amp;#8217;s health examination);</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>22 DCMR § 2103.1 (failure to ensure that each direct patient care staff member who is absent from duty because of illness obtains certification that he or she can return to duty before returning to duty);</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>22 DCMR § 2103.2 (failure to obtain, maintain, and make available for inspection a direct care staff member&amp;#8217;s certification that he or she can return to duty);</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>22 DCMR § 2106 (failure to comply with requirements concerning separate care units and isolation of patients);</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>22 DCMR § 2107 (failure to comply with requirements concerning long-term and convalescent care);</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>22 DCMR § 2108 (failure to comply with requirements concerning restraint and seclusion of patients);</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>22 DCMR § 2109.1 (failure to comply with requirements concerning medical history and examination of newly admitted patients);</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>22 DCMR § 2110 (failure to comply with requirements concerning medication and treatment);</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>22 DCMR § 2112.3 (failure to have the Director of Nursing participate in establishment of policies and procedures for the nursing service);</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>22 DCMR § 2112.4 (failure to establish a plan of authority, including duties and responsibilities, for the nursing service);</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>22 DCMR § 2113 (failure to comply with requirements concerning medical services and facilities);</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>22 DCMR § 2200, except § 2200.1 and § 2200.2 (failure to comply with requirements concerning the anesthesia service);</text>
+    </level>
+    <level>
+      <num>(u)</num>
+      <text>22 DCMR § 2201 (failure to comply with requirements concerning communicable disease);</text>
+    </level>
+    <level>
+      <num>(v)</num>
+      <text>22 DCMR § 2202.5 (failure to make a record of each patient cared for in the emergency room, containing all elements as specified);</text>
+    </level>
+    <level>
+      <num>(w)</num>
+      <text>22 DCMR § 2203, except §§ 2203.1, 2203.6, and 2203.13 through 2203.16 (failure to comply with requirements concerning the maternity and newborn service);</text>
+    </level>
+    <level>
+      <num>(x)</num>
+      <text>22 DCMR § 2206.2 (failure to separate pediatric care units from other patient care units and to use them only for infants, children and adolescents);</text>
+    </level>
+    <level>
+      <num>(y)</num>
+      <text>22 DCMR § 2206.3 (failure to ensure that pediatric patients are within view of nursing stations and corridors);</text>
+    </level>
+    <level>
+      <num>(z)</num>
+      <text>22 DCMR § 2206.6 (failure to provide a newborn isolation unit for the pediatric service);</text>
+    </level>
+    <text>(aa) 22 DCMR § 2206.8 (failure to locate adolescent patients as far away as practicable from infants and younger children);</text>
+    <text>(bb) 22 DCMR § 2207, except §§ 2207.1, 2207.2, and 2207.3 (failure to comply with requirements concerning the psychiatric service);</text>
+    <text>(cc) 22 DCMR § 2208.4 (failure to establish a Radiation Protection Committee composed and with duties as specified);</text>
+    <text>(dd) 22 DCMR § 2208.6 (failure to provide facilities for the detection and measurement of radiation exposures and dosages);</text>
+    <text>(ee) 22 DCMR § 2208.7 (failure to provide walls, equipment, and supplies as required to protect persons subjected to radiation);</text>
+    <text>(ff) 22 DCMR § 2210, except §§ 2210.1 through 2210.5 (failure to comply with requirements concerning the surgical service);</text>
+    <text>(gg) 22 DCMR § 2211, except §§ 2211.1, 2211.2, and 2211.3 (failure to comply with requirements concerning the outpatient service);</text>
+    <text>(hh) 22 DCMR § 2212, except §§ 2212.1 and 2212.2 (failure to comply with requirements concerning the laboratory service);</text>
+    <text>(ii) 22 DCMR § 2213, except §§ 2213.1 and 2213.2 (failure to comply with requirements concerning the pharmacy service);</text>
+    <text>(jj) 22 DCMR § 2214, except § 2214.3 (failure to comply with requirements concerning the social service department);</text>
+    <text>(kk) 22 DCMR § 2215.1 (failure to have a qualified person in charge of the central sterile supply service);</text>
+    <text>(ll) 22 DCMR § 2215.2 (failure to provide adequate facilities, services and personnel for the central sterile supply service);</text>
+    <text>(mm) 22 DCMR § 2216 (failure to comply with requirements concerning the medical records service);</text>
+    <text>(nn) 22 DCMR § 2220 (failure to comply with requirements concerning ancillary services);</text>
+    <text>(oo) 22 DCMR § 2300.1 (performing construction, addition, alteration or major repair without government approval);</text>
+    <text>(pp) 22 DCMR § 2301, except § 2301.2 (failure to comply with requirements concerning equipment and facilities maintenance and control of sepsis and infection);</text>
+    <text>(qq) 22 DCMR § 2302 (failure to comply with requirements concerning facility construction and storage of gases);</text>
+    <text>(rr) 22 DCMR § 2304.5 (failure to provide running hot water at above 140 degrees Fahrenheit where required); or</text>
+    <text>(ss) 22 DCMR § 2304.9 (failure to provide knee, elbow, or foot controlled water valves as required).</text>
+  </level>
+  <level>
+    <num>3606.3.</num>
+    <text>Violation of any of the following provisions shall be a Class 3 infraction:</text>
+    <level>
+      <num>(a)</num>
+      <text>22 DCMR § 2002.8 (failure to notify of change in nonresident licensee&amp;#8217;s agent, manager, or attorney-in-fact);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>22 DCMR § 2004.5 (failure to frame and post license as required);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>22 DCMR § 2006.2 (failure to notify of change in ownership, name or location and to submit new application in connection therewith);</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>22 DCMR § 2101.3 (failure to ensure that all persons working in the hospital are familiar with applicable regulations);</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>22 DCMR § 2102, except §§ 2102.1, 2102.4, and 2102.5 (failure to comply with requirements concerning the content of a direct patient care staff member&amp;#8217;s health examination);</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>22 DCMR § 2103.4 (failure to comply with immunization requirements);</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>22 DCMR § 2109.2 (failure to maintain records, other than medical records, as required);</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>22 DCMR § 2111 (failure to comply with requirements concerning sterilization and laundering);</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>22 DCMR § 2202.3 (failure to provide adequate work area in emergency room as specified);</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>22 DCMR § 2202.4 (failure to provide privacy screening in emergency room as specified);</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>22 DCMR § 2205.5 (failure of medicine service to make resources available for electrocardiograms);</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>22 DCMR § 2206.5 (failure to provide a play room or play area readily available to each patient care unit within the pediatric service);</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>22 DCMR § 2206.7 (failure to provide sufficient and adequately equipped single-occupancy rooms for the pediatric service);</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>22 DCMR § 2208.3 (failure to provide special devices for obstetric roentgenography);</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>22 DCMR § 2208.5 (failure to prominently post radiation protection policies and procedures);</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>22 DCMR § 2214.3 (failure to provide adequate private space within the social services department);</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>22 DCMR § 2215, except § 2215.1 and § 2215.2 (failure to comply with general requirements concerning the central sterile supply service);</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>22 DCMR § 2301.2 (failure to comply with general sanitation and maintenance requirements);</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>22 DCMR § 2304, except § 2304.5 and § 2304.9 (failure to comply with requirements concerning water facilities); or</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>22 DCMR § 2305 (failure to comply with requirements concerning refuse disposal facilities).</text>
+    </level>
+  </level>
+  <level>
+    <num>3606.4.</num>
+    <text>Violation of any of the following provisions shall be a Class 4 infraction:</text>
+    <level>
+      <num>(a)</num>
+      <text>22 DCMR § 2002.5 (failure to submit an initial or renewal license application timely);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>22 DCMR §§ 2203.13 through 2203.16 (failure to comply with requirements concerning formula rooms and formula preparation for the maternity and newborn service); or</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>22 DCMR § 2206.4 (failure to provide formula storage and warming facilities within the pediatric service).</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 52 DCR 5003 (May 27, 2005).</text>
+    </level>
+  </level>
+</level>

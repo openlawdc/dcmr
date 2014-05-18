@@ -1,0 +1,31 @@
+<level>
+  <type>section</type>
+  <num>15-2358</num>
+  <heading>PREINSTALLATION TESTS OF TEMPERATURE CORRECTING DEVICES (§ 15-2358)</heading>
+  <level>
+    <num>2358.1.</num>
+    <text>Each gas corporation shall test temperature correcting devices by driving the mechanism while the temperature sensor is immersed in a temperature bath containing a precision thermometer that has an accuracy of plus or minus one half of one degree
+      Fahrenheit (± 0.5° F).</text>
+  </level>
+  <level>
+    <num>2358.2.</num>
+    <text>Each gas corporation shall apply specific, reasonably constant temperatures to the temperature sensor. The temperatures used may be the operating (flowing gas) temperature, ambient temperature, or an ice bath at thirty-two degrees Fahrenheit (32°
+      F). The temperature sensor shall be tested at not less than two (2) points, preferably with temperatures at least twenty degrees Fahrenheit (20° F) apart.</text>
+  </level>
+  <level>
+    <num>2358.3.</num>
+    <text>At each temperature test point, the counter or calibrating mechanism shall be advanced a predetermined number of counts. The number of counts by which the corrected counter or calibrating mechanism has been advanced shall be recorded. The accuracy
+      shall be calculated by comparing the number of counts that the corrected counter or calibrating mechanism has been advanced with the actual number of counts required for the temperature at which the test was made.</text>
+  </level>
+  <level>
+    <num>2358.4.</num>
+    <text>Electronic temperature correcting devices shall be calibrated following the manufacturer&amp;#8217;s recommended procedures.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7938, 7943 (November 4, 1988); as amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).</text>
+    </level>
+  </level>
+</level>

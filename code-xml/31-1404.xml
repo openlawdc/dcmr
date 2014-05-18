@@ -1,0 +1,113 @@
+<level>
+  <type>section</type>
+  <num>31-1404</num>
+  <heading>DIGITAL PAYMENT SYSTEMS &amp;#8211; REQUIREMENTS (§ 31-1404)</heading>
+  <level>
+    <num>1404.1.</num>
+    <text>Each digital payment system (DPS) approved by the Office as part of a DDS’ initial, renewed, or amended certificate of operating authority under Chapter 16 shall meet the requirements of this section.</text>
+  </level>
+  <level>
+    <num>1404.2.</num>
+    <text>Equipment requirements. Each DPS unit shall consist of any reasonable combination of digital technologies that:</text>
+    <level>
+      <num>(a)</num>
+      <text>Allows the owner and operator to provide service in compliance with this chapter and Chapter 12 of this title, and allows the DDS to comply with §§ 1403.3 and 1404; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Provides the passenger with a written or electronic receipt, before the passenger exits the vehicle, containing:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>The date and time of the trip;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The distance of the trip;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The vehicle’s tag number,</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The name and customer service telephone number of the</text>
+    </level>
+    <text>DDS;</text>
+    <level>
+      <num>(5)</num>
+      <text>Information sufficient to allow the passenger to reference the passenger’s DDS account or payment card used to pay the fare;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>The total fare and a breakdown of the fare including all rates and charges, and any gratuity; and</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>The following statement: “Sedan service in Washington, DC is regulated by the DC Taxicab Commission, 2041 Martin Luther King Jr., Ave., SE, Suite 204, Washington, DC 20020, www.dctaxi.dc.gov, dctc3@dc.gov, 1-855-484-4966, TTY 711”.</text>
+    </level>
+  </level>
+  <level>
+    <num>1404.3.</num>
+    <text>Service and support requirements. The DDS, using data from each DPS unit, shall:</text>
+    <level>
+      <num>(a)</num>
+      <text>Transmit to the TCIS every twenty-four (24) hours via a single data feed consistent in structure across all digital payment systems, the following data:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>The date;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The operator identification number and vehicle tag number in an anonymous format established by the Office that allows the DDS to maintain a record of the identity of the operator and the vehicle;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The time at the beginning of each tour of duty;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The distance of each trip;</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>The time of pickup and drop-off of each trip;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>The geospatially-recorded place of pickup of each trip which may be generalized to census tract level; and the geospatially-recorded place drop-off of each trip which may be generalized to census tract level;</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>A unique trip number assigned by the DDS to each trip;</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>The total fare and a breakdown of the fare including all rates and charges and any gratuity;</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>The time at the end of the tour of duty;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Provide the Office with the information necessary to insure that the DDS pays and the Office receives the sedan passenger surcharge for each sedan trip;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Process each payment for each sedan trip, which shall not exceed the fare allowed by this chapter; and</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Ensure the timely transmission of an electronic receipt.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 60 DCR 12410 (August 30, 2013).</text>
+    </level>
+  </level>
+</level>

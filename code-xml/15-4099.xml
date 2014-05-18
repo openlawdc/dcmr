@@ -1,0 +1,1098 @@
+<level>
+  <type>section</type>
+  <num>15-4099</num>
+  <heading>DEFINITIONS (§ 15-4099)</heading>
+  <level>
+    <num>4099.1.</num>
+    <text>When used in this chapter, the following terms and phrases shall have the following meaning:</text>
+    <text>&amp;#8220;Adverse System Impact&amp;#8221; means a negative effect, due to technical or operational limits on conductors or equipment being exceeded, that compromises the safety and reliability of the electric distribution system.</text>
+    <text>&amp;#8220;Affected System&amp;#8221; means an electric system not owned or operated by the electric distribution company reviewing the interconnection request that may suffer an adverse system impact from the proposed interconnection.</text>
+    <text>&amp;#8220;Area Network&amp;#8221; means a type of electric distribution system served by multiple transformers interconnected in an electrical network circuit, which is generally used in large metropolitan areas that are densely populated. Area networks
+      are also known as grid networks. Area network has the same meaning as the term distribution secondary grid networks in 4.1.4.1 of IEEE Standard 1547.</text>
+    <text>&amp;#8220;Certificate of Completion&amp;#8221; means a certificate in a completed form approved by the Commission containing information about the interconnection equipment to be used, its installation and local inspections.</text>
+    <text>&amp;#8220;Certified Equipment&amp;#8221; means a designation that the interconnection equipment meets the requirements set forth in Section 4002 of this document</text>
+    <text>&amp;#8220;Commission&amp;#8221; means the Public Service Commission of the District of Columbia.</text>
+    <text>&amp;#8220;Commissioning Test&amp;#8221; means the tests applied to a small generator facility by the interconnection customer after construction is completed to verify that the facility does not create adverse system impacts. The scope of the commissioning
+      tests performed shall include the commissioning test specified IEEE Standard 1547 section 5.4 &amp;#8220;Commissioning tests&amp;#8221;.</text>
+    <text>&amp;#8220;Distribution System Upgrade&amp;#8221; means a required addition or modification to the EDC&amp;#8217;s electric distribution system at or beyond the point of common coupling to accommodate the interconnection of a small generator facility.
+      Distribution upgrades do not include interconnection facilities.</text>
+    <text>&amp;#8220;District of Columbia Small Generator Interconnection Rule (DCSGIR)&amp;#8221; means the most current version of the procedures for interconnecting Small Generator Facilities adopted by the District of Columbia Public Service Commission.</text>
+    <text>&amp;#8220;Draw-out Type Circuit Breaker&amp;#8221; means a switching device capable of making, carrying and breaking currents under normal and abnormal circuit conditions such as those of a short circuit. A draw-out circuit breaker can be physically
+      removed from its enclosure, creating a visible break in the circuit. For the purposes of these regulations, the draw-out circuit breaker shall be capable of being locked in the open, draw-out position.</text>
+    <text>&amp;#8220;Electric Distribution Company&amp;#8221; or &amp;#8220;EDC&amp;#8221; means an electric utility entity that distributes electricity to customers and is subject to the jurisdiction of the Commission.</text>
+    <text>&amp;#8220;Electric Distribution System&amp;#8221; means the facilities and equipment used to transmit electricity to ultimate usage points such as homes and industries from interchanges with higher voltage transmission networks that transport bulk
+      power over longer distances. The voltage levels at which electric distribution systems operate differ among areas but generally carry less than 69 kilovolts of electricity. Electric distribution system has the same meaning as the term Area EPS,
+      as defined in 3.1.6.1 of IEEE Standard 1547.</text>
+    <text>&amp;#8220;Estimated Commissioning Date&amp;#8221; means the date an interconnection customer is expected to start operation.</text>
+    <text>&amp;#8220;Facilities Study&amp;#8221; means an engineering study conducted by the EDC to determine the required modifications to the EDC&amp;#8217;s Electric Distribution System, including the cost and the time required to build and install such
+      modifications as necessary to accommodate an Interconnection Request.</text>
+    <text>&amp;#8220;Fault Current&amp;#8221; means the electrical current that flows through a circuit during an electrical fault condition. A fault condition occurs when one or more electrical conductors contact ground or each other. Types of faults include
+      phase to ground, double- phase to ground, three-phase to ground, phase-to-phase, and three-phase. Fault current is several times larger in magnitude than the current that normally flows through a circuit.</text>
+    <text>&amp;#8220;Good Utility Practice&amp;#8221; means any of the practices, methods and acts engaged in or approved by a significant portion of the electric utility industry during the relevant time period, or any of the practices, methods and acts which,
+      in the exercise of reasonable judgment in light of the facts known at the time the decision was made, could have been expected to accomplish the desired result of the lowest reasonable cost consistent with good business practices, reliability, safety
+      and expedition. Good Utility Practice is not intended to be limited to the optimum practice, method or act to the exclusion of all others, but rather to be acceptable practices, methods, or acts generally accepted in the region.</text>
+    <text>&amp;#8220;Governmental Authority&amp;#8221; means any federal, State, local or other governmental regulatory or administrative agency, court, commission, department, board, or other governmental subdivision, legislature, rulemaking board, tribunal,
+      or other governmental authority having jurisdiction over the Parties, respective facilities, or services provided, and exercising or entitled to exercise any administrative, executive, police, or taxing authority or power; provided, however, that
+      such term does not include the Interconnection Customer, EDC or any affiliate thereof.</text>
+    <text>&amp;#8220;IEEE Standard 1547&amp;#8243; means the Institute of Electrical and Electronics Engineers, Inc. (IEEE) Standard 1547 (2003) &amp;#8220;Standard for Interconnecting Distributed Resources with Electric Power Systems&amp;#8221;, as amended
+      and supplemented at the time the interconnection request is submitted.</text>
+    <text>&amp;#8220;IEEE Standard 1547.1&amp;#8243; means the IEEE Standard 1547.1 (2005) &amp;#8220;Conformance Test Procedures for Equipment Interconnecting Distributed Resources with Electric Power Systems&amp;#8221;, as amended and supplemented at the
+      time the interconnection request is submitted.</text>
+    <text>&amp;#8220;Interconnection Customer&amp;#8221; means an entity that has submitted an interconnection request to interconnect a small generator facility to an EDC&amp;#8217;s electric distribution system.</text>
+    <text>&amp;#8220;Interconnection Equipment&amp;#8221; means a group of equipment, components, or an integrated system connecting an electric generator with a local electric power system or an electric distribution system that includes all interface equipment
+      including switchgear, protective devices, inverters or other interface devices. Interconnection equipment may be installed as part of an integrated equipment package that includes a generator or other electric source.</text>
+    <text>&amp;#8220;Interconnection Facilities&amp;#8221; means facilities and equipment required by the EDC to accommodate the interconnection of a small generator facility. Collectively, interconnection facilities include all facilities and equipment between
+      the small generator facility and the point of common coupling, including modification, additions, or upgrades that are necessary to physically and electrically interconnect the small generator facility to the electric distribution system. Interconnection
+      facilities are sole use facilities and do not include distribution upgrades.</text>
+    <text>&amp;#8220;Interconnection Request&amp;#8221; means an interconnection customer&amp;#8217;s request, in a form approved by the Commission, requesting the interconnection of a new small generator facility, or to increase the capacity or modify operating
+      characteristics of an existing approved small generator facility that is interconnected with the EDC&amp;#8217;s electric distribution system.</text>
+    <text>&amp;#8220;Line Section&amp;#8221; means that portion of an EDC&amp;#8217;s distribution system connected to an interconnection customer, bounded by automatic sectionalizing devices or the end of the distribution line.</text>
+    <text>&amp;#8220;Local Electric Power System&amp;#8221; or &amp;#8220;Local EPS&amp;#8221; means facilities that deliver electric power to a load that are contained entirely within a single premises or group of premises. Local electric power system has
+      the same meaning as the term local electric power system defined in 3.1.6.2 of IEEE Standard 1547.</text>
+    <text>&amp;#8220;Minor Equipment Modification&amp;#8221; means changes to the proposed small generator facility that do not have a material impact on safety or reliability of the electric distribution system.</text>
+    <text>&amp;#8220;Nameplate Capacity&amp;#8221; means the maximum rated output of a generator, prime mover, or other electric power production equipment under specific conditions designated by the manufacturer and is usually indicated on a nameplate physically
+      attached to the power production equipment.</text>
+    <text>&amp;#8220;Nationally Recognized Testing Laboratory&amp;#8221; or &amp;#8220;NRTL&amp;#8221; means a qualified private organization that meets the requirements of the Occupational Safety and Health Administration&amp;#8217;s (OSHA) regulations. NRTLs
+      perform independent safety testing and product certification. Each NRTL shall meet the requirements as set forth by OSHA in the NRTL program.</text>
+    <text>&amp;#8220;Parallel Operation&amp;#8221; or &amp;#8220;Parallel&amp;#8221; means the sustained state of operation over 100 milliseconds, which occurs when a small generator facility is connected electrically to the electric distribution system and
+      thus has the ability for electricity to flow from the small generator facility to the electric distribution system.</text>
+    <text>&amp;#8220;PJM Interconnection&amp;#8221; means the regional transmission organization that is regulated by the Federal Energy Regulatory Commission and functionally controls the transmission system for the region that includes the District of Columbia.</text>
+    <text>&amp;#8220;Point of Common Coupling&amp;#8221; means the point where the small generator facility is electrically connected to the electric distribution system. Point of common coupling is has the same meaning as defined in 3.1.13 of IEEE Standard
+      1547.</text>
+    <text>&amp;#8220;Primary Line&amp;#8221; means a distribution line rated at greater than 600 volts.</text>
+    <text>&amp;#8220;Production Test&amp;#8221; is defined in IEEE Standard 1547.</text>
+    <text>&amp;#8220;Queue Position&amp;#8221; means the order of a valid interconnection request, relative to all other pending valid interconnection requests, that is established based upon the date and time of receipt of the valid interconnection request
+      by the EDC.</text>
+    <text>&amp;#8220;Radial Distribution Circuit&amp;#8221; means a circuit configuration where independent feeders branch out radially from a common source of supply. From the standpoint of a utility system, the area described is between the generating source
+      or intervening substations and the customer&amp;#8217;s entrance equipment. A radial distribution system is the most common type of connection between a utility and load in which power flows in one direction from the utility to the load.</text>
+    <text>&amp;#8220;Scoping Meeting&amp;#8221; means a meeting between representatives of the interconnection customer and EDC conducted for the purpose of discussing alternative interconnection options, exchanging information including any electric distribution
+      system data and earlier study evaluations that would be reasonably expected to impact interconnection options, analyzing information, and determining the potential feasible points of interconnection.</text>
+    <text>&amp;#8220;Secondary Line&amp;#8221; means a service line subsequent to the primary line that is rated for 600 volts or less, also referred to as the customer&amp;#8217;s service line.</text>
+    <text>&amp;#8220;Shared Transformer&amp;#8221; means a transformer that supplies secondary source voltage to more than one customer.</text>
+    <text>&amp;#8220;Small Generator Facility&amp;#8221; means the equipment used by an interconnection customer to generate or store electricity that operates in parallel with the electric distribution system and, for the purposes of this standard, is rated
+      10 MW or less. A small generator facility typically includes an electric generator, prime mover, and the interconnection equipment required to safely interconnect with the electric distribution system or local electric power system.</text>
+    <text>&amp;#8220;Spot Network&amp;#8221; means a type of electric distribution system that uses two or more inter- tied transformers to supply an electrical network circuit. A spot network is generally used to supply power to a single customer or a small
+      group of customers. Spot network has the same meaning as the term distribution secondary spot networks defined in 4.1.4.2 of IEEE Standard 1547.</text>
+    <text>&amp;#8220;Standard Agreement for Interconnection of Small Generator Facilities, Interconnection Agreement, or Agreement&amp;#8221; means a set of standard forms of interconnection agreements approved by the Commission which are applicable to interconnection
+      requests pertaining to small generating facilities. The agreement between the Interconnection Customer and the EDC, which governs the connection of the Small Generator Facility to the EDC&amp;#8217;s Electric Distribution System, as well as the
+      ongoing operation of the Small Generator Facility after it is connected to the EDC&amp;#8217;s Electric Distribution System.</text>
+    <text>&amp;#8220;UL Standard 1741&amp;#8243; means Underwriters Laboratories&amp;#8217; standard titled &amp;#8220;Inverters Converters, and Controllers for Use in Independent Power Systems&amp;#8221;, as amended and supplemented at the time the interconnection
+      request is submitted.</text>
+    <text>&amp;#8220;Witness Test&amp;#8221; means verification (either by an on-site observation or review of documents) by the EDC that the installation evaluation required by IEEE Standard 1547 Section 5.3 and the commissioning test required by IEEE Standard
+      1547 Section 5.4 have been adequately performed. For interconnection equipment that has not been certified, the witness test shall also include the verification by the EDC of the on-site design tests as required by IEEE Standard 1547 Section 5.1
+      and verification by the EDC of production tests required by IEEE Standard 1547 Section 5.2. All tests verified by the EDC are to be performed in accordance with the applicable test procedures specified by IEEE Standard 1547.1.</text>
+    <text>Interconnection System Impact Study Agreement</text>
+    <text>This agreement is made and entered into this day of by and between , a organized and existing under the laws of the State of</text>
+    <text>, (&amp;#8220;Interconnection Customer,&amp;#8221;) and , a</text>
+    <text>Existing under the laws of the State of , (&amp;#8220;Electric Distribution Company&amp;#8221; or &amp;#8220;EDC&amp;#8221;). The Interconnection Customer and the EDC each may be referred to as a &amp;#8220;Party,&amp;#8221; or collectively as the
+      &amp;#8220;Parties.&amp;#8221;</text>
+    <text>Recitals:</text>
+    <text>Whereas, The Interconnection Customer is proposing to develop a Small Generating Facility or adding generating capacity to an existing Small Generating Facility consistent with the Application completed by the Interconnection Customer On ; and</text>
+    <text>Whereas, The Interconnection Customer desires to interconnect the Small Generating Facility with the EDC&amp;#8217;s electric distribution system;</text>
+    <text>Whereas, The EDC has completed an Interconnection Feasibility Study and provided the results of said study to the Interconnection Customer (This recital may be omitted if the Parties have agreed to forego the Interconnection Feasibility Study.);</text>
+    <text>Whereas, The Interconnection Customer has requested the EDC to perform an Interconnection System Impact Study to assess the impact of interconnecting the Small Generating Facility to the EDC&amp;#8217;s electric distribution system;</text>
+    <text>Now, therefore, in consideration of and subject to the mutual covenants contained herein the Parties agree as follows:</text>
+    <text>1. The Interconnection Customer elects and the EDC shall cause to be performed an Interconnection System Impact Study consistent with the District of Columbia Small Generator Interconnection Rules.</text>
+    <text>2. The scope of the Interconnection System Impact Study shall be subject to the assumptions set forth below in Section 2 of this agreement.</text>
+    <text>3. The Interconnection System Impact Study shall be based on the results of the Interconnection Feasibility Study and the technical information provided by the Interconnection Customer in the Application. The EDC reserves the right to request additional
+      technical information from the Interconnection Customer as may reasonably become necessary consistent with good utility practice during the course of the Interconnection System Impact Study. If the Interconnection Customer modifies its designated
+      Point of Interconnection, Application, or the technical information provided therein is modified, the time to complete the Interconnection System Impact Study may be extended by mutual agreement of the Parties.</text>
+    <text>4. The Interconnection System Impact Study report shall provide the following information:</text>
+  </level>
+  <level>
+    <num>4.1.</num>
+    <text>Identification of any circuit breaker short circuit capability limits exceeded as a result of the interconnection;</text>
+    <text>Interconnection Facilities</text>
+  </level>
+  <level>
+    <num>4.1.</num>
+    <text>1 The Interconnection Customer shall pay for the cost of the Interconnection Facilities itemized in Attachment 2 of this Agreement if required under the additional review procedures of a Level 2 review or under a Level 4 review. If a Facilities Study
+      was performed, the EDC shall identify the Interconnection Facilities necessary to safely interconnect the Small Generator Facility with the EDC&amp;#8217;s Electric Distribution System, the cost of those facilities, and the time required to build
+      and install those facilities.</text>
+  </level>
+  <level>
+    <num>4.1.</num>
+    <text>2 The Interconnection Customer shall be responsible for its expenses, including overheads, associated with (1) owning, operating, maintaining, repairing, and replacing its Interconnection Equipment, and (2) its reasonable share of operating, maintaining,
+      repairing, and replacing any Interconnection Facilities owned by the EDC as set forth in Attachment 2.</text>
+  </level>
+  <level>
+    <num>4.2.</num>
+    <text>Identification of any thermal overload or voltage limit violations resulting from the interconnection;</text>
+    <text>Distribution Upgrades</text>
+    <text>The EDC shall design, procure, construct, install, and own any Distribution Upgrades. The actual cost of the Distribution Upgrades, including overheads, shall be directly assigned to the Interconnection Customer. The Interconnection Customer may be
+      entitled to financial contribution from any other EDC customers who may in the future utilize the upgrades paid for by the Interconnection Customer. Such contributions shall be governed by the rules, regulations and decisions of the District of
+      Columbia Public Service Commission.</text>
+    <text>Article 5 Billing, Payment, Milestones, and Financial Security</text>
+  </level>
+  <level>
+    <num>4.3.</num>
+    <text>Identification of any instability or inadequately damped response to system disturbances resulting from the interconnection; and</text>
+  </level>
+  <level>
+    <num>4.4.</num>
+    <text>Description and non-binding, good faith estimated cost of facilities required to interconnect the generating facility to the EDC&amp;#8217;s electric distribution system, and to address the identified short circuit, instability, and power flow issues,</text>
+    <text>5. The Interconnection System Impact Study, if required, shall be completed and the results transmitted to the Interconnection Customer within thirty (30) calendar days after this agreement is signed by the Parties or in accordance with the EDC&amp;#8217;s
+      queuing procedures.</text>
+    <text>6. Study fees and deposits shall be based on actual costs in accordance with the provisions of the District of Columbia Small Generator Interconnection Rules and the Level 2-4 Standard Agreement.</text>
+    <text>In witness thereof, the Parties have caused this agreement to be duly executed by their authorized officers or agents on the day and year first above written.</text>
+    <text>[Insert name of the EDC]</text>
+    <text>Signed</text>
+    <text>Name (Printed): Title</text>
+    <text>[Insert name of Interconnection Customer]</text>
+    <text>Signed</text>
+    <text>Name (Printed): Title</text>
+    <text>Section 2: Interconnection System Impact Study Agreement</text>
+    <text>Assumptions Used in Conducting the Interconnection System Impact Study</text>
+    <text>The Interconnection System Impact Study shall be based on the results of the Interconnection Feasibility Study, subject to any modifications in accordance with District of Columbia Small Generation Facility Interconnection Rules and the following
+      assumptions:</text>
+    <text>1. Designation of Point of Interconnection and configuration to be studied.</text>
+    <text>2. Designation of alternative Points of Interconnection and configuration.</text>
+    <text>Note: 1 and 2 are to be completed by the Interconnection Customer. Additional assumptions provided by the Interconnection Customer and/or the EDC shall be listed below.</text>
+    <text>Level 1</text>
+    <text>Interconnection Request Application Form and Agreement</text>
+    <text>Interconnection Customer Contact Information</text>
+    <text>Name</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code</text>
+    <text>Telephone (Daytime): (Mobile):</text>
+    <text>Facsimile Number: Mail Address:</text>
+    <text>Alternative Contact Information (if different from Customer Contact Information)</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code</text>
+    <text>Telephone (Daytime): (Mobile):</text>
+    <text>Facsimile Number: Mail Address:</text>
+    <text>Equipment Contractor</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code</text>
+    <text>Telephone (Daytime): (Mobile):</text>
+    <text>Facsimile Number: Mail Address:</text>
+    <text>Electrical Contractor (if Different from Equipment Contractor):</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code</text>
+    <text>Telephone (Daytime): (Mobile):</text>
+    <text>Facsimile Number: Mail Address:</text>
+    <text>License number:</text>
+    <text>Active License? Yes No</text>
+    <text>Facility Information (building where the small generator facility is located)</text>
+    <text>Electric Distribution Company (EDC) Serving Facility Site:</text>
+    <text>Electric Supplier (if different from EDC):</text>
+    <text>Account Number of Facility site {existing EDC customers):</text>
+    <text>Facility Address (building where the small generator facility is located)</text>
+    <text>Address:</text>
+    <text>City: State: Zip Code:</text>
+    <text>Small Generator Facility Information</text>
+    <text>Inverter Manufacturer: Model</text>
+    <text>Nameplate Rating: (kW) (kVA) (AC Volts)</text>
+    <text>System Design Capacity: (kW) {kVA)</text>
+    <text>Prime Mover: Photovoltaic □ Reciprocating Engine □ Fuel Cell □</text>
+    <text>Turbine □ Other</text>
+    <text>Energy Source: Solar □ Wind □ Hydro □ Diesel □ Natural Gas Fuel Oil □ Other</text>
+    <text>Is the inverter lab certified? Yes□</text>
+    <text>(If yes, attach manufacturer&amp;#8217;s cut sheet showing listing and label information from the appropriate listing authority, e.g. UL 1741 listing. If no, facility is not eligible for Level 1 Application.)</text>
+    <text>□ Net Meter (Small generator facility will export power pursuant to District of Columbia Customer Net Energy Metering Contract)</text>
+    <text>Estimated Commissioning Date:</text>
+    <text>Insurance Disclosure</text>
+    <text>The attached terms and conditions contain provisions related to liability, and ndemnification and should be carefully considered by the interconnection customer. The interconnection customer is not required to obtain general liability insurance coverage
+      as a precondition for interconnection approval; however, the interconnection customer is advised to consider obtaining appropriate insurance coverage to cover the interconnection customer&amp;#8217;s potential liability under this agreement.</text>
+    <text>Customer Signature</text>
+    <text>I hereby certify that: 1) I have read and understand the terms and conditions which are attached hereto by reference and are a part of this agreement; 2) I hereby agree to comply with the attached terms and conditions; and 3) to the best of my knowledge,
+      all of the information provided in this application request form is complete and true.</text>
+    <text>Interconnection Customer Signature:</text>
+    <text>Title: Date:</text>
+    <text>An application fee of $100 payable to the EDC is required before the application can be processed. Please verify that the fee is included with the application: Application fee included □</text>
+    <text>Conditional Agreement to Interconnect Small Generator Facility</text>
+    <text>Receipt of the application fee is acknowledged and, by its signature below, the EDC has determined the interconnection request is complete. Interconnection of the small generator facility is conditionally approved contingent upon the attached terms
+      and conditions of this agreement the return of the attached Certificate of Completion duly executed, verification of electrical inspection and successful witness test or EDC waiver thereof.</text>
+    <text>Printed Name: Title:</text>
+    <text>Terms and Conditions for Interconnection</text>
+    <text>1) Construction of the Small Generator Facility. The interconnection customer may proceed to construct (including operational testing not to exceed 2 hours) the small generator facility once the conditional agreement to interconnect a small generator
+      facility has been signed by the EDC.</text>
+    <text>2) Final Interconnection and Operation. The interconnection customer may operate the small generator facility and interconnect with the EDC&amp;#8217;s electric distribution system once all of the following have occurred:</text>
+    <text>a) Electrical Inspection: Upon completing construction, the interconnection customer will cause the small generator facility to be inspected by the local electrical wiring inspector with jurisdiction who shall establish that the small generator facility
+      meets the requirements of the National Electrical Code.</text>
+    <text>b) Certificate of Completion: The interconnection customer shall provide the EDC with a completed copy of the Certificate of Completion, including evidence of the electrical inspection performed by the local authority having jurisdiction. The evidence
+      of completion of the electrical inspection may be provided on inspection forms used by local inspecting authorities. The interconnection request shall not be finally approved until the EDC&amp;#8217;s representative signs the Certificate of Completion.</text>
+    <text>c) The EDC has either waived the right to a Witness Test in the interconnection request, or completed its Witness Test as per the following:</text>
+    <text>i) Within ten (10) business days of the estimated commissioning date, the EDC may, upon reasonable notice and at a mutually convenient time, conduct a Witness Test of the small generator facility to ensure that all equipment has been appropriately
+      installed and that all electrical connections have been made in accordance with applicable codes</text>
+    <text>ii) If the EDC does not perform the Witness Test within the 10 day period or such other time as is mutually agreed to by the parties, the Witness Test is deemed waived.</text>
+    <text>3) IEEE 1547. The small generator facility is installed, operated, and tested in accordance with the requirements of IEEE standard 1547, &amp;#8220;Standard for Interconnecting Distributed Resources with Electric Power Systems&amp;#8221;, as amended
+      and supplemented, at the time the interconnection request is submitted.</text>
+    <text>4) Access. The EDC shall have direct, unabated access to the metering equipment of the small generator facility at all times. The EDC shall provide reasonable notice to the customer when possible prior to using its right of access.</text>
+    <text>5) Metering. Any required metering shall be installed pursuant to appropriate tariffs and tested by the EDC pursuant to the EDCs meter testing requirements</text>
+    <text>6) Disconnection. The EDC may temporarily disconnect the small generator facility upon the following conditions:</text>
+    <text>a) For scheduled outages upon reasonable notice;</text>
+    <text>b) For unscheduled outages or emergency conditions;</text>
+    <text>c) If the small generator facility does not operate in the manner consistent with this agreement;</text>
+    <text>d) Improper installation or failure to pass the Witness Test;</text>
+    <text>e) If the small generator facility is creating a safety, reliability or a power quality problem; or</text>
+    <text>f) The interconnection equipment used by the small generator facility is de-listed by the Nationally Recognized Testing Laboratory that provided the listing at the time the interconnection was approved.</text>
+    <text>7) Indemnification. The parties shall at all times indemnify, defend, and save the other party harmless from, any and all damages, losses, claims, including claims and actions relating to injury to or death of any person or damage to property, demand,
+      suits, recoveries, costs and expenses, court costs, attorney fees, and all other obligations by or to third parties, arising out of or resulting from the other party&amp;#8217;s action or inactions of its obligations under this agreement on behalf
+      of the indemnifying party, except in cases of gross negligence or intentional wrongdoing by the indemnified party.</text>
+    <text>8) Limitation of Liability. Each party&amp;#8217;s liability to the other party for any loss, cost, claim, injury, liability, or expense, including reasonable attorney&amp;#8217;s fees, relating to or arising from any act or omission in its performance
+      of this agreement, shall be limited to the amount of direct damage actually incurred. In no event shall either party be liable to the other party for any indirect, incidental, special, consequential, or punitive damages of any kind whatsoever.</text>
+    <text>9) Termination. This agreement may be terminated under the following conditions:</text>
+    <text>a) By interconnection customer &amp;#8211; The interconnection customer may terminate this application agreement by providing written notice to the EDC.</text>
+    <text>b) By the EDC &amp;#8211; The EDC may terminate this agreement if the interconnection customer fails to remedy a violation of terms of this agreement within 30 calendar days after notice, or such other date as may be mutually agreed to prior to the
+      expiration of the 30 calendar day remedy period. The termination date can be no less than 30 calendar days after the interconnection customer receives notice of its violation from the EDC.</text>
+    <text>10) Modification of Small Generator Facility. The interconnection customer shall provide written notification to the EDC before making any modifications to the small generator facility. The EDC will determine if the modifications are minor or non-
+      minor in nature. Written authorization from the EDC is required for non-minor changes if the EDC determines that the interconnection customer&amp;#8217;s modifications may have a significant impact on the safety or reliability of the electric distribution
+      system. If the interconnection customer makes such modifications without the EDC&amp;#8217;s prior written authorization the EDC shall have the right to temporarily disconnect the small generator facility until such time as the EDC reasonably concludes
+      the modification poses no threat to the safety or reliability of its electric distribution system.</text>
+    <text>11) Permanent Disconnection. In the event the agreement is terminated, the EDC shall have the right to disconnect its facilities or direct the customer to disconnect its small generator facility.</text>
+    <text>12) Disputes. Each party agrees to attempt to resolve all disputes regarding the provisions of these interconnection procedures pursuant to the dispute resolution provisions of the District of Columbia Small Generator Interconnection Rules</text>
+    <text>13) Governing Law, Regulatory Authority, and Rules. The validity, interpretation and enforcement of this agreement and each of its provisions shall be governed by the laws of the District of Columbia. Nothing in this agreement is intended to affect
+      any other agreement between the EDC and the interconnection customer. However, in the event that the provisions of this agreement are in conflict with the provisions of the EDC&amp;#8217;s tariff, the EDC tariff shall control.</text>
+    <text>14) Survival Rights. This agreement shall continue in effect after termination to the extent necessary to allow or require either party to fulfill rights or obligations that arose under the agreement.</text>
+    <text>15) Assignment/Transfer of Ownership of the Small Generator Facility: This agreement shall terminate upon the transfer of ownership of the small generator facility to a new owner unless the transferring owner assigns the agreement to the new owner
+      and so notifies the EDC in writing prior to the transfer of electric service.</text>
+    <text>16) Definitions. Any capitalized term used herein and not defined shall have the same meaning as the defined terms used in the District of Columbia Small Generator Interconnection Rule</text>
+    <text>17) Notice. Unless otherwise provided in this agreement, any written notice, demand, or request required or authorized in connection with this agreement (&amp;#8220;Notice&amp;#8221;) shall be deemed properly given if delivered in person, delivered
+      by recognized national courier service, or sent by first class mail, postage prepaid, to the person specified below:</text>
+    <text>(If to Interconnection Customer)</text>
+    <text>Use the contact information provided in the agreement for the interconnection customer. The interconnection customer is responsible for notifying the EDC of any change in the contact party information, including change of ownership.</text>
+    <text>(If to EDC)</text>
+    <text>Use the contact information provided on the EDC&amp;#8217;s web page for small generator interconnection.</text>
+    <text>Level 2, Level 3 and Level 4</text>
+    <text>Interconnection Request Application Form</text>
+    <text>Interconnection Customer Contact Information</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code</text>
+    <text>Telephone (Daytime): (Mobile):</text>
+    <text>Facsimile Number: Mail Address:</text>
+    <text>Alternative Contact Information (if different from Customer Contact Information)</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code</text>
+    <text>Telephone (Daytime): (Mobile):</text>
+    <text>Facsimile Number: Mail Address:</text>
+    <text>Facility Address (Building where the small generator facility is located)</text>
+    <text>Address:</text>
+    <text>City: State: Zip Code:</text>
+    <text>Equipment Contractor</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code</text>
+    <text>Telephone (Daytime): (Mobile):</text>
+    <text>Facsimile Number: Mail Address:</text>
+    <text>Electrical Contractor (if Different from Equipment Contractor):</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code</text>
+    <text>Telephone (Daytime): (Mobile):</text>
+    <text>Facsimile Number: Mail Address:</text>
+    <text>License number:</text>
+    <text>Active License? Yes No</text>
+    <text>Electric Service Information for Customer Facility Where Generator Will Be Interconnected</text>
+    <text>Electric Distribution Company (EDC) serving Facility site:</text>
+    <text>Electric Supplier (if different from EDC):</text>
+    <text>Account Number of Facility site (existing EDC customers):</text>
+    <text>Capacity: (Amps) Voltage: (Volts)</text>
+    <text>Type of Service: □ Single Phase □ Three Phase</text>
+    <text>If 3 Phase Transformer, Indicate Type</text>
+    <text>Primary Winding □ Wye □ Delta</text>
+    <text>Secondary Winding □ Wye □ Delta</text>
+    <text>Transformer Size: Impedance:</text>
+    <text>Intent of Generation (choose one)</text>
+    <text>□ Offset Load (Unit will operate in parallel, but will not export power to EDC)</text>
+    <text>□ Net Meter (Small generator facility will export power pursuant to District of Columbia Customer Net Energy Metering Contract)</text>
+    <text>□ Export Power (Unit will operate in parallel and will export power, but does not fit the criteria established in the District of Columbia Customer Net Energy Metering Contract for net metering)</text>
+    <text>Note: if Unit will operate in parallel and participate in the PJM market(s), unit will need to obtain an interconnection agreement from PJM.</text>
+    <text>□ Back-up Generation (Units that temporarily parallel for more than 100 milliseconds)</text>
+    <text>Backup units that do not operate in parallel for more than 100 milliseconds do not need an interconnection agreement.</text>
+    <text>Requested Procedure Under Which to Evaluate Interconnection Request</text>
+    <text>Please indicate below which review procedure applies to the interconnection request.</text>
+    <text>□ Level 2 &amp;#8211; Certified interconnection equipment with an aggregate electric nameplate capacity less than or equal to 2 MW. Indicate type of certification below. (Application fee amount is $500).</text>
+    <text>□ Level 3 &amp;#8211; Small generator facility does not export power. Nameplate capacity rating is equal to less than 50 kW if connecting to area network or equal to or less than 10 MW if connecting to a radial distribution feeder. (Application fee
+      amount is $500).</text>
+    <text>□ Level 4 &amp;#8211; Nameplate capacity rating is less than 10 MW and the small generator facility does not qualify for a Level 1, Level 2 or Level 3 review or, the small generator facility has been reviewed but not approved under a Level 1, Level
+      2 or Level 3 review. (Application fee amount is $1,000, to be applied toward any subsequent studies related to this application).</text>
+    <text>Descriptions for interconnection review categories do not list all criteria that must be satisfied. For a complete list of criteria, please refer to the District of Columbia Small Generator Interconnection Rules.</text>
+    <text>Small Generator Facility Information</text>
+    <text>Energy Production Equipment/Inverter Information</text>
+    <text>Energy Source: □ Hydro □ Wind □ Solar □ Diesel □ Biomass □ Natural Gas</text>
+    <text>□ Coal □ Oil □ Other</text>
+    <text>Energy Converter Type: □ Water Turbine □ Wind Turbine □ Photovoltaic Cell □ Steam Turbine</text>
+    <text>□ Combustion Turbine □ Reciprocating Engine □ Other</text>
+    <text>Generator Type: □ Synchronous □Induction □ Inverter □ Other</text>
+    <text>Rating: Kw Rating: kVA Number of Units:</text>
+    <text>Rated Voltage: Volts</text>
+    <text>Rated Current: Amps</text>
+    <text>System Type Tested (Total System): □ Yes □ No; attach product literature</text>
+    <text>Interconnection components/system(s) to be used in the Small Generation Facility that are lab certified (required for Level 2 Interconnection requests only).</text>
+    <text>Component/System NRTL Providing Label &amp;#038; Listing</text>
+    <text>1.</text>
+    <text>2.</text>
+    <text>3.</text>
+    <text>4.</text>
+    <text>Please provide copies of manufacturer brochures or technical specifications</text>
+    <text>For Synchronous Machines:</text>
+    <text>Note: Contact EDC to determine if all the information requested in this section is required for the proposed small generator facility.</text>
+    <text>Manufacturer:</text>
+    <text>Model No. Version No.</text>
+    <text>Submit copies of the Saturation Curve and the Vee Curve</text>
+    <text>□ Salient □ Non-Salient</text>
+    <text>Torque: lb-ft Rated RPM: Field Amperes: at rated generator voltage</text>
+    <text>and current and % PF over-excited</text>
+    <text>Type of Exciter:</text>
+    <text>Output Power of Exciter:</text>
+    <text>Type of Voltage Regulator: Locked Rotor Current:</text>
+    <text>Amps Synchronous Speed: RPM</text>
+    <text>Winding Connection: Min. Operating Freq./Time:</text>
+    <text>Generator Connection: □ Delta □ Wye □ Wye Grounded</text>
+    <text>Direct-axis Synchronous Reactance (Xd) ohms</text>
+    <text>Direct-axis Transient Reactance (X&amp;#8217;d) ohms</text>
+    <text>Direct-axis Sub-transient Reactance (X&amp;#8221;d) ohms</text>
+    <text>Negative Sequence Reactance: ohms</text>
+    <text>Zere Sequence Reactance: ohms</text>
+    <text>Neutral Impedance or Grounding Resister (if any): ohms</text>
+    <text>For Induction Machines:</text>
+    <text>Note: Contact EDC to determine if all the information requested in this section is required for the proposed small generator facility.</text>
+    <text>Manufacturer:</text>
+    <text>Model No. Version No.</text>
+    <text>Locked Rotor Current: Amps</text>
+    <text>Rotor Resistance (Rr) ohms Exciting Current Amps</text>
+    <text>Rotor Reactance (Xr) ohms Reactive Power Required:</text>
+    <text>Magnetizing Reactance (Xm) ohms VARs (No Load)</text>
+    <text>Stator Resistance (Rs) ohms VARs (Full Load)</text>
+    <text>Stator Reactance (Xs) ohms</text>
+    <text>Short Circuit Reactance (X&amp;#8221;d) ohms</text>
+    <text>Phases: □ Single □ Three-Phase</text>
+    <text>Frame Size: Design Letter: Temp. Rise: °C.</text>
+    <text>Reverse Power Relay Information (Level 3 Review Only)</text>
+    <text>Manufacturer:</text>
+    <text>Relay Type: Model Number:</text>
+    <text>Reverse Power Setting:</text>
+    <text>Reverse Power Time Delay (if any):</text>
+    <text>Additional Information For Inverter Based Facilities</text>
+    <text>Inverter Information:</text>
+    <text>Manufacturer: Model:</text>
+    <text>Type: □ Forced Commutated □ Line Commutated</text>
+    <text>Rated Output Watts Volts</text>
+    <text>Efficiency % Power Factor %</text>
+    <text>Inverter UL1547 Listed: : □ Yes □ No</text>
+    <text>Rating: Kw Rating: kVA</text>
+    <text>Rated Voltage: Volts</text>
+    <text>Open Circuit Voltage (If applicable): Volts</text>
+    <text>Rated Current: Amps</text>
+    <text>Short Circuit Current (If applicable): Amps</text>
+    <text>Other Facility Information:</text>
+    <text>One Line Diagram attached: □ Yes</text>
+    <text>Plot Plan attached: □ Yes</text>
+    <text>Estimated Commissioning Date:</text>
+    <text>Customer Signature</text>
+    <text>I hereby certify that all of the information provided in this application request form is true.</text>
+    <text>Interconnection Customer Signature:</text>
+    <text>Title: Date:</text>
+    <text>An application fee is required before the application can be processed. Please verify that the</text>
+    <text>appropriate fee is included with the application:</text>
+    <text>Application fee included □</text>
+    <text>Amount</text>
+    <text>EDC Acknowledgement</text>
+    <text>Receipt of the application fee is acknowledged and the interconnection request is complete.</text>
+    <text>Printed Name: Title:</text>
+    <text>Small Generator Facility InterconnectionCertificate of Completion Form1</text>
+    <text>Interconnection Customer Contact Information</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code:</text>
+    <text>Telephone (Daytime): (Evening):</text>
+    <text>E-Mail Address/ Fax number:</text>
+    <text>Equipment Contractor Name:</text>
+    <text>Name:</text>
+    <text>Mailing Address:</text>
+    <text>City: State: Zip Code:</text>
+    <text>Telephone (Daytime): (Evening):</text>
+    <text>E-Mail Address/ Fax number:</text>
+    <text>Final Electric Inspection and Applicant Signature</text>
+    <text>The Small Generator Facility is complete and has been approved by the local electric inspector having jurisdiction. A signed copy of the electric inspector&amp;#8217;s form indicating final approval is attached. The Interconnection Customer acknowledges
+      that the Small Generator Facility is not ready for operation until receipt of the final acceptance of an approval by the Electric Distribution Company (&amp;#8220;EDC&amp;#8221;) as provided below.</text>
+    <text>Signed Date</text>
+    <text>(Signature of Interconnection Customer)</text>
+    <text>Printed Name:</text>
+    <text>Check if copy of signed electric inspection form is attached □</text>
+    <text>Acceptance and Final Approval of Interconnection Installation(for EDC use only)</text>
+    <text>The interconnection installation is approved and the Small Generator Facility is approved for operation under the terms and conditions of the District of Columbia Small Generator Interconnection Rules and a duly signed and executed Interconnection
+      Agreement.</text>
+    <text>EDC waives Witness Test? (Initial) Yes ( ) No( )</text>
+    <text>If not waived, date of successful Witness Test: Passed: (Initial) ( )</text>
+    <text>Printed Name: Title:</text>
+    <text>1The interconnection shall not be deemed complete and ready for operation until the interconnection customer has completed this form, secured the necessary attachments and signatures, returned a copy to the EDC at the EDC&amp;#8217;s designated address,
+      and received a final signed approval form from the EDC.</text>
+    <text>Interconnection Facilities Study Agreement</text>
+    <text>This agreement is made and entered into this day of by and between</text>
+    <text>,a organized and existing under the laws of the State of &amp;#8220;Interconnection Customer,&amp;#8221;) and a existing under the laws of the State of , (&amp;#8220;Electric Distribution Company&amp;#8221; or &amp;#8220;EDC&amp;#8221;).The Interconnection
+      Customer and the EDC each may be referred to as a &amp;#8220;Party,&amp;#8221; or collectively as the &amp;#8220;Parties.&amp;#8221;</text>
+    <text>Recitals:</text>
+    <text>Whereas, The Interconnection Customer is proposing to develop a Small Generating Facility or adding generating capacity to an existing Small Generating Facility consistent with the Application completed by the Interconnection Customer on</text>
+    <text>; and</text>
+    <text>Whereas, The Interconnection Customer desires to interconnect the Small Generating Facility with the EDC&amp;#8217;s distribution system;</text>
+    <text>Whereas, The EDC has completed an Interconnection System Impact Study and provided the results of said study to the Interconnection Customer; and</text>
+    <text>Whereas, The Interconnection Customer has requested the EDC to perform an Interconnection Facilities Study to specify and estimate the cost of the equipment, engineering, procurement and construction work needed to implement the conclusions of the
+      Interconnection System Impact Study in accordance with good utility practice to physically and electrically connect the Small Generating Facility to the EDC&amp;#8217;s distribution system.</text>
+    <text>Now, therefore, in consideration of and subject to the mutual covenants contained herein the Parties agree as follows:</text>
+    <text>1.The Interconnection Customer and the EDC shall cause an Interconnection Facilities Study consistent with the District of Columbia Small Generator Interconnection Rules.</text>
+    <text>2.The Interconnection Customer will provide to the EDC the data requested in Section 2 of this Form. The scope of the Interconnection Facilities Study shall be subject to this data.</text>
+    <text>3.An Interconnection Facilities Study report shall: (1) provide a description, estimated cost of (consistent with Section 2), and schedule for required facilities to interconnect the Small Generator Facility to the EDC&amp;#8217;s distribution system;
+      and (2) address the short circuit, instability, and power flow issues identified in the Interconnection System Impact Study.</text>
+    <text>4.Study fees and deposits shall be based on actual costs in accordance with the provisions of the District of Columbia Small Generator Interconnection Rules and the Level 2-4 Standard Agreement.</text>
+    <text>5.In cases where no upgrades are required, the Interconnection Facilities Study shall be completed and the results will be transmitted to the Interconnection Customer within thirty calendar days after the agreement is signed by the Parties.</text>
+    <text>In witness whereof, the Parties have caused this agreement to be duly executed by their authorized officers or agents on the day and year written above:</text>
+    <text>[Insert name of the EDC]</text>
+    <text>Signed</text>
+    <text>Name (Printed):</text>
+    <text>Title</text>
+    <text>[Insert name of the Interconnection Customer]</text>
+    <text>Signed</text>
+    <text>Name (Printed): Title</text>
+    <text>Section 2 to the Interconnection Facilities Study Agreement</text>
+    <text>Data Requested Herein Shall Accompany the Interconnection Facilities StudyAgreement</text>
+    <text>·Provide location plan and simplified one-line diagram of the plant and station facilities.</text>
+    <text>·For staged projects, please indicate future generation, distribution circuits, etc. On the one-line diagram, indicate the generation capacity attached at each metering location (Maximum load on current transformer/potential transformer unit &amp;#8211;
+      CT/PT).</text>
+    <text>·On the one-line diagram, indicate the location of auxiliary power. (Minimum load on CT/PT), amps.</text>
+    <text>One set of metering is required for each generation connection to the new ring bus or existing EDC station.</text>
+    <text>Identify the number of generation connections:</text>
+    <text>Will an alternate source of auxiliary power be available during CT/PT maintenance?</text>
+    <text>Yes No .</text>
+    <text>Will a transfer bus on the generation side of the metering require that each meter set be designed for the total plant generation?</text>
+    <text>Yes No (Please indicate on the one-line diagram).</text>
+    <text>What type of control system or programmable logic controller (PLC) will be located at the Generating Facility?</text>
+    <text>.</text>
+    <text>What protocol does the control system or PLC use? .</text>
+    <text>Provide a 7.5-minute quadrangle map of the site. Indicate the plant, station, distribution line, and property lines.</text>
+    <text>Provide the physical dimensions of the proposed interconnection station:</text>
+    <text>.</text>
+    <text>Provide the bus length from generation to interconnection station:</text>
+    <text>.</text>
+    <text>Provide the line length from interconnection station to the EDC&amp;#8217;s distribution system: .</text>
+    <text>Identify the tower number observed in the field.*: .</text>
+    <text>Provide the number of third party easements required for distribution lines*:</text>
+    <text>.</text>
+    <text>Please provide the following proposed schedule dates:</text>
+    <text>Construction Commencement date:</text>
+    <text>Generator step-up transformers receive back feed power date:</text>
+    <text>Generation testing date:</text>
+    <text>Commercial operation date:</text>
+    <text>*To be completed in coordination with EDC</text>
+    <text>Interconnection Feasibility Study Agreement</text>
+    <text>This agreement is made and entered into this day of by and between , a organized and existing under the laws of the State of (&amp;#8220;Interconnection Customer,&amp;#8221;) and ,a</text>
+    <text>existing under the laws of the State of , (&amp;#8220;Electric Distribution Company&amp;#8221; or &amp;#8220;EDC&amp;#8221;). The Interconnection Customer and the EDC each may be referred to as a &amp;#8220;Party,&amp;#8221; or collectively as the
+      &amp;#8220;Parties.&amp;#8221;</text>
+    <text>Recitals:</text>
+    <text>Whereas, the Interconnection Customer is proposing to develop a Small Generating Facility or adding generating capacity to an existing Small Generating Facility consistent with the Application completed by the Interconnection Customer on ; and</text>
+    <text>Whereas, the Interconnection Customer desires to interconnect the Small Generating Facility with the EDC&amp;#8217;s electric distribution system; and</text>
+    <text>Whereas, the Interconnection Customer has requested the EDC to perform an Interconnection Feasibility Study to assess the feasibility of interconnecting the proposed Small Generating Facility to the EDC&amp;#8217;s distribution system;</text>
+    <text>Now, therefore, in consideration of and subject to the mutual covenants contained herein, the Parties agree as follows:</text>
+    <text>1. The Interconnection Customer elects and the EDC shall cause to be performed an Interconnection Feasibility Study consistent with the District of Columbia Small Generator Interconnection Rules (&amp;#8220;Rules&amp;#8221;).</text>
+    <text>2. The scope of the Interconnection Feasibility Study shall be subject to the assumptions set forth in the Rules and in Section 2 of this agreement.</text>
+    <text>3. The Interconnection Feasibility Study shall be based on the technical information provided by the Interconnection Customer in Application, as may be modified as the result of the Scoping Meeting. The EDC reserves the right to request additional
+      technical information from the Interconnection Customer as may reasonably become necessary consistent with good utility practice during the course of the Interconnection Feasibility Study. If, in the course of the Study, the Interconnection Customer
+      finds it necessary to modify the Application, the time to complete the Interconnection Feasibility Study may be extended by mutual agreement of the Parties.</text>
+    <text>4. In performing the study, the EDC will rely, to the extent reasonably practicable, on existing studies of recent vintage. The Interconnection Customer will not be charged for such existing studies. The District of Columbia Small Generator Interconnection
+      Rules detail cost responsibility associated with any new study or modifications to existing studies that are reasonably necessary to perform the Interconnection Feasibility Study.</text>
+    <text>5. The Interconnection Feasibility Study report shall provide the following information:</text>
+  </level>
+  <level>
+    <num>5.1.</num>
+    <text>Preliminary identification of any circuit breaker short circuit capability limits exceeded as a result of the interconnection;</text>
+    <text>Billing and Payment Procedures and Final Accounting (Applies to additional reviews conducted under a Level 2 review and Level 4 reviews)</text>
+  </level>
+  <level>
+    <num>5.1.</num>
+    <text>1 The EDC shall bill the Interconnection Customer for the design, engineering, construction, and procurement costs of the EDC provided Interconnection Facilities and Distribution Upgrades contemplated by this Agreement as set forth in Attachment 2,
+      on a monthly basis, or as otherwise agreed by the Parties. The Interconnection Customer shall pay each bill within thirty (30) calendar days of receipt, or as otherwise agreed to by the Parties.</text>
+  </level>
+  <level>
+    <num>5.1.</num>
+    <text>2 Within ninety (90) calendar days of completing the construction and installation of the EDC&amp;#8217;s Interconnection Facilities and Distribution Upgrades described in the Attachments 1 and 2 to this Agreement, the EDC shall provide the Interconnection
+      Customer with a final accounting report of any difference between (1) the actual cost incurred to complete the construction and installation and the budget estimate provided to the Interconnection Customer and a written explanation for any significant
+      variation; and (2) the Interconnection Customer&amp;#8217;s previous deposit and aggregate payments to the EDC for such Interconnection Facilities and Distribution Upgrades. If the Interconnection Customer&amp;#8217;s cost responsibility exceeds
+      its previous deposit and aggregate payments, the EDC shall invoice the Interconnection Customer for the amount due and the Interconnection Customer shall make payment to the EDC within thirty (30) calendar days. If the Interconnection Customer&amp;#8217;s
+      previous deposit and aggregate payments exceed its cost responsibility under this Agreement, the EDC shall refund to the Interconnection Customer an amount equal to the difference within thirty (30) calendar days of the final accounting report.</text>
+  </level>
+  <level>
+    <num>5.1.</num>
+    <text>3 If a Party in good faith disputes any portion of its payment obligation pursuant to this Article 5, such Party shall pay in a timely manner all non-disputed portions of its invoice, and such disputed amount shall be resolved pursuant to the dispute
+      resolution provisions contained in Article 8. Provided such Party&amp;#8217;s dispute is in good faith, the disputing Party shall not be considered to be in default of its obligations pursuant to this Article.</text>
+  </level>
+  <level>
+    <num>5.2.</num>
+    <text>Preliminary identification of any thermal overload or voltage limit violations resulting from the interconnection; and</text>
+    <text>Interconnection Customer Deposit</text>
+    <text>When a Level 4 Interconnection Feasibility Study, Interconnection System Impact Study, or Interconnection Facility Study or a Level 2 Review of Minor Modifications is required under the District of Columbia Small Generator Interconnection Rules, the
+      EDC may require the Interconnection Customer to pay a deposit equal to 50% of the estimated cost to perform the study or review. At least twenty (20) business days prior to the commencement of the design, procurement, installation, or construction
+      of a discrete portion of the EDC&amp;#8217;s Interconnection Facilities and Distribution Upgrades, the Interconnection Customer shall provide the EDC with a deposit equal to 50% of the estimated costs prior to its beginning design of such facilities,
+      provided the total cost is in excess of $1,000.</text>
+    <text>Article 6 Assignment, Limitation on Damages, Indemnity, Force Majeure, and Default</text>
+  </level>
+  <level>
+    <num>5.3.</num>
+    <text>Preliminary description and non-bonding estimated cost of facilities required to interconnect the Small Generating Facility to the EDC&amp;#8217;s electric distribution system and to address the identified short circuit and power flow issues.</text>
+    <text>6. The Interconnection Feasibility Study shall be completed and the results shall be transmitted to Interconnection Customer within thirty calendar days after the agreement is signed by the Parties.</text>
+    <text>7. Study fees and deposits shall be based on actual costs in accordance with the provisions of the District of Columbia Small Generator Interconnection Rules and Level 2-4 Standard Agreement.</text>
+    <text>In witness whereof, the Parties have caused this agreement to be duly executed by their authorized officers or agents on the day and year first above written:</text>
+    <text>[Insert name of EDC]</text>
+    <text>Signed</text>
+    <text>Name</text>
+    <text>(Printed):</text>
+    <text>Title</text>
+    <text>[Insert name of Interconnection Customer]</text>
+    <text>Signed</text>
+    <text>Name (Printed): Title</text>
+    <text>Section 2: Interconnection Feasibility Study AgreementAssumptions Used in Conducting the Interconnection Feasibility Study</text>
+    <text>The Interconnection Feasibility Study will be based on the information set forth in the Application and agreed upon in the Scoping Meeting held on</text>
+    <text>:</text>
+    <text>1. Designation of Point of Interconnection and configuration to be studied.</text>
+    <text>2. Designation of alternative Points of Interconnection and configuration.</text>
+    <text>Note: 1 and 2 are to be completed by the Interconnection Customer. Additional assumptions provided by the Interconnection Customer and/or the EDC shall be listed below.</text>
+    <text>District of Columbia Small Generator Interconnection Rule Level 2-4</text>
+    <text>Standard Agreement for Interconnection of Small Generator Facilities</text>
+    <text>This Agreement is made and entered into this day of , by and between , a organized and existing under the laws of</text>
+    <text>(&amp;#8220;Interconnection Customer,&amp;#8221;) and , a , existing under the laws of , (&amp;#8220;EDC&amp;#8221;). The Interconnection Customer and the EDC each may be referred to as a &amp;#8220;Party,&amp;#8221; or collectively as the &amp;#8220;Parties.&amp;#8221;</text>
+    <text>Recitals:</text>
+    <text>Whereas, Interconnection Customer is proposing to, install or direct the installation of a Small Generator Facility, or is proposing a generating capacity addition to an existing Small Generator Facility, consistent with the Interconnection Request
+      completed by Interconnection Customer on ; and</text>
+    <text>Whereas, the Interconnection Customer will operate and maintain, or cause the operation and maintenance of the Small Generator Facility; and</text>
+    <text>Whereas, Interconnection Customer desires to interconnect the Small Generator Facility with the EDC&amp;#8217;s Electric Distribution System.</text>
+    <text>Now, therefore, in consideration of the promises and mutual covenants set forth herein, and other good and valuable consideration, the receipt, sufficiency and adequacy of which are hereby acknowledged, the Parties covenant and agree as follows:</text>
+    <text>Article 1 Scope and Limitations of Agreement</text>
+  </level>
+  <level>
+    <num>1.1.</num>
+    <text>This Agreement shall be used for all approved Level 2, Level 3 and Level 4 Interconnection Requests according to the procedures set forth in the District of Columbia Small Generator Interconnection Rules.</text>
+  </level>
+  <level>
+    <num>1.2.</num>
+    <text>This Agreement governs the terms and conditions under which the Small Generator Facility will interconnect to, and operate in Parallel with, the EDC&amp;#8217;s Electric Distribution System.</text>
+  </level>
+  <level>
+    <num>1.3.</num>
+    <text>This Agreement does not constitute an agreement to purchase or deliver the Interconnection Customer&amp;#8217;s power.</text>
+  </level>
+  <level>
+    <num>1.4.</num>
+    <text>Nothing in this Agreement is intended to affect any other agreement between the EDC and the Interconnection Customer. However, in the event that the provisions of this Agreement are in conflict with the provisions of the EDC&amp;#8217;s tariff, the
+      EDC tariff shall control.</text>
+  </level>
+  <level>
+    <num>1.5.</num>
+    <text>Responsibilities of the Parties</text>
+  </level>
+  <level>
+    <num>1.5.</num>
+    <text>1 The Parties shall perform all obligations of this Agreement in accordance with all Applicable Laws and Regulations.</text>
+  </level>
+  <level>
+    <num>1.5.</num>
+    <text>2 The EDC shall construct, own, operate, and maintain its Interconnection Facilities in accordance with this Agreement, IEEE Standard 1547, the National Electrical Safety Code and applicable standards promulgated by the District of Columbia Public
+      Service Commission.</text>
+  </level>
+  <level>
+    <num>1.5.</num>
+    <text>3 The Interconnection Customer shall construct, own, operate, and maintain its Interconnection Facilities in accordance with this Agreement, IEEE Standard 1547, the National Electrical Code and applicable standards promulgated by the District of Columbia
+      Public Service Commission.</text>
+  </level>
+  <level>
+    <num>1.5.</num>
+    <text>4 Each Party shall operate, maintain, repair, and inspect, and shall be fully responsible for the facilities that it now or subsequently may own unless otherwise specified in the attachments to this Agreement. Each Party shall be responsible for the
+      safe installation, maintenance, repair and condition of their respective lines and appurtenances on their respective sides of the Point of Common Coupling.</text>
+  </level>
+  <level>
+    <num>1.5.</num>
+    <text>5 The Interconnection Customer agrees to design, install, maintain and operate its Small Generator Facility so as to minimize the likelihood of causing an Adverse System Impact on an electric system that is not owned or operated by the EDC.</text>
+  </level>
+  <level>
+    <num>1.6.</num>
+    <text>Metering</text>
+    <text>The Interconnection Customer shall be responsible for the cost of the purchase, installation, operation, maintenance, testing, repair, and replacement of metering and data acquisition equipment specified in Attachments 4 and 5 of this Agreement.</text>
+  </level>
+  <level>
+    <num>1.7.</num>
+    <text>Reactive Power</text>
+    <text>The Interconnection Customer shall design its Small Generator Facility to maintain a composite power delivery at continuous rated power output at the Point of common coupling at a power factor within the power factor range required by the EDC&amp;#8217;s
+      applicable tariff for a comparable load customer. The EDC may also require the Interconnection Customer to follow a voltage or VAR schedule if such schedules are applicable to similarly situated generators in the control area on a comparable basis
+      and have been approved by the Commission. The specific requirements for meeting a voltage or VAR schedule shall be clearly specified in Attachment 3. Under no circumstance shall these additional requirements for reactive power or voltage support
+      exceed the normal operating capabilities of the Small Generator Facility.</text>
+  </level>
+  <level>
+    <num>1.8.</num>
+    <text>Capitalized Terms</text>
+    <text>Capitalized terms used herein shall have the meanings specified in the Definitions section of the District of Columbia Small Generator Interconnection Rules or the body of this Agreement.</text>
+    <text>Article 2 Inspection, Testing, Authorization, and Right of Access</text>
+  </level>
+  <level>
+    <num>2.1.</num>
+    <text>Equipment Testing and Inspection</text>
+    <text>The Interconnection Customer shall test and inspect its Small Generator Facility including the Interconnection Equipment prior to interconnection in accordance with IEEE Standard 1547, IEEE Standard 1547.1, and the technical and procedural requirements
+      in the District of Columbia Small Generator Interconnection Rule. The Interconnection Customer shall not operate its Small Generator Facility in Parallel with the EDC&amp;#8217;s Electric Distribution System without prior written authorization by
+      the EDC as provided for in Articles 2.1.1 &amp;#8211; 2.1.3.</text>
+  </level>
+  <level>
+    <num>2.1.</num>
+    <text>1 The EDC shall have the option of performing a Witness Test after construction of the small generator facility is completed. The Interconnection Customer shall provide the EDC at least 20 days notice of the planned Commissioning Test for the small
+      generator facility. If the EDC elects to perform a Witness Test, it shall contact the Interconnection Customer to schedule the Witness Test at a mutually agreeable time within 10 business days of the scheduled commissioning test. If the EDC does
+      not perform the Witness Test within 10 business days of the commissioning test, the Witness Test is deemed waived unless the parties mutually agree to extend the date for scheduling the Witness Test. If the Witness Test is not acceptable to the
+      EDC, the Interconnection Customer will be granted a period of 30 calendar days to address and resolve any deficiencies. The time period for addressing and resolving any deficiencies may be extended upon the mutual agreement of the EDC and the Interconnection
+      Customer. If the Interconnection Customer fails to address and resolve the deficiencies to the satisfaction of the EDC, the applicable termination provisions of Article 3.3.7 shall apply. If a Witness Test is not performed by the EDC or an entity
+      approved by the EDC, the Interconnection Customer must still satisfy the interconnection test specifications and requirements set forth in IEEE Standard 1547 Section 5. The Interconnection Customer shall, if requested by the EDC, provide a copy
+      of all documentation in its possession regarding testing conducted pursuant to IEEE Standard 1547.1.</text>
+  </level>
+  <level>
+    <num>2.1.</num>
+    <text>2 To the extent that the Interconnection Customer decides to conduct interim testing of the Small Generator Facility prior to the Witness Test, it may request that the EDC observe these tests and that these tests be deleted from the final Witness
+      Test. The EDC may, at its own expense, send qualified personnel to the Small Generator Facility to observe such interim testing. Nothing in this Section 2.1.2 shall require the EDC to observe such interim testing or preclude the EDC from performing
+      these tests at the final Witness Test. Regardless of whether the EDC observes the interim testing, the Interconnection Customer shall obtain permission in advance of each occurrence of operating the Small Generator Facility in parallel with the
+      EDC&amp;#8217;s system.</text>
+  </level>
+  <level>
+    <num>2.1.</num>
+    <text>3 Upon successful completion of the Witness Test, the EDC shall affix an authorized signature to the Certificate of Completion and return it to the Interconnection Customer approving the interconnection and authorizing Parallel Operation. Such authorization
+      shall not be unreasonably withheld, conditioned, or delayed.</text>
+  </level>
+  <level>
+    <num>2.2.</num>
+    <text>Commercial Operation</text>
+    <text>The interconnection customer shall not operate the Small Generator Facility, except for interim testing as provided in Article 2.1, until such time as the Certificate of Completion is signed by all Parties.</text>
+  </level>
+  <level>
+    <num>2.3.</num>
+    <text>Right of Access</text>
+    <text>The EDC shall have access to the disconnect switch and metering equipment of the Small Generator Facility at all times. The EDC shall provide reasonable notice to the customer when possible prior to using its right of access.</text>
+    <text>Article 3 Effective Date, Term, Termination, and Disconnection</text>
+  </level>
+  <level>
+    <num>3.1.</num>
+    <text>Effective Date</text>
+    <text>This Agreement shall become effective upon execution by the Parties.</text>
+  </level>
+  <level>
+    <num>3.2.</num>
+    <text>Term of Agreement</text>
+    <text>This Agreement shall become effective on the Effective Date and shall remain in effect in perpetuity unless terminated earlier in accordance with Article 3.3 of this Agreement.</text>
+  </level>
+  <level>
+    <num>3.3.</num>
+    <text>Termination</text>
+    <text>No termination shall become effective until the Parties have complied with all Applicable Laws and Regulations applicable to such termination.</text>
+  </level>
+  <level>
+    <num>3.3.</num>
+    <text>1 The Interconnection Customer may terminate this Agreement at any time by giving the EDC 30 calendar days prior written notice.</text>
+  </level>
+  <level>
+    <num>3.3.</num>
+    <text>2 Either Party may terminate this Agreement after default pursuant to Article 6.5.</text>
+  </level>
+  <level>
+    <num>3.3.</num>
+    <text>3 The EDC may terminate upon 60 calendar days&amp;#8217; prior written notice for failure of the Interconnection Customer to complete construction of the Small Generator Facility within 12 months of the in-service date as specified by the Parties
+      in Attachment 1, which may be extended by mutual agreement of the Parties which shall not be unreasonably withheld.</text>
+  </level>
+  <level>
+    <num>3.3.</num>
+    <text>4 The EDC may terminate this Agreement upon 60 calendar days&amp;#8217; prior written notice if the Interconnection Customer fails to operate the Small Generator Facility in parallel with EDC&amp;#8217;s electric system for three consecutive years.</text>
+  </level>
+  <level>
+    <num>3.3.</num>
+    <text>5 Upon termination of this Agreement, the Small Generator Facility will be disconnected from the EDC&amp;#8217;s Electric Distribution System. The termination of this Agreement shall not relieve either Party of its liabilities and obligations, owed
+      or continuing at the time of the termination.</text>
+  </level>
+  <level>
+    <num>3.3.</num>
+    <text>6 The provisions of this Article shall survive termination or expiration of this Agreement.</text>
+  </level>
+  <level>
+    <num>3.3.</num>
+    <text>7 The EDC may terminate this Agreement if the Interconnection Customer fails to comply with the Witness Test requirement in Article 2.2.1.</text>
+  </level>
+  <level>
+    <num>3.4.</num>
+    <text>Temporary Disconnection</text>
+    <text>A Party may temporarily disconnect the Small Generator Facility from the Electric Distribution System in the event of an Emergency Condition for as long as the Party determines it is reasonably necessary in the event one or more of the following conditions
+      or events occurs:</text>
+  </level>
+  <level>
+    <num>3.4.</num>
+    <text>1 Emergency Conditions &amp;#8211; Emergency Conditions shall mean any condition or situation: (1) that in the judgment of the Party making the claim is reasonably likely to endanger life or property; or (2) that, in the case of the EDC, is reasonably
+      likely to cause an Adverse System Impact; or (3) that, in the case of the Interconnection Customer, is reasonably likely (as determined in a non-discriminatory manner) to cause a material adverse effect on the security of, or damage to, the Small
+      Generator Facility or the Interconnection Equipment. Under Emergency Conditions, the EDC or the Interconnection Customer may immediately suspend interconnection service and temporarily disconnect the Small Generator Facility. The EDC shall notify
+      the Interconnection Customer promptly when it becomes aware of an Emergency Condition that may reasonably be expected to affect the Interconnection Customer&amp;#8217;s operation of the Small Generator Facility. The Interconnection Customer shall
+      notify the EDC promptly when it becomes aware of an Emergency Condition that may reasonably be expected to affect the EDC&amp;#8217;s Electric Distribution System. To the extent information is known, the notification shall describe the Emergency
+      Condition, the extent of the damage or deficiency, the expected effect on the operation of both Parties&amp;#8217; facilities and operations, its anticipated duration, and the necessary corrective action.</text>
+  </level>
+  <level>
+    <num>3.4.</num>
+    <text>2 Scheduled Maintenance, Construction, or Repair &amp;#8211; The EDC may interrupt interconnection service or curtail the output of the Small Generator Facility and temporarily disconnect the Small Generator Facility from the EDC&amp;#8217;s Electric
+      Distribution System when necessary for scheduled maintenance, construction, or repairs on the EDC&amp;#8217;s Electric Distribution System. The EDC shall provide the Interconnection Customer with five business days notice prior to such interruption.
+      The EDC shall use reasonable efforts to coordinate such reduction or temporary disconnection with the Interconnection Customer.</text>
+  </level>
+  <level>
+    <num>3.4.</num>
+    <text>3 Forced Outages &amp;#8211; With any forced outage, the EDC may suspend interconnection service to effect immediate repairs on the EDC&amp;#8217;s Electric Distribution System. The EDC shall use reasonable efforts to provide the Interconnection Customer
+      with prior notice. If prior notice is not given, the EDC shall, upon written request, provide the Interconnection Customer written documentation after the fact explaining the circumstances of the disconnection.</text>
+  </level>
+  <level>
+    <num>3.4.</num>
+    <text>4 Adverse Operating Effects &amp;#8211; The EDC shall provide the Interconnection Customer with a written notice of its intention to disconnect the Small Generator Facility if, based on the operating requirements specified in Attachment 3, the EDC
+      determines that operation of the Small Generator Facility will likely cause disruption or deterioration of service to other customers served from the same electric system, or if operating the Small Generator Facility could cause damage to the EDC&amp;#8217;s
+      Electric Distribution System. Supporting documentation used to reach the decision to disconnect shall be provided to the Interconnection Customer upon written request. The EDC may disconnect the Small Generator Facility if, after receipt of the
+      notice, the Interconnection Customer fails to remedy the adverse operating effect within a reasonable time unless Emergency Conditions exist in which case the provisions of Article 3.4.1 apply.</text>
+  </level>
+  <level>
+    <num>3.4.</num>
+    <text>5 Modification of the Small Generator Facility &amp;#8211; The interconnection customer shall provide written notification to the EDC before making any modifications to the small generator facility. The EDC will determine if the modifications are
+      minor or non-minor in nature. Written authorization from the EDC is required for non- minor changes if the EDC determines that the interconnection customer&amp;#8217;s modifications could cause an Adverse System Impact. If the interconnection customer
+      makes such modifications without the EDC&amp;#8217;s prior written authorization the EDC shall have the right to temporarily disconnect the small generator facility until such time as the EDC reasonably concludes the modification poses no threat
+      to the safety or reliability of its electric distribution system.</text>
+  </level>
+  <level>
+    <num>3.4.</num>
+    <text>6 Reconnection &amp;#8211; The Parties shall cooperate with each other to restore the Small Generator Facility, Interconnection Facilities, and EDC&amp;#8217;s Electric Distribution System to their normal operating state as soon as reasonably practicable
+      following any disconnection pursuant to this section; provided, however, if such disconnection is done pursuant to Article 3.4.5 due to the Interconnection Customer&amp;#8217;s failure to obtain prior written authorization from the EDC for Non-
+      Minor Equipment Modifications, the EDC shall reconnect the Interconnection Customer only after determining the modifications do not impact the safety or reliability of its Electric Distribution System.</text>
+    <text>Article 4 Cost Responsibility for Interconnection Facilities and Distribution Upgrades</text>
+  </level>
+  <level>
+    <num>6.1.</num>
+    <text>Assignment</text>
+    <text>This Agreement may be assigned by either Party upon fifteen (15) business days prior written notice, and with the opportunity to object by the other Party. Should the Interconnection Customer assign this agreement, the EDC has the right to request
+      that the assignee agree to the assignment and the terms of this Agreement in writing. When required, consent to assignment shall not be unreasonably withheld; provided that:</text>
+  </level>
+  <level>
+    <num>6.1.</num>
+    <text>1 Either Party may assign this Agreement without the consent of the other Party to any affiliate (which shall include a merger of the Party with another entity), of the assigning Party with an equal or greater credit rating and with the legal authority
+      and operational ability to satisfy the obligations of the assigning Party under this Agreement;</text>
+  </level>
+  <level>
+    <num>6.1.</num>
+    <text>2 The Interconnection Customer shall have the right to assign this Agreement, without the consent of the EDC, for collateral security purposes to aid in providing financing for the Small Generator Facility, For Small Generator systems that are integrated
+      into a building facility, the sale of the building or property will result in an automatic transfer of this agreement to the new owner who shall be responsible for complying with the terms and conditions of this Agreement.</text>
+  </level>
+  <level>
+    <num>6.1.</num>
+    <text>3 Any attempted assignment that violates this Article is void and ineffective. Assignment shall not relieve a Party of its obligations, nor shall a Party&amp;#8217;s obligations be enlarged, in whole or in part, by reason thereof. An assignee is responsible
+      for meeting the same obligations as the Interconnection Customer.</text>
+  </level>
+  <level>
+    <num>6.2.</num>
+    <text>Limitation on Damages</text>
+    <text>Except for cases of gross negligence or willful misconduct, the liability of any Party to this Agreement shall be limited to direct actual damages, and all other damages at law are waived. Under no circumstances, except for cases of gross negligence
+      or willful misconduct, shall any Party or its directors, officers, employees and agents, or any of them, be liable to another Party, whether in tort, contract or other basis in law or equity for any special, indirect, punitive, exemplary or consequential
+      damages, including lost profits, lost revenues, replacement power, cost of capital or replacement equipment. This limitation on damages shall not affect any Party&amp;#8217;s rights to obtain equitable relief, including specific performance, as
+      otherwise provided in this Agreement. The provisions of this Article 6.2 shall survive the termination or expiration of the Agreement.</text>
+  </level>
+  <level>
+    <num>6.3.</num>
+    <text>Indemnity</text>
+  </level>
+  <level>
+    <num>6.3.</num>
+    <text>1 This provision protects each Party from liability incurred to third parties as a result of carrying out the provisions of this Agreement. Liability under this provision is exempt from the general limitations on liability found in Article 6.2.</text>
+  </level>
+  <level>
+    <num>6.3.</num>
+    <text>2 The Parties shall at all times indemnify, defend, and hold the other Party harmless from, any and all damages, losses, claims, including claims and actions relating to injury to or death of any person or damage to property, demand, suits, recoveries,
+      costs and expenses, court costs, attorney fees, and all other obligations by or to third parties, arising out of or resulting from the other Party&amp;#8217;s action or failure to meet its obligations under this Agreement on behalf of the indemnifying
+      Party, except in cases of gross negligence or intentional wrongdoing by the indemnified Party.</text>
+  </level>
+  <level>
+    <num>6.3.</num>
+    <text>3 Promptly after receipt by an indemnified Party of any claim or notice of the commencement of any action or administrative or legal proceeding or investigation as to which the indemnity provided for in this Article may apply, the indemnified Party
+      shall notify the indemnifying Party of such fact. Any failure of or delay in such notification shall not affect a Party&amp;#8217;s indemnification obligation unless such failure or delay is materially prejudicial to the indemnifying Party.</text>
+  </level>
+  <level>
+    <num>6.3.</num>
+    <text>4 If an indemnified Party is entitled to indemnification under this Article as a result of a claim by a third party, and the indemnifying Party fails, after notice and reasonable opportunity to proceed under this Article, to assume the defense of
+      such claim, such indemnified Party may at the expense of the indemnifying Party contest, settle or consent to the entry of any judgment with respect to, or pay in full, such claim.</text>
+  </level>
+  <level>
+    <num>6.3.</num>
+    <text>5 If an indemnifying Party is obligated to indemnify and hold any indemnified Party harmless under this Article, the amount owing to the indemnified person shall be the amount of such indemnified Party&amp;#8217;s actual loss, net of any insurance
+      or other recovery.</text>
+  </level>
+  <level>
+    <num>6.4.</num>
+    <text>Force Majeure</text>
+  </level>
+  <level>
+    <num>6.4.</num>
+    <text>1 As used in this Article, a Force Majeure Event shall mean any act of God, labor disturbance, act of the public enemy, war, acts of terrorism, insurrection, riot, fire, storm or flood, explosion, breakage or accident to machinery or equipment through
+      no direct, indirect, or contributory act of a Party, any order, regulation or restriction imposed by governmental, military or lawfully established civilian authorities, or any other cause beyond a Party&amp;#8217;s control. A Force Majeure Event
+      does not include an act of gross negligence or intentional wrongdoing.</text>
+  </level>
+  <level>
+    <num>6.4.</num>
+    <text>2 If a Force Majeure Event prevents a Party from fulfilling any obligations under this Agreement, the Party affected by the Force Majeure Event (Affected Party) shall promptly notify the other Party of the existence of the Force Majeure Event. The
+      notification must specify in reasonable detail the circumstances of the Force Majeure Event, its expected duration, and the steps that the Affected Party is taking and will take to mitigate the effects of the event on its performance, and if the
+      initial notification was verbal, it should be promptly followed up with a written notification. The Affected Party shall keep the other Party informed on a continuing basis of developments relating to the Force Majeure Event until the event ends.
+      The Affected Party shall be entitled to suspend or modify its performance of obligations under this Agreement (other than the obligation to make payments) only to the extent that the effect of the Force Majeure Event cannot be reasonably mitigated.
+      The Affected Party shall use reasonable efforts to resume its performance as soon as possible.</text>
+  </level>
+  <level>
+    <num>6.5.</num>
+    <text>Default</text>
+  </level>
+  <level>
+    <num>6.5.</num>
+    <text>1 No default shall exist where such failure to discharge an obligation (other than the payment of money) is the result of a Force Majeure Event as defined in this Agreement, or the result of an act or omission of the other Party.</text>
+  </level>
+  <level>
+    <num>6.5.</num>
+    <text>2 Upon a default of this Agreement, the non-defaulting Party shall give written notice of such default to the defaulting Party. Except as provided in Article 6.5.3 the defaulting Party shall have 60 calendar days from receipt of the default notice
+      within which to cure such default; provided however, if such default is not capable of cure within 60 calendar days, the defaulting Party shall commence such cure within 20 calendar days after notice and continuously and diligently complete such
+      cure within six months from receipt of the default notice; and, if cured within such time, the default specified in such notice shall cease to exist.</text>
+  </level>
+  <level>
+    <num>6.5.</num>
+    <text>3 If a Party has made an assignment of this Agreement not specifically authorized by Article 6.1, fails to provide reasonable access pursuant to Article 2.3, is in default of its obligations pursuant to Article 7, or if a Party is in default of its
+      payment obligations pursuant to Article 5 of this Agreement, the defaulting Party shall have 30 days from receipt of the default notice within which to cure such default.</text>
+  </level>
+  <level>
+    <num>6.5.</num>
+    <text>4 If a default is not cured as provided for in this Article, or if a default is not capable of being cured within the period provided for herein, the non-defaulting Party shall have the right to terminate this Agreement by written notice at any time
+      until cure occurs, and be relieved of any further obligation hereunder and, whether or not that Party terminates this Agreement, to recover from the defaulting Party all amounts due hereunder, plus all other damages and remedies to which it is entitled
+      at law or in equity. The provisions of this Article will survive termination of this Agreement.</text>
+    <text>Article 7 Insurance</text>
+    <text>For Small Generator Facilities with a Nameplate Capacity of 1 MW or above, the Interconnection Customer shall carry adequate insurance coverage that shall be acceptable to the EDC; provided, that the maximum comprehensive/general liability coverage
+      that shall be continuously maintained by the Interconnection Customer during the term shall be not less than $2,000,000 for each occurrence, and an aggregate, if any, of at least $4,000,000. The EDC, its officers, employees and agents will be added
+      as an additional insured on this policy.</text>
+    <text>Article 8 Dispute Resolution</text>
+  </level>
+  <level>
+    <num>8.1.</num>
+    <text>A party shall attempt to resolve all disputes regarding interconnection as provided in this Agreement and the District of Columbia Small Generator Interconnection Rule promptly, equitably, and in a good faith manner.</text>
+  </level>
+  <level>
+    <num>8.2.</num>
+    <text>When a dispute arises, a party may seek immediate resolution through complaint procedures available through the Commission, or an alternative dispute resolution process approved by the Commission, by providing written notice to the Commission and
+      the other party stating the issues in dispute. Dispute resolution will be conducted in an informal, expeditious manner to reach resolution with minimal costs and delay. When available, dispute resolution may be conducted by phone.</text>
+  </level>
+  <level>
+    <num>8.3.</num>
+    <text>When disputes relate to the technical application of this Agreement and the District of Columbia Small Generator Interconnection Rule, the Commission may designate a technical consultant to resolve the dispute. Upon Commission designation, the parties
+      shall use the technical consultant to resolve disputes related to interconnection. Costs for a dispute resolution conducted by the technical consultant shall be established by the technical consultant, subject to review by the Commission.</text>
+  </level>
+  <level>
+    <num>8.4.</num>
+    <text>Pursuit of dispute resolution may not affect an Interconnection Customer with regard to consideration of an Interconnection Request or an Interconnection Customer&amp;#8217;s queue position.</text>
+  </level>
+  <level>
+    <num>8.5.</num>
+    <text>If the Parties fail to resolve their dispute under the dispute resolution provisions of this Article, nothing in this Article shall affect any Party&amp;#8217;s rights to obtain equitable relief, including specific performance, as otherwise provided
+      in this Agreement.</text>
+    <text>Article 9 Miscellaneous</text>
+  </level>
+  <level>
+    <num>9.1.</num>
+    <text>Governing Law, Regulatory Authority, and Rules</text>
+    <text>The validity, interpretation and enforcement of this Agreement and each of its provisions shall be governed by the laws of the District of Columbia, without regard to its conflicts of law principles. This Agreement is subject to all Applicable Laws
+      and Regulations.</text>
+  </level>
+  <level>
+    <num>9.2.</num>
+    <text>Amendment</text>
+    <text>Modification of this Agreement shall be only by a written instrument duly executed by both Parties.</text>
+  </level>
+  <level>
+    <num>9.3.</num>
+    <text>No Third-Party Beneficiaries</text>
+    <text>This Agreement is not intended to and does not create rights, remedies, or benefits of any character whatsoever in favor of any persons, corporations, associations, or entities other than the Parties, and the obligations herein assumed are solely
+      for the use and benefit of the Parties, their successors in interest and where permitted, their assigns.</text>
+  </level>
+  <level>
+    <num>9.4.</num>
+    <text>Waiver</text>
+  </level>
+  <level>
+    <num>9.4.</num>
+    <text>1 The failure of a Party to this Agreement to insist, on any occasion, upon strict performance of any provision of this Agreement shall not be considered a waiver of any obligation, right, or duty of, or imposed upon, such Party.</text>
+  </level>
+  <level>
+    <num>9.4.</num>
+    <text>2 Any waiver at any time by either Party of its rights with respect to this Agreement shall not be deemed a continuing waiver or a waiver with respect to any other failure to comply with any other obligation, right, duty of this Agreement. Termination
+      or default of this Agreement for any reason by Interconnection Customer shall not constitute a waiver of the Interconnection Customer&amp;#8217;s legal rights to obtain an interconnection from EDC. Any waiver of this Agreement shall, if requested,
+      be provided in writing.</text>
+  </level>
+  <level>
+    <num>9.5.</num>
+    <text>Entire Agreement</text>
+    <text>This Agreement, including all attachments, constitutes the entire Agreement between the Parties with reference to the subject matter hereof, and supersedes all prior and contemporaneous understandings or agreements, oral or written, between the Parties
+      with respect to the subject matter of this Agreement. There are no other agreements, representations, warranties, or covenants that constitute any part of the consideration for, or any condition to, either Party&amp;#8217;s compliance with its obligations
+      under this Agreement.</text>
+  </level>
+  <level>
+    <num>9.6.</num>
+    <text>Multiple Counterparts</text>
+    <text>This Agreement may be executed in two or more counterparts, each of which is deemed an original but all constitute one and the same instrument.</text>
+  </level>
+  <level>
+    <num>9.7.</num>
+    <text>No Partnership</text>
+    <text>This Agreement shall not be interpreted or construed to create an association, joint venture, agency relationship, or partnership between the Parties or to impose any partnership obligation or partnership liability upon either Party. Neither Party
+      shall have any right, power or authority to enter into any agreement or undertaking for, or act on behalf of, or to act as or be an agent or representative of, or to otherwise bind, the other Party.</text>
+  </level>
+  <level>
+    <num>9.8.</num>
+    <text>Severability</text>
+    <text>If any provision or portion of this Agreement shall for any reason be held or adjudged to be invalid or illegal or unenforceable by any court of competent jurisdiction or other governmental authority, (1) such portion or provision shall be deemed
+      separate and independent, (2) the Parties shall negotiate in good faith to restore insofar as practicable the benefits to each Party that were affected by such ruling, and (3) the remainder of this Agreement shall remain in full force and effect.</text>
+  </level>
+  <level>
+    <num>9.9.</num>
+    <text>Environmental Releases</text>
+    <text>Each Party shall notify the other Party, first orally and then in writing, of the release any hazardous substances, any asbestos or lead abatement activities, or any type of remediation activities related to the Small Generator Facility or the Interconnection
+      Facilities, each of which may reasonably be expected to affect the other Party. The notifying Party shall (1) provide the notice as soon as practicable, provided such Party makes a good faith effort to provide the notice no later than 24 hours after
+      such Party becomes aware of the occurrence, and (2) promptly furnish to the other Party copies of any publicly available reports filed with any governmental authorities addressing such events.</text>
+  </level>
+  <level>
+    <num>9.10.</num>
+    <text>Subcontractors</text>
+    <text>Nothing in this Agreement shall prevent a Party from utilizing the services of any subcontractor as it deems appropriate to perform its obligations under this Agreement; provided, however, that each Party shall require its subcontractors to comply
+      with all applicable terms and conditions of this Agreement in providing such services and each Party shall remain primarily liable to the other Party for the performance of such subcontractor.</text>
+  </level>
+  <level>
+    <num>9.10.</num>
+    <text>1 The creation of any subcontract relationship shall not relieve the hiring Party of any of its obligations under this Agreement. The hiring Party shall be fully responsible to the other Party for the acts or omissions of any subcontractor the hiring
+      Party hires as if no subcontract had been made. Any applicable obligation imposed by this Agreement upon the hiring Party shall be equally binding upon, and shall be construed as having application to, any subcontractor of such Party.</text>
+  </level>
+  <level>
+    <num>9.10.</num>
+    <text>2 The obligations under this Article will not be limited in any way by any limitation of subcontractor&amp;#8217;s insurance.</text>
+    <text>Article 10 Notices</text>
+  </level>
+  <level>
+    <num>10.1.</num>
+    <text>General</text>
+    <text>Unless otherwise provided in this Agreement, any written notice, demand, or request required or authorized in connection with this Agreement (&amp;#8220;Notice&amp;#8221;) shall be deemed properly given if delivered in person, delivered by recognized
+      national courier service, or sent by first class mail, postage prepaid, to the person specified below:</text>
+    <text>If to Interconnection Customer:</text>
+    <text>Interconnection Customer:</text>
+    <text>Attention:</text>
+    <text>Address:</text>
+    <text>City: State: Zip:</text>
+    <text>Phone: Fax: E-mail</text>
+    <text>If to EDC:</text>
+    <text>EDC</text>
+    <text>Attention:</text>
+    <text>Address:</text>
+    <text>City: State: Zip:</text>
+    <text>Phone: Fax: E-mail</text>
+  </level>
+  <level>
+    <num>10.2.</num>
+    <text>Billing and Payment</text>
+    <text>Billings and payments shall be sent to the addresses set forth below:</text>
+    <text>If to Interconnection Customer</text>
+    <text>Interconnection Customer:</text>
+    <text>Attention:</text>
+    <text>Address:</text>
+    <text>City: State: Zip:</text>
+    <text>If to EDC</text>
+    <text>Attention:</text>
+    <text>Address:</text>
+    <text>City: State: Zip:</text>
+  </level>
+  <level>
+    <num>10.3.</num>
+    <text>Designated Operating Representative</text>
+    <text>The Parties may also designate operating representatives to conduct the communications which may be necessary or convenient for the administration of this Agreement. This person will also serve as the point of contact with respect to operations and
+      maintenance of the Party&amp;#8217;s facilities.</text>
+    <text>Interconnection Customer&amp;#8217;s Operating Representative:</text>
+    <text>Attention:</text>
+    <text>Address:</text>
+    <text>City: State: Zip:</text>
+    <text>Phone: Fax: E-Mail</text>
+    <text>Attention:</text>
+    <text>Address:</text>
+    <text>City: State: Zip:</text>
+    <text>Phone: Fax:</text>
+  </level>
+  <level>
+    <num>10.4.</num>
+    <text>Changes to the Notice Information</text>
+    <text>Either Party may change this notice information by giving five business days written notice prior to the effective date of the change.</text>
+    <text>Article 11 Signatures</text>
+    <text>IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their respective duly authorized representatives.</text>
+    <text>For the Interconnection Customer:</text>
+    <text>Name:</text>
+    <text>Title:</text>
+    <text>Date:</text>
+    <text>For EDC:</text>
+    <text>Name:</text>
+    <text>Title:</text>
+    <text>Date:</text>
+    <text>Attachment 1</text>
+    <text>Construction Schedule, Proposed Equipment &amp;#038; Settings</text>
+    <text>This attachment shall include the following:</text>
+    <text>1 The construction schedule for the Small Generator Facility</text>
+    <text>2 A one-line diagram indicating the Small Generator Facility, Interconnection Equipment, Interconnection Facilities, Metering Equipment, and Distribution Upgrades</text>
+    <text>3 Component specifications for equipment identified in the one-line diagram</text>
+    <text>4 Component settings</text>
+    <text>5 Proposed sequence of operations</text>
+    <text>Attachment 2</text>
+    <text>Description, Costs and Time Required to Build and Install the EDC&amp;#8217;sInterconnection Facilities</text>
+    <text>The EDC&amp;#8217;s Interconnection Facilities including any required metering shall be itemized and a best estimate of itemized costs, including overheads, shall be provided based on the Facilities Study.</text>
+    <text>Also, a best estimate for the time required to build and install the EDC&amp;#8217;s Interconnection Facilities will be provided based on the Facilities Study.</text>
+    <text>Attachment 3</text>
+    <text>Operating Requirements for Small Generator Facilities Operating in Parallel</text>
+    <text>Applicable sections of the EDC&amp;#8217;s operating manuals applying to the small generator interconnection shall be listed and Internet links shall be provided. Any special operating requirements not contained in the EDC&amp;#8217;s existing operating
+      manuals shall be clearly identified. The EDC&amp;#8217;s operating requirements shall not impose additional technical or procedural requirements on the small generator facility beyond those found in the District of Columbia Small Generator Interconnection
+      Rules, except those required for safety.</text>
+    <text>Attachment 4</text>
+    <text>Monitoring and Control Requirements</text>
+    <text>EDC monitoring and control requirements shall be clearly specified and a reference shall be provided to the EDC&amp;#8217;s written requirements documents from which these documents are derived along with an internet link to the requirements documents.
+      EDC monitoring and control of small generator facilities shall be permitted only if the nameplate rating is equal to or greater than 3 MW.</text>
+    <text>Attachment 5</text>
+    <text>Metering Requirements</text>
+    <text>Metering requirements for the Small Generator Facility shall be clearly indicated along with an identification of the appropriate tariffs that establish these requirements and an internet link to these tariffs.</text>
+    <text>Attachment 6</text>
+    <text>As Built Documents</text>
+    <text>After completion of the Small Generator Facility, the Interconnection Customer shall provide the EDC with documentation indicating the as built status of the following when it returns the Certificate of Completion to the EDC:</text>
+    <text>1 A one-line diagram indicating the Small Generator Facility, Interconnection Equipment,</text>
+    <text>Interconnection Facilities, Metering Equipment, and Distribution Upgrades</text>
+    <text>2 Component specifications for equipment identified in the one-line diagram</text>
+    <text>3 Component settings</text>
+    <text>4 Proposed sequence of operations</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>As amended by Final Rulemaking published at 56 DCR 1415, 1418 (February 13, 2009).</text>
+    </level>
+    <level>
+      <heading>EDC Signature Date:</heading>
+      <text></text>
+    </level>
+    <level>
+      <heading>DC Source / Prime Mover</heading>
+      <text></text>
+    </level>
+    <level>
+      <heading>EDC Signature Date:</heading>
+      <text></text>
+    </level>
+    <level>
+      <heading>EDC Signature Date:</heading>
+      <text></text>
+    </level>
+    <level>
+      <heading>EDC</heading>
+      <text></text>
+    </level>
+    <level>
+      <heading>EDC&amp;#8217;s Operating Representative</heading>
+      <text></text>
+    </level>
+    <level>
+      <heading>SOURCE</heading>
+      <text>As amended by Final Rulemaking published at 56 DCR 1415, 1418 (February 13, 2009).</text>
+    </level>
+  </level>
+</level>

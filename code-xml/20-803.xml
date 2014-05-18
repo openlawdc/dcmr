@@ -1,0 +1,24 @@
+<level>
+  <type>section</type>
+  <num>20-803</num>
+  <heading>SULFUR PROCESS EMISSIONS (§ 20-803)</heading>
+  <level>
+    <num>803.1.</num>
+    <text>The discharge into the atmosphere of sulfur oxides calculated as sulfur dioxide, in excess of five one hundredths percent (0.05%) by volume is prohibited.</text>
+  </level>
+  <level>
+    <num>803.2.</num>
+    <text>Where the process or the design of equipment is such as to permit more than one interpretation of this section, the interpretation that results in the minimum value of allowable emissions shall apply.</text>
+  </level>
+  <level>
+    <num>803.3.</num>
+    <text>Adding diluted air to the exhaust gas stream for the purpose of complying with the provisions of §§ 803.1 and 803.2 is prohibited.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Section 3 of the District of Columbia Air Pollution Control Act of 1984, D.C. Law 5-165, § 803, 32 DCR 565, 645 (February 1, 1985).</text>
+    </level>
+  </level>
+</level>

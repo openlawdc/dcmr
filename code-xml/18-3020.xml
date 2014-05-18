@@ -1,0 +1,24 @@
+<level>
+  <type>section</type>
+  <num>18-3020</num>
+  <heading>COMPUTATION OF TIME (§ 18-3020)</heading>
+  <level>
+    <num>3020.1.</num>
+    <text>In computing any period of time prescribed or allowed by this chapter, the day of the act, event, or default from which the designated period of time begins to run shall not be included.</text>
+  </level>
+  <level>
+    <num>3020.2.</num>
+    <text>The last day of the period so computed shall be included unless it is a Saturday, a Sunday, or a legal holiday.</text>
+  </level>
+  <level>
+    <num>3020.3.</num>
+    <text>When the period of time prescribed or allowed is less than seven (7) days, intermediate Saturdays, Sundays, and legal holidays shall be excluded from the computation.</text>
+  </level>
+  <level>
+    <num>3020.4.</num>
+    <text>The term “legal holiday,” as used in this subsection, includes any holiday observed by the government of the District of Columbia.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

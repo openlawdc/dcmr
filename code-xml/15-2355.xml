@@ -1,0 +1,24 @@
+<level>
+  <type>section</type>
+  <num>15-2355</num>
+  <heading>TEST OF TURBINE METERS (§ 15-2355)</heading>
+  <level>
+    <num>2355.1.</num>
+    <text>Turbine meters for which the manufacturer has established minimum spin times, may be spin tested to determine their in-service condition.</text>
+  </level>
+  <level>
+    <num>2355.2.</num>
+    <text>Turbine meters shall be given a spin test at least once every twelve (12) months unless covered under an approved in-service performance testing program.</text>
+  </level>
+  <level>
+    <num>2355.3.</num>
+    <text>Any meter found to have a spin time less than the manufacturer&amp;#8217;s recommended minimum and which cannot be brought up to the minimum by cleaning and lubrication shall be changed and replaced with an accurate meter.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7938, 7942 (November 4, 1988); as amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).</text>
+    </level>
+  </level>
+</level>

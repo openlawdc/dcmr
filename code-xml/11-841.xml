@@ -1,0 +1,43 @@
+<level>
+  <type>section</type>
+  <num>11-841</num>
+  <heading>FLOOR AREA RATIO (C-M, M) (§ 11-841)</heading>
+  <level>
+    <num>841.1.</num>
+    <text>Except as provided in § 845, the maximum permitted floor area ratio of buildings in an Industrial District shall be given in the following table:</text>
+    <text>ZONE DISTRICT</text>
+    <text>MAXIMUMFLOR AREA RATIO(FAR)</text>
+    <text>C-M-1</text>
+  </level>
+  <level>
+    <num>3.0</num>
+    <text>3.0</text>
+    <text>C-M-2</text>
+  </level>
+  <level>
+    <num>4.0</num>
+    <text>4.0</text>
+    <text>C-M-3</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+    <text>M</text>
+  </level>
+  <level>
+    <num>6.0</num>
+    <text>6.0</text>
+  </level>
+  <level>
+    <num>841.2.</num>
+    <text>The bulk of a structure erected, altered, converted, or reconstructed for use as a mechanical parking garage, as determined by the floor area ratio for the district in which it is located, may be based upon the assumption that the finished-floor to
+      finished-floor distance between floors is ten feet (10 ft.).</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>§§ 6301.1 and 6301.2 of the Zoning Regulations, effective May 12, 1958; Final Rulemaking published at 47 DCR 9741-43 (December 8, 2000), incorporating by reference the text of Proposed Rulemaking published at 47 DCR 8335, 8424 (October 20, 2000).</text>
+    </level>
+  </level>
+</level>

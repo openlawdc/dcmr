@@ -1,0 +1,32 @@
+<level>
+  <type>section</type>
+  <num>18-2106</num>
+  <heading>LANE-USE CONTROL SIGNALS (§ 18-2106)</heading>
+  <level>
+    <num>2106.1.</num>
+    <text>The meanings of lane use control signals and the requirements for obedience to such signals are set forth in this section.</text>
+  </level>
+  <level>
+    <num>2106.2.</num>
+    <text>A steady DOWNWARD GREEN ARROW means that a driver is permitted to drive in the lane over which the arrow signal is located.</text>
+  </level>
+  <level>
+    <num>2106.3.</num>
+    <text>A steady YELLOW X means that a driver should prepare to vacate, in a safe manner, the lane over which the signal is located because a lane control change is being made, and to avoid occupying that lane when a steady RED X is displayed.</text>
+  </level>
+  <level>
+    <num>2106.4.</num>
+    <text>A flashing YELLOW X means that a driver is permitted to use a lane over which the signal is located for a left turn, using proper caution.</text>
+  </level>
+  <level>
+    <num>2106.5.</num>
+    <text>A steady RED X means that a driver shall not drive in the lane over which the signal is located. This indication shall modify the meaning of all other traffic controls present accordingly.</text>
+  </level>
+  <level>
+    <num>2106.6.</num>
+    <text>When lane-use control signals are in use, drivers shall obey all other traffic controls and follow normal safe driving practices.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

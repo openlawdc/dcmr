@@ -1,0 +1,235 @@
+<level>
+  <type>section</type>
+  <num>16-3607</num>
+  <heading>NURSING FACILITY INFRACTIONS (§ 16-3607)</heading>
+  <level>
+    <num>3607.1.</num>
+    <text>Violation of the following provision shall be a Class 1 infraction:</text>
+    <text>22 DCMR § 3203.1 (operating a nursing facility without a license).</text>
+  </level>
+  <level>
+    <num>3607.2.</num>
+    <text>Violation of any of the following provisions shall be a Class 2 infraction:</text>
+    <level>
+      <num>(a)</num>
+      <text>22 DCMR § 3200.1 (failure to comply with requirements concerning a provision in the federal regulations);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>22 DCMR § 3205 (failure to comply with requirements concerning insurance coverage);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>22 DCMR § 3207 (failure to comply with requirements concerning physician services and medical supervision);</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>22 DCMR § 3208 (failure to comply with requirements concerning nursing services and Director of Nursing);</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>22 DCMR § 3209 (failure to comply with requirements concerning nursing services supervision);</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>22 DCMR § 3210 (failure to comply with requirements concerning licensed nursing coverage);</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>22 DCMR § 3211 (failure to comply with requirements concerning nursing personnel);</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>22 DCMR § 3212 (failure to comply with requirements concerning temporary nursing personnel);</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>22 DCMR § 3213 (failure to comply with requirements concerning restorative nursing care);</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>22 DCMR § 3215 (failure to comply with requirements concerning ventilator care services);</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>22 DCMR § 3216 (failure to comply with requirements concerning use of restraints);</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>22 DCMR § 3217.6 (failure to ensure that infection control policies are implemented and that environmental services are in compliance);</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>22 DCMR § 3217.8 (failure to report communicable disease);</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>22 DCMR § 3222 (failure to comply with requirements concerning immunizations);</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>22 DCMR § 3223 (failure to comply with requirements concerning rehabilitative services);</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>22 DCMR § 3224 (failure to comply with requirements concerning pharmaceutical services and supervision);</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>22 DCMR § 3225 (failure to comply with requirements concerning physician orders for medications);</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>22 DCMR § 3226 (failure to comply with requirements concerning administration of medication);</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>22 DCMR § 3227 (failure to comply with requirements concerning labeling and storage of medication);</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>22 DCMR § 3235.5 (failure to provide emergency power generator when life support system is used);</text>
+    </level>
+    <level>
+      <num>(u)</num>
+      <text>22 DCMR § 3235.6 (failure to provide emergency power for elevators); or</text>
+    </level>
+    <level>
+      <num>(v)</num>
+      <text>22 DCMR § 3236.4 (failure to maintain water temperature between 95 and 110 degrees Fahrenheit).</text>
+    </level>
+  </level>
+  <level>
+    <num>3607.3.</num>
+    <text>Violation of any of the following provisions shall be a Class 3 infraction:</text>
+    <level>
+      <num>(a)</num>
+      <text>22 DCMR § 3201 (failure to comply with requirements concerning administrative management);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>22 DCMR § 3202 (failure to comply with requirements concerning personnel policies);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>22 DCMR § 3203, except § 3203.1 (failure to comply with requirements concerning licenses and administrative records);</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>22 DCMR § 3206 (failure to comply with requirements concerning resident care policies);</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>22 DCMR § 3214 (failure to comply with requirements concerning in-service education for nursing personnel);</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>22 DCMR § 3217, except § 3217.6 and § 3217.8 (failure to comply with requirements concerning infection control);</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>22 DCMR § 3218 (failure to comply with requirements concerning dietary supervision);</text>
+    </level>
+    <level>
+      <num>(h)</num>
+      <text>22 DCMR § 3219 (failure to comply with requirements concerning dietary services);</text>
+    </level>
+    <level>
+      <num>(i)</num>
+      <text>22 DCMR § 3220 (failure to comply with general dietary requirements);</text>
+    </level>
+    <level>
+      <num>(j)</num>
+      <text>22 DCMR § 3221 (failure to comply with requirements concerning dietary management and records);</text>
+    </level>
+    <level>
+      <num>(k)</num>
+      <text>22 DCMR § 3228 (failure to comply with requirements concerning podiatry services);</text>
+    </level>
+    <level>
+      <num>(l)</num>
+      <text>22 DCMR § 3229 (failure to comply with requirements concerning social services);</text>
+    </level>
+    <level>
+      <num>(m)</num>
+      <text>22 DCMR § 3230 (failure to comply with requirements concerning resident activities);</text>
+    </level>
+    <level>
+      <num>(n)</num>
+      <text>22 DCMR § 3231 (failure to comply with requirements concerning medical records);</text>
+    </level>
+    <level>
+      <num>(o)</num>
+      <text>22 DCMR § 3232 (failure to comply with requirements concerning incident reporting);</text>
+    </level>
+    <level>
+      <num>(p)</num>
+      <text>22 DCMR § 3233 (failure to comply with requirements concerning grievances);</text>
+    </level>
+    <level>
+      <num>(q)</num>
+      <text>22 DCMR § 3234 (failure to comply with environmental requirements);</text>
+    </level>
+    <level>
+      <num>(r)</num>
+      <text>22 DCMR § 3235, except § 3235.5 and § 3235.6 (failure to comply with requirements concerning electrical systems);</text>
+    </level>
+    <level>
+      <num>(s)</num>
+      <text>22 DCMR § 3236, except § 3236.4 (failure to comply with requirements concerning water supply and distribution);</text>
+    </level>
+    <level>
+      <num>(t)</num>
+      <text>22 DCMR § 3237 (failure to comply with requirements concerning sewage and solid waste disposal);</text>
+    </level>
+    <level>
+      <num>(u)</num>
+      <text>22 DCMR § 3238 (failure to comply with requirements concerning heating and cooling);</text>
+    </level>
+    <level>
+      <num>(v)</num>
+      <text>22 DCMR § 3239 (failure to comply with requirements concerning ventilation and exhaust);</text>
+    </level>
+    <level>
+      <num>(w)</num>
+      <text>22 DCMR § 3240 (failure to comply with requirements concerning acoustical insulation and noise reduction);</text>
+    </level>
+    <level>
+      <num>(x)</num>
+      <text>22 DCMR § 3241 (failure to comply with requirements concerning elevators);</text>
+    </level>
+    <level>
+      <num>(y)</num>
+      <text>22 DCMR § 3242 (failure to comply with requirements concerning walls, ceilings, floors and finishes);</text>
+    </level>
+    <level>
+      <num>(z)</num>
+      <text>22 DCMR § 3243 (failure to comply with requirements concerning ramps, stairs, and corridors);</text>
+    </level>
+    <text>(aa) 22 DCMR § 3244 (failure to comply with requirements concerning outdoor space);</text>
+    <text>(bb) 22 DCMR § 3245 (failure to comply with requirements concerning nursing unit design);</text>
+    <text>(cc) 22 DCMR § 3246 (failure to comply with requirements concerning resident bedrooms);</text>
+    <text>(dd) 22 DCMR § 3247 (failure to comply with requirements concerning resident toilets and bathrooms);</text>
+    <text>(ee) 22 DCMR § 3248 (failure to comply with requirements concerning refreshment stations);</text>
+    <text>(ff) 22 DCMR § 3249 (failure to comply with requirements concerning resident recreation and social areas);</text>
+    <text>(gg) 22 DCMR § 3250 (failure to comply with requirements concerning food service areas);</text>
+    <text>(hh) 22 DCMR § 3251 (failure to comply with requirements concerning therapy service areas);</text>
+    <text>(ii) 22 DCMR § 3252 (failure to comply with requirements concerning resident shopping and grooming areas);</text>
+    <text>(jj) 22 DCMR § 3253 (failure to comply with requirements concerning public and staff facilities);</text>
+    <text>(kk) 22 DCMR § 3254 (failure to comply with requirements concerning laundry areas);</text>
+    <text>(ll) 22 DCMR § 3255 (failure to comply with requirements concerning housekeeping and maintenance);</text>
+    <text>(mm) 22 DCMR § 3256 (failure to comply with requirements concerning housekeeping and maintenance services);</text>
+    <text>(nn) 22 DCMR § 3257 (failure to comply with requirements concerning pest control);</text>
+    <text>(oo) 22 DCMR § 3258 (failure to comply with requirements concerning general safety and inspection);</text>
+    <text>(pp) 22 DCMR § 3259 (failure to comply with requirements concerning fire and emergency preparedness);</text>
+    <text>(qq) 22 DCMR § 3264 (failure to comply with requirements concerning physical structure and construction); or</text>
+    <text>(rr) 22 DCMR § 3265 (failure to comply with requirements concerning wheelchair and handicapped access).</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 52 DCR 5010 (May 27, 2005).</text>
+    </level>
+  </level>
+</level>

@@ -1,0 +1,33 @@
+<level>
+  <type>section</type>
+  <num>1-501</num>
+  <heading>TIME (§ 1-501)</heading>
+  <level>
+    <num>501.1.</num>
+    <text>In computing any period of time specified in this chapter, calendar days shall be counted.</text>
+  </level>
+  <level>
+    <num>501.2.</num>
+    <text>In computing any period of time specified in this chapter, the day of the act, event, or default from which the designated period of time begins to run shall not be included.</text>
+  </level>
+  <level>
+    <num>501.3.</num>
+    <text>The last day of the period shall be included unless it is a Saturday, Sunday, or legal holiday, in which event the period runs until the end of the next day which is not a Saturday, Sunday, or legal holiday.</text>
+  </level>
+  <level>
+    <num>501.4.</num>
+    <text>When the period of time is seven (7) days or less, intermediate Saturdays, Sundays, and holidays shall be excluded.</text>
+  </level>
+  <level>
+    <num>501.5.</num>
+    <text>Whenever a party has the right or duty to act or proceed within a prescribed period after the service of a notice or other paper upon the party and the paper or notice is served upon the party by mail, five (5) days shall be added to the prescribed
+      period.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 44 DCR 3665 (June 27, 1997), incorporating by reference the text of Proposed Rulemaking published at 44 DCR 2934, 2935 (May 16, 1997).</text>
+    </level>
+  </level>
+</level>

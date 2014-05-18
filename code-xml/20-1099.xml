@@ -1,0 +1,78 @@
+<level>
+  <type>section</type>
+  <num>20-1099</num>
+  <heading>DEFINITIONS AND ABBREVIATIONS (§ 20-1099)</heading>
+  <level>
+    <num>1099.1.</num>
+    <text>When used in this Chapter, the following definitions shall apply to this Chapter. Except as specifically provided in this section, terms used in this Chapter retain the meaning ascribed under the applicable provisions of the Act and other Chapters
+      of this Title.</text>
+    <text>Account &amp;#8211; a record in NATS the Administrator establishes for the purpose of allocating, holding, transferring, and using allowances.</text>
+    <text>Account number &amp;#8211; the identification number the Administrator gives to each NATS account pursuant to § 1006.</text>
+    <text>Acquiring account &amp;#8211; the party in an allowance transfer that obtains allowances through purchase, trade, auction or gift.</text>
+    <text>Administrator &amp;#8211; the U.S. Environmental Protection Agency, Acid Rain Division, which serves as the manager of the NOx Allowance Tracking System (NATS) and the NOx Emissions Tracking System (NETS).</text>
+    <text>Affected facility &amp;#8211; a fossil-fuel-fired boiler or indirect heat exchanger with a maximum design heat input of two hundred fifty (250) mmBtu/hr or more that operated at any time in calendar year 1990. This term is used only to establish the
+      NOx Budget for the District.</text>
+    <text>Allocate or Allocation &amp;#8211; the allowance the Director assigns to a NATS compliance account or general account.</text>
+    <text>Allocation Period &amp;#8211; any time period to which allowances are allocated.</text>
+    <text>Allowance &amp;#8211; the Director&amp;#8217;s authorization, pursuant to this Chapter, to emit up to one (1) ton of NOx during a specified control period.</text>
+    <text>Allowance deduction &amp;#8211; the permanent withdrawal of allowances by the Administrator from a NATS account pursuant to § 1010.</text>
+    <text>Allowance transfer &amp;#8211; the conveyance to another account of one or more allowances from one person to another, by whatever means, including purchase, trade, auction or gift, pursuant to § 1004, effected by submitting an allowance transfer
+      request to the Administrator.</text>
+    <text>Allowance transfer deadline &amp;#8211; the date and time by which allowances may be submitted for recordation in a compliance account for the purposes of meeting the requirements of this Chapter for the previous control period, which is midnight
+      of December 31st of each year, or, if December 31st is not a business day, midnight of the first business day thereafter.</text>
+    <text>Alternative monitoring system &amp;#8211; a system or component of a system, designed to provide direct or indirect data of mass emissions per time period, pollutant concentrations, or volumetric flow as provided for in § 1007.</text>
+    <text>Authorized Account Representative or AAR &amp;#8211; a natural person who is authorized, in writing, to transfer and otherwise manage allowances and certify reports to NATS and NETS.</text>
+    <text>Banked Allowance &amp;#8211; an allowance that is not used to reconcile emissions in the designated year of allocation and is carried forward into the next year and flagged in the compliance or general account as &amp;#8220;banked&amp;#8221;.</text>
+    <text>Banking &amp;#8211; the retention of unused allowances from one control period for use in a future control period.</text>
+    <text>Baseline &amp;#8211; the NOx emission inventory approved by the Ozone Transport Commission on June 13, 1995, as the official 1990 baseline emissions of May 1St through September 30th for the purpose of the NOx Budget Program.</text>
+    <text>Baseline control period emissions &amp;#8211; a representative average of the actual NOx emissions from a stationary source during two (2) consecutive control periods within the five (5) years preceding an opt-in application, which is not greater
+      than the allowable emissions for that source as established by a District permit or regulation.</text>
+    <text>Budget &amp;#8211; the numerical result in tons per control period of NOx emissions that results from the application of the emission reduction requirement of the OTC MOU, dated September 27, 1994, which is the maximum amount of NOx that may be emitted
+      from the budget sources collectively during a given control period.</text>
+    <text>Budget source &amp;#8211; a fossil-fuel-fired boiler or indirect heat exchanger with a maximum design heat input of two hundred fifty (250) mmBtu/hr or more or an electric generating facility with a rated output of fifteen (15) MWe or more. This term
+      also applies to any person who applies to opt into and has been accepted for the NOx Budget Program.</text>
+    <text>Compliance account &amp;#8211; a budget source&amp;#8217;s NATS account in which are held current and future year allowances useable for a specific designated control period as indicated by their unique serial number. Continuous emissions monitoring
+      system or CEMS &amp;#8211; the equipment used to sample, analyze and measure air pollutants and provide a permanent record of emissions expressed in 1b./mmBtu and tons per day. The following component parts are included in a continuous emissions
+      monitoring system: NOx pollutant concentration monitor, diluent gas (oxygen or carbon dioxide) monitor, data acquisition and handling system and flow monitor (where appropriate).</text>
+    <text>Control period &amp;#8211; the period beginning May 1st of each year and ending on September 30th of the same year, inclusive.</text>
+    <text>Current year &amp;#8211; the calendar year in which the action takes place or for which an allocation is designated.</text>
+    <text>Electric generating facility &amp;#8211; any fossil-fuel-fired combustion facility of fifteen (15) MWe capacity or greater that provides electricity for sale or use.</text>
+    <text>Excess emissions &amp;#8211; the NOx emissions a budget source reports during a control period, rounded to the nearest whole ton, that is greater than the equivalent number of allowances allocated to the budget source, or which are available to the
+      budget source in the NATS compliance account by the allowance transfer deadline for that season.</text>
+    <text>General account &amp;#8211; a NATS account that is not a compliance account.</text>
+    <text>Heat input &amp;#8211; the product (expressed in mmBtu/time) of the gross calorific value of the fuel (expressed in Btu/lb.) and the fuel feed rate into the combustion device (expressed in fuel mass/time) and does not include the heat derived from
+      preheated combustion air, recirculated flue gases, or exhaust from other sources.</text>
+    <text>Indirect heat exchanger &amp;#8211; combustion equipment in which the flame or products of combustion are separated from any contact with the principal material in the process by metallic or refractory walls, which includes steam boilers, vaporizers,
+      melting pots, heat exchangers, column reboilers, fractionator feed preheaters, reactor feed preheaters, fuel-fired reactors such as steam hydrocarbon reformer heaters and pyrolysis heaters.</text>
+    <text>Maximum heat input capacity &amp;#8211; the ability of a budget source to combust a stated maximum amount of fuel on a steady state basis, as determined by the physical design and characteristics of the facility.</text>
+    <text>NOx Allowance Tracking System or NATS &amp;#8211; the NOx Budget Program system by which the Administrator allocates, records, deducts and tracks allowances. NOx Emissions Tracking System or NETS &amp;#8211; the computerized system used to track NOx,
+      emissions from budget sources.</text>
+    <text>Opt-in or opt into &amp;#8211; to choose voluntarily to participate in the NOx Budget Program and comply with the terms and conditions of this Chapter.</text>
+    <text>OTC MOU &amp;#8211; the memorandum of understanding signed by representatives of eleven states and the District of Columbia as members of the Ozone Transport Commission on September 27, 1994.</text>
+    <text>Ozone Transport Region or OTR &amp;#8211; the ozone transport region designated by § 184 of the federal Clean Air Act 42 U.S.C. 7511c.</text>
+    <text>Recordation, record or recorded &amp;#8211; the transfer of allowances by the Administrator from one NATS account to another.</text>
+    <text>Ton or tonnage &amp;#8211; any &amp;#8220;short&amp;#8221; ton (i.e., 2,000 pounds). For the purpose of determining compliance with the NOx Budget emissions limitations and reduction requirements, total tons for a control period shall be calculated
+      as the sum of all recorded hourly emissions (or the tonnage equivalent of the recorded hourly emissions rates) in accordance with this Chapter, with any remaining fraction of a ton equal to or greater than five-tenths (.5) ton being deemed to equal
+      one (1) ton.</text>
+  </level>
+  <level>
+    <num>1099.2.</num>
+    <text>When used in this Chapter, the following abbreviations shall apply to this Chapter. Except as specifically provided in this section, abbreviations used in this Chapter retain the meaning ascribed under the applicable provisions of the Act and the
+      other Chapters of this Title.</text>
+    <text>AAR - Authorized Account Representative</text>
+    <text>CEMS - Continuous Emissions Monitoring System</text>
+    <text>GSA - General Services Administration</text>
+    <text>NATS - NOx Allowance Tracking System</text>
+    <text>NETS - NOx Emissions Tracking System</text>
+    <text>OTC - Ozone Transport Commission</text>
+    <text>OTR - Ozone Transport Region</text>
+    <text>PEPCO- Potomac Electric Power Company</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>As amended by final rulemaking published at 47 DCR 8646(October 10, 2000); as amended by final rulemaking published at 47 DCR 9686 (December 8, 2000).</text>
+    </level>
+  </level>
+</level>

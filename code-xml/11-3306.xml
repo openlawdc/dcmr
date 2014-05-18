@@ -1,0 +1,264 @@
+<level>
+  <type>section</type>
+  <num>11-3306</num>
+  <heading>FLOOR-AREA-RATIO (FAR), HEIGHT, LOT OCCUPANCY, REAR YARD SETBACK, MINIMUM LOTREA, AND SETBACKS (§ 11-3306)
+    <text>The StE District is divided into the StE-1 through StE-19 Districts for theurpose of floor area ratio (FAR), lot occupancy, and building height.</text>
+    <text>Except as provided in this section, the FAR, height of a building or structure ,ot occupancy and rear yard in a StE District shall not exceed or be less thanhat set forth in the following table:</text>
+    <text>Zone District</text>
+    <text>FAR</text>
+    <text>(Max.)</text>
+    <text>FAR – Required Residential (Min.)</text>
+    <text>FAR – Above Grade Parking (Max.)</text>
+    <text>Height</text>
+    <text>(Max. Ft.)</text>
+    <text>Lot Occupancy</text>
+    <text>(Max. %)</text>
+    <text>Rear Yard</text>
+    <text>(Min. Ft.)</text>
+    <text>StE-1</text>
+  </heading>
+  <level>
+    <num>0.20</num>
+    <text>0.20</text>
+    <text>-</text>
+    <text>-</text>
+    <text>25</text>
+    <text>25</text>
+    <text>-</text>
+    <text>StE-2</text>
+  </level>
+  <level>
+    <num>4.00</num>
+    <text>4.00</text>
+    <text>-</text>
+    <text>-</text>
+    <text>75</text>
+    <text>-</text>
+    <text>StE-3</text>
+  </level>
+  <level>
+    <num>2.50</num>
+    <text>2.50</text>
+    <text>-</text>
+    <text>-</text>
+    <text>80</text>
+    <text>60</text>
+    <text>-</text>
+    <text>StE-4</text>
+  </level>
+  <level>
+    <num>0.50</num>
+    <text>0.50</text>
+    <text>-</text>
+    <text>-</text>
+    <text>25</text>
+    <text>60</text>
+    <text>-</text>
+    <text>StE-5</text>
+  </level>
+  <level>
+    <num>1.50</num>
+    <text>1.50</text>
+    <text>-</text>
+    <text>-</text>
+    <text>65</text>
+    <text>60</text>
+    <text>-</text>
+    <text>StE-6</text>
+  </level>
+  <level>
+    <num>3.20</num>
+    <text>3.20</text>
+  </level>
+  <level>
+    <num>1.60</num>
+    <text>1.60</text>
+    <text>-</text>
+    <text>90</text>
+    <text>75</text>
+    <text>-</text>
+    <text>StE-7</text>
+  </level>
+  <level>
+    <num>1.50</num>
+    <text>1.50</text>
+  </level>
+  <level>
+    <num>1.00</num>
+    <text>1.00</text>
+    <text>§ 3306.3</text>
+    <text>§ 3306.4</text>
+    <text>60</text>
+    <text>-</text>
+    <text>StE-8</text>
+  </level>
+  <level>
+    <num>0.40</num>
+    <text>0.40</text>
+    <text>-</text>
+    <text>-</text>
+    <text>25</text>
+    <text>60</text>
+    <text>-</text>
+    <text>StE-9</text>
+  </level>
+  <level>
+    <num>1.50</num>
+    <text>1.50</text>
+    <text>-</text>
+    <text>-</text>
+    <text>65</text>
+    <text>60</text>
+    <text>-</text>
+    <text>StE-10</text>
+  </level>
+  <level>
+    <num>1.50</num>
+    <text>1.50</text>
+    <text>-</text>
+    <text>-</text>
+    <text>40</text>
+    <text>60</text>
+    <text>20</text>
+    <text>StE-11</text>
+  </level>
+  <level>
+    <num>0.70</num>
+    <text>0.70</text>
+    <text>-</text>
+    <text>-</text>
+    <text>25</text>
+    <text>60</text>
+    <text>-</text>
+    <text>StE-12</text>
+  </level>
+  <level>
+    <num>3.00</num>
+    <text>3.00</text>
+  </level>
+  <level>
+    <num>1.50</num>
+    <text>1.50</text>
+    <text>-</text>
+    <text>80</text>
+    <text>75</text>
+    <text>-</text>
+    <text>StE-13</text>
+  </level>
+  <level>
+    <num>3.20</num>
+    <text>3.20</text>
+  </level>
+  <level>
+    <num>1.60</num>
+    <text>1.60</text>
+    <text>-</text>
+    <text>90</text>
+    <text>75</text>
+    <text>-</text>
+    <text>StE-14a</text>
+  </level>
+  <level>
+    <num>1.50</num>
+    <text>1.50</text>
+    <text>-</text>
+    <text>40</text>
+    <text>60</text>
+    <text>20</text>
+    <text>StE-14b</text>
+  </level>
+  <level>
+    <num>1.50</num>
+    <text>1.50</text>
+  </level>
+  <level>
+    <num>1.00</num>
+    <text>1.00</text>
+    <text>-</text>
+    <text>40</text>
+    <text>60</text>
+    <text>20</text>
+    <text>StE-15</text>
+  </level>
+  <level>
+    <num>2.00</num>
+    <text>2.00</text>
+  </level>
+  <level>
+    <num>1.00</num>
+    <text>1.00</text>
+    <text>§ 3306.3</text>
+    <text>80</text>
+    <text>75</text>
+    <text>-</text>
+    <text>StE-16</text>
+  </level>
+  <level>
+    <num>3.20</num>
+    <text>3.20</text>
+  </level>
+  <level>
+    <num>1.60</num>
+    <text>1.60</text>
+    <text>-</text>
+    <text>90</text>
+    <text>75</text>
+    <text>-</text>
+    <text>StE-17</text>
+  </level>
+  <level>
+    <num>0.50</num>
+    <text>0.50</text>
+    <text>-</text>
+    <text>§ 3306.3</text>
+    <text>70</text>
+    <text>60</text>
+    <text>-</text>
+    <text>StE-18</text>
+  </level>
+  <level>
+    <num>4.00</num>
+    <text>4.00</text>
+    <text>-</text>
+    <text>-</text>
+    <text>90</text>
+    <text>75</text>
+    <text>-</text>
+    <text>StE-19</text>
+  </level>
+  <level>
+    <num>0.00</num>
+    <text>0.00</text>
+    <text>-</text>
+    <text>-</text>
+    <text>0</text>
+    <text>n/a</text>
+    <text>-</text>
+    <text>In addition to the FAR permitted by § 3306.2, additional FAR for above gradearking is permitted as follows:</text>
+    <text>Within the StE-7 subdistrict – 1.0 FAR;</text>
+    <text>Within the StE-15 subdistrict – 1.0 FAR; and</text>
+    <text>Within the StE-17 subdistrict – 2.0 FAR;</text>
+    <text>Any of the FAR permitted under § 3306.3(a) that is not used for above gradearking may be utilized for any other use permitted within that zone;</text>
+    <text>Any above-grade parking shall conform to the standards of § 3309; and</text>
+    <text>This density may not be transferred through the Combined Lot Provisions of §307 to another parcel.</text>
+    <text>Maximum permitted height within the StE-7 subdistrict is as follows:</text>
+    <text>For a distance of two-hundred fifty feet (250 ft.) measured from the northroperty line bounding Cypress Street, the maximum permitted height shall beighty feet (80 ft.); and</text>
+    <text>For the remainder of this parcel, the maximum permitted height shall be fiftyeet (50 ft.).</text>
+    <text>The height and FAR limits of §3306.2 shall serve as the maximums permittednder a planned unit development (PUD).</text>
+    <text>The minimum lot area for row dwellings in any StE District shall be one thousandight hundred square feet (1,800 s.f.) with a minimum lot width of eighteen feet18 ft.).</text>
+    <text>No part of a building within the StE-6, StE-13, and StE-16 subdistricts shallroject above a plane drawn at a forty-five degree (450) angle from a lineocated seventy-five feet (75 ft.) directly above the eastern property line thatbuts the ravine.</text>
+    <text>Buildings within the StE-17 and StE-18 subdistricts shall be set back not lesshan ten feet (10 ft.) from the property line that abuts Alabama Avenue and 13thtreet.</text>
+    <text>No part of a building within the StE-17 and StE-18 subdistricts shall projectbove a plane drawn at a forty-five degree (450) angle from a line located fiftyeet (50 ft.) directly above the property line that abuts Alabama Avenue.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>FAR for structured parking located above grade is regulated as follows</heading>
+      <text />
+    </level>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 60 DCR 4834 (March 29, 2013).</text>
+    </level>
+  </level>
+</level>

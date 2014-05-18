@@ -1,0 +1,42 @@
+<level>
+  <type>section</type>
+  <num>20-2810</num>
+  <heading>NEW MOTOR VEHICLES (§ 20-2810)</heading>
+  <level>
+    <num>2810.1.</num>
+    <text>No person shall either sell or offer for sale a new motor vehicle or motorcycle that is to be registered for use upon the public highway that exceeds the maximum noise limits designated in the table of § 2810.2 when measured at a distance of fifty
+      feet (50 ft.) from the center line of travel in accordance with test procedures (as may be appropriate for the vehicle being tested) as prescribed in this subsection:</text>
+    <level>
+      <num>(a)</num>
+      <text>Those described by the Society of Automotive Engineers, Inc. (SAE), including SAE Standard J986(a) (for vehicles ten thousand (10,000) GVWR and under), SAE Standard J3 (for motorcycles), and SAE Standard J184 (for vehicles over ten thousand (10,000)
+        GVWR);</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Those recommended by Practice J184 (for qualifying a sound data acquisition system), and subsequent revisions of the standard; or</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>A nationally recognized test procedure, such as those promulgated by the EPA, as the administering agency may prescribe in accordance with §§ 2700.7 through 2700.9 of Chapter 27 of this subtitle.</text>
+    </level>
+  </level>
+  <level>
+    <num>2810.2.</num>
+    <text>Each manufacturer, distributor, or importer, or his or her designated agent, shall certify in writing to the Mayor that all motor vehicles or motorcycles sold by him or her in the District comply with the provisions of the following table:</text>
+    <text>TYPE OF VEHICLE AND DATE OF MANUFACTURE</text>
+    <text>MAXIMUM NOISE LEVEL</text>
+    <text>Any motorcycle, other than a motorized bicycle, manufactured after 1976</text>
+    <text>83 dB(A)</text>
+    <text>Any motor vehicle with a gross vehicle rating of more than ten thousand pounds (10,000 lbs.) manufactured on or after January 1, 1978</text>
+    <text>83 dB(A)</text>
+    <text>Any motor vehicle with a gross vehicle weight rating of more than ten thousand pounds (10,000 lbs.) manufactured on or after January 1, 1982</text>
+    <text>80 dB(A)</text>
+    <text>Any other motor vehicle weighing ten thousand pounds (10,000 lbs.) or less manufactured on or after January 1, 1976</text>
+    <text>83 dB(A)</text>
+    <text>Any other motor vehicle weighing ten thousand pounds (10,000 lbs.) or less manufactured after January 1, 1978</text>
+    <text>80 dB(A)</text>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

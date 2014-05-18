@@ -1,0 +1,40 @@
+<level>
+  <type>section</type>
+  <num>18-1408</num>
+  <heading>FINES (§ 18-1408)
+    <text>The infractions and their respective fine amounts set forth in this section are in addition to applicable infractions and related fine levels contained in Chapter 26, 18 DCMR, but do not include those major moving violations for which jurisdiction
+      remains in the Superior Court.</text>
+  </heading>
+  <level>
+    <num>1408.2.</num>
+    <text>Out-of-Service Violations &amp;#8211; Drivers</text>
+    <text>The following fines shall apply to failure to comply with 49 CFR Parts 383, 391, 392, and 395; and Part 1 of Appendix A of the North American Uniform Out-Of-Service Criteria.</text>
+    <level>
+      <num>(a)</num>
+      <text>Any violation of this subsection by the driver and/or motor carrier within the preceding 2 years shall be considered a prior violation for purposes of this subsection.</text>
+    </level>
+    <text>GROUP I VIOLATIONS</text>
+    <text>FINE</text>
+    <text>1st Violation</text>
+    <text>$ 500.00</text>
+    <text>2nd Violation</text>
+    <text>$ 1,000.00</text>
+    <text>3rd or subsequent Violation</text>
+    <text>$ 1,500.00</text>
+    <text>Disqualified Driver</text>
+    <text>Drugs &amp;#8211; Under the Influence</text>
+    <text>Drugs Possession</text>
+    <text>Intoxicants &amp;#8211; Under the Influence</text>
+    <text>Intoxicants &amp;#8211; Consumption</text>
+    <text>Intoxicants &amp;#8211; Possession of Open Container</text>
+    <text>Intoxicants &amp;#8211; Detectable Presence</text>
+    <level>
+      <num>(b)</num>
+      <text>Any violation of this subsection by the driver and/or motor carrier within the preceding 2 years shall be considered a prior violation for purposes of this subsection.</text>
+    </level>
+    <text>GROUP II VIOLATIONS</text>
+  </level>
+  <level>
+    <type>annotations</type>
+  </level>
+</level>

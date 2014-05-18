@@ -1,0 +1,122 @@
+<level>
+  <type>section</type>
+  <num>15-2371</num>
+  <heading>IN-SERVICE PERFORMANCE TESTING (§ 15-2371)</heading>
+  <level>
+    <num>2371.1.</num>
+    <text>The Commission&amp;#8217;s in-service performance testing program is designed to adjust automatically the number of meters required to be tested by a gas corporation based solely on the performance of the gas corporation’s meters, as determined by
+      § 2371.3.</text>
+  </level>
+  <level>
+    <num>2371.2.</num>
+    <text>For the purpose of the in-service performance testing program, meters within Groups I, II, and III, as described in § 2370.4, shall be further subdivided into homogeneous subgroups. A typical sub-group shall include all meters of the same manufacturer
+      and type. The requirements of this chapter shall be applied separately to each sub-group.</text>
+  </level>
+  <level>
+    <num>2371.3.</num>
+    <text>The In-Service Performance Test required each year shall be computed from the following formulas:</text>
+    <level>
+      <num>(a)</num>
+      <text>Group I Meters (less than four hundred fifty (450) cfh capacity):</text>
+    </level>
+    <text>r = .02 + .3d</text>
+    <text>where r = ratio of meters to be tested; d = ratio of meters tested in previous year and found to have a check proof less than ninety-eight percent (98%) or more than one hundred two percent (102%) as reported to the nearest half percent (1/2%);</text>
+    <level>
+      <num>(b)</num>
+      <text>Group II (four hundred fifty (450) cfh through one thousand eight hundred (1,800) cfh</text>
+    </level>
+    <text>r = .03 + .5d;</text>
+    <text>(r and d defined as above); and</text>
+    <level>
+      <num>(c)</num>
+      <text>Group III (more than one thousand eight hundred (1,800 cfh):</text>
+    </level>
+    <text>r = .05 + .85d</text>
+    <text>(r and d defined as above).</text>
+  </level>
+  <level>
+    <num>2371.4.</num>
+    <text>Test results accumulated on meters tested in one (1) calendar year shall be reported to the Commission by April 1st of the following year. The required percentage as calculated in § 2371.3 shall be used to determine the number of meters to be tested
+      during the succeeding calendar year. The report to the Commission shall include for each subgroup the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>The number of meters tested as part of the in-service testing program during the last year;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>The number of meters that failed;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>The ratio of meters to be tested in the current year by applying the appropriate formula;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>The number of meters in-service over one (1) year as of January 1 of the current year; and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>The number of meters to be tested in the current year.</text>
+    </level>
+  </level>
+  <level>
+    <num>2371.5.</num>
+    <text>The meters required to be tested as a result of the application of the proper formula in § 2371.3 shall include those meters removed for cause. The additional meters which shall be tested to meet the required percentage as calculated in § 2371.3 shall
+      be those meters in service longest without being tested including:</text>
+    <level>
+      <num>(a)</num>
+      <text>Meters removed from fire;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Meters removed from damage or hung;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Meters removed for failure to register;</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>Meters in-service less than one (1) year; or</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Meters damaged in transit and cannot be tested.</text>
+    </level>
+  </level>
+  <level>
+    <num>2371.6.</num>
+    <text>The tests of the meters listed in § 2371.5 shall not be used in determining the following year&amp;#8217;s ratio and may not be counted as fulfilling the current year&amp;#8217;s requirement.</text>
+  </level>
+  <level>
+    <num>2371.7.</num>
+    <text>The gas corporation may review the meter performance of each subgroup annually. Based on this review, the gas corporation may take the following actions:</text>
+    <level>
+      <num>(a)</num>
+      <text>If two (2) subgroups in the same capacity class show similar test results for two (2) consecutive years, they may be considered as a single subgroup for reporting purposes; or</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>If a subgroup can be shown to have one (1) or more parts that have dissimilar test results from the remainder of the subgroup, each part may be reported and treated as a separate subgroup.</text>
+    </level>
+  </level>
+  <level>
+    <num>2371.8.</num>
+    <text>Analysis of meter tests shall consist of the following:</text>
+    <level>
+      <num>(a)</num>
+      <text>The Commission shall review the annual reports of meter test results and shall consult with each gas corporation concerning the percent of meters to be tested in each subgroup during the succeeding calendar year; and</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Each gas corporation shall analyze its meter test results for the purpose of identifying the meter types which have poor accuracy characteristics.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 35 DCR 7938, 7949 (November 4, 1988); as amended by Final Rulemaking published at 60 DCR 7 (January 4, 2013).</text>
+    </level>
+  </level>
+</level>

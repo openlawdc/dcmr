@@ -1,0 +1,343 @@
+<level>
+  <type>section</type>
+  <num>24-528</num>
+  <heading>VENDING LOCATIONS[COLON] NEIGHBORHOOD VENDING ZONES (§ 24-528)</heading>
+  <level>
+    <num>528.1.</num>
+    <text>The Neighborhood Vending Zones shall consist of the following streets:</text>
+    <level>
+      <num>(a)</num>
+      <text>Capitol Hill area:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>H Street, NE, from 3rd Street, NE, to 15th Street, NE (Zones C-2- A, C-2-B, and C-3-A);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Pennsylvania Avenue, SE, from 2nd Street, SE, to Potomac Avenue, SE (Zones C-2-A and C-2-B);</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>8th Street, SE, from D Street, SE, to I Street, SE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>15th Street, NE, from A Street, NE, to East Capitol Street (Zone C- 2-A);</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>East Capitol Street from 19th Street, SE, to 22nd Street, SE (Zone GOV):</text>
+    </level>
+    <text>The following restriction applies:</text>
+    <level>
+      <num>(A)</num>
+      <text>Only the south side of East Capitol Street shall be included in the Neighborhood Vending Zone;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Far Northeast and Southeast area:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Benning Road, NE/SE, from 44th Street, SE, to A Street, SE (Zone C-3-A);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Branch Avenue, SE, from Q Street, SE, to S Street, SE (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Central Avenue, SE, from 56th Street, SE, to Southern Avenue, SE (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Dix Street, NE, from 60th Street, NE, to Eastern Avenue, NE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Minnesota Avenue, NE, from Blaine Street, NE, to Grant Street, NE (Zone C-3-A);</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Nannie Helen Burroughs Avenue, NE, from 51st Street, NE, to Division Avenue, NE (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Nannie Helen Burroughs Avenue, NE, from Minnesota Avenue, NE, to 48th Street, NE (Zone C-1 and C-M-1);</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>Pennsylvania Avenue, SE, from Alabama Avenue, SE, to Fort Davis Street, SE (Zone C-2-A); and</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>Pennsylvania Avenue, SE, from Fairlawn Avenue, SE, to 27th Street, SE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Far Southeast and Southwest area:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Martin Luther King, Jr. Avenue, SE, from Good Hope Road, SE, to Morris Road, SE (Zone C-3-A);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Good Hope Road, SE, from Martin Luther King, Jr. Avenue, SE, to 13th Street, SE (Zone C-3-A);</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Naylor Road, SE, from Alabama Avenue, SE, to Denver Street, SE (Zone C-3-A);</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Naylor Road, SE, from 30th Street, SE, to Southern Avenue, SE (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Alabama Avenue, SE, from 15th Street, SE, to Stanton Road, SE (Zone C-1 and C-2-B);</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Livingston Road, SE, from 3rd Street, SE, to South Capitol Street, SE (Zone C-3-A);</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Martin Luther King, Jr. Avenue, SE, from 4th Street, SE, to Milwaukee Place, SE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>Martin Luther King, Jr. Avenue, SE, from Upsal Street, SE, to Halley Place, SE (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>South Capitol Street from Martin Luther King, Jr. Avenue, SE, to Chesapeake Street, SE (Zone C-2-A);</text>
+    </level>
+    <text>(10) Savannah Street, SE, from 22nd Street, SE, to 23rd Street, SE (Zone C-1); and</text>
+    <text>(11) Wheeler Road, SE, from Wahler Place, SE, to Barnaby Terrace, SE (Zone C-1);</text>
+    <level>
+      <num>(d)</num>
+      <text>Mid-city area:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Mount Pleasant Street, NW, from Irving Street, NW, to Park Road, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>7th Street, NW, from Florida Avenue, NW, to T Street, NW (Zone C-2-B);</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>14th Street, NW, from Columbia Road, NW, to Meridian Place, NW (Zones C-2-A and C-3-A);</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>6th Street, NW, from Fairmont Street, NW, to College Street, NW (Zone R-5-B). The following restrictions apply:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>One (1) vendor in the first one hundred feet (100 ft.) of 6th Street, NW, south of the Fairmont Street, NW, curb;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Two (2) vendors in the next fifty feet (50 ft.) of 6th Street, NW; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>One (1) vendor in the next twenty-five feet (25 ft.) of 6th Street, NW.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>14th Street, NW from S Street, NW, to Florida Avenue, NW (Zones CR and C-3-A);</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Columbia Road, NW, from Belmont Road, NW, to Mozart Place, NW (Zone C-2-B);</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Georgia Avenue, NW, from Euclid Street, NW, to Rock Creek Church Road, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>Rhode Island Avenue, NW, from T Street, NW, to 1st Street, NW (Zone C-2-A); and</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <text>Near Northwest area:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Florida Avenue, NW, from Rhode Island Avenue, NW, to North Capitol Street (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>P Street, NW, from 23rd Street, NW, to Dupont Circle, NW (Zones C-2-A, C-2-C, and C-2-B);</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>20th Street, NW, from R Street, NW, to S Street, NW (Zone C-3- B). The following restriction applies:</text>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>Only the west side of 20th Street, NW, shall be included in the Neighborhood Vending Zone;</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>17th Street, NW, from Q Street, NW, to Riggs Place, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>14th Street, NW, from N Street, NW, to S Street, NW (Zone C-3- A);</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>9th Street, NW, from M Street, NW, to P Street, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>7th Street, NW, from M Street, NW, to N Street, NW (Zone C-2- B); and</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>7th Street, NW, from O Street, NW, to Q Street, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(f)</num>
+      <text>Rock Creek East area:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Georgia Avenue, NW, from Rock Creek Church, NW, to Varnum Street, NW (Zones C-2-A and C-3-A);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Blair Road, NW, from Whittier Street, NW, to 5th Street, NW (Zones C- M-1 and C-2-A);</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Georgia Avenue, NW, from Fern Place, NW, to Eastern Avenue, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Georgia Avenue, NW, from Gallatin Street, NW, to Van Buren Street, NW (Zones C-2-A and C-3-A);</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Riggs Road, NE, from South Dakota Avenue, NE, to Chillum Place, NE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Upshur Street, NW, from 3rd Street, NW, to Rock Creek Church Road, NW (Zone C-1); and</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>14th Street, NW, from Buchanan Street, NW, to Decatur Street, NW (Zones C-1 and C-M-1);</text>
+    </level>
+    <level>
+      <num>(g)</num>
+      <text>Rock Creek West area:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Connecticut Avenue, NW, from Fessenden Street, NW, to Nebraska Avenue, NW (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Connecticut Avenue, NW, from Livingston Street, NW, to Oliver Street, NW (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Connecticut Avenue, NW, from Macomb Street, NW, to Porter Street, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Connecticut Avenue, NW, from Van Ness Street, NW, to Albemarle Street, NW (Zone C-3-A);</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Connecticut Avenue, NW, from Calvert Street, NW, to 24th Street, NW (Zones C-2-A and C-2-B);</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Connecticut Avenue, NW, from Hawthorne Street, NW, to Jewett Street, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>MacArthur Boulevard, NW, at Cathedral Avenue, NW, (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>MacArthur Boulevard, NW, from Arizona Avenue, NW, to Dana Place, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>MacArthur Boulevard, NW, from V Street, NW, to U Street, NW (Zone C-2-A);</text>
+    </level>
+    <text>(10) Massachusetts Avenue, NW, from 48th Street, NW, to 49th Street, NW (Zone C-2-A);</text>
+    <text>(11) New Mexico Avenue, NW, from Embassy Park Drive, NW, to Lowell Street, NW (Zone C-1);</text>
+    <text>(12) Ordway Street, NW, from alley east of Connecticut Avenue, NW, to alley west of Connecticut Avenue, NW (Zone C-2-A). The following restriction applies:</text>
+    <level>
+      <num>(A)</num>
+      <text>Only the south side of Ordway Street, NW, shall be included in the Neighborhood Vending Zone;</text>
+    </level>
+    <text>(13) Wisconsin Avenue, NW, from Albemarle Street, NW, to Brandywine Street, NW;</text>
+    <text>(14) Wisconsin Avenue, NW, from Harrison Street, NW, to Western Avenue, NW (Zones C-2-A, C-2-B, and C-3-A);</text>
+    <text>(15) Wisconsin Avenue, NW, from Macomb Street, NW, to Idaho Avenue, NW. The following restriction applies:</text>
+    <level>
+      <num>(A)</num>
+      <text>Only the west side of Wisconsin Avenue, NW, shall be included in the Neighborhood Vending Zone;</text>
+    </level>
+    <text>(16) Wisconsin Avenue, NW, from Rodman Street, NW, to 40th Street, NW (Zones C-1, C-2-A, and C-2-B); and</text>
+    <text>(17) 24th Street, NW, from Calvert Street, NW, to Connecticut Avenue, NW (Zone C-2-A); and</text>
+    <level>
+      <num>(h)</num>
+      <text>Upper Northeast area:</text>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>Allison Street, NE, from Michigan Avenue, NE, to Eastern Avenue, NE (Zone C-1);</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Bladensburg Road, NE, from L Street, NE, to Mount Olivet Road, NE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Florida Avenue, NE, from West Virginia Avenue, NE, to Montello Avenue, NW (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Mount Olivet Road, NE, from West Virginia Avenue, NE, to Trinidad Avenue, NE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Rhode Island Avenue, NE, from Monroe Street, NE, to Eastern Avenue, NE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Rhode Island Avenue, NE, from 4th Street, NE, to 10th Street, NE (Zones C-2-C, C-3-A, C-M-2, and M);</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Rhode Island Avenue, NE, from 13th Street, NE, to 18th Street, NE (Zone C-2-A);</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>12th Street, NE, from Irving Street, NE, to Randolph Street, NE (Zones C-1 and C-2-A); and</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>Benning Road, NE, from Bladensburg Road, NE, to Oklahoma Avenue, NE (Zones C-2-A and C-2-B).</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 36 DCR 6846, 6849 (September 29, 1989); as amended by Final Rulemaking published at 37 DCR 558 (January 12, 1990); as amended by Final Rulemaking published at 60 DCR 13055 (September 20, 2013).</text>
+    </level>
+  </level>
+</level>

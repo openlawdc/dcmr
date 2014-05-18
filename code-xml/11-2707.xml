@@ -1,0 +1,66 @@
+<level>
+  <type>section</type>
+  <num>11-2707</num>
+  <heading>EXEMPTED ANTENNAS (§ 11-2707)</heading>
+  <level>
+    <num>2707.1.</num>
+    <text>The requirements of §§ 2703 through 2706 shall not apply to any antenna that is:</text>
+    <level>
+      <num>(a)</num>
+      <text>Entirely enclosed within a building but is not the primary use within the building;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Entirely enclosed on all sides by a roof structure, penthouse, or an extension of penthouse walls; this subsection shall not be interpreted to permit penthouses or roof structures in excess of the height limitations for roof structures;</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Located entirely behind and no taller than the parapet walls; or</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <text>No taller than eighteen inches (18 in.) in height and necessary for the implementation of expanded 911 or emergency communications.</text>
+    </level>
+  </level>
+  <level>
+    <num>2707.2.</num>
+    <text>For the purposes of § 2707.1, penthouse and parapet walls may include an opaque membrane covering a port in front of the antenna that screens the antenna, blends with the wall and allows the antenna to operate.</text>
+  </level>
+  <level>
+    <num>2707.3.</num>
+    <text>The requirements of §§ 2703 through 2706 shall not apply to the following classes of antennas. The number to the right indicates the maximum number of antennas within a class that may be placed on a building or located on a lot, as is applicable:</text>
+    <text>Residential type uhf/vhf television and frequency modulation (fm) radio</text>
+    <text>receiving Yagi antenna located on the roof of a principal building,</text>
+    <text>not to exceed eight feet (8 ft.) horizontally.</text>
+    <text>2</text>
+    <text>Whip antennas not exceeding two and one- half inches (21/2 in.) in diameter,</text>
+    <text>with a mounted dimension (Except that no longer than twelve feet (12 ft.)</text>
+    <text>in any direction, and there located on a principal building, shall be no</text>
+    <text>numeric limit on the number whip antennas that are dedicated to the</text>
+    <text>provision of emergency services to the District of Columbia.)</text>
+    <text>2</text>
+    <text>Residential type super high frequency antenna located on the roof of</text>
+    <text>a principal building, not to exceed three feet (3 ft.) in any dimension,</text>
+    <text>excluding the support element.</text>
+    <text>1</text>
+    <text>Dish antenna located on the roof of a principal building with a diameter</text>
+    <text>of no more than four feet (4 ft.), not taller than eight feet (8 ft.) as measured</text>
+    <text>from the roof surface on which it is mounted, and set back from the edge of</text>
+    <text>the roof a distance at least equal to its height above the roof. The principal</text>
+    <text>building shall have a height of no less than twenty- five feet (25 ft.).</text>
+    <text>1</text>
+    <text>Whip antenna mounted on a vehicle on private property.</text>
+    <text>1</text>
+  </level>
+  <level>
+    <num>2707.4.</num>
+    <text>A proposed antenna which does not comply with the above requirements or numeric limitation set forth in § 2707.3 may be permitted subject to the requirements of §§ 2703 through 2706.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 55 DCR 34 (January 4, 2008).</text>
+    </level>
+  </level>
+</level>

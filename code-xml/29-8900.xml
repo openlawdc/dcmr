@@ -1,0 +1,48 @@
+<level>
+  <type>section</type>
+  <num>29-8900</num>
+  <heading>PROVIDER ELIGIBILITY (§ 29-8900)
+    <text>The Department of Health Care Finance (DHCF) shall administer the Medicaidlectronic Health Record Incentive Payment Program (MEIP), which providesncentive payments to certain eligible providers participating in the Districtf Columbia Medicaid program
+      as they adopt, implement, upgrade, or demonstrateeaningful use of certified Electronic Health Record (EHR) technology.</text>
+    <text>The following providers shall be eligible for participation in MEIP:</text>
+    <text>Eligible professionals as identified in Subsection 8900.3; and</text>
+    <text>Eligible hospitals as identified in Subsection 8900.5.</text>
+    <text>An eligible professional shall be one (1) of the following:</text>
+    <text>A physician licensed in accordance with the District of Columbia Healthccupations Revision Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C.fficial Code §§ 3-1201 et seq. (2007 Repl. &amp;#038; 2012 Supp.));</text>
+    <text>A dentist licensed to engage in the practice of dentistry as defined by §02(5) of the District of Columbia Health Occupations Revision Act of 1985,ffective March 25, 1986 (D.C. Law 6-99; D.C. Official Code §§ 3-1201 et seq.2007 Repl. &amp;#038; 2012
+      Supp.));</text>
+    <text>A certified nurse midwife licensed as an advanced practice registered nurseursuant to the District of Columbia Health Occupations Revision Act of 1985,ffective March 25, 1986 (D.C. Law 6-99; D.C. Official Code §§ 3-1201 et seq.2007 Repl. &amp;#038;
+      2012 Supp.)), and certified by the American Midwiferyertification Board (AMCB);</text>
+    <text>A nurse practitioner licensed as an advanced practice registered nurse pursuanto the District of Columbia Health Occupations Revision Act of 1985, effectivearch 25, 1986 (D.C. Law 6-99; D.C. Official Code §§ 3-1201 et seq. (2007epl. &amp;#038; 2012
+      Supp.)); or</text>
+    <text>A physician’s assistant, licensed in accordance with the District of Columbiaealth Occupations Revision Act of 1985, effective March 25, 1986 (D.C. Law-99; D.C. Official Code §§ 3-1201 et seq. (2007 Repl. &amp;#038; 2012 Supp.)),ho practices in a
+      Federally Qualified Health Center (FQHC).</text>
+    <text>Consistent with the requirements of Subsection 8900.3, an eligible professionalhall not be hospital-based, unless the professional’s eligibility forncentive payments is based on practice at a FQHC.</text>
+    <text>An eligible hospital shall be one (1) of the following:</text>
+    <text>An acute care hospital located in the District of Columbia; or</text>
+    <text>A children&amp;#8217;s hospital located in the District of Columbia.</text>
+    <text>For each year of MEIP participation, an eligible provider shall meet all of theollowing requirements:</text>
+    <text>Have no current or pending sanction identified by the United States Departmentf Health and Human Services, Office of Inspector General or the District ofolumbia list of excluded providers;</text>
+    <text>Declare the intent to participate by electronically registering with the CMSsing the Medicare and Medicaid electronic health record incentive programegistration and attestation website;</text>
+    <text>Use the District of Columbia State Level Registry to attest to the provider’sualifications to receive the incentive payment; and submit an electronic copyf a signed attestation form at http://dc.arraincentive.com;</text>
+    <text>Meet Medicaid patient volume requirements consistent with the requirements ofection 8901, “Methodology for Volume Requirements”, and the District ofolumbia State Medicaid Health Information Technology Plan (SMHP);</text>
+    <text>Submit a Certified Health IT Product List (CHPL) Product Number; and</text>
+    <text>Declare, if applicable, the intent to reassign incentive payments to a thirdarty subject to the requirements of 42 C.F.R. § 495.10(f).</text>
+    <text>For the first year of MEIP participation, an eligible provider shall meet theequirements of Subsection 8900.6 and meet one (1) of the following conditions:</text>
+    <text>Demonstrate and attest to adopting, implementing or upgrading EHR technology asefined in 42 C.F.R. § 495.302 that has been certified by the Office of theational Coordinator for Health Information Technology; or</text>
+    <text>Demonstrate that it is a meaningful EHR user as defined in 42 C.F.R. § 495.4.</text>
+    <text>An eligible provider that demonstrates and attests to adopting, implementing orpgrading EHR technology in accordance with Subsection 8900.7 shall report whichertified EHR technology they have adopted, implemented or upgraded to androvide supporting
+      documentation (e.g., purchase receipts or other proof of goodaith payment between purchaser and seller, or proof of binding contract) in aanner specified by DHCF.</text>
+    <text>In the second, third, fourth, fifth, and sixth year of MEIP participation, anligible provider shall satisfy all of the following criteria:</text>
+    <text>Meet the requirements of Subsection 8900.6;</text>
+    <text>Demonstrate that it is a meaningful EHR user as defined in 42 C.F.R. § 495.4;nd</text>
+    <text>Use certified EHR technology interoperable with the system designated by theistrict to report clinical quality measures.</text>
+  </heading>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 61 DCR 237 (January 10, 2014).</text>
+    </level>
+  </level>
+</level>

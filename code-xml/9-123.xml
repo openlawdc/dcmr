@@ -1,0 +1,76 @@
+<level>
+  <type>section</type>
+  <num>9-123</num>
+  <heading>DEDUCTIONS WHEN INCOME IS APPORTIONABLE OR EXEMPT (§ 9-123)</heading>
+  <level>
+    <num>123.1.</num>
+    <text>No deductions shall be allowed for expenses applicable to any income not subject to or exempt from taxation under the Act.</text>
+  </level>
+  <level>
+    <num>123.2.</num>
+    <text>Where part of any income is apportioned to the District, the deductions applicable to that income and allowable as such under § 3(a) of Title 3 of the Act shall be apportioned on the same basis as that used to apportion the income, unless, in the
+      opinion of the Deputy Chief Financial Officer, those deductions should be allocated in whole or in part.</text>
+  </level>
+  <level>
+    <num>123.3.</num>
+    <text>In the case of corporations, unincorporated businesses, and financial institutions, the deductions provided for in § 3(a) of Title 3 shall be allowable only to the extent that they are connected with income fairly attributable to the trade of business
+      carried on or engaged in within the District and from District sources.</text>
+  </level>
+  <level>
+    <num>123.4.</num>
+    <text>In the context of this section, interest expenses of a corporation, financial institution, or unincorporated business shall be reduced by the amount that the ratio of the average value of the assets producing nontaxable income bears to the average
+      value of the total assets of the corporation, financial institution or unincorporated business.</text>
+  </level>
+  <level>
+    <num>123.5.</num>
+    <text>Average values of assets shall be computed by one of the following methods:</text>
+    <level>
+      <num>(a)</num>
+      <text>By adding the values at the beginning and end of a taxable year and dividing the result by 2;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>By using an average daily balance; or</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Any other method of computation the taxpayer can support with adequate records that clearly reflect the average value of assets.</text>
+    </level>
+    <text>Example:</text>
+    <text>Average Value of Assets Producing Nontaxable Income</text>
+    <text>$ 150,000</text>
+    <text>Average Value of Total Assets</text>
+    <text>1,500,000</text>
+    <text>Interest Expenses</text>
+    <text>400,000</text>
+    <text>Interest Expenses Not Allowed</text>
+    <text>$ 150,000</text>
+    <text>1,500,000</text>
+    <text>×</text>
+    <text>$ 400,000</text>
+    <text>$ 40,000</text>
+    <text>Interest Expenses Allowable</text>
+    <text>$ 360,000</text>
+  </level>
+  <level>
+    <num>123.6.</num>
+    <text>Administrative expense (such as salaries for officers or employees whose duties include the management of or investing securities, the income from which is not subject to taxation under the Act), shall be apportioned or allocated in a manner that
+      reflects that portion of salaries attributable to taxable and nontaxable activities.</text>
+    <text>Example:</text>
+    <text>Officer and Employee Salaries</text>
+    <text>$ 200,000</text>
+    <text>Portion of working hours attributable to activities not taxable</text>
+    <text>2%</text>
+    <text>Salary expense required to be allocated to nontaxable activities (2% ×$ 200.000)</text>
+    <text>$ 4,000</text>
+    <text>Salary expense apportionable to taxable activities</text>
+    <text>$ 196,000</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE Commissioners&amp;#8217; Order 56-1431 effective July 24, 1956, 16 DCRR § 309.6:</heading>
+      <text>as amended by Final Rulemaking published 28 DCR 5393 (December 18, 1981), incorporating text of Proposed Rulemaking published at 28 DCR 4112 (September 18, 1981); and by Final Rulemaking published at 34 DCR 3846 (June 12, 1987).</text>
+    </level>
+  </level>
+</level>

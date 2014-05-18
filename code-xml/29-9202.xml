@@ -1,0 +1,53 @@
+<level>
+  <type>section</type>
+  <num>29-9202</num>
+  <heading>OTHER PROVIDER PREVENTABLE CONDITIONS (§ 29-9202)</heading>
+  <level>
+    <num>9202.1.</num>
+    <text>Other Provider Preventable Conditions (OPPCs) shall include erroneous medical procedures as identified by Medicare under three (3) national coverage determinations (NCDs) that deny coverage when a practitioner performs the wrong procedure in any health
+      care setting including outpatient or inpatient hospitals, ambulatory surgical centers, and practitioner settings.</text>
+  </level>
+  <level>
+    <num>9202.2.</num>
+    <text>DHCF shall deny payment for claims associated with the following OPPCs:</text>
+    <level>
+      <num>(a)</num>
+      <text>Wrong surgical procedure;</text>
+    </level>
+    <level>
+      <num>(b)</num>
+      <text>Correct procedure performed on the wrong patient; and</text>
+    </level>
+    <level>
+      <num>(c)</num>
+      <text>Correct procedure performed on the wrong body part.</text>
+    </level>
+  </level>
+  <level>
+    <num>9202.3</num>
+    <text>9202.3 The following provider types shall be denied compensation for claims associated with OPPCs:</text>
+    <text>Hospitals paid on a diagnosis-related group (DRG) basis;</text>
+    <text>Hospitals paid on a non-DRG basis; and</text>
+    <text>Other providers, regardless of whether they are paid on a fee-for-service or capitated basis.</text>
+  </level>
+  <level>
+    <num>9202.4.</num>
+    <text>For all claims submitted on or after July 1, 2012, providers shall report OPPCs by using modifiers and E-codes on paper and electronic claim forms that refer to the prohibited procedures described in § 9202.2.</text>
+  </level>
+  <level>
+    <num>9202.5</num>
+    <text>9202.5 The OPPC modifier and E-code requirement shall be implemented pursuant to additional guidance issued by DHCF.</text>
+  </level>
+  <level>
+    <num>9202.6.</num>
+    <text>DHCF or its agent may request additional information, including medical records for admissions and/or outpatient procedures, in order to verify the occurrence or absence of an OPPC. Providers must collect and maintain information regarding the OPPC
+      associated with each claim submitted on or after July 1, 2012, including reference to the associated prohibited procedure described in § 9202.2.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>SOURCE</heading>
+      <text>Final Rulemaking published at 59 DCR 14960 (December 21, 2012).</text>
+    </level>
+  </level>
+</level>
