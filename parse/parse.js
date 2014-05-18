@@ -3,6 +3,7 @@ var path = require("path")
 var rr = require('readdir-recursive');
 var _ = require("underscore");
 var et = require('elementtree');
+var mkdirp = require('mkdirp');
 var beautify_html = require('js-beautify').html;
 
 function run () {
@@ -13,21 +14,22 @@ function run () {
 	})
 } 
 
-/*function test () {
+function test () {
 	readReg("./code-test/1/1-31/1-3199.txt", function () {
 		console.log("Done!")
 	})
-}*/
-
+}
 
 function readReg (f, callback) {
 	//For the file, read the text and fire off the parser
 	var fname = path.basename(f, '.txt')
+	var dir = path.dirname(f).replace('./code-test/',"")
+	mkdirp.sync("code-xml/" + dir)
 	var out = fs.readFileSync(f, 'utf-8');
 	// Combine the lines together
 	combineLines(out, function (r) {
 		buildRegTree(r, fname, function (rt) {
-			fs.writeFileSync("./code-xml/" + fname + ".xml", beautify_html(rt, {indent_size: 2}), {encoding:"utf8"})
+			fs.writeFileSync("./code-xml/" + dir + "/" + fname + ".xml", beautify_html(rt, {indent_size: 2}), {encoding:"utf8"})
 			callback();
 		})
 	})

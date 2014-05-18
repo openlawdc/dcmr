@@ -8,13 +8,13 @@
   "license": "BSD",
   "description": "ERROR: No README.md file found!",
   "dependencies": {
-    "cheerio": "~0.10.1",
-    "get": "~1.2.1",
+    "phantomjs":"*",
+    "casperjs":"*",
     "underscore": "~1.4.1",
-    "url":"*",
-    "request": "~2.11.4",
     "readdir-recursive":"*",
     "elementtree":"*",
-    "js-beautify":"*"
+    "js-beautify":"*",
+    "mkdirp":"*",
+    "walk":"*"
   }
 }
