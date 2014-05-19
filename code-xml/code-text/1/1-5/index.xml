@@ -3,31 +3,20 @@
   <prefix>Chapter</prefix>
   <num>1-5</num>
   <heading />
-  <ns0:include href="1-1.xml" />
-  <ns0:include href="1-11.xml" />
-  <ns0:include href="1-14.xml" />
-  <ns0:include href="1-10.xml" />
-  <ns0:include href="1-17.xml" />
-  <ns0:include href="1-15.xml" />
-  <ns0:include href="1-16.xml" />
-  <ns0:include href="1-2.xml" />
-  <ns0:include href="1-20.xml" />
-  <ns0:include href="1-24.xml" />
-  <ns0:include href="1-22.xml" />
-  <ns0:include href="1-28.xml" />
-  <ns0:include href="1-29.xml" />
-  <ns0:include href="1-27.xml" />
-  <ns0:include href="1-31.xml" />
-  <ns0:include href="1-32.xml" />
-  <ns0:include href="1-3.xml" />
-  <ns0:include href="1-48.xml" />
-  <ns0:include href="1-5.xml" />
-  <ns0:include href="1-4.xml" />
-  <ns0:include href="1-50.xml" />
-  <ns0:include href="1-57.xml" />
-  <ns0:include href="1-72.xml" />
-  <ns0:include href="1-56.xml" />
-  <ns0:include href="1-6.xml" />
-  <ns0:include href="1-8.xml" />
-  <ns0:include href="1-9.xml" />
+  <ns0:include href="1-501.xml" />
+  <ns0:include href="1-500.xml" />
+  <ns0:include href="1-502.xml" />
+  <ns0:include href="1-503.xml" />
+  <ns0:include href="1-504.xml" />
+  <ns0:include href="1-506.xml" />
+  <ns0:include href="1-505.xml" />
+  <ns0:include href="1-508.xml" />
+  <ns0:include href="1-507.xml" />
+  <ns0:include href="1-509.xml" />
+  <ns0:include href="1-511.xml" />
+  <ns0:include href="1-510.xml" />
+  <ns0:include href="1-513.xml" />
+  <ns0:include href="1-512.xml" />
+  <ns0:include href="1-514.xml" />
+  <ns0:include href="1-599.xml" />
 </level>

@@ -3,36 +3,14 @@
   <prefix>Chapter</prefix>
   <num>24-24</num>
   <heading />
-  <ns0:include href="24-1.xml" />
-  <ns0:include href="24-10.xml" />
-  <ns0:include href="24-11.xml" />
-  <ns0:include href="24-14.xml" />
-  <ns0:include href="24-12.xml" />
-  <ns0:include href="24-15.xml" />
-  <ns0:include href="24-16.xml" />
-  <ns0:include href="24-13.xml" />
-  <ns0:include href="24-2.xml" />
-  <ns0:include href="24-21.xml" />
-  <ns0:include href="24-20.xml" />
-  <ns0:include href="24-22.xml" />
-  <ns0:include href="24-24.xml" />
-  <ns0:include href="24-23.xml" />
-  <ns0:include href="24-25.xml" />
-  <ns0:include href="24-27.xml" />
-  <ns0:include href="24-26.xml" />
-  <ns0:include href="24-3.xml" />
-  <ns0:include href="24-31.xml" />
-  <ns0:include href="24-33.xml" />
-  <ns0:include href="24-30.xml" />
-  <ns0:include href="24-34.xml" />
-  <ns0:include href="24-32.xml" />
-  <ns0:include href="24-35.xml" />
-  <ns0:include href="24-4.xml" />
-  <ns0:include href="24-37.xml" />
-  <ns0:include href="24-47.xml" />
-  <ns0:include href="24-5.xml" />
-  <ns0:include href="24-6.xml" />
-  <ns0:include href="24-7.xml" />
-  <ns0:include href="24-9.xml" />
-  <ns0:include href="24-8.xml" />
+  <ns0:include href="24-2402.xml" />
+  <ns0:include href="24-2403.xml" />
+  <ns0:include href="24-2400.xml" />
+  <ns0:include href="24-2401.xml" />
+  <ns0:include href="24-2404.xml" />
+  <ns0:include href="24-2405.xml" />
+  <ns0:include href="24-2406.xml" />
+  <ns0:include href="24-2499.xml" />
+  <ns0:include href="24-2407.xml" />
+  <ns0:include href="24-2408.xml" />
 </level>

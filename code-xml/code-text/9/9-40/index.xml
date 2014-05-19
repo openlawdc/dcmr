@@ -3,25 +3,14 @@
   <prefix>Chapter</prefix>
   <num>9-40</num>
   <heading />
-  <ns0:include href="9-1.xml" />
-  <ns0:include href="9-10.xml" />
-  <ns0:include href="9-11.xml" />
-  <ns0:include href="9-2.xml" />
-  <ns0:include href="9-20.xml" />
-  <ns0:include href="9-3.xml" />
-  <ns0:include href="9-30.xml" />
-  <ns0:include href="9-31.xml" />
-  <ns0:include href="9-35.xml" />
-  <ns0:include href="9-37.xml" />
-  <ns0:include href="9-38.xml" />
-  <ns0:include href="9-4.xml" />
-  <ns0:include href="9-40.xml" />
-  <ns0:include href="9-41.xml" />
-  <ns0:include href="9-42.xml" />
-  <ns0:include href="9-5.xml" />
-  <ns0:include href="9-6.xml" />
-  <ns0:include href="9-7.xml" />
-  <ns0:include href="9-8.xml" />
-  <ns0:include href="9-9.xml" />
-  <ns0:include href="9-99.xml" />
+  <ns0:include href="9-4000.xml" />
+  <ns0:include href="9-4001.xml" />
+  <ns0:include href="9-4002.xml" />
+  <ns0:include href="9-4003.xml" />
+  <ns0:include href="9-4005.xml" />
+  <ns0:include href="9-4004.xml" />
+  <ns0:include href="9-4006.xml" />
+  <ns0:include href="9-4007.xml" />
+  <ns0:include href="9-4008.xml" />
+  <ns0:include href="9-4009.xml" />
 </level>

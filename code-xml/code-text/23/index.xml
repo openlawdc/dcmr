@@ -4,24 +4,24 @@
   <num>23</num>
   <heading />
   <ns0:include href="23-1/index.xml" />
-  <ns0:include href="23-11/index.xml" />
   <ns0:include href="23-10/index.xml" />
-  <ns0:include href="23-12/index.xml" />
+  <ns0:include href="23-11/index.xml" />
   <ns0:include href="23-13/index.xml" />
-  <ns0:include href="23-14/index.xml" />
+  <ns0:include href="23-12/index.xml" />
   <ns0:include href="23-15/index.xml" />
-  <ns0:include href="23-19/index.xml" />
+  <ns0:include href="23-14/index.xml" />
   <ns0:include href="23-16/index.xml" />
-  <ns0:include href="23-18/index.xml" />
   <ns0:include href="23-17/index.xml" />
+  <ns0:include href="23-18/index.xml" />
   <ns0:include href="23-2/index.xml" />
-  <ns0:include href="23-3/index.xml" />
+  <ns0:include href="23-19/index.xml" />
   <ns0:include href="23-20/index.xml" />
+  <ns0:include href="23-3/index.xml" />
   <ns0:include href="23-21/index.xml" />
   <ns0:include href="23-5/index.xml" />
   <ns0:include href="23-4/index.xml" />
-  <ns0:include href="23-7/index.xml" />
   <ns0:include href="23-6/index.xml" />
   <ns0:include href="23-8/index.xml" />
+  <ns0:include href="23-7/index.xml" />
   <ns0:include href="23-9/index.xml" />
 </level>

@@ -3,14 +3,11 @@
   <prefix>Chapter</prefix>
   <num>28-12</num>
   <heading />
-  <ns0:include href="28-10.xml" />
-  <ns0:include href="28-11.xml" />
-  <ns0:include href="28-12.xml" />
-  <ns0:include href="28-20.xml" />
-  <ns0:include href="28-5.xml" />
-  <ns0:include href="28-28.xml" />
-  <ns0:include href="28-50.xml" />
-  <ns0:include href="28-51.xml" />
-  <ns0:include href="28-6.xml" />
-  <ns0:include href="28-7.xml" />
+  <ns0:include href="28-1201.xml" />
+  <ns0:include href="28-1202.xml" />
+  <ns0:include href="28-1200.xml" />
+  <ns0:include href="28-1203.xml" />
+  <ns0:include href="28-1204.xml" />
+  <ns0:include href="28-1205.xml" />
+  <ns0:include href="28-1206.xml" />
 </level>

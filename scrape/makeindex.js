@@ -16,7 +16,7 @@ function start () {
 					fs.writeFileSync(t + "/index.xml", beautify_html(xml, {indent_size: 2}), {encoding:"utf8"})
 				})
 				_.each(chapters, function (c) {
-					run(t, [], function (r) {
+					runfiles(c, [], function (r) {
 						makeRuleIndex(path.basename(c), "", r, function (xml) {
 							fs.writeFileSync(c + '/index.xml', beautify_html(xml, {indent_size: 2}), {encoding:"utf8"})
 						})
@@ -36,6 +36,19 @@ function run (dir, array, callback) {
 		callback(array)
 	})
 }
+
+
+function runfiles (dir, array, callback) {
+	var emitter = walk(dir, {"no_recurse":true})
+	emitter.on('file', function (path, stat) {
+		array.push(path)
+	})
+	emitter.on('end', function () {
+		callback(array)
+	})
+}
+
+
 
 function makeTitlesIndex (titles, callback) {
 	root = et.Element("level")
@@ -78,7 +91,7 @@ function makeRuleIndex (chapter, heading, rules, callback) {
 	et.SubElement(root, "num").text = chapter
 	et.SubElement(root, "heading").text = heading
 	_.each(rules, function (r) {
-		url = path.basename(r) + '.xml'
+		url = path.basename(r)
 		var rule = et.Element("{http://www.w3.org/2001/XInclude}include")
 		rule.attrib["href"] = url
 		root.append(rule)

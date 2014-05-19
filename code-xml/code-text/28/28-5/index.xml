@@ -3,14 +3,37 @@
   <prefix>Chapter</prefix>
   <num>28-5</num>
   <heading />
-  <ns0:include href="28-10.xml" />
-  <ns0:include href="28-11.xml" />
-  <ns0:include href="28-12.xml" />
-  <ns0:include href="28-20.xml" />
-  <ns0:include href="28-28.xml" />
-  <ns0:include href="28-5.xml" />
-  <ns0:include href="28-50.xml" />
-  <ns0:include href="28-51.xml" />
-  <ns0:include href="28-6.xml" />
-  <ns0:include href="28-7.xml" />
+  <ns0:include href="28-500.xml" />
+  <ns0:include href="28-501.xml" />
+  <ns0:include href="28-502.xml" />
+  <ns0:include href="28-503.xml" />
+  <ns0:include href="28-504.xml" />
+  <ns0:include href="28-505.xml" />
+  <ns0:include href="28-506.xml" />
+  <ns0:include href="28-507.xml" />
+  <ns0:include href="28-508.xml" />
+  <ns0:include href="28-511.xml" />
+  <ns0:include href="28-509.xml" />
+  <ns0:include href="28-510.xml" />
+  <ns0:include href="28-513.xml" />
+  <ns0:include href="28-512.xml" />
+  <ns0:include href="28-515.xml" />
+  <ns0:include href="28-516.xml" />
+  <ns0:include href="28-514.xml" />
+  <ns0:include href="28-518.xml" />
+  <ns0:include href="28-517.xml" />
+  <ns0:include href="28-519.xml" />
+  <ns0:include href="28-521.xml" />
+  <ns0:include href="28-520.xml" />
+  <ns0:include href="28-523.xml" />
+  <ns0:include href="28-522.xml" />
+  <ns0:include href="28-524.xml" />
+  <ns0:include href="28-526.xml" />
+  <ns0:include href="28-525.xml" />
+  <ns0:include href="28-528.xml" />
+  <ns0:include href="28-527.xml" />
+  <ns0:include href="28-529.xml" />
+  <ns0:include href="28-530.xml" />
+  <ns0:include href="28-531.xml" />
+  <ns0:include href="28-532.xml" />
 </level>

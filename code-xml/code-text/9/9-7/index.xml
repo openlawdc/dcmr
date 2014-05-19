@@ -3,25 +3,15 @@
   <prefix>Chapter</prefix>
   <num>9-7</num>
   <heading />
-  <ns0:include href="9-1.xml" />
-  <ns0:include href="9-10.xml" />
-  <ns0:include href="9-11.xml" />
-  <ns0:include href="9-2.xml" />
-  <ns0:include href="9-20.xml" />
-  <ns0:include href="9-3.xml" />
-  <ns0:include href="9-30.xml" />
-  <ns0:include href="9-31.xml" />
-  <ns0:include href="9-35.xml" />
-  <ns0:include href="9-37.xml" />
-  <ns0:include href="9-38.xml" />
-  <ns0:include href="9-4.xml" />
-  <ns0:include href="9-40.xml" />
-  <ns0:include href="9-41.xml" />
-  <ns0:include href="9-42.xml" />
-  <ns0:include href="9-6.xml" />
-  <ns0:include href="9-5.xml" />
-  <ns0:include href="9-7.xml" />
-  <ns0:include href="9-9.xml" />
-  <ns0:include href="9-8.xml" />
-  <ns0:include href="9-99.xml" />
+  <ns0:include href="9-700.xml" />
+  <ns0:include href="9-701.xml" />
+  <ns0:include href="9-702.xml" />
+  <ns0:include href="9-704.xml" />
+  <ns0:include href="9-703.xml" />
+  <ns0:include href="9-705.xml" />
+  <ns0:include href="9-706.xml" />
+  <ns0:include href="9-707.xml" />
+  <ns0:include href="9-708.xml" />
+  <ns0:include href="9-709.xml" />
+  <ns0:include href="9-710.xml" />
 </level>

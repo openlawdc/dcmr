@@ -3,30 +3,18 @@
   <prefix>Chapter</prefix>
   <num>18-12</num>
   <heading />
-  <ns0:include href="18-1.xml" />
-  <ns0:include href="18-11.xml" />
-  <ns0:include href="18-12.xml" />
-  <ns0:include href="18-10.xml" />
-  <ns0:include href="18-13.xml" />
-  <ns0:include href="18-14.xml" />
-  <ns0:include href="18-15.xml" />
-  <ns0:include href="18-20.xml" />
-  <ns0:include href="18-22.xml" />
-  <ns0:include href="18-23.xml" />
-  <ns0:include href="18-21.xml" />
-  <ns0:include href="18-25.xml" />
-  <ns0:include href="18-24.xml" />
-  <ns0:include href="18-26.xml" />
-  <ns0:include href="18-3.xml" />
-  <ns0:include href="18-27.xml" />
-  <ns0:include href="18-30.xml" />
-  <ns0:include href="18-31.xml" />
-  <ns0:include href="18-4.xml" />
-  <ns0:include href="18-40.xml" />
-  <ns0:include href="18-5.xml" />
-  <ns0:include href="18-6.xml" />
-  <ns0:include href="18-7.xml" />
-  <ns0:include href="18-8.xml" />
-  <ns0:include href="18-9.xml" />
-  <ns0:include href="18-99.xml" />
+  <ns0:include href="18-1202.xml" />
+  <ns0:include href="18-1200.xml" />
+  <ns0:include href="18-1203.xml" />
+  <ns0:include href="18-1201.xml" />
+  <ns0:include href="18-1204.xml" />
+  <ns0:include href="18-1206.xml" />
+  <ns0:include href="18-1205.xml" />
+  <ns0:include href="18-1208.xml" />
+  <ns0:include href="18-1207.xml" />
+  <ns0:include href="18-1209.xml" />
+  <ns0:include href="18-1211.xml" />
+  <ns0:include href="18-1210.xml" />
+  <ns0:include href="18-1212.xml" />
+  <ns0:include href="18-1213.xml" />
 </level>

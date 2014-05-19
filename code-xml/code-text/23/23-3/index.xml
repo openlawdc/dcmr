@@ -3,25 +3,15 @@
   <prefix>Chapter</prefix>
   <num>23-3</num>
   <heading />
-  <ns0:include href="23-1.xml" />
-  <ns0:include href="23-11.xml" />
-  <ns0:include href="23-13.xml" />
-  <ns0:include href="23-12.xml" />
-  <ns0:include href="23-14.xml" />
-  <ns0:include href="23-10.xml" />
-  <ns0:include href="23-16.xml" />
-  <ns0:include href="23-17.xml" />
-  <ns0:include href="23-15.xml" />
-  <ns0:include href="23-19.xml" />
-  <ns0:include href="23-2.xml" />
-  <ns0:include href="23-18.xml" />
-  <ns0:include href="23-20.xml" />
-  <ns0:include href="23-21.xml" />
-  <ns0:include href="23-3.xml" />
-  <ns0:include href="23-4.xml" />
-  <ns0:include href="23-5.xml" />
-  <ns0:include href="23-6.xml" />
-  <ns0:include href="23-7.xml" />
-  <ns0:include href="23-8.xml" />
-  <ns0:include href="23-9.xml" />
+  <ns0:include href="23-300.xml" />
+  <ns0:include href="23-301.xml" />
+  <ns0:include href="23-303.xml" />
+  <ns0:include href="23-302.xml" />
+  <ns0:include href="23-304.xml" />
+  <ns0:include href="23-307.xml" />
+  <ns0:include href="23-308.xml" />
+  <ns0:include href="23-305.xml" />
+  <ns0:include href="23-306.xml" />
+  <ns0:include href="23-309.xml" />
+  <ns0:include href="23-310.xml" />
 </level>

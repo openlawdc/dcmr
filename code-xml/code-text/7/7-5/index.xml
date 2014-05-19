@@ -3,26 +3,15 @@
   <prefix>Chapter</prefix>
   <num>7-5</num>
   <heading />
-  <ns0:include href="7-1.xml" />
-  <ns0:include href="7-10.xml" />
-  <ns0:include href="7-11.xml" />
-  <ns0:include href="7-14.xml" />
-  <ns0:include href="7-15.xml" />
-  <ns0:include href="7-16.xml" />
-  <ns0:include href="7-17.xml" />
-  <ns0:include href="7-18.xml" />
-  <ns0:include href="7-19.xml" />
-  <ns0:include href="7-2.xml" />
-  <ns0:include href="7-20.xml" />
-  <ns0:include href="7-24.xml" />
-  <ns0:include href="7-3.xml" />
-  <ns0:include href="7-25.xml" />
-  <ns0:include href="7-31.xml" />
-  <ns0:include href="7-32.xml" />
-  <ns0:include href="7-4.xml" />
-  <ns0:include href="7-5.xml" />
-  <ns0:include href="7-6.xml" />
-  <ns0:include href="7-7.xml" />
-  <ns0:include href="7-8.xml" />
-  <ns0:include href="7-9.xml" />
+  <ns0:include href="7-500.xml" />
+  <ns0:include href="7-501.xml" />
+  <ns0:include href="7-502.xml" />
+  <ns0:include href="7-503.xml" />
+  <ns0:include href="7-504.xml" />
+  <ns0:include href="7-505.xml" />
+  <ns0:include href="7-506.xml" />
+  <ns0:include href="7-507.xml" />
+  <ns0:include href="7-508.xml" />
+  <ns0:include href="7-509.xml" />
+  <ns0:include href="7-599.xml" />
 </level>
