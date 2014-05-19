@@ -1,10 +1,10 @@
 # DCMR
 
-Scraper borrowed from https://github.com/tmcw/dcmr. 
+Scraper borrowed from https://github.com/opengovfoundation/dc-regs. 
 
-To come:
- 
->> Parser into [Code XML](https://github.com/JoshData/dc-code-prototype) Schema.
+Parsed into [Code XML](https://github.com/JoshData/dc-code-prototype) Schema.
+
+To Come:
 
 >> Simple-generator
 
