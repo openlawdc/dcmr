@@ -1,0 +1,38 @@
+<level xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <type>toc</type>
+  <prefix>Title</prefix>
+  <num>24</num>
+  <heading />
+  <ns0:include href="24-1/index.xml" />
+  <ns0:include href="24-10/index.xml" />
+  <ns0:include href="24-12/index.xml" />
+  <ns0:include href="24-11/index.xml" />
+  <ns0:include href="24-13/index.xml" />
+  <ns0:include href="24-15/index.xml" />
+  <ns0:include href="24-14/index.xml" />
+  <ns0:include href="24-2/index.xml" />
+  <ns0:include href="24-16/index.xml" />
+  <ns0:include href="24-21/index.xml" />
+  <ns0:include href="24-20/index.xml" />
+  <ns0:include href="24-22/index.xml" />
+  <ns0:include href="24-24/index.xml" />
+  <ns0:include href="24-23/index.xml" />
+  <ns0:include href="24-26/index.xml" />
+  <ns0:include href="24-25/index.xml" />
+  <ns0:include href="24-27/index.xml" />
+  <ns0:include href="24-30/index.xml" />
+  <ns0:include href="24-3/index.xml" />
+  <ns0:include href="24-31/index.xml" />
+  <ns0:include href="24-32/index.xml" />
+  <ns0:include href="24-33/index.xml" />
+  <ns0:include href="24-37/index.xml" />
+  <ns0:include href="24-34/index.xml" />
+  <ns0:include href="24-35/index.xml" />
+  <ns0:include href="24-4/index.xml" />
+  <ns0:include href="24-47/index.xml" />
+  <ns0:include href="24-6/index.xml" />
+  <ns0:include href="24-8/index.xml" />
+  <ns0:include href="24-5/index.xml" />
+  <ns0:include href="24-9/index.xml" />
+  <ns0:include href="24-7/index.xml" />
+</level>
